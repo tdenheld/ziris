@@ -93,7 +93,7 @@ $(document).ready(function () {
 
         var loader = new PIXI.loaders.Loader(baseUrl)
             .add("displacementMap", "displace.png")
-            .add("backgroundImage", "kendra-kamp-285218-unsplash.jpg")
+            .add("backgroundImage", "cristian-palmer-481520-unsplash.jpg")
             .load(init);
 
         function init(loader, resources) {
@@ -114,8 +114,8 @@ $(document).ready(function () {
             TweenMax.to(displacementSprite, 20, {
                 ease: Linear.easeNone,
                 repeat: -1,
-                x: 512,
-                y: 512
+                x: 1000,
+                y: 1000
             });
         };
     };

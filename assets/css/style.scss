@@ -1,4 +1,24 @@
 ---
 ---
+
+// settings
+@import "fonts";
+@import "settings";
+
+// Tools
+@import "mixins";
+
+// Generic
 @import "reset";
-@import "main";
+
+// Elements
+@import "elements";
+
+// Objects
+
+// Components
+
+// Templates
+@import "app";
+
+// Utilities

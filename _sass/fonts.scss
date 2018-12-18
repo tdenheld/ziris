@@ -1,0 +1,30 @@
+/*-------------------
+        Fonts
+--------------------*/
+
+@charset "UTF-8";
+
+// google font import
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i');
+
+// custom font
+@font-face {
+	font-family: 'ziris';
+	src: url('/assets/fonts/500.ttf');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ziris';
+	src: url('/assets/fonts/700.ttf');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ziris';
+	src: url('/assets/fonts/900.ttf');
+	font-weight: 900;
+	font-style: normal;
+}
