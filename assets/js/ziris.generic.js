@@ -84,6 +84,8 @@ $(document).ready(function () {
 
 
 
+
+
     function pixi() {
         var baseUrl = "/assets/img/";
         PIXI.utils.skipHello();
