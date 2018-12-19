@@ -10,9 +10,6 @@ $(document).ready(function () {
     var mobile = Boolean;
     var scrolled = false;
 
-    // animations
-    var ease = Power3.easeInOut;
-
 
 
     // update screen height
@@ -53,7 +50,7 @@ $(document).ready(function () {
             autoAlpha: 0,
             display: "none"
         }, {
-            ease: ease,
+            ease: Power3.easeInOut,
             autoAlpha: 1,
             display: "block",
         }).pause();
