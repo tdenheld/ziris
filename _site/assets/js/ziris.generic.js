@@ -86,42 +86,6 @@ $(document).ready(function () {
 
 
 
-    function pixi() {
-        var baseUrl = "/assets/img/";
-        PIXI.utils.skipHello();
-        var app = new PIXI.Application(vw, vh, {
-            view: document.querySelector("#canvas")
-        });
-
-        var loader = new PIXI.loaders.Loader(baseUrl)
-            .add("displacementMap", "displace.png")
-            .add("backgroundImage", "cristian-palmer-481520-unsplash.jpg")
-            .load(init);
-
-        function init(loader, resources) {
-
-            var container = new PIXI.Container();
-            var background = new PIXI.Sprite(resources.backgroundImage.texture);
-            var displacementSprite = new PIXI.Sprite(resources.displacementMap.texture);
-            var displacementFilter = new PIXI.filters.DisplacementFilter(displacementSprite);
-
-            container.filterArea = new PIXI.Rectangle(0, 0, vw, vh);
-            container.filters = [displacementFilter];
-            displacementSprite.texture.baseTexture.wrapMode = PIXI.WRAP_MODES.REPEAT;
-
-            container.addChild(background);
-            container.addChild(displacementSprite);
-            app.stage.addChild(container);
-
-            TweenMax.to(displacementSprite, 20, {
-                ease: Linear.easeNone,
-                repeat: -1,
-                x: 1000,
-                y: 1000
-            });
-        };
-    };
-    pixi();
 
 
 
