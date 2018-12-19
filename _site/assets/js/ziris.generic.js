@@ -11,7 +11,7 @@ $(document).ready(function () {
     var scrolled = false;
 
     // animations
-    var defaultEase = Power3.easeInOut;
+    var ease = Power3.easeInOut;
 
 
 
@@ -53,7 +53,7 @@ $(document).ready(function () {
             autoAlpha: 0,
             display: "none"
         }, {
-            ease: defaultEase,
+            ease: ease,
             autoAlpha: 1,
             display: "block",
         }).pause();
