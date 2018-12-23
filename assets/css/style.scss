@@ -2,23 +2,26 @@
 ---
 
 // settings
-@import "fonts";
-@import "settings";
+@import "settings.fonts";
+@import "settings.variables";
 
 // Tools
-@import "mixins";
+@import "tools.mixins";
 
 // Generic
-@import "reset";
+@import "generic.reset";
 
 // Elements
-@import "elements";
+@import "elements.base";
 
 // Objects
 
 // Components
 
 // Templates
-@import "app";
+@import "templates.app";
 
 // Utilities
+@import "utilities.animate";
+@import "utilities.transitions";
+@import "utilities.tachyons";
