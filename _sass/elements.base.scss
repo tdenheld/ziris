@@ -14,7 +14,8 @@ a:focus,
 a:visited {
     text-decoration: none;
     outline: none;
-	transition: $fade-link;
+    transition: $fade-link;
+    color: inherit;
 }
 
 button,

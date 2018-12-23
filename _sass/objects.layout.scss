@@ -1,0 +1,25 @@
+.container {
+    padding: 0 $gutter;
+    @include md {
+        padding: 0 $double-gutter;
+    }
+}
+
+.container--small {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.full-center {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.full-bg {
+    @include full(absolute);
+    @include bg(cover);
+}

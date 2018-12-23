@@ -1,20 +1,18 @@
-.hero {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
-    height: 100vh;
-}
-
-.hero__bg {
-    @include full(absolute);
-    @include bg(cover);
-}
-
-.hero__txt {
-    position: relative;
-    max-width: 768px;
-    @include font(60px, 900, $lh-title);
+.campaign {
     color: $brand;
+    max-width: 768px;
+}
+
+.campaign__title {
+    margin-bottom: $gutter;
+    @include font(36px, 900, $lh-title);
+    @include sm {
+        font-size: calculate-rem(60px);
+    }
+}
+
+.campaign__description {
+    max-width: 440px;
+    font-family: $serif;
+    @include font(32px, 400, $lh-title);
 }
