@@ -4,9 +4,10 @@
 }
 
 .campaign__title {
-    margin-bottom: $gutter;
+    margin-bottom: $half-gutter;
     @include font(36px, 900, $lh-title);
     @include sm {
+        margin-bottom: $gutter;
         font-size: calculate-rem(60px);
     }
 }
@@ -14,5 +15,8 @@
 .campaign__description {
     max-width: 440px;
     font-family: $serif;
-    @include font(32px, 400, $lh-title);
+    @include font(24px, 400, $lh-title);
+    @include sm {
+        font-size: calculate-rem(32px);
+    }
 }
