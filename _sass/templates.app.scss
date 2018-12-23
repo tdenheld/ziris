@@ -14,7 +14,7 @@
 
 .hero__txt {
     position: relative;
-    font-size: 9vw;
-    font-weight: 900;
-    color: #fff;
+    max-width: 768px;
+    @include font(60px, 900, $lh-title);
+    color: $brand;
 }

@@ -14,7 +14,7 @@
 }
 
 // set font style
-@mixin font-style($size, $weight, $factor) {
+@mixin font($size, $weight, $factor) {
 	font-weight: $weight;
 	font-size: calculate-rem($size);
 	line-height: $factor;

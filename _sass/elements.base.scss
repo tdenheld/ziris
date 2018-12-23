@@ -6,3 +6,24 @@ body {
     font-weight: normal;
     line-height: $lh-copy;
 }
+
+a,
+a:hover,
+a:active,
+a:focus,
+a:visited {
+    text-decoration: none;
+    outline: none;
+	transition: $fade-link;
+}
+
+button,
+button:hover,
+button:active,
+button:focus,
+button:visited,
+input[type='button'],
+input[type='submit'] {
+	outline: none;
+	transition: $fade-all;
+}
