@@ -965,7 +965,11 @@
 // gradients
 // --------------------------------------------
 // linear
-.gd-110-brand {background: linear-gradient(110deg, $brand 0%, $brand-dark 100%);}	
+.gd-110-brand {background: linear-gradient(110deg, $brand 0%, $brand-dark 100%);}
+.gd-0-ba {background: linear-gradient(0deg, rgba($black, 1) 0%, rgba($black, 0) 100%);}
+.gd-90-ba {background: linear-gradient(90deg, rgba($black, 1) 0%, rgba($black, 0) 100%);}
+.gd-180-ba {background: linear-gradient(180deg, rgba($black, 1) 0%, rgba($black, 0) 100%);}
+.gd-270-ba {background: linear-gradient(270deg, rgba($black, 1) 0%, rgba($black, 0) 100%);}
 
 // radial
 .gd-r-brand {background: radial-gradient(circle at 50% 50%, $brand 0%, $brand-dark 100%);}
