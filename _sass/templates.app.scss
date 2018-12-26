@@ -1,22 +1,83 @@
-.campaign {
-    color: $brand;
+// main navigation
+// --------------------------------------------------
+.site-header {
+    position: fixed;
+    width: 100%;
+    background-color: $brand;
+    box-shadow: 0 1px 0 rgba($light, 0.12);
+}
+
+.site-header__container {
+    display: flex;
+    justify-content: space-between;
+    height: $header-height;
+    padding-top: 15px;
+}
+
+.site-header__logo {
+    line-height: 0;
+
+    svg {
+        height: 24px;
+        fill: $light;
+    }
+
+    @include sm {
+        svg {
+            height: 32px;
+        }
+    }
+}
+
+.site-header__item {
+    color: $light;
+    margin-left: 1rem;
+    font-size: calculate-rem(14px);
+    letter-spacing: 0.2px;
+    cursor: pointer;
+
+    @include sm {
+        font-size: calculate-rem(16px);
+    }
+}
+
+.site-header__item--button {
+    border: 1px solid $light;
+    border-radius: 2px;
+    padding: 9px 12px 12px;
+}
+
+
+
+// section headers
+// --------------------------------------------------
+.section-header {
     max-width: 768px;
 }
 
-.campaign__title {
-    margin-bottom: $half-gutter;
+.section-header__title {
+    margin-bottom: $gutter;
     @include font(36px, 900, $lh-title);
     @include sm {
-        margin-bottom: $gutter;
         font-size: calculate-rem(60px);
     }
 }
 
-.campaign__description {
+.section-header__description {
     max-width: 440px;
     font-family: $serif;
     @include font(24px, 400, $lh-title);
     @include sm {
         font-size: calculate-rem(32px);
     }
+}
+
+
+
+// intro
+// --------------------------------------------------
+.intro {
+    padding-top: $double-gutter;
+    background-color: $brand;
+    color: $light;
 }

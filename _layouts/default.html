@@ -23,7 +23,11 @@
 
 <body>
 
-    {{ content }}
+    {% include header.html %}
+
+    <div class="content">
+        {{ content }}
+    </div>
 
     <!-- JAVASCRIPT -->
     <script src="/assets/js/plugins.bundle.min.js"></script>

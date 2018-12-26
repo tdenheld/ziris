@@ -1,72 +1,9 @@
-progress:
-  step1: Gegevens
-  step2: OV-chipkaart
-  step3: Betalen
-  step4: Bedankt
-
-
-comfort:
-- icon: counter--large
-  description: U betaalt de abonnementskosten voor het eerste jaar aan het einde van uw bestelling. Na het eerste jaar worden de abonnementskosten jaarlijks van uw rekening afgeschreven, via automatische incasso.
-- icon: ov-chipkaart--large
-  description: U krijgt gratis een nieuwe persoonlijke OV-chipkaart bij uw bestelling van een jaarabonnement. Binnen 1 week ontvangt u de OV-chipkaart, mét het abonnement er op, in huis.
-- icon: train--medium
-  description: Betalen kan snel, veilig en via uw eigen bank met iDeal. U betaalt de abonnementskosten voor het eerste jaar aan het einde van uw bestelling.
-
-
-checkbox:
-- title: Keuzedagen 2e klas
-  description: 7 vrije reisdagen voor 60+
-  price: € 49,00
-  per: / jaar
-
-- title: OV-fiets
-  description: Huur een fiets en betaal automatisch via je bankrekening
-
-- title: Stallen op Rekening
-  description: Veilig uw fiets stallen en achteraf betalen
-
-# - title: IC Direct Altijd Toeslagvrij
-#   description: Onbeperkt reizen op het gehele traject van de Intercity Direct
-#   price: € 51,00
-#   per: / mnd
-
-
-
-banks:
-- title: ABN AMRO
-  icon: abn
-- title: ASN Bank
-  icon: asn
-- title: bunq
-  icon: bunq
-- title: Handelsbanken
-  icon: handelsbanken
-- title: ING
-  icon: ing
-- title: Knab
-  icon: knab
-- title: Moneyou
-  icon: moneyou
-- title: Rabobank
-  icon: rabobank
-- title: RegioBank
-  icon: regiobank
-- title: SNS
-  icon: sns
-- title: Triodos Bank
-  icon: triodos
-- title: van Lanschot
-  icon: lanschot
-
-
-
-thanks:
-- icon: mail
-  copy: "Je ontvangt een bevestiging op <b>maartendevries@gmail.com</b>"
-- icon: ov-chipkaart
-  copy: "Binnen <b>7 dagen</b> wordt je OV&#8209;chipkaart opgestuurd."
-- icon: user
-  copy: "Je <b>NS-account</b> staat klaar om geactiveerd te worden. Je ontvangt daar zometeen een aparte e-mail over."
-- icon: chat
-  copy: "Vragen? Kijk dan op het <a>NS Serviceforum</a> of bel ons op <a>030 751 51 55.</a>"
+nav:
+- title: over mij
+  url: over-cecilia-kocsis
+- title: cursussen
+  mod: site-header__item--button
+  url: cursussen
+- title: contact
+  mod: hidden-xs
+  url: contact
