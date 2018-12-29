@@ -23,7 +23,8 @@
 
 <body>
 
-    <header class="site-header">
+    <div class="app">
+        <header class="site-header">
     <div class="container site-header__container">
         <a href="/">
             <div class="site-header__logo" include="/assets/img/logo-ziris.svg"></div>
@@ -39,17 +40,14 @@
         </nav>
     </div>
 </header>
-
-    <div class="content">
-        <section class="intro pb-6 pb-10-sm">
-    <div class="container mb-6 mb-10-sm">
-        <header class="section-header">
-            <h1 class="section-header__title">jij kan goede foto’s maken. zelfs met je mobiel</h1>
-            <p class="section-header__description">door bij mij een cursus te volgen leer je waarom.</p>
-        </header>
-    </div>
-    <figure>
-        <img class="w-100" src="/assets/img/girls.jpg" />
+        <section class="intro">
+    <div class="intro__bg"></div>
+    <header class="section-header intro__header">
+        <h1 class="section-header__title">jij kan goede foto’s maken. zelfs met je mobiel</h1>
+        <p class="section-header__description">door bij mij een cursus te volgen leer je waarom.</p>
+    </header>
+    <figure class="intro__img-container">
+        <img class="intro__img" src="/assets/img/girls.jpg" />
     </figure>
 </section>
     </div>

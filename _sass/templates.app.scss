@@ -3,8 +3,7 @@
 .site-header {
     position: fixed;
     width: 100%;
-    background-color: $brand;
-    //box-shadow: 0 1px 0 rgba($light, 0.12);
+    z-index: 999;
 }
 
 .site-header__container {
@@ -41,13 +40,18 @@
 
 .site-header__item {
     color: $light;
-    margin-left: 1rem;
+    margin-left: calculate-rem(16px);
     font-size: calculate-rem(14px);
     letter-spacing: 0.2px;
     cursor: pointer;
 
     @include sm {
+        margin-left: calculate-rem($gutter);
         font-size: calculate-rem(16px);
+    }
+
+    @include md {
+        color: $brand;
     }
 }
 
@@ -55,6 +59,10 @@
     border: 1px solid $light;
     border-radius: 2px;
     padding: 9px 12px 12px;
+
+    @include md {
+        border: 1px solid $brand;
+    }
 }
 
 
@@ -87,7 +95,44 @@
 // intro
 // --------------------------------------------------
 .intro {
-    padding-top: $double-gutter;
-    background-color: $brand;
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
     color: $light;
+
+    header {
+        position: relative;
+        left: 20%;
+    }
+}
+
+.intro__bg {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: $brand;
+
+    @include md {
+        width: 67%;
+    }
+}
+
+.intro__header {
+    position: relative;
+    left: 20%;
+    z-index: 1;
+}
+
+.intro__img-container {
+    @include full(absolute);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.intro__img {
+    height: 67%;
+    object-fit: cover;
 }

@@ -1,10 +1,3 @@
-.content {
-    padding-top: $header-height;
-    @include md {
-        padding-top: $header-height-md;
-    }
-}
-
 .container {
     padding: 0 $gutter;
     @include md {
