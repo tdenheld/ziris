@@ -4,18 +4,23 @@
     position: fixed;
     width: 100%;
     background-color: $brand;
-    box-shadow: 0 1px 0 rgba($light, 0.12);
+    //box-shadow: 0 1px 0 rgba($light, 0.12);
 }
 
 .site-header__container {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     height: $header-height;
-    padding-top: 15px;
+
+    @include md {
+        height: $header-height-md;
+    }
 }
 
 .site-header__logo {
-    line-height: 0;
+    position: relative;
+    top: -1px;
 
     svg {
         height: 24px;
@@ -24,9 +29,14 @@
 
     @include sm {
         svg {
-            height: 32px;
+            height: 28px;
         }
     }
+}
+
+.site-header__nav {
+    position: relative;
+    top: -1px;
 }
 
 .site-header__item {

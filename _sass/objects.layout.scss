@@ -1,5 +1,8 @@
 .content {
     padding-top: $header-height;
+    @include md {
+        padding-top: $header-height-md;
+    }
 }
 
 .container {
