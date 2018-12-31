@@ -101,11 +101,6 @@
     width: 100vw;
     height: 100vh;
     color: $light;
-
-    header {
-        position: relative;
-        left: 20%;
-    }
 }
 
 .intro__bg {
@@ -121,7 +116,7 @@
 
 .intro__header {
     position: relative;
-    left: 20%;
+    left: calc(45% - 550px);
     z-index: 1;
 }
 
