@@ -50,7 +50,7 @@
         font-size: calculate-rem(16px);
     }
 
-    @include md {
+    @include lg {
         color: $brand;
     }
 }
@@ -60,7 +60,7 @@
     border-radius: 2px;
     padding: 9px 12px 12px;
 
-    @include md {
+    @include lg {
         border: 1px solid $brand;
     }
 }
@@ -70,7 +70,7 @@
 // section headers
 // --------------------------------------------------
 .section-header {
-    max-width: 768px;
+    max-width: 900px;
 }
 
 .section-header__title {
@@ -95,12 +95,17 @@
 // intro
 // --------------------------------------------------
 .intro {
-    display: flex;
-    align-items: center;
-    position: relative;
-    width: 100vw;
-    height: 100vh;
     color: $light;
+    background-color: $brand;
+
+    @include lg {
+        position: relative;
+        display: flex;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+        background-color: $light;
+    }
 }
 
 .intro__bg {
@@ -109,25 +114,45 @@
     width: 100%;
     background-color: $brand;
 
-    @include md {
+    @include lg {
         width: 67%;
     }
 }
 
 .intro__header {
+    @extend .container;
     position: relative;
-    left: calc(45% - 550px);
     z-index: 1;
+    padding-top: 128px;
+    margin-bottom: $double-gutter;
+
+    @include lg {
+        padding-top: 0;
+    }
+
+    @include xl {
+        left: calc(45% - 550px);
+    }
 }
 
 .intro__img-container {
-    @include full(absolute);
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
+    position: relative;
+    @extend .container;
+    padding-bottom: $double-gutter;
+
+    @include lg {
+        @include full(absolute);
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
 }
 
 .intro__img {
-    height: 67%;
+    width: 100%;
     object-fit: cover;
+    @include lg {
+        width: auto;
+        height: 67%;
+    }
 }
