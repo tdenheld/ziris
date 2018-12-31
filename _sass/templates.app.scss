@@ -57,11 +57,19 @@
 
 .site-header__item--button {
     border: 1px solid $light;
-    border-radius: 2px;
-    padding: 9px 12px 12px;
+
+    &:hover {
+        background-color: $light;
+        color: $brand;
+    }
 
     @include lg {
         border: 1px solid $brand;
+
+        &:hover {
+            background-color: $brand;
+            color: $light;
+        }
     }
 }
 
@@ -76,6 +84,7 @@
 .section-header__title {
     margin-bottom: $gutter;
     @include font(36px, 900, $lh-title);
+
     @include sm {
         font-size: calculate-rem(60px);
     }
@@ -85,11 +94,21 @@
     max-width: 440px;
     font-family: $serif;
     @include font(24px, 400, $lh-title);
+
     @include sm {
         font-size: calculate-rem(32px);
     }
 }
 
+
+
+// buttons
+// --------------------------------------------------
+.button {
+    border-radius: 2px;
+    padding: 9px 12px 12px;
+    transition: $fade-link;
+}
 
 
 // intro
@@ -128,6 +147,7 @@
 
     @include lg {
         padding-top: 0;
+        margin-bottom: 0;
     }
 
     @include xl {
@@ -145,12 +165,14 @@
         display: flex;
         align-items: center;
         justify-content: flex-end;
+        padding: 0;
     }
 }
 
 .intro__img {
     width: 100%;
     object-fit: cover;
+
     @include lg {
         width: auto;
         height: 67%;

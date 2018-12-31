@@ -2,7 +2,7 @@ nav:
 - title: over mij
   url: over-cecilia-kocsis
 - title: cursussen
-  mod: site-header__item--button
+  mod: button site-header__item--button
   url: cursussen
 - title: contact
   mod: hidden-xs
