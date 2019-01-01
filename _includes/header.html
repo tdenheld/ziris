@@ -5,7 +5,7 @@
         </a>
         <nav class="site-header__nav">
             {% for nav in site.data.app.nav %}
-            <span class="site-header__item {{nav.mod}}"><a href="/{{nav.url}}">{{nav.title}}</a></span>
+            <span class="site-header__item {{ nav.mod }}"><a href="/{{ nav.url }}">{{ nav.title }}</a></span>
             {% endfor %}
         </nav>
     </div>
