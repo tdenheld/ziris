@@ -90,6 +90,14 @@
     }
 }
 
+.section-header__title--small {
+    font-size: calculate-rem(32px);
+
+    @include sm {
+        font-size: calculate-rem(40px);
+    }
+}
+
 .section-header__description {
     max-width: 440px;
     font-family: $serif;
@@ -114,6 +122,7 @@
 // intro
 // --------------------------------------------------
 .intro {
+    position: relative;
     color: $light;
     background-color: $brand;
 
@@ -160,6 +169,10 @@
     @extend .container;
     padding-bottom: $double-gutter;
 
+    @include md {
+        padding-bottom: 100px;
+    }
+
     @include lg {
         @include full(absolute);
         display: flex;
@@ -177,4 +190,80 @@
         width: auto;
         height: 67%;
     }
+}
+
+
+
+// discover scroll indicator
+// --------------------------------------------------
+.discover {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    left: 29%;
+    text-align: center;
+    @include font(16px, 900, $lh-title);
+    font-style: italic;
+    color: $light;
+    cursor: pointer;
+
+    @include lg {
+        display: block;
+    }
+}
+
+.discover__txt {
+    margin-bottom: 4px;
+}
+
+.discover__line {
+    width: 1px;
+    height: 80px;
+    background-color: $light;
+    margin: 0 auto;
+}
+
+
+
+// art section
+// --------------------------------------------------
+.art {
+    background-color: $light;
+    color: $brand;
+    padding: $double-gutter 0;
+
+    @include md {
+        padding: 100px 0;
+    }
+}
+
+.art__grid {
+    display: grid;
+    grid-column-gap: 80px;
+    grid-row-gap: $double-gutter;
+    align-items: center;
+    max-width: 1400px;
+    margin: 0 auto;
+
+    @include md {
+        grid-template-columns: 3fr 4fr;
+    }
+}
+
+.art__img {
+    width: 100%;
+    @include md-max {
+        max-width: 480px;
+    }
+}
+
+
+
+// misc
+// --------------------------------------------------
+.thick-line {
+    width: 200px;
+    height: 8px;
+    background-color: $brand;
+    margin-bottom: $gutter;
 }
