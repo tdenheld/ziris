@@ -1,7 +1,7 @@
 // main navigation
 // --------------------------------------------------
 .site-header {
-    position: fixed;
+    position: absolute;
     width: 100%;
     z-index: 999;
 }
@@ -98,6 +98,12 @@
     }
 }
 
+.section-header__title--small-sm {
+    @include sm-ex {
+        font-size: calculate-rem(40px);
+    }
+}
+
 .section-header__description {
     max-width: 440px;
     font-family: $serif;
@@ -116,6 +122,16 @@
     border-radius: 2px;
     padding: 9px 12px 12px;
     transition: $fade-link;
+}
+
+.button--l {
+    padding: 15px 25px 20px;
+    @include font(20px, 900, $lh-title);
+}
+
+.button--white {
+    background-color: $light;
+    color: $brand;
 }
 
 
@@ -147,8 +163,7 @@
     }
 }
 
-.intro__header {
-    @extend .container;
+.intro__container {
     position: relative;
     z-index: 1;
     padding-top: 128px;
@@ -251,12 +266,46 @@
 }
 
 .art__img {
+    object-fit: cover;
     width: 100%;
-    @include md-max {
-        max-width: 480px;
+    height: 64vw;
+
+    @include md {
+        object-fit: contain;
+        width: 100%;
+        height: auto;
     }
 }
 
+
+
+// pattern section
+// --------------------------------------------------
+.pattern {
+    position: relative;
+    background-color: $brand;
+    color: $light;
+    padding: $double-gutter 0 $triple-gutter;
+
+    @include md {
+        padding: 240px 0;
+    }
+
+    &:after {
+        content: "";
+        @include full(absolute);
+        @include bg(cover);
+        background-image: url("/assets/img/geo.svg");
+        @include lg {
+            background-size: contain;
+        }
+    }
+}
+
+.pattern__container {
+    margin: 0 auto;
+    max-width: 900px;
+}
 
 
 // misc
