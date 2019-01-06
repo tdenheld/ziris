@@ -7,3 +7,13 @@ nav:
 - title: contact
   mod: hidden-xs
   url: contact
+
+members:
+- img: zu-yen
+  name: Zu Yen
+  profession: student geneeskunde
+  quote: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+- img: richard-biharie
+  name: Richard Biharie
+  profession: software engineer
+  quote: "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin."

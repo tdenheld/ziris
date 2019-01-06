@@ -122,6 +122,7 @@
     border-radius: 2px;
     padding: 9px 12px 12px;
     transition: $fade-link;
+    cursor: pointer;
 }
 
 .button--l {
@@ -257,8 +258,6 @@
     grid-column-gap: 80px;
     grid-row-gap: $double-gutter;
     align-items: center;
-    max-width: 1400px;
-    margin: 0 auto;
 
     @include md {
         grid-template-columns: 3fr 4fr;
@@ -290,22 +289,84 @@
     @include md {
         padding: 240px 0;
     }
+}
 
-    &:after {
-        content: "";
-        @include full(absolute);
-        @include bg(cover);
-        background-image: url("/assets/img/geo.svg");
-        @include lg {
-            background-size: contain;
-        }
+.pattern__bg {
+    @include full(absolute);
+    @include bg(cover);
+    background-image: url("/assets/img/geo.svg");
+    @include lg {
+        background-size: contain;
     }
 }
 
 .pattern__container {
+    position: relative;
     margin: 0 auto;
     max-width: 900px;
 }
+
+
+
+// social proofing section
+// --------------------------------------------------
+.proof {
+    background-color: $light;
+    color: $brand;
+    padding: $double-gutter 0;
+
+    @include md {
+        padding: 100px 0;
+    }
+}
+
+.proof__grid {
+    display: grid;
+    grid-column-gap: 80px;
+    grid-row-gap: $double-gutter;
+
+    @include md {
+        grid-template-columns: max-content 1fr;
+    }
+}
+
+
+
+
+// member
+// --------------------------------------------------
+.member {
+    display: grid;
+    grid-gap: $gutter;
+    margin-bottom: 64px;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+
+    @include sm {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.member__name {
+    @include font(32px, 600, $lh-title);
+    color: $brand;
+}
+
+.member__profession {
+    margin-bottom: $gutter;
+    @include font(12px, 600, $lh-title);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: $grey-5;
+}
+
+.member__quote {
+    @include font(24px, normal, $lh-copy);
+    font-family: serif;
+}
+
 
 
 // misc
