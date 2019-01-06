@@ -1,23 +1,23 @@
 // main navigation
 // --------------------------------------------------
-.site-header {
+.header {
     position: absolute;
     width: 100%;
     z-index: 999;
 }
 
-.site-header__container {
+.header__container {
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: $header-height;
 
-    @include md {
-        height: $header-height-md;
+    @include sm {
+        height: $header-height-sm;
     }
 }
 
-.site-header__logo {
+.header__logo {
     position: relative;
     top: -1px;
 
@@ -33,12 +33,12 @@
     }
 }
 
-.site-header__nav {
+.header__nav {
     position: relative;
     top: -1px;
 }
 
-.site-header__item {
+.header__item {
     color: $light;
     margin-left: calculate-rem(16px);
     font-size: calculate-rem(14px);
@@ -55,21 +55,16 @@
     }
 }
 
-.site-header__item--button {
-    border: 1px solid $light;
+// footer
+// --------------------------------------------------
+.footer {
+    padding: $gutter 0;
+    background-color: $brand;
+    color: $light;
+    @include font(14px, 500, $lh-solid);
 
-    &:hover {
-        background-color: $light;
-        color: $brand;
-    }
-
-    @include lg {
-        border: 1px solid $brand;
-
-        &:hover {
-            background-color: $brand;
-            color: $light;
-        }
+    @include sm {
+        text-align: center;
     }
 }
 
@@ -123,11 +118,39 @@
     padding: 9px 12px 12px;
     transition: $fade-link;
     cursor: pointer;
+
+    background-color: $cta;
+    color: $light;
+
+    &:hover {
+        background-color: $cta-dark;
+    }
+}
+
+.button--header {
+    border: 1px solid $light;
+    background-color: transparent;
+    color: $light;
+
+    &:hover {
+        background-color: $light;
+        color: $brand;
+    }
+
+    @include lg {
+        border: 1px solid $brand;
+        color: $brand;
+
+        &:hover {
+            background-color: $brand;
+            color: $light;
+        }
+    }
 }
 
 .button--l {
     padding: 15px 25px 20px;
-    @include font(20px, 900, $lh-title);
+    @include font(20px, 700, $lh-title);
 }
 
 .button--white {
@@ -295,6 +318,7 @@
     @include full(absolute);
     @include bg(cover);
     background-image: url("/assets/img/geo.svg");
+
     @include lg {
         background-size: contain;
     }
@@ -322,10 +346,10 @@
 
 .proof__grid {
     display: grid;
-    grid-column-gap: 80px;
-    grid-row-gap: $double-gutter;
+    grid-gap: $gutter;
 
-    @include md {
+    @include lg {
+        grid-gap: $double-gutter;
         grid-template-columns: max-content 1fr;
     }
 }
@@ -363,8 +387,24 @@
 }
 
 .member__quote {
-    @include font(24px, normal, $lh-copy);
+    @include font(20px, normal, $lh-copy);
     font-family: serif;
+
+    @include sm {
+        font-size: calculate-rem(24px);
+    }
+}
+
+.member__img {
+    object-fit: cover;
+    width: 100%;
+    height: 48vw;
+
+    @include lg {
+        object-fit: contain;
+        width: 100%;
+        height: auto;
+    }
 }
 
 

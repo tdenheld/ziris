@@ -1,11 +1,11 @@
-<header class="site-header">
-    <div class="container site-header__container">
+<header class="header">
+    <div class="container header__container">
         <a href="/">
-            <div class="site-header__logo" include="/assets/img/logo-ziris.svg"></div>
+            <div class="header__logo" include="/assets/img/logo-ziris.svg"></div>
         </a>
-        <nav class="site-header__nav">
+        <nav class="header__nav">
             {% for nav in site.data.app.nav %}
-            <span class="site-header__item {{ nav.mod }}"><a href="/{{ nav.url }}">{{ nav.title }}</a></span>
+            <span class="header__item {{ nav.mod }}"><a href="/{{ nav.url }}">{{ nav.title }}</a></span>
             {% endfor %}
         </nav>
     </div>

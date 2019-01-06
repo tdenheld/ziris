@@ -50,7 +50,7 @@ body: bg-brand
             <p class="section-header__description mxw-500 mb-9">
                 helpt je om op een meer creatieve en bewuste manier te fotograferen.
             </p>
-            <a href="/cursussen" class="button button--l button--white">bekijk cursussen</a>
+            <a href="/cursussen" class="button button--l">bekijk cursussen</a>
         </header>
     </div>
 </section>
@@ -61,20 +61,20 @@ body: bg-brand
             <header class="section-header">
                 <div class="thick-line hidden-xs hidden-sm"></div>
                 <h2 class="section-header__title section-header__title--small mxw-350">
-                    echte cursisten schreven dit
+                    beoordelingen cursisten
                 </h2>
             </header>
             <div>
-            {% for member in site.data.app.members %}
-            <div class="member">
-                <img class="member__img" src="/assets/img/{{ member.img }}.jpg" />
-                <div class="member__txt">
-                    <h3 class="member__name">{{ member.name }}</h3>
-                    <p class="member__profession">{{ member.profession }}</p>
-                    <p class="member__quote">“{{ member.quote }}”</p>
+                {% for member in site.data.app.members %}
+                <div class="member">
+                    <img class="member__img" src="/assets/img/{{ member.img }}.jpg" />
+                    <div class="member__txt">
+                        <h3 class="member__name">{{ member.name }}</h3>
+                        <p class="member__profession">{{ member.profession }}</p>
+                        <p class="member__quote">“{{ member.quote }}”</p>
+                    </div>
                 </div>
-            </div>
-            {% endfor %}
+                {% endfor %}
             </div>
         </div>
     </div>

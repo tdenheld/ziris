@@ -56,8 +56,13 @@ $lh-solid: 1;
 
 $black: #000;
 $white: #fff;
+
 $brand: #7500AE;
 $brand-dark: mix($black, $brand, 15%);
+
+$cta: #009FEA;
+$cta-dark: mix($black, $cta, 15%);
+
 $light: $white;
 $dark: mix($black, $brand, 75%);
 
@@ -92,4 +97,4 @@ $text-shadow-3: 			1px 1px 0 rgba($black, 0.35), 0 0 30px rgba($black, 0.25);
 --------------------*/
 
 $header-height: 60px;
-$header-height-md: 80px;
+$header-height-sm: 80px;
