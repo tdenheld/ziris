@@ -55,6 +55,28 @@
     }
 }
 
+.header--white {
+    .header__logo {
+        svg {
+            fill: $brand;
+        }
+    }
+
+    .header__item {
+        color: $brand;
+    }
+
+    .button--header {
+        border: 1px solid $brand;
+        color: $brand;
+
+        &:hover {
+            background-color: $brand;
+            color: $light;
+        }
+    }
+}
+
 // footer
 // --------------------------------------------------
 .footer {
@@ -404,6 +426,27 @@
         object-fit: contain;
         width: 100%;
         height: auto;
+    }
+}
+
+
+
+// courses
+// --------------------------------------------------
+.courses {
+    padding-top: 100px;
+}
+
+.courses__title {
+    @include font(60px, 900, $lh-title);
+    color: $brand;
+
+    @include sm {
+        @include font(90px, 900, $lh-title);
+    }
+
+    @include md {
+        @include font(120px, 900, $lh-title);
     }
 }
 

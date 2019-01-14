@@ -1,12 +1,12 @@
 nav:
 - title: over mij
-  url: over-cecilia-kocsis
+  url: /over-cecilia-kocsis
 - title: cursussen
   mod: button button--header
-  url: cursussen
+  url: /cursussen
 - title: contact
   mod: hidden-xs
-  url: contact
+  url: /contact
 
 members:
 - img: zu-yen
