@@ -6,10 +6,21 @@ header: header--white
     <div class="container">
         <h1 class="courses__title">cursussen</h1>
     </div>
-    <div class="container course__container">
+    <div class="container courses__container">
         <section class="courses__category">
             <h2 class="courses__category-title"></h2>
-            <ul class="courses__grid"></ul>
+            <ul class="courses__grid">
+                {% assign category = site.courses | where: 'category', 'volwassenen' %}
+                {% for course in category %}
+                <li class="tile">
+                    <img class="tile__img" src="/assets/img/{{ course.img }}" />
+                    <h3 class="tile__title">{{ course.title }}</h3>
+                    <div class="tile__amount">{{ course.amount }}<div>
+                    <p class="tile__description">{{ course.excerpt }}</p>
+                    <div class="tile__price">{{ course.price }}</div>
+                </li>
+                {% endfor %}
+            </ul>
         </section>
     </div>
 </section>

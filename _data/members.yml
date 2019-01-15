@@ -1,14 +1,3 @@
-nav:
-- title: over mij
-  url: /over-cecilia-kocsis
-- title: cursussen
-  mod: button button--header
-  url: /cursussen
-- title: contact
-  mod: hidden-xs
-  url: /contact
-
-members:
 - img: zu-yen
   name: Zu Yen
   profession: student geneeskunde
