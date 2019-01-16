@@ -453,7 +453,36 @@
 .courses__container {
     border-top: 1px solid $grey-8;
     background-color: $grey-9;
-    min-height: 50vh;
+}
+
+.courses__category {
+    padding: $double-gutter 0;
+}
+
+.courses__grid {
+    display: grid;
+    grid-gap: $gutter;
+
+    @include sm {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    @include md {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.tile {
+    background-color: $light;
+}
+
+.tile__img {
+    object-fit: cover;
+    width: 100%;
+    height: 16vw;
+}
+
+.tile__txt {
+    padding: $half-gutter $gutter $gutter;
 }
 
 
