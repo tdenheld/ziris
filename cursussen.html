@@ -3,28 +3,20 @@ header: header--white
 ---
 
 <section class="courses">
-    <div class="container">
+    <div class="container container--small">
         <h1 class="courses__title">cursussen</h1>
     </div>
-    <div class="container courses__container">
-        <section class="courses__category">
-            <h2 class="courses__category-title">volwassenen</h2>
-            <ul class="courses__grid">
-                {% assign category = site.posts | where: 'category', 'volwassenen' %}
-                {% for course in category %}
-                <li class="tile">
-                    <a href="{{ course.url }}">
-                        <img class="tile__img" src="/assets/img/{{ course.img }}" />
-                        <div class="tile__txt">
-                            <h3 class="tile__title">{{ course.title }}</h3>
-                            <div class="tile__amount">{{ course.amount }}</div>
-                            <p class="tile__description">{{ course.description }}</p>
-                            <div class="tile__price">{{ course.price }}</div>
-                        </div>
-                    </a>
-                </li>
-                {% endfor %}
-            </ul>
-        </section>
+    <div class="courses__container">
+        <div class="container container--small">
+            <section class="courses__category">
+                <h2 class="courses__category-title">volwassenen</h2>
+                <ul class="courses__grid">
+                    {% assign category = site.posts | where: 'category', 'volwassenen' %}
+                    {% for course in category %}
+                    {% include tile.html %}
+                    {% endfor %}
+                </ul>
+            </section>
+        </div>
     </div>
 </section>

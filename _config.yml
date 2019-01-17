@@ -9,3 +9,9 @@ defaults:
     values:
       layout: "default"
       title: "ziris | kunst en fotografie"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /cursussen/:title

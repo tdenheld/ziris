@@ -1,9 +1,10 @@
 ---
 title: fotografie en beeldende kunst
 category: volwassenen
-description: Meer inzicht krijgen in de historische aspecten van de fotografie waardoor een beter begrip ontstaat van de eigentijdse digitale vormen van beeldvervaardiging.
+amount: 6 lessen van 1,5 uur
 img: rye-jessen.jpg
-permalink: /cursussen/:title
+price: 185,-
+description: Meer inzicht krijgen in de historische aspecten van de fotografie waardoor een beter begrip ontstaat van de eigentijdse digitale vormen van beeldvervaardiging.
 ---
 
 In de cursus fotografie en beeldende kunst wordt de wisselwerking tussen beide disciplines behandeld. 
