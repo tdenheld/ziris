@@ -480,15 +480,24 @@
 }
 
 .courses__category {
-    padding: $triple-gutter 0;
+    padding: $one-half-gutter 0;
+
+    @include sm {
+        padding: $triple-gutter 0;
+    }
 }
 
 .courses__category-title {
-    margin-bottom: $gutter;
-    @include font(18px, 600, $lh-title);
+    margin-bottom: 20px;
+    @include font(14px, 600, $lh-title);
     color: $grey-5;
     text-transform: uppercase;
     letter-spacing: 3px;
+
+    @include sm {
+        margin-bottom: $gutter;
+        font-size: calculate-rem(18px);
+    }
 }
 
 .courses__grid {
@@ -498,6 +507,7 @@
     @include sm {
         grid-template-columns: repeat(2, 1fr);
     }
+
     @include lg {
         grid-template-columns: repeat(3, 1fr);
     }
@@ -515,8 +525,12 @@
 .tile__img {
     object-fit: cover;
     width: 100%;
-    height: 240px;
+    height: 180px;
     border-radius: 2px 2px 0 0;
+
+    @include md {
+        height: 240px;
+    }
 }
 
 .tile__txt {
@@ -525,8 +539,12 @@
 
 .tile__title {
     margin-bottom: $gutter;
-    @include font(36px, 900, $lh-title);
+    @include font(28px, 900, $lh-title);
     color: $brand;
+
+    @include md {
+        font-size: calculate-rem(36px);
+    }
 }
 
 .tile__amount {
@@ -540,13 +558,21 @@
 .tile__description {
     margin-bottom: $half-gutter;
     font-family: serif;
-    @include font(18px, normal, $lh-copy);
+    @include font(16px, normal, $lh-copy);
     color: $grey-2;
+
+    @include md {
+        font-size: calculate-rem(18px);
+    }
 }
 
 .tile__price {
-    @include font(40px, 500, $lh-title);
+    @include font(32px, 500, $lh-title);
     color: $brand;
+
+    @include md {
+        font-size: calculate-rem(40px);
+    }
 }
 
 
@@ -554,14 +580,24 @@
 // course detail page - setup as post
 // --------------------------------------------------
 .post {
-    padding: 128px 0;
+    padding: 100px 0 60px;
+
+    @include sm {
+        padding: 128px 0 80px;
+    }
+
+    @include md {
+        padding: 128px 0;
+    }
 }
 
 .post__header {
-    max-width: 1000px;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .post__title {
+    margin-bottom: $gutter;
     @include font(40px, 900, $lh-title);
     color: $brand;
 
@@ -571,6 +607,38 @@
 
     @include md {
         font-size: calculate-rem(90px);
+    }
+}
+
+.post__content {
+    max-width: 800px;
+    margin: 0 auto;
+
+    h2, h3, h4, h5, h6, p, ul {
+        margin-bottom: $gutter;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    ul {
+        @include font(16px, 500, $lh-copy);
+        color: $brand;
+    }
+
+    li {
+        margin-bottom: 8px;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    p {
+        @include font(20px, 500, $lh-copy);
+        font-family: $serif;
+        color: $grey-3;
     }
 }
 
