@@ -77,6 +77,30 @@
     }
 }
 
+.header--brand {
+    .header__logo {
+        svg {
+            fill: $light;
+        }
+    }
+
+    .header__item {
+        color: $light;
+    }
+
+    .button--header {
+        border: 1px solid $light;
+        color: $light;
+
+        &:hover {
+            background-color: $light;
+            color: $brand;
+        }
+    }
+}
+
+
+
 // footer
 // --------------------------------------------------
 .footer {
@@ -442,11 +466,11 @@
     color: $brand;
 
     @include sm {
-        @include font(90px, 900, $lh-title);
+        font-size: calculate-rem(90px);
     }
 
     @include md {
-        @include font(120px, 900, $lh-title);
+        font-size: calculate-rem(120px);
     }
 }
 
@@ -527,10 +551,27 @@
 
 
 
-// course detail page
+// course detail page - setup as post
 // --------------------------------------------------
-.course-detail {
-    padding-top: 100px;
+.post {
+    padding: 128px 0;
+}
+
+.post__header {
+    max-width: 1000px;
+}
+
+.post__title {
+    @include font(40px, 900, $lh-title);
+    color: $brand;
+
+    @include sm {
+        font-size: calculate-rem(60px);
+    }
+
+    @include md {
+        font-size: calculate-rem(90px);
+    }
 }
 
 

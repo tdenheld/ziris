@@ -2,9 +2,13 @@
 layout: default
 ---
 
-<section class="course-detail">
-    <h1 class="course-detail__title">{{ page.title }}</h1>
-    <div class="course-detail__content">
-        {{ content }}
+<section class="post">
+    <div class="container container--small">
+        <header class="post__header">
+            <h1 class="post__title">{{ page.title }}</h1>
+        </header>
+        <div class="post__content">
+            {{ content }}
+        </div>
     </div>
 </section>
