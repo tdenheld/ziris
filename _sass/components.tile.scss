@@ -3,9 +3,8 @@
 .tile {
     background-color: $light;
     border-radius: 2px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    display: grid;
+    grid-template-rows: max-content 1fr max-content;
 }
 
 .tile__img {
@@ -19,9 +18,15 @@
     }
 }
 
+.tile__header {
+    padding: 18px $gutter $gutter;
+}
+
+.tile__txt {
+    padding: 0 $gutter $gutter;
+}
+
 .tile__title {
-    flex-grow: 1;
-    margin: 18px $gutter $gutter;
     @include font(28px, 900, $lh-title);
     color: $brand;
 
@@ -31,7 +36,7 @@
 }
 
 .tile__amount {
-    margin: 0 $gutter 8px;
+    margin-bottom: 8px;
     @include font(12px, 700, $lh-title);
     color: $brand;
     text-transform: uppercase;
@@ -39,7 +44,7 @@
 }
 
 .tile__description {
-    margin: 0 $gutter $half-gutter;
+    margin-bottom: $half-gutter;
     font-family: serif;
     @include font(16px, normal, $lh-copy);
     color: $grey-2;
@@ -50,7 +55,6 @@
 }
 
 .tile__price {
-    margin: 0 $gutter $gutter;
     align-self: end;
     @include font(32px, 500, $lh-title);
     color: $brand;
