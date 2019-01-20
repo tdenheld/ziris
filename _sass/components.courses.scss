@@ -1,0 +1,57 @@
+// courses
+// --------------------------------------------------
+.courses {
+    padding-top: 100px;
+}
+
+.courses__title {
+    @include font(60px, 900, $lh-title);
+    color: $brand;
+
+    @include sm {
+        font-size: calculate-rem(90px);
+    }
+
+    @include md {
+        font-size: calculate-rem(120px);
+    }
+}
+
+.courses__container {
+    border-top: 1px solid $grey-8;
+    background-color: $grey-9;
+}
+
+.courses__category {
+    padding: $one-half-gutter 0;
+
+    @include sm {
+        padding: $triple-gutter 0;
+    }
+}
+
+.courses__category-title {
+    margin-bottom: 20px;
+    @include font(14px, 600, $lh-title);
+    color: $grey-5;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+    @include sm {
+        margin-bottom: $gutter;
+        font-size: calculate-rem(18px);
+    }
+}
+
+.courses__grid {
+    display: grid;
+    grid-gap: $gutter;
+
+    @include sm {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include lg {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

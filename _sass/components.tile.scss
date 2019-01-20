@@ -1,0 +1,61 @@
+// tile
+// --------------------------------------------------
+.tile {
+    background-color: $light;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.tile__img {
+    object-fit: cover;
+    width: 100%;
+    height: 180px;
+    border-radius: 2px 2px 0 0;
+
+    @include md {
+        height: 240px;
+    }
+}
+
+.tile__title {
+    flex-grow: 1;
+    margin: 18px $gutter $gutter;
+    @include font(28px, 900, $lh-title);
+    color: $brand;
+
+    @include md {
+        font-size: calculate-rem(36px);
+    }
+}
+
+.tile__amount {
+    margin: 0 $gutter 8px;
+    @include font(12px, 700, $lh-title);
+    color: $brand;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.tile__description {
+    margin: 0 $gutter $half-gutter;
+    font-family: serif;
+    @include font(16px, normal, $lh-copy);
+    color: $grey-2;
+
+    @include md {
+        font-size: calculate-rem(18px);
+    }
+}
+
+.tile__price {
+    margin: 0 $gutter $gutter;
+    align-self: end;
+    @include font(32px, 500, $lh-title);
+    color: $brand;
+
+    @include md {
+        font-size: calculate-rem(40px);
+    }
+}

@@ -18,9 +18,20 @@
 @import "objects.layout";
 
 // Components
-
-// Templates
-@import "templates.app";
+@import "components.art";
+@import "components.buttons";
+@import "components.courses";
+@import "components.discover";
+@import "components.footer";
+@import "components.header";
+@import "components.intro";
+@import "components.member";
+@import "components.misc";
+@import "components.pattern";
+@import "components.post";
+@import "components.proof";
+@import "components.section-header";
+@import "components.tile";
 
 // Utilities
 @import "utilities.animate";

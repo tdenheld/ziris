@@ -1,0 +1,12 @@
+// footer
+// --------------------------------------------------
+.footer {
+    padding: $gutter 0;
+    background-color: $brand;
+    color: $light;
+    @include font(14px, 500, $lh-solid);
+
+    @include sm {
+        text-align: center;
+    }
+}

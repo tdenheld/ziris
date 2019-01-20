@@ -1,0 +1,28 @@
+// discover scroll indicator
+// --------------------------------------------------
+.discover {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    left: 29%;
+    text-align: center;
+    @include font(16px, 900, $lh-title);
+    font-style: italic;
+    color: $light;
+    cursor: pointer;
+
+    @include lg {
+        display: block;
+    }
+}
+
+.discover__txt {
+    margin-bottom: 4px;
+}
+
+.discover__line {
+    width: 1px;
+    height: 80px;
+    background-color: $light;
+    margin: 0 auto;
+}

@@ -10,12 +10,12 @@ header: header--white
         <div class="container container--small">
             <section class="courses__category">
                 <h2 class="courses__category-title">volwassenen</h2>
-                <ul class="courses__grid">
+                <div class="courses__grid">
                     {% assign category = site.posts | where: 'category', 'volwassenen' %}
                     {% for course in category %}
                     {% include tile.html %}
                     {% endfor %}
-                </ul>
+                </div>
             </section>
         </div>
     </div>

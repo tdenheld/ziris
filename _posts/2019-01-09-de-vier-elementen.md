@@ -3,7 +3,7 @@ title: de vier elementen
 category: volwassenen
 amount: 6 lessen van 2 uur
 img: barquin
-price: 240,-
+price: 240.-
 description: Aan de hand van fotografische opdrachten die de vier elementen verbeelden krijg je inzicht in betekenislagen, de samenhang tussen vorm en inhoud en het belang van de context.
 ---
 

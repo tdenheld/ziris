@@ -1,0 +1,52 @@
+// member
+// --------------------------------------------------
+.member {
+    display: grid;
+    grid-row-gap: $half-gutter;
+    grid-column-gap: $gutter;
+    margin-bottom: 64px;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+
+    @include sm {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.member__name {
+    @include font(24px, 600, $lh-title);
+    @include sm {
+        font-size: calculate-rem(28px);
+    }
+}
+
+.member__profession {
+    margin-bottom: 20px;
+    @include font(12px, 600, $lh-title);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: $grey-5;
+}
+
+.member__quote {
+    @include font(20px, normal, $lh-copy);
+    font-family: serif;
+
+    @include sm {
+        font-size: calculate-rem(24px);
+    }
+}
+
+.member__img {
+    object-fit: cover;
+    width: 100%;
+    height: 48vw;
+
+    @include lg {
+        object-fit: contain;
+        width: 100%;
+        height: auto;
+    }
+}

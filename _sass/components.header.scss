@@ -1,0 +1,100 @@
+// main navigation
+// --------------------------------------------------
+.header {
+    position: absolute;
+    width: 100%;
+    z-index: 999;
+}
+
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: $header-height;
+
+    @include sm {
+        height: $header-height-sm;
+    }
+}
+
+.header__logo {
+    position: relative;
+    top: -1px;
+
+    svg {
+        height: 24px;
+        fill: $light;
+    }
+
+    @include sm {
+        svg {
+            height: 28px;
+        }
+    }
+}
+
+.header__nav {
+    position: relative;
+    top: -1px;
+}
+
+.header__item {
+    color: $light;
+    margin-left: calculate-rem(16px);
+    font-size: calculate-rem(14px);
+    letter-spacing: 0.2px;
+    cursor: pointer;
+
+    @include sm {
+        margin-left: calculate-rem($gutter);
+        font-size: calculate-rem(16px);
+    }
+
+    @include lg {
+        color: $brand;
+    }
+}
+
+.header--white {
+    .header__logo {
+        svg {
+            fill: $brand;
+        }
+    }
+
+    .header__item {
+        color: $brand;
+    }
+
+    .button--header {
+        border: 1px solid $brand;
+        color: $brand;
+
+        &:hover {
+            background-color: $brand;
+            color: $light;
+        }
+    }
+}
+
+.header--brand {
+    .header__logo {
+        svg {
+            fill: $light;
+        }
+    }
+
+    .header__item {
+        color: $light;
+    }
+
+    .button--header {
+        border: 1px solid $light;
+        color: $light;
+
+        &:hover {
+            background-color: $light;
+            color: $brand;
+        }
+    }
+}

@@ -1,0 +1,71 @@
+// intro
+// --------------------------------------------------
+.intro {
+    position: relative;
+    color: $light;
+    background-color: $brand;
+
+    @include lg {
+        position: relative;
+        display: flex;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+        background-color: $light;
+    }
+}
+
+.intro__bg {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: $brand;
+
+    @include lg {
+        width: 67%;
+    }
+}
+
+.intro__container {
+    position: relative;
+    z-index: 1;
+    padding-top: 128px;
+    margin-bottom: $double-gutter;
+
+    @include lg {
+        padding-top: 0;
+        margin-bottom: 0;
+    }
+
+    @include xl {
+        left: calc(45% - 550px);
+    }
+}
+
+.intro__img-container {
+    position: relative;
+    @extend .container;
+    padding-bottom: $double-gutter;
+
+    @include md {
+        padding-bottom: 100px;
+    }
+
+    @include lg {
+        @include full(absolute);
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        padding: 0;
+    }
+}
+
+.intro__img {
+    width: 100%;
+    object-fit: cover;
+
+    @include lg {
+        width: auto;
+        height: 67%;
+    }
+}

@@ -1,0 +1,64 @@
+// course detail page - setup as post
+// --------------------------------------------------
+.post {
+    padding: 100px 0 60px;
+
+    @include sm {
+        padding: 128px 0 80px;
+    }
+
+    @include md {
+        padding: 128px 0;
+    }
+}
+
+.post__header {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.post__title {
+    margin-bottom: $gutter;
+    @include font(40px, 900, $lh-title);
+    color: $brand;
+
+    @include sm {
+        font-size: calculate-rem(60px);
+    }
+
+    @include md {
+        font-size: calculate-rem(90px);
+    }
+}
+
+.post__content {
+    max-width: 800px;
+    margin: 0 auto;
+
+    h2, h3, h4, h5, h6, p, ul {
+        margin-bottom: $gutter;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    ul {
+        @include font(16px, 500, $lh-copy);
+        color: $brand;
+    }
+
+    li {
+        margin-bottom: 8px;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    p {
+        @include font(20px, 500, $lh-copy);
+        font-family: $serif;
+        color: $grey-3;
+    }
+}

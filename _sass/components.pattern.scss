@@ -1,0 +1,28 @@
+// pattern section
+// --------------------------------------------------
+.pattern {
+    position: relative;
+    background-color: $brand;
+    color: $light;
+    padding: $double-gutter 0 $triple-gutter;
+
+    @include md {
+        padding: 240px 0;
+    }
+}
+
+.pattern__bg {
+    @include full(absolute);
+    @include bg(cover);
+    background-image: url("/assets/img/geo.svg");
+
+    @include lg {
+        background-size: contain;
+    }
+}
+
+.pattern__container {
+    position: relative;
+    margin: 0 auto;
+    max-width: 900px;
+}

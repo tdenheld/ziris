@@ -1,0 +1,24 @@
+// social proofing section
+// --------------------------------------------------
+.proof {
+    background-color: $light;
+    color: $brand;
+    padding: $double-gutter 0;
+
+    @include md {
+        padding: 100px 0;
+    }
+}
+
+.proof__grid {
+    display: grid;
+
+    @include sm {
+        grid-gap: $gutter;
+    }
+
+    @include lg {
+        grid-gap: $double-gutter;
+        grid-template-columns: max-content 1fr;
+    }
+}

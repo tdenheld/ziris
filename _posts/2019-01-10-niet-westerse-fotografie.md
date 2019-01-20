@@ -3,7 +3,7 @@ title: niet-westerse fotografie
 category: volwassenen
 amount: 5 lessen van 1,5 uur
 img: long
-price: 165,-
+price: 165.-
 description: Wij kijken met westerse ogen naar beeld, ook naar fotografie en ook naar fotografie die niet-westers is. In deze cursus wordt in 5 lessen de fotografie van andere continenten nader bestudeerd.
 ---
 
