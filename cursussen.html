@@ -8,15 +8,20 @@ header: header--white
     </div>
     <div class="courses__container">
         <div class="container container--small">
-            <section class="courses__category">
-                <h2 class="courses__category-title">volwassenen</h2>
-                <div class="courses__grid">
-                    {% assign category = site.posts | where: 'category', 'volwassenen' %}
-                    {% for entry in category %}
-                    {% include tile.html %}
-                    {% endfor %}
-                </div>
-            </section>
+            {% assign category = site.posts | where: 'category', 'volwassenen' %}
+            {% if category.size > 0 %}
+            {% include course.html category='volwassenen' %}
+            {% endif %}
+
+            {% assign category = site.posts | where: 'category', 'jongeren' %}
+            {% if category.size > 0 %}
+            {% include course.html category='jongeren' %}
+            {% endif %}
+
+            {% assign category = site.posts | where: 'category', 'kinderen' %}
+            {% if category.size > 0 %}
+            {% include course.html category='kinderen' %}
+            {% endif %}
         </div>
     </div>
 </section>

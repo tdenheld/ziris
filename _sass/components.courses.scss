@@ -20,13 +20,18 @@
 .courses__container {
     border-top: 1px solid $grey-8;
     background-color: $grey-9;
+    padding: $double-gutter 0 0;
+
+    @include sm {
+        padding: $triple-gutter 0 0;
+    }
 }
 
 .courses__category {
-    padding: $one-half-gutter 0;
+    padding-bottom: $double-gutter;
 
     @include sm {
-        padding: $triple-gutter 0;
+        padding-bottom: $triple-gutter;
     }
 }
 

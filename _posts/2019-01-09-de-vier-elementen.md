@@ -4,7 +4,7 @@ category: volwassenen
 img: barquin
 amount: 6 lessen van 2 uur
 time: woensdagavond 19:30 - 21:00
-start: 6 feb, 13 mrt, 10 apr, 24 apr, 8 mei en 5 jun.
+start: 6 feb, 13 mrt, 10 apr, 24 apr, 8 mei en 5 jun
 location: Buurthuis De Boog, Gambiadreef 60 Utrecht 
 price: 240.-
 inc: inclusief lesmateriaal
