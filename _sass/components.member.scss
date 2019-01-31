@@ -11,7 +11,8 @@
     }
 
     @include sm {
-        grid-template-columns: 1fr 1fr;
+        margin-bottom: $double-gutter;
+        grid-template-columns: 2fr 3fr;
     }
 }
 
@@ -42,10 +43,10 @@
 .member__img {
     object-fit: cover;
     width: 100%;
-    height: 48vw;
+    height: calc(64px + 42vw);
 
-    @include lg {
-        object-fit: contain;
+    @include md {
+        object-fit: initial;
         width: 100%;
         height: auto;
     }
