@@ -11,7 +11,41 @@ layout: default
             {{ content }}
         </div>
     </div>
-    <div class="container">
+    <div class="container mb-4 mb-8-sm">
         <img class="post__img" src="/assets/img/{{ page.img }}.jpg" />
+    </div>
+    <div class="container container--small">
+        <div class="post__data">
+            <div class="post__col">
+                <div class="post__row">
+                    <p class="post__data-label">aantal</p>
+                    <p class="post__data-entry">{{ page.amount }}</p>
+                </div>
+                <div class="post__row">
+                    <p class="post__data-label">prijs</p>
+                    <p class="post__data-entry">{{ page.price }}</p>
+                </div>
+                {% if page.inc %}
+                <div class="post__row">
+                    <p class="post__data-label">inclusief</p>
+                    <p class="post__data-entry">{{ page.inc }}</p>
+                </div>
+                {% endif %}
+            </div>
+            <div class="post__col">
+                <div class="post__row">
+                    <p class="post__data-label">start</p>
+                    <p class="post__data-entry">{{ page.start }}</p>
+                </div>
+                <div class="post__row">
+                    <p class="post__data-label">tijdstip</p>
+                    <p class="post__data-entry">{{ page.time }}</p>
+                </div>
+                <div class="post__row">
+                    <p class="post__data-label">locatie</p>
+                    <p class="post__data-entry">{{ page.location }}</p>
+                </div>
+            </div>
+        </div>
     </div>
 </section>

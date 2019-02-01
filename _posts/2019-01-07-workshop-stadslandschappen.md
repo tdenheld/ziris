@@ -7,7 +7,7 @@ time: zaterdagochtend 11:00 - 13:00
 start: Elke eerste zaterdag van de maand
 location: Buurthuis De Boog, Gambiadreef 60 Utrecht 
 price: 35.-
-inc: inclusief lesmateriaal
+inc: lesmateriaal
 description: Je leert door verschillende technische toepassingen, de stad op verschillende manieren fotograferen. Het doel is om je mogelijkheden te vergroten.
 ---
 

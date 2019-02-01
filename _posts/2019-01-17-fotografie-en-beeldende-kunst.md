@@ -7,7 +7,7 @@ time: donderdagavond om de week 19:30 - 21:00
 start: 26 september 2019
 location: Buurthuis De Boog, Gambiadreef 60 Utrecht 
 price: 185.-
-inc: inclusief lesmateriaal
+inc: lesmateriaal
 description: Meer inzicht krijgen in de historische aspecten van de fotografie waardoor een beter begrip ontstaat van de eigentijdse digitale vormen van beeldvervaardiging.
 ---
 
