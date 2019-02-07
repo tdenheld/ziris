@@ -5,7 +5,7 @@ img: mazzoli
 amount: 8 lessen van 1,5 uur
 time: donderdagmiddag 16:00 - 17:30
 start:  26 september 2019
-location: Buurthuis De Boog, Gambiadreef 60 Utrecht 
+location: buurthuis De Boog, Gambiadreef 60 Utrecht 
 price: 195.-
 inc: lesmateriaal
 description: Je leert in deze cursus over de betekenis van een foto, hoe je met een foto een boodschap kunt overdragen. Ook worden de manieren van communicatie en de context van een foto behandeld.

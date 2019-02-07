@@ -5,7 +5,7 @@ img: jessen
 amount: 6 lessen van 1,5 uur
 time: donderdagavond om de week 19:30 - 21:00
 start: 26 september 2019
-location: Buurthuis De Boog, Gambiadreef 60 Utrecht 
+location: buurthuis De Boog, Gambiadreef 60 Utrecht 
 price: 185.-
 inc: lesmateriaal
 description: Meer inzicht krijgen in de historische aspecten van de fotografie waardoor een beter begrip ontstaat van de eigentijdse digitale vormen van beeldvervaardiging.

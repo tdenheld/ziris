@@ -1,0 +1,32 @@
+<section class="meta">
+    <div class="container container--small">
+        <div class="meta__container">
+            <div class="meta__row">
+                <p class="meta__data-label">aantal</p>
+                <p class="meta__data-entry">{{ page.amount }}</p>
+            </div>
+            <div class="meta__row">
+                <p class="meta__data-label">prijs</p>
+                <p class="meta__data-entry">{{ page.price }}</p>
+            </div>
+            {% if page.inc %}
+            <div class="meta__row">
+                <p class="meta__data-label">inclusief</p>
+                <p class="meta__data-entry">{{ page.inc }}</p>
+            </div>
+            {% endif %}
+            <div class="meta__row">
+                <p class="meta__data-label">start</p>
+                <p class="meta__data-entry">{{ page.start }}</p>
+            </div>
+            <div class="meta__row">
+                <p class="meta__data-label">tijdstip</p>
+                <p class="meta__data-entry">{{ page.time }}</p>
+            </div>
+            <div class="meta__row">
+                <p class="meta__data-label">locatie</p>
+                <p class="meta__data-entry">{{ page.location }}</p>
+            </div>
+        </div>
+    </div>
+</section>

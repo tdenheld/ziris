@@ -5,7 +5,7 @@ img: long
 amount: 5 lessen van 1,5 uur
 time: donderdagavond 19:30 - 21:00
 start: 19 september 2019
-location: Buurthuis De Boog, Gambiadreef 60 Utrecht 
+location: buurthuis De Boog, Gambiadreef 60 Utrecht 
 price: 165.-
 inc: lesmateriaal
 description: Wij kijken met westerse ogen naar beeld, ook naar fotografie en ook naar fotografie die niet-westers is. In deze cursus wordt in 5 lessen de fotografie van andere continenten nader bestudeerd.

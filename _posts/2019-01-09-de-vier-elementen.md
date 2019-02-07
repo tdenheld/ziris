@@ -5,7 +5,7 @@ img: barquin
 amount: 6 lessen van 2 uur
 time: woensdagavond 19:30 - 21:00
 start: 6 feb, 13 mrt, 10 apr, 24 apr, 8 mei en 5 jun
-location: Buurthuis De Boog, Gambiadreef 60 Utrecht 
+location: buurthuis De Boog, Gambiadreef 60 Utrecht 
 price: 240.-
 inc: lesmateriaal
 description: Aan de hand van fotografische opdrachten die de vier elementen verbeelden krijg je inzicht in betekenislagen, de samenhang tussen vorm en inhoud en het belang van de context.
