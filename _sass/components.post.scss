@@ -8,7 +8,7 @@
     }
 
     @include md {
-        padding-bottom: 120px;
+        padding-bottom: $double-gutter;
     }
 }
 
