@@ -1,5 +1,5 @@
 ---
-title: workshop stadslandschappen
+title: workshop stadsland&shy;schappen
 category: jongeren
 img: strogonoff
 amount: 1 les van 2 uur
