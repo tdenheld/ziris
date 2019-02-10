@@ -31,7 +31,8 @@ button:visited,
 input[type='button'],
 input[type='submit'] {
 	outline: none;
-	transition: $fade-link;
+    transition: $fade-link;
+    font-family: $sans-serif;
 }
 
 input,
@@ -41,4 +42,5 @@ input:focus,
 input:visited {
     outline: none;
     transition: $fade-all;
+    font-family: $sans-serif;
 }
