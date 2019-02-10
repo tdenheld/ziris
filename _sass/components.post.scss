@@ -145,7 +145,7 @@
 
 .post-cta__description {
     margin-bottom: $double-gutter;
-    @include font(18px, 500, $lh-title);
+    @include font(18px, 500, $lh-copy);
 
     @include md {
         font-size: calculate-rem(20px);
