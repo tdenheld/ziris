@@ -1,0 +1,8 @@
+.signup {
+    padding: 100px 0;
+    color: $brand;
+
+    @include sm {
+        padding: 128px 0;
+    }
+}

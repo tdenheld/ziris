@@ -1,0 +1,32 @@
+{% if page.category=='volwassenen' %}
+{% assign category = site.posts | where: 'category', 'volwassenen' %}
+{% endif %}
+
+{% if page.category=='jongeren' %}
+{% assign category = site.posts | where: 'category', 'jongeren' %}
+{% endif %}
+
+{% if page.category=='kinderen' %}
+{% assign category = site.posts | where: 'category', 'kinderen' %}
+{% endif %}
+
+{% if category.size > 1 %}
+<section class="courses pt-0">
+    <div class="courses__container">
+        <div class="container container--small">
+            <section class="courses__category">
+                <h2 class="courses__category-title">meer cursussen voor {{ page.category }}</h2>
+                <div class="courses__grid">
+                    {% for entry in category %}
+                        {% capture i %}{{ page.title }}{% endcapture %}
+                        {% if entry.title==i %}
+                            {% continue %}
+                        {% endif %}
+                        {% include tile.html %}
+                    {% endfor %}
+                </div>
+            </section>
+        </div>
+    </div>
+</section>
+{% endif %}
