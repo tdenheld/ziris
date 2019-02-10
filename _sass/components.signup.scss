@@ -44,9 +44,9 @@
     width: 100%;
     padding: 20px 0 10px;
     border-bottom: 3px solid $brand;
-    color: $brand;
+    font-family: $sans-serif;
     @include font(24px, 700, $lh-solid);
-    letter-spacing: 0.5px;
+    color: $brand;
     -webkit-appearance: none;
 
     &::placeholder {
