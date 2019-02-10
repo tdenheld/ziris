@@ -6,3 +6,75 @@
         padding: 128px 0;
     }
 }
+
+.signup__header {
+    margin-bottom: $gutter;
+
+    @include sm {
+        margin-bottom: $double-gutter;
+    }
+}
+
+.signup__fieldset {
+    margin-bottom: $gutter;
+}
+
+.signup__formfield {
+    position: relative;
+    margin-bottom: $gutter;
+}
+
+.signup__label {
+    display: block;
+    position: absolute;
+    top: 3px;
+    @include font(12px, 500, $lh-solid);
+    opacity: 0;
+    transform: translateY(6px);
+    transition: $fade-link;
+
+    &.is-active {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.signup__input {
+    display: block;
+    width: 100%;
+    padding: 20px 0 10px;
+    border-bottom: 3px solid $brand;
+    color: $brand;
+    @include font(24px, 700, $lh-solid);
+    letter-spacing: 0.5px;
+    -webkit-appearance: none;
+
+    &::placeholder {
+        font-weight: 500;
+        color: $grey-6;
+    }
+}
+
+
+
+
+// hide up and down arrows
+// ----------------------------------------
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+// hide autofill safari icon in input field
+// ----------------------------------------
+input::-webkit-contacts-auto-fill-button {
+    visibility: hidden;
+    display: none !important;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+}

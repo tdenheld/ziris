@@ -31,5 +31,14 @@ button:visited,
 input[type='button'],
 input[type='submit'] {
 	outline: none;
-	transition: $fade-all;
+	transition: $fade-link;
+}
+
+input,
+input:hover,
+input:active,
+input:focus,
+input:visited {
+    outline: none;
+    transition: $fade-all;
 }
