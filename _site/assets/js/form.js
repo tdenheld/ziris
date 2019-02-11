@@ -47,6 +47,10 @@ function form() {
         });
     };
 
+    if ($(".js-course-title")[0]) {
+        $(".js-course-title").val(sessionStorage.getItem("course"));
+    };
+
     if ($(".js-formfield")[0]) {
         $(".js-formfield").each(function (i) {
             $(this).attr("id", "js-formfield-" + i);
