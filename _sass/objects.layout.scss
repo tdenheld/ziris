@@ -5,9 +5,23 @@
     }
 }
 
-.container--small {
+.container--m {
     max-width: 1400px;
     margin: 0 auto;
+}
+
+.container--s {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.section {
+    padding: 100px 0;
+    color: $brand;
+
+    @include sm {
+        padding: 128px 0;
+    }
 }
 
 .center {

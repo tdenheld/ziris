@@ -4,11 +4,11 @@ title: cursussen | ziris
 ---
 
 <section class="courses">
-    <div class="container container--small">
+    <div class="container container--m">
         <h1 class="courses__title">cursussen</h1>
     </div>
     <div class="courses__container">
-        <div class="container container--small">
+        <div class="container container--m">
             {% assign category = site.posts | where: 'category', 'volwassenen' %}
             {% if category.size > 0 %}
             {% include course.html category='volwassenen' %}

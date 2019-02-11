@@ -9,8 +9,7 @@
 }
 
 .cta__header {
-    max-width: 720px;
-    margin: 0 auto;
+    margin-bottom: $double-gutter;
 }
 
 .cta__label {
@@ -35,7 +34,6 @@
 }
 
 .cta__description {
-    margin-bottom: $double-gutter;
     @include font(18px, 500, $lh-copy);
 
     @include md {

@@ -1,10 +1,5 @@
 .signup {
-    padding: 100px 0;
-    color: $brand;
-
-    @include sm {
-        padding: 128px 0;
-    }
+    @extend .section;
 }
 
 .signup__header {
@@ -13,6 +8,10 @@
     @include sm {
         margin-bottom: $double-gutter;
     }
+}
+
+.signup__title {
+    color: $brand;
 }
 
 .signup__fieldset {

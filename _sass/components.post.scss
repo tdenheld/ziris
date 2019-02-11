@@ -8,13 +8,15 @@
     }
 }
 
+.post__container {
+    @extend .container--s;
+}
+
 .post__header {
-    max-width: 800px;
-    margin: 0 auto;
+    margin-bottom: $gutter;
 }
 
 .post__title {
-    margin-bottom: $gutter;
     @include font(40px, 900, $lh-title);
     color: $brand;
 
@@ -29,8 +31,7 @@
 }
 
 .post__content {
-    max-width: 800px;
-    margin: 0 auto $gutter;
+    margin-bottom: $gutter;
 
     @include sm {
         margin-bottom: 60px;
