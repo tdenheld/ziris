@@ -11,7 +11,6 @@ if ($(".js-signup-title")[0]) {
 
 // form field
 // ------------------------------------------------------------
-
 function form() {
     function formField(i) {
         var id = "#js-formfield-" + i;
