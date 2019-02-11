@@ -1,0 +1,44 @@
+.cta {
+    padding: $double-gutter 0 64px;
+    color: $light;
+    background-color: $brand;
+
+    @include md {
+        padding: 128px 0 148px;
+    }
+}
+
+.cta__header {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.cta__label {
+    @include font(24px, 500, $lh-title);
+
+    @include md {
+        font-size: calculate-rem(32px);
+    }
+}
+
+.cta__title {
+    margin-bottom: $quarter-gutter;
+    @include font(36px, 900, $lh-title);
+
+    @include sm {
+        font-size: calculate-rem(48px);
+    }
+
+    @include md {
+        font-size: calculate-rem(60px);
+    }
+}
+
+.cta__description {
+    margin-bottom: $double-gutter;
+    @include font(18px, 500, $lh-copy);
+
+    @include md {
+        font-size: calculate-rem(20px);
+    }
+}

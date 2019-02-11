@@ -37,8 +37,13 @@ function form() {
             };
         });
 
-        input.focusout(function () {
+        input.focusin(() => {
+            label.addClass("is-focussed");
+        });
+
+        input.focusout(() => {
             checkValue();
+            label.removeClass("is-focussed");
         });
     };
 

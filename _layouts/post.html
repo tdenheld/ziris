@@ -17,20 +17,5 @@ layout: default
 </section>
 
 {% include meta.html %}
-
-<section class="post-cta">
-    <div class="container container--small">
-        <header class="post-cta__header">
-            <label class="post-cta__label">schrijf je in voor:</label>
-            <h3 class="post-cta__title">{{ page.title }}</h3>
-            <p class="post-cta__description">
-                de inschrijving is vrijblijvend en je kan altijd weer annuleren
-            </p>
-            <a href="/inschrijven" class="button button--l js-cta" course="{{ page.title }}">
-                inschrijven
-            </a>
-        </header>
-    </div>
-</section>
-
+{% include cta.html %}
 {% include related.html %}

@@ -29,6 +29,7 @@
     position: absolute;
     top: 3px;
     @include font(12px, 500, $lh-solid);
+    color: $grey-6;
     opacity: 0;
     transform: translateY(6px);
     transition: $fade-link;
@@ -36,6 +37,10 @@
     &.is-active {
         transform: translateY(0);
         opacity: 1;
+    }
+
+    &.is-focussed {
+        color: $brand;
     }
 }
 

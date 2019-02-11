@@ -1,14 +1,10 @@
 // course detail page - setup as post
 // --------------------------------------------------
 .post {
-    padding: 100px 0 40px;
+    padding-top: 100px;
 
     @include sm {
-        padding: 128px 0 72px;
-    }
-
-    @include md {
-        padding-bottom: $double-gutter;
+        padding-top: 128px;
     }
 }
 
@@ -103,51 +99,4 @@
     object-fit: cover;
     width: 100%;
     height: calc(160px + 40vw);
-}
-
-
-// post cta
-// ----------------------------
-.post-cta {
-    padding: $double-gutter 0 64px;
-    color: $brand;
-
-    @include md {
-        padding: 128px 0 148px;
-    }
-}
-
-.post-cta__header {
-    max-width: 720px;
-    margin: 0 auto;
-}
-
-.post-cta__label {
-    @include font(24px, 500, $lh-title);
-
-    @include md {
-        font-size: calculate-rem(32px);
-    }
-}
-
-.post-cta__title {
-    margin-bottom: $quarter-gutter;
-    @include font(36px, 900, $lh-title);
-
-    @include sm {
-        font-size: calculate-rem(48px);
-    }
-
-    @include md {
-        font-size: calculate-rem(60px);
-    }
-}
-
-.post-cta__description {
-    margin-bottom: $double-gutter;
-    @include font(18px, 500, $lh-copy);
-
-    @include md {
-        font-size: calculate-rem(20px);
-    }
 }
