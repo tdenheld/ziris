@@ -4,7 +4,7 @@
     background-color: $brand;
 
     @include md {
-        padding: 128px 0 148px;
+        padding: 128px 0;
     }
 }
 
@@ -21,7 +21,6 @@
 }
 
 .cta__title {
-    margin-bottom: $quarter-gutter;
     @include font(36px, 900, $lh-title);
 
     @include sm {

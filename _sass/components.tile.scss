@@ -28,7 +28,6 @@
 
 .tile__title {
     @include font(28px, 900, $lh-title);
-    color: $brand;
 
     @include md {
         font-size: calculate-rem(36px);
@@ -38,7 +37,6 @@
 .tile__amount {
     margin-bottom: 8px;
     @include font(12px, 700, $lh-title);
-    color: $brand;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
@@ -57,7 +55,6 @@
 .tile__price {
     align-self: end;
     @include font(32px, 500, $lh-title);
-    color: $brand;
 
     @include md {
         font-size: calculate-rem(40px);

@@ -6,12 +6,8 @@
     margin-bottom: $gutter;
 
     @include sm {
-        margin-bottom: $double-gutter;
+        margin-bottom: $one-half-gutter;
     }
-}
-
-.signup__title {
-    color: $brand;
 }
 
 .signup__fieldset {
@@ -26,7 +22,7 @@
 .signup__label {
     display: block;
     position: absolute;
-    top: 3px;
+    top: 4px;
     @include font(12px, 500, $lh-solid);
     color: $grey-6;
     opacity: 0;
@@ -46,15 +42,19 @@
 .signup__input {
     display: block;
     width: 100%;
-    padding: 20px 0 10px;
+    padding: 20px 0 8px;
     border-bottom: 3px solid $brand;
     @include font(24px, 700, $lh-solid);
-    color: $brand;
     -webkit-appearance: none;
 
     &::placeholder {
         font-weight: 500;
         color: $grey-6;
+    }
+
+    &:-webkit-autofill {
+        box-shadow: inset 0 0 0 1000px mix($white, $cta, 90%);
+        -webkit-text-fill-color: $brand;
     }
 }
 

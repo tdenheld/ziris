@@ -18,7 +18,6 @@
 
 .post__title {
     @include font(40px, 900, $lh-title);
-    color: $brand;
 
     @include sm {
         font-size: calculate-rem(60px);
@@ -57,7 +56,6 @@
 
     h2 {
         @include font(24px, 500, $lh-copy);
-        color: $brand;
 
         @include sm {
             font-size: calculate-rem(28px);
@@ -66,7 +64,6 @@
 
     ul {
         @include font(16px, 500, $lh-copy);
-        color: $brand;
 
         @include sm {
             font-size: calculate-rem(18px);

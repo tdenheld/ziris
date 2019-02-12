@@ -4,7 +4,6 @@ $meta__row-border: 1px solid rgba($brand, 0.35);
     position: relative;
     padding: $gutter 0 $double-gutter;
     font-size: calculate-rem(18px);
-    color: $brand;
     border-bottom: 1px solid rgba($light, 0.15);
 
     @include sm {

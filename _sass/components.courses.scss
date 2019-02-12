@@ -6,7 +6,6 @@
 
 .courses__title {
     @include font(60px, 900, $lh-title);
-    color: $brand;
 
     @include sm {
         font-size: calculate-rem(90px);
