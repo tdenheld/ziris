@@ -1,15 +1,11 @@
 .cta {
-    padding: $double-gutter 0 64px;
+    padding: $double-gutter 0;
     color: $light;
     background-color: $brand;
 
     @include md {
         padding: 128px 0;
     }
-}
-
-.cta__header {
-    margin-bottom: $double-gutter;
 }
 
 .cta__label {
@@ -22,6 +18,7 @@
 
 .cta__title {
     @include font(36px, 900, $lh-title);
+    margin-bottom: 4px;
 
     @include sm {
         font-size: calculate-rem(48px);
