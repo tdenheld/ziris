@@ -1,6 +1,7 @@
 // footer
 // --------------------------------------------------
 .footer {
+    flex-shrink: 0;
     padding: $gutter 0;
     background-color: $brand;
     color: $light;
