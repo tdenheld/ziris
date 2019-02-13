@@ -42,7 +42,7 @@
 }
 
 .tile__description {
-    margin-bottom: $half-gutter;
+    margin-bottom: $gutter;
     font-family: serif;
     @include font(16px, normal, $lh-copy);
     color: $grey-2;
@@ -50,6 +50,11 @@
     @include md {
         font-size: calculate-rem(18px);
     }
+}
+
+.tile__time {
+    align-self: end;
+    @include font(16px, 900, $lh-title);
 }
 
 .tile__price {

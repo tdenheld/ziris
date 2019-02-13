@@ -33,7 +33,7 @@
         </a>
         <nav class="header__nav">
             
-            <a href="/over-cecilia-kocsis"><span class="header__item ">over mij</span></a>
+            <a href="/de-docente"><span class="header__item ">de docente</span></a>
             
             <a href="/cursussen"><span class="header__item button button--header">cursussen</span></a>
             
@@ -46,10 +46,16 @@
             <section class="thanks">
     <div class="container container--s">
         <header class="thanks__header">
-            <h1 class="thanks__title">bedankt voor je inschrijving!</h1>
+            <h1 class="thanks__title">
+                bedankt voor je inschrijving <span class="js-get-data" id="firstname"></span>!
+            </h1>
         </header>
+        <h2 class="f32 mb-2">ik ga het in orde maken</h2>
+        <p class="f18 f-grey-4 mb-8">
+            je ontvangt een bevestigingsmail op <span class="js-get-data f-brand fw-900" id="email"></span>.
+        </p>
         <p class="thanks__label">je hebt je ingeschreven voor:</p>
-        <p class="thanks__course-title js-signup-title">cursus</p>
+        <p class="thanks__course-title js-get-data" id="course-title">cursus</p>
     </div>
 </section>
         </div>

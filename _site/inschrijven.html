@@ -33,7 +33,7 @@
         </a>
         <nav class="header__nav">
             
-            <a href="/over-cecilia-kocsis"><span class="header__item ">over mij</span></a>
+            <a href="/de-docente"><span class="header__item ">de docente</span></a>
             
             <a href="/cursussen"><span class="header__item button button--header">cursussen</span></a>
             
@@ -49,31 +49,31 @@
         <header class="signup__header">
             <h1>
                 <div class="cta__label">schrijf je in voor:</div>
-                <div class="cta__title js-signup-title">cursus</div>
+                <div class="cta__title js-get-data" id="course-title">cursus</div>
             </h1>
         </header>
 
         <form name="Inschrijvingen" action="/bedankt" netlify>
-            <input class="js-course-title" type="hidden" name="cursus">
+            <input class="js-course-title-form" type="hidden" name="cursus">
             <fieldset class="signup__fieldset">
                 <div class="signup__formfield js-formfield">
                     <label class="signup__label js-label" for="firstname">voornaam</label>
-                    <input class="signup__input js-input" id="firstname" placeholder="voornaam" type="text" name="firstname" required>
+                    <input class="signup__input js-input js-set-form-data" id="firstname" placeholder="voornaam" type="text" name="firstname" required>
                 </div>
                 <div class="signup__formfield js-formfield">
                     <label class="signup__label js-label" for="lastname">achternaam</label>
-                    <input class="signup__input js-input" id="lastname" placeholder="achternaam" type="text" name="lastname" required>
+                    <input class="signup__input js-input js-set-form-data" id="lastname" placeholder="achternaam" type="text" name="lastname" required>
                 </div>
                 <div class="signup__formfield js-formfield">
                     <label class="signup__label js-label" for="phone">telefoonnummer</label>
-                    <input class="signup__input js-input" id="phone" placeholder="telefoonnummer" type="tel" name="phone" required>
+                    <input class="signup__input js-input js-set-form-data" id="phone" placeholder="telefoonnummer" type="tel" name="phone" required>
                 </div>
                 <div class="signup__formfield js-formfield">
                     <label class="signup__label js-label" for="email">e-mailadres</label>
-                    <input class="signup__input js-input" id="email" placeholder="e-mailadres" type="email" name="email" required>
+                    <input class="signup__input js-input js-set-form-data" id="email" placeholder="e-mailadres" type="email" name="email" required>
                 </div>
             </fieldset>
-            <button class="button button--l" type="submit">inschrijving verzenden</button>
+            <button class="button button--l js-submit" type="submit">inschrijving verzenden</button>
         </form>
 
     </div>

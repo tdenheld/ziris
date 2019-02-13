@@ -3,7 +3,7 @@ title: workshop stadsland&shy;schappen
 category: jongeren
 img: strogonoff
 amount: 1 les van 2 uur
-time: zaterdagochtend 11:00 - 13:00
+time: zaterdag 11:00 - 13:00
 start: elke eerste zaterdag van de maand
 location: buurthuis De Boog, Gambiadreef 60 Utrecht 
 price: 35.-

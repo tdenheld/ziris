@@ -1,12 +1,36 @@
-// store current course title in session
-// ------------------------------------------------------------
-if ($(".js-cta")[0]) {
-    sessionStorage.setItem("course", $(".js-cta").attr("course"));
-};
+// handle data in session
+// ----------------------------------------------------------------
+function setCourseData() {
+    var courseDataObj = $(".js-set-course-data");
 
-if ($(".js-signup-title")[0]) {
-    $(".js-signup-title").text(sessionStorage.getItem("course"));
+    if (courseDataObj[0]) {
+        courseDataObj.each(function () {
+            sessionStorage.setItem(this.id, $("#" + this.id).text());
+        });
+    };
 };
+setCourseData();
+
+function setFormData() {
+    var formDataObj = $(".js-set-form-data");
+
+    if (formDataObj[0]) {
+        formDataObj.each(function () {
+            sessionStorage.setItem(this.id, $("#" + this.id).val());
+        });
+    };
+};
+setFormData();
+
+function getData() {
+    $(".js-get-data").each(function () {
+        var data = sessionStorage.getItem(this.id);
+        if (data !== "") {
+            $(this).text(data);
+        };
+    });
+};
+getData();
 
 
 // form field
@@ -46,8 +70,14 @@ function form() {
         });
     };
 
-    if ($(".js-course-title")[0]) {
-        $(".js-course-title").val(sessionStorage.getItem("course"));
+    if ($(".js-course-title-form")[0]) {
+        $(".js-course-title-form").val(sessionStorage.getItem("course-title"));
+    };
+
+    if ($(".js-submit")[0]) {
+        $(".js-submit").click(() => {
+            setFormData();
+        });
     };
 
     if ($(".js-formfield")[0]) {

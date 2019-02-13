@@ -1,11 +1,8 @@
 .app {
-    display: flex;
-    flex-direction: column;
+    // push footer to bottom
+    display: grid;
+    grid-template-rows: 1fr max-content;
     height: 100%;
-}
-
-.content {
-    flex: 1 0 auto;
 }
 
 .container {

@@ -3,7 +3,7 @@ title: niet-westerse fotografie
 category: volwassenen
 img: long
 amount: 5 lessen van 1,5 uur
-time: donderdagavond 19:30 - 21:00
+time: donderdag 19:30 - 21:00
 start: 19 september 2019
 location: buurthuis De Boog, Gambiadreef 60 Utrecht 
 price: 165.-
