@@ -40,19 +40,8 @@ function form() {
         var id = "#js-formfield-" + i;
         var input = $(id + " .js-input");
         var label = $(id + " .js-label");
-        var tick = $(id + " .js-tick");
-
-        function checkValue() {
-            if (input.val() != "") {
-                tick.addClass("is-active");
-            } else {
-                tick.removeClass("is-active");
-            };
-        };
-        checkValue();
 
         input.keyup(() => {
-            tick.removeClass("is-active");
             if (input.val() != "") {
                 label.addClass("is-active");
             } else {
@@ -65,7 +54,6 @@ function form() {
         });
 
         input.focusout(() => {
-            checkValue();
             label.removeClass("is-focussed");
         });
     };
