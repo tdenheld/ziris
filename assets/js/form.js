@@ -1,34 +1,34 @@
 // handle data in session
 // ----------------------------------------------------------------
-function setCourseData() {
-    var courseDataObj = $(".js-set-course-data");
-
-    if (courseDataObj[0]) {
-        courseDataObj.each(function () {
-            sessionStorage.setItem(this.id, $("#" + this.id).text());
+function setData() {
+    var obj = $(".js-set-data");
+    if (obj[0]) {
+        obj.each(function () {
+            var el = $("#" + this.id);
+            if ($(this).is("input")) {
+                sessionStorage.setItem(this.id, el.val());
+            } else {
+                sessionStorage.setItem(this.id, el.text());
+            };
         });
     };
 };
-setCourseData();
-
-function setFormData() {
-    var formDataObj = $(".js-set-form-data");
-
-    if (formDataObj[0]) {
-        formDataObj.each(function () {
-            sessionStorage.setItem(this.id, $("#" + this.id).val());
-        });
-    };
-};
-setFormData();
+setData();
 
 function getData() {
-    $(".js-get-data").each(function () {
-        var data = sessionStorage.getItem(this.id);
-        if (data !== "") {
-            $(this).text(data);
-        };
-    });
+    var obj = $(".js-get-data");
+    if (obj[0]) {
+        obj.each(function () {
+            var data = sessionStorage.getItem(this.id);
+            if (data !== "") {
+                if ($(this).is("input")) {
+                    $(this).val(data);
+                } else {
+                    $(this).text(data);
+                };
+            };
+        });
+    };
 };
 getData();
 
@@ -58,13 +58,9 @@ function form() {
         });
     };
 
-    if ($(".js-course-title-form")[0]) {
-        $(".js-course-title-form").val(sessionStorage.getItem("course-title"));
-    };
-
     if ($(".js-submit")[0]) {
         $(".js-submit").click(() => {
-            setFormData();
+            setData();
         });
     };
 

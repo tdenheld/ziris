@@ -2,7 +2,7 @@
     <label class="signup__label js-label" for="{{ include.id }}">
         {{ include.label }}
     </label>
-    <input class="signup__input js-input js-set-form-data" 
+    <input class="signup__input js-input {{ include.class }}" 
         id="{{ include.id }}" placeholder="{{ include.label }}" type="{{ include.type }}"
         name="{{ include.id }}" {{ include.required }} >
 </div>
