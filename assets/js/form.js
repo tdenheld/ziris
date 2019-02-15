@@ -22,7 +22,7 @@ function getData() {
             var data = sessionStorage.getItem(this.id);
             if (data !== "") {
                 if ($(this).is("input")) {
-                    $(this).val(data);
+                    $(this).val($.trim(data));
                 } else {
                     $(this).text(data);
                 };
