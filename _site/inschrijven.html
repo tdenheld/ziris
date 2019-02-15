@@ -52,6 +52,40 @@
         </h1>
 
         <form name="Inschrijvingen" action="/bedankt" netlify>
+            <fieldset class="signup__fieldset">
+                <div class="signup__formfield js-formfield">
+    <label class="signup__label js-label" for="firstname">
+        voornaam
+    </label>
+    <input class="signup__input js-input js-set-data" 
+        id="firstname" placeholder="voornaam" type="text"
+        name="firstname" required >
+</div>
+                <div class="signup__formfield js-formfield">
+    <label class="signup__label js-label" for="lastname">
+        achternaam
+    </label>
+    <input class="signup__input js-input js-set-data" 
+        id="lastname" placeholder="achternaam" type="text"
+        name="lastname" required >
+</div>
+                <div class="signup__formfield js-formfield">
+    <label class="signup__label js-label" for="phone">
+        telefoonnummer
+    </label>
+    <input class="signup__input js-input js-set-data" 
+        id="phone" placeholder="telefoonnummer" type="tel"
+        name="phone" required >
+</div>
+                <div class="signup__formfield js-formfield">
+    <label class="signup__label js-label" for="email">
+        e-mailadres
+    </label>
+    <input class="signup__input js-input js-set-data" 
+        id="email" placeholder="e-mailadres" type="email"
+        name="email" required >
+</div>
+            </fieldset>
             <fieldset class="signup__fieldset dn">
                 <div class="signup__formfield js-formfield">
     <label class="signup__label js-label" for="course-title">
@@ -108,40 +142,6 @@
     <input class="signup__input js-input js-get-data" 
         id="course-location" placeholder="locatie" type="hidden"
         name="course-location"  >
-</div>
-            </fieldset>
-            <fieldset class="signup__fieldset">
-                <div class="signup__formfield js-formfield">
-    <label class="signup__label js-label" for="firstname">
-        voornaam
-    </label>
-    <input class="signup__input js-input js-set-data" 
-        id="firstname" placeholder="voornaam" type="text"
-        name="firstname" required >
-</div>
-                <div class="signup__formfield js-formfield">
-    <label class="signup__label js-label" for="lastname">
-        achternaam
-    </label>
-    <input class="signup__input js-input js-set-data" 
-        id="lastname" placeholder="achternaam" type="text"
-        name="lastname" required >
-</div>
-                <div class="signup__formfield js-formfield">
-    <label class="signup__label js-label" for="phone">
-        telefoonnummer
-    </label>
-    <input class="signup__input js-input js-set-data" 
-        id="phone" placeholder="telefoonnummer" type="tel"
-        name="phone" required >
-</div>
-                <div class="signup__formfield js-formfield">
-    <label class="signup__label js-label" for="email">
-        e-mailadres
-    </label>
-    <input class="signup__input js-input js-set-data" 
-        id="email" placeholder="e-mailadres" type="email"
-        name="email" required >
 </div>
             </fieldset>
             <button class="button button--l js-submit" type="submit">inschrijving verzenden</button>
