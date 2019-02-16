@@ -59,7 +59,7 @@ function initMap() {
                         "visibility": "on"
                     },
                     {
-                        "color": "#780080"
+                        "color": "#882290"
                     }
                 ]
             },

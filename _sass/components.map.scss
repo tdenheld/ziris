@@ -1,4 +1,5 @@
 .map {
     @include full(fixed);
+    height: calc(100% + 24px);
     background-color: $brand;
 }
