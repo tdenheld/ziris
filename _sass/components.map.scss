@@ -1,7 +1,12 @@
 .map {
-    @include full(fixed);
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+}
+
+.map__container {
+    @include full(absolute);
     height: calc(100% + 24px);
-    background-color: $brand;
 }
 
 .map__controls {
