@@ -14,6 +14,11 @@
     bottom: $gutter;
     right: $gutter;
     box-shadow: $box-shadow-medium;
+
+    @include md {
+        bottom: $double-gutter;
+        right: $double-gutter;
+    }
 }
 
 .map__zoom {
@@ -44,4 +49,40 @@
     .map__controls {
         display: none;
     }
+}
+
+
+
+// contact
+// -------------------------------
+.contact {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    @include sm {
+        width: initial;
+        bottom: $gutter;
+        left: $gutter;
+    }
+
+    @include md {
+        bottom: $double-gutter;
+        left: $double-gutter;
+    }
+}
+
+.contact__container {
+    padding: $gutter;
+    background: $light;
+    box-shadow: $box-shadow-medium;
+
+    @include sm {
+        max-width: 360px;
+        border-radius: 2px;
+    }
+}
+
+.contact__link {
+    box-shadow: 0 1px 0 rgba($brand, 1);
 }
