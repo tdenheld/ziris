@@ -57,13 +57,14 @@
 // -------------------------------
 .contact {
     position: fixed;
-    bottom: 0;
-    width: 100%;
+    bottom: $gutter;
+    left: $gutter;
+    right: $gutter;
 
     @include sm {
-        width: initial;
         bottom: $gutter;
         left: $gutter;
+        right: initial;
     }
 
     @include md {
@@ -73,13 +74,22 @@
 }
 
 .contact__container {
-    padding: $gutter;
+    padding: 20px $gutter $gutter;
     background: $light;
     box-shadow: $box-shadow-medium;
+    border-radius: 2px;
 
     @include sm {
-        max-width: 360px;
-        border-radius: 2px;
+        max-width: 348px;
+    }
+}
+
+.contact__title {
+    margin-bottom: 10px;
+    @include font(22px, 900, $lh-title);
+
+    @include sm {
+        font-size: calculate-rem(28px);
     }
 }
 
