@@ -1,7 +1,9 @@
 ---
 title: niet-westerse fotografie
 category: volwassenen
-img: ghoussein
+img: 
+  url: ghoussein
+  caption: Dit is de titel
 amount: 5 lessen van 1,5 uur
 time: donderdag 19:30 - 21:00
 start: 19 september 2019

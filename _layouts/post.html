@@ -16,7 +16,8 @@ layout: default
         </div>
     </div>
     <div class="container">
-        <img class="post__img" src="/assets/img/{{ page.img }}.jpg" alt="{{ page.img }}" />
+        <img class="post__img" src="/assets/img/{{ page.img.url }}.jpg" alt="{{ page.img.caption }}" title="{{ page.img.caption }}" />
+        <figcaption>{{ page.img.caption }}</figcaption>
     </div>
 </section>
 

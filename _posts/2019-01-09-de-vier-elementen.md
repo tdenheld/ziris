@@ -1,7 +1,9 @@
 ---
 title: de vier elementen
 category: volwassenen
-img: barquin
+img: 
+  url: barquin
+  caption: Dit is de titel
 amount: 6 lessen van 2 uur
 time: woensdag 19:30 - 21:00
 start: 6 februari 2019

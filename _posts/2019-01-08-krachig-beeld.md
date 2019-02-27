@@ -1,7 +1,9 @@
 ---
 title: krachtig beeld
 category: jongeren
-img: mazzoli
+img: 
+  url: mazzoli
+  caption: Dit is de titel
 amount: 8 lessen van 1,5 uur
 time: donderdag 16:00 - 17:30
 start:  26 september 2019

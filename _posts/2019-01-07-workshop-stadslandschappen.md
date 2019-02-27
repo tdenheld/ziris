@@ -1,7 +1,9 @@
 ---
 title: workshop de stad
 category: jongeren
-img: strogonoff
+img: 
+  url: strogonoff
+  caption: Dit is de titel
 amount: 1 les van 2 uur
 time: zaterdag 11:00 - 13:00
 start: elke eerste zaterdag van de maand

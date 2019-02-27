@@ -1,7 +1,9 @@
 ---
 title: fotografie en beeldende kunst
 category: volwassenen
-img: jessen
+img: 
+  url: jessen
+  caption: Dit is de titel
 amount: 6 lessen van 1,5 uur
 time: donderdag om de week 19:30 - 21:00
 start: 26 september 2019
