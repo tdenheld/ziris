@@ -7,10 +7,10 @@ body: bg-brand
     <div class="container intro__container">
         <header class="section-header">
             <h1 class="f36 f80-sm lh-title mb-4 fw-900">
-                goede foto’s maken. zelfs met je mobiel
+                {{ site.data.home.intro.title }}
             </h1>
             <p class="section-header__description">
-                door bij mij een cursus te volgen leer je waarom.
+                {{ site.data.home.intro.subtitle }}
             </p>
         </header>
     </div>
@@ -18,7 +18,7 @@ body: bg-brand
         <img class="intro__img" src="/assets/img/manray.jpg" />
     </figure>
     <div class="discover">
-        <div class="discover__txt">ontdek meer</div>
+        <div class="discover__txt">{{ site.data.home.intro.discover }}</div>
         <div class="discover__line"></div>
     </div>
 </section>
@@ -29,13 +29,13 @@ body: bg-brand
             <header class="section-header order-last-md">
                 <div class="thick-line hidden-xs hidden-sm"></div>
                 <h2 class="section-header__title section-header__title--small mxw-550">
-                    maak de klik tussen kunstgeschiedenis en fotografie
+                    {{ site.data.home.art.title }}
                 </h2>
                 <p class="section-header__description mxw-700">
-                    en je zal anders leren kijken.
+                    {{ site.data.home.art.subtitle }}
                 </p>
             </header>
-            <img class="art__img" src="/assets/img/iwata.jpg" />
+            <img class="art__img" src="/assets/img/{{ site.data.home.art.img }}" />
         </div>
     </div>
 </section>
@@ -45,12 +45,14 @@ body: bg-brand
     <div class="container pattern__container">
         <header class="section-header">
             <h2 class="section-header__title section-header__title--small-sm">
-                aangeleerde kijkpatronen herkennen en doorbreken
+                {{ site.data.home.pattern.title }}
             </h2>
             <p class="section-header__description mxw-500 mb-6">
-                helpt je om op een meer creatieve en bewuste manier te fotograferen.
+                {{ site.data.home.pattern.subtitle }}
             </p>
-            <a href="/cursussen" class="button button--l">bekijk cursussen</a>
+            <a href="/cursussen" class="button button--l">
+                {{ site.data.home.pattern.button }}
+            </a>
         </header>
     </div>
 </section>
@@ -61,7 +63,7 @@ body: bg-brand
             <header class="section-header mxw-350">
                 <div class="thick-line hidden-xs hidden-sm"></div>
                 <h2 class="section-header__title section-header__title--small">
-                    beoordelingen cursisten
+                    {{ site.data.home.proof.title }}
                 </h2>
             </header>
             <div>
