@@ -2,7 +2,7 @@
 title: fotografie en beeldende kunst
 category: volwassenen
 img: 
-  url: jessen
+  url: manray
   caption: Dit is de titel
 amount: 6 lessen van 1,5 uur
 time: donderdag om de week 19:30 - 21:00

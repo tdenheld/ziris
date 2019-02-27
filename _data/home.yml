@@ -1,17 +1,17 @@
 intro:
   title: maak de klik tussen kunst en fotografie
-  subtitle: en je zal anders leren kijken.
+  subtitle:
   img: manray.jpg
   discover: ontdek meer
 
 art:
-  title: goede foto’s maken. zelfs met je mobiel
-  subtitle: door bij mij een cursus te volgen leer je waarom.
+  title: aangeleerde kijkpatronen herkennen en doorbreken
+  subtitle: helpt je om op een meer creatieve en bewuste manier te fotograferen.
   img: blossfeldt.jpg
 
 pattern:
-  title: aangeleerde kijkpatronen herkennen en doorbreken
-  subtitle: helpt je om op een meer creatieve en bewuste manier te fotograferen.
+  title: goede foto’s maken. zelfs met je mobiel
+  subtitle: door bij mij een cursus te volgen leer je waarom.
   button: bekijk cursussen
 
 proof:
