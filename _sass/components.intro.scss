@@ -7,38 +7,40 @@
 
     @include lg {
         position: relative;
-        display: flex;
-        align-items: center;
-        width: 100vw;
-        height: 100vh;
         background-color: $light;
     }
 }
 
 .intro__bg {
     position: absolute;
-    height: 100%;
     width: 100%;
     background-color: $brand;
 
     @include lg {
         width: 67%;
+        height: 100vh;
+        max-height: 72%;
     }
 }
 
 .intro__container {
     position: relative;
     z-index: 1;
-    padding-top: 128px;
+    padding-top: 96px;
     margin-bottom: $double-gutter;
 
     @include lg {
         padding-top: 0;
         margin-bottom: 0;
+        margin-left: calc(33% - 380px);
     }
+}
 
-    @include xl {
-        left: calc(45% - 550px);
+.intro__header {
+    max-width: 700px;
+
+    @include lg {
+        padding-top: 172px;
     }
 }
 
@@ -47,25 +49,29 @@
     @extend .container;
     padding-bottom: $double-gutter;
 
+    @include sm {
+        width: calc(36% + 360px);
+    }
+
     @include md {
         padding-bottom: 100px;
     }
 
     @include lg {
-        @include full(absolute);
-        display: flex;
-        align-items: center;
-        justify-content: flex-end;
+        width: 50%;
+        margin-left: auto;
         padding: 0;
     }
 }
 
 .intro__img {
-    width: 100%;
     object-fit: cover;
+}
+
+.intro__figcaption {
+    color: $light;
 
     @include lg {
-        width: auto;
-        height: 70%;
+        color: $brand;
     }
 }

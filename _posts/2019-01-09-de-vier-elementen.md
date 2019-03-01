@@ -3,7 +3,7 @@ title: de vier elementen
 category: volwassenen
 img: 
   url: barquin
-  caption: Dit is de titel
+  caption: Guzmán Barquín, Punta Ballena, Uruguay
 amount: 6 lessen van 2 uur
 time: woensdag 19:30 - 21:00
 start: 6 februari 2019

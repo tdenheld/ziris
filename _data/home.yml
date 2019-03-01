@@ -1,13 +1,17 @@
 intro:
   title: maak de klik tussen kunst en fotografie
   subtitle:
-  img: manray.jpg
+  img:
+    url: mapplethorpe.jpg
+    caption: Robert Mapplethorpe, Ken Moody and Robert Sherman, 1984
   discover: ontdek meer
 
 art:
   title: aangeleerde kijkpatronen herkennen en doorbreken
   subtitle: helpt je om op een meer creatieve en bewuste manier te fotograferen.
-  img: blossfeldt.jpg
+  img: 
+    url: blossfeldt.jpg
+    caption: Karl Blossfeldt
 
 pattern:
   title: goede foto’s maken. zelfs met je mobiel

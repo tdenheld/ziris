@@ -3,10 +3,15 @@ body: bg-brand
 ---
 
 <section class="intro">
-    <div class="intro__bg"></div>
+    <div class="intro__bg">
+        <div class="discover">
+            <div class="discover__txt">{{ site.data.home.intro.discover }}</div>
+            <div class="discover__line"></div>
+        </div>
+    </div>
     <div class="container intro__container">
-        <header class="section-header">
-            <h1 class="f36 f80-sm lh-title mb-4 fw-900">
+        <header class="intro__header">
+            <h1 class="f36 f48-sm f80-md lh-title mb-4 fw-900">
                 {{ site.data.home.intro.title }}
             </h1>
             <p class="section-header__description">
@@ -15,12 +20,11 @@ body: bg-brand
         </header>
     </div>
     <figure class="intro__img-container">
-        <img class="intro__img" src="/assets/img/{{ site.data.home.intro.img }}" />
+        <div>
+            <img class="intro__img" src="/assets/img/{{ site.data.home.intro.img.url }}" />
+            <figcaption class="intro__figcaption">{{ site.data.home.intro.img.caption }}</figcaption>
+        </div>
     </figure>
-    <div class="discover">
-        <div class="discover__txt">{{ site.data.home.intro.discover }}</div>
-        <div class="discover__line"></div>
-    </div>
 </section>
 
 <section class="art">
@@ -35,16 +39,18 @@ body: bg-brand
                     {{ site.data.home.art.subtitle }}
                 </p>
             </header>
-            <img class="art__img" src="/assets/img/{{ site.data.home.art.img }}" />
+            <div>
+                <img class="art__img" src="/assets/img/{{ site.data.home.art.img.url }}" />
+                <figcaption>{{ site.data.home.art.img.caption }}</figcaption>
+            </div>
         </div>
     </div>
 </section>
 
 <section class="pattern">
-    <div class="pattern__bg"></div>
     <div class="container pattern__container">
         <header class="section-header">
-            <h2 class="f36 f48-sm f72-md lh-title mb-4 fw-900">
+            <h2 class="f32 f48-sm f72-md lh-title mb-4 fw-900">
                 {{ site.data.home.pattern.title }}
             </h2>
             <p class="section-header__description mxw-500 mb-6">

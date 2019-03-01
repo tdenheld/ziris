@@ -3,7 +3,7 @@ title: fotografie en beeldende kunst
 category: volwassenen
 img: 
   url: manray
-  caption: Dit is de titel
+  caption: Man Ray, Untitled
 amount: 6 lessen van 1,5 uur
 time: donderdag om de week 19:30 - 21:00
 start: 26 september 2019
