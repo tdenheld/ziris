@@ -3,8 +3,9 @@
 .discover {
     display: none;
     position: absolute;
+    z-index: 1;
     bottom: 0;
-    left: 40%;
+    left: 28%;
     text-align: center;
     @include font(16px, 900, $lh-title);
     font-style: italic;

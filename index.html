@@ -3,12 +3,7 @@ body: bg-brand
 ---
 
 <section class="intro">
-    <div class="intro__bg">
-        <div class="discover">
-            <div class="discover__txt">{{ site.data.home.intro.discover }}</div>
-            <div class="discover__line"></div>
-        </div>
-    </div>
+    <div class="intro__bg"></div>
     <div class="container intro__container">
         <header class="intro__header">
             <h1 class="f36 f48-sm f80-md lh-title mb-4 fw-900">
@@ -25,6 +20,10 @@ body: bg-brand
             <figcaption class="intro__figcaption">{{ site.data.home.intro.img.caption }}</figcaption>
         </div>
     </figure>
+    <div class="discover js-discover">
+        <div class="discover__txt">{{ site.data.home.intro.discover }}</div>
+        <div class="discover__line"></div>
+    </div>
 </section>
 
 <section class="art">

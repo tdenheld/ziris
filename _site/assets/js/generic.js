@@ -72,3 +72,44 @@ function scrolling() {
     // fade arrow scroll down button
     scrolled = false;
 };
+
+
+
+// scroll to
+// ------------------------------------------------------------
+
+// default
+if ($(".js-scroll-to")[0]) {
+    $("a[href^='#'].js-scroll-to").click(function () {
+        var obj = {
+            element: $($.attr(this, "href")),
+            //offst: $(".header").height() + 14,
+        };
+        TweenMax.to(window, .8, {
+            ease: Power3.easeInOut,
+            scrollTo: {
+                y: obj.element,
+                //offsetY: obj.offst,
+                autoKill: false,
+            }
+        });
+        return false;
+    });
+};
+
+// discover
+function discover() {
+    var obj = $(".js-discover");
+    if (obj[0]) {
+        obj.click(() => {
+            TweenMax.to(window, .8, {
+                ease: Power3.easeInOut,
+                scrollTo: {
+                    y: ".art",
+                    autoKill: false,
+                }
+            });
+        });
+    };
+};
+discover();

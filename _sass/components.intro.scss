@@ -6,7 +6,9 @@
     background-color: $brand;
 
     @include lg {
+        display: flex;
         position: relative;
+        height: 100vh;
         background-color: $light;
     }
 }
@@ -18,8 +20,7 @@
 
     @include lg {
         width: 67%;
-        height: 100vh;
-        max-height: 72%;
+        height: 100%;
     }
 }
 
@@ -30,9 +31,11 @@
     margin-bottom: $double-gutter;
 
     @include lg {
+        display: flex;
+        align-items: center;
         padding-top: 0;
         margin-bottom: 0;
-        margin-left: calc(33% - 380px);
+        margin-left: $triple-gutter;
     }
 }
 
@@ -40,7 +43,7 @@
     max-width: 700px;
 
     @include lg {
-        padding-top: 172px;
+        text-align: right;
     }
 }
 
@@ -49,29 +52,34 @@
     @extend .container;
     padding-bottom: $double-gutter;
 
-    @include sm {
-        width: calc(36% + 360px);
-    }
-
     @include md {
         padding-bottom: 100px;
     }
 
     @include lg {
-        width: 50%;
-        margin-left: auto;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        width: 60%;
         padding: 0;
     }
 }
 
 .intro__img {
     object-fit: cover;
+
+    @include lg {
+        height: 70vh;
+    }
 }
 
 .intro__figcaption {
     color: $light;
 
     @include lg {
+        margin-top: -6px;
+        padding: 0 4px 0;
+        background-color: $light;
         color: $brand;
     }
 }
