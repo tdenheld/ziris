@@ -33,9 +33,8 @@
     @include lg {
         display: flex;
         align-items: center;
-        padding-top: 0;
         margin-bottom: 0;
-        margin-left: $triple-gutter;
+        padding: 0 $triple-gutter;
     }
 }
 
