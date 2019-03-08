@@ -69,7 +69,7 @@
     object-fit: cover;
 
     @include lg {
-        height: 70vh;
+        height: 64vh;
     }
 }
 
@@ -78,8 +78,9 @@
 
     @include lg {
         margin-top: -6px;
+        margin-right: $gutter;
         padding: 0 4px 0;
-        background-color: $light;
         color: $brand;
+        text-align: right;
     }
 }
