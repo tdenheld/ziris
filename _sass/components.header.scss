@@ -11,10 +11,6 @@
     justify-content: space-between;
     align-items: center;
     height: $header-height;
-
-    @include sm {
-        height: $header-height-sm;
-    }
 }
 
 .header__logo {
@@ -22,7 +18,7 @@
     top: -1px;
 
     svg {
-        height: 24px;
+        height: 28px;
         fill: $light;
     }
 
@@ -40,18 +36,21 @@
 
 .header__item {
     color: $light;
-    margin-left: calculate-rem(16px);
-    font-size: calculate-rem(14px);
+    margin-left: calculate-rem(20px);
+    font-size: calculate-rem(16px);
     letter-spacing: 0.2px;
     cursor: pointer;
 
     @include sm {
         margin-left: calculate-rem($gutter);
-        font-size: calculate-rem(16px);
     }
 
     @include lg {
         color: $brand;
+    }
+
+    svg {
+        fill: $light;
     }
 }
 
@@ -64,6 +63,10 @@
 
     .header__item {
         color: $brand;
+
+        svg {
+            fill: $brand;
+        }
     }
 
     .button--header {
@@ -86,6 +89,10 @@
 
     .header__item {
         color: $light;
+
+        svg {
+            fill: $light;
+        }
     }
 
     .button--header {

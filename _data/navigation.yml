@@ -1,8 +1,11 @@
+- title: cursussen
+  class: button button--header
+  url: /cursussen
 - title: over ziris
   url: /over-ziris
-- title: cursussen
-  mod: button button--header
-  url: /cursussen
+  icon: info.svg
+  class: pos-r top-7px
 - title: contact
-  mod: hidden-xs
   url: /contact
+  icon: mail.svg
+  class: pos-r top-4px
