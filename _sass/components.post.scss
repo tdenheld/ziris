@@ -1,10 +1,10 @@
 // course detail page - setup as post
 // --------------------------------------------------
 .post {
-    padding-top: 100px;
+    padding-top: $section-padding-s;
 
     @include sm {
-        padding-top: 128px;
+        padding-top: $section-padding-l;
     }
 }
 

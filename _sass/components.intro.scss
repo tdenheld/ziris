@@ -27,7 +27,7 @@
 .intro__container {
     position: relative;
     z-index: 1;
-    padding-top: 116px;
+    padding-top: $section-padding-s;
     margin-bottom: $double-gutter;
 
     @include lg {
@@ -68,7 +68,8 @@
     object-fit: cover;
 
     @include lg {
-        height: 64vh;
+        width: 100%;
+        height: calc(50vh + 10vw);
     }
 }
 
