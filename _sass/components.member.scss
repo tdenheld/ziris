@@ -43,7 +43,11 @@
 .member__img {
     object-fit: cover;
     width: 100%;
-    height: calc(64px + 42vw);
+    height: calc(100px + 50vw); 
+
+    @include sm {
+        height: calc(64px + 42vw); 
+    }
 
     @include md {
         object-fit: initial;

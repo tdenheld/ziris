@@ -63,13 +63,18 @@ function Transition(obj) {
 $(window).scroll(() => {
     scrolled = true;
     if (scrolled) {
-        //requestAnimationFrame(scrolling);
+        requestAnimationFrame(scrolling);
     };
 });
 
 function scrolling() {
     var pos = $(window).scrollTop();
     // fade arrow scroll down button
+    if (pos > 60) {
+        $(".js-discover").addClass("o-0");
+    } else {
+        $(".js-discover").removeClass("o-0");
+    };
     scrolled = false;
 };
 
