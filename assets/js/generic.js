@@ -8,7 +8,6 @@
 var vw = Number;
 var vh = Number;
 var mobile = Boolean;
-var scrolled = false;
 
 
 
@@ -58,34 +57,10 @@ function Transition(obj) {
 
 
 
-// functionality that"s on linked on scroll
+// default scroll to
 // ------------------------------------------------------------
-$(window).scroll(() => {
-    scrolled = true;
-    if (scrolled) {
-        requestAnimationFrame(scrolling);
-    };
-});
-
-function scrolling() {
-    var pos = $(window).scrollTop();
-    // fade arrow scroll down button
-    if (pos > 60) {
-        $(".js-discover").addClass("o-0");
-    } else {
-        $(".js-discover").removeClass("o-0");
-    };
-    scrolled = false;
-};
-
-
-
-// scroll to
-// ------------------------------------------------------------
-
-// default
-if ($(".js-scroll-to")[0]) {
-    $("a[href^='#'].js-scroll-to").click(function () {
+if ($(".js-scrollTo")[0]) {
+    $("a[href^='#'].js-scrollTo").click(function () {
         var obj = {
             element: $($.attr(this, "href")),
             //offst: $(".header").height() + 14,
@@ -102,10 +77,13 @@ if ($(".js-scroll-to")[0]) {
     });
 };
 
+
+
 // discover
+// ------------------------------------------------------------
 function discover() {
     var obj = $(".js-discover");
-    if (obj[0]) {
+    if (obj[0] && !mobile) {
         obj.click(() => {
             TweenMax.to(window, .8, {
                 ease: Power3.easeInOut,
@@ -115,6 +93,18 @@ function discover() {
                 }
             });
         });
+        var controller = new ScrollMagic.Controller();
+        var scrll = new ScrollMagic.Scene({
+                triggerElement: window,
+                duration: 999999,
+            })
+            .triggerHook(0)
+            .offset(60)
+            .on("start", function () {
+                obj.toggleClass("o-0");
+            })
+            //.addIndicators()
+            .addTo(controller);
     };
 };
 discover();
