@@ -5,23 +5,23 @@ title: cursussen | ziris
 
 <section class="courses">
     <div class="container container--m">
-        <h1 class="courses__title">cursussen</h1>
+        <h1 class="courses__title a a-fi">cursussen</h1>
     </div>
-    <div class="courses__container">
+    <div class="courses__container a a-fi">
         <div class="container container--m">
             {% assign category = site.posts | where: 'category', 'volwassenen' %}
             {% if category.size > 0 %}
-            {% include course.html category='volwassenen' %}
+            {% include courses__category.html category='volwassenen' %}
             {% endif %}
 
             {% assign category = site.posts | where: 'category', 'jongeren' %}
             {% if category.size > 0 %}
-            {% include course.html category='jongeren' %}
+            {% include courses__category.html category='jongeren' %}
             {% endif %}
 
             {% assign category = site.posts | where: 'category', 'kinderen' %}
             {% if category.size > 0 %}
-            {% include course.html category='kinderen' %}
+            {% include courses__category.html category='kinderen' %}
             {% endif %}
         </div>
     </div>

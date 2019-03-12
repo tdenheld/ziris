@@ -177,7 +177,7 @@
 }
 .a-fi-right-200px {animation-name: fade-in-right-200px;}
 
-@keyframes scale-in {
+@keyframes scale-in-y {
 	from {
 		opacity: 0;
 		transform: scaleY(0);
@@ -188,8 +188,22 @@
 		transform: scaleY(1);
 	}
 }
-.a-si-down {animation-name: scale-in-down; transform-origin: 0 0;}
-.a-si-up {animation-name: scale-in-up; transform-origin: 100% 100%;}
+.a-si-down {animation-name: scale-in-y; transform-origin: 0 0;}
+.a-si-up {animation-name: scale-in-y; transform-origin: 100% 100%;}
+
+@keyframes scale-in-x {
+	from {
+		opacity: 0;
+		transform: scaleX(0);
+	}
+
+	to {
+		opacity: 1;
+		transform: scaleX(1);
+	}
+}
+.a-si-left {animation-name: scale-in-x; transform-origin: 0 0;}
+.a-si-right {animation-name: scale-in-x; transform-origin: 100% 100%;}
 
 // out
 @keyframes fade-out {

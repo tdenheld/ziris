@@ -59,8 +59,8 @@ function Transition(obj) {
 
 // default scroll to
 // ------------------------------------------------------------
-if ($(".js-scrollTo")[0]) {
-    $("a[href^='#'].js-scrollTo").click(function () {
+if ($(".js-scroll-to")[0]) {
+    $("a[href^='#'].js-scroll-to").click(function () {
         var obj = {
             element: $($.attr(this, "href")),
             //offst: $(".header").height() + 14,
@@ -108,3 +108,49 @@ function discover() {
     };
 };
 discover();
+
+
+
+// scroll magic
+// ------------------------------------------------------------------
+function scrollMagic() {
+    var section = $(".js-scroll-magic");
+
+    if (section[0]) {
+        var controller = new ScrollMagic.Controller({
+            globalSceneOptions: {
+                duration: 99999,
+            },
+        });
+
+        function scrollTrig(i) {
+            var obj = "#scroll-magic-" + i;
+            if ($(obj)[0]) {
+                var hook = 0.7;
+                var customHook = $(obj).attr("hook");
+                if (customHook != null) {
+                    hook = customHook;
+                };
+                var scrll = new ScrollMagic.Scene({
+                        triggerElement: obj,
+                    })
+                    .triggerHook(hook)
+                    .offset(0)
+                    .on("start", function () {
+                        $(obj + " .js-tr").toggleClass("is-active");
+                    })
+                    //.addIndicators()
+                    .addTo(controller);
+            };
+        };
+
+        section.each(function (i) {
+            $(this).attr("id", "scroll-magic-" + i);
+            scrollTrig(i);
+        });
+    };
+};
+
+$(function () {
+    scrollMagic();
+});
