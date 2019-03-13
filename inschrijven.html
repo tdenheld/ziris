@@ -8,11 +8,11 @@ title: inschrijven | ziris
     <div class="container container--s">
 
         <h1 class="signup__header">
-            <div class="cta__label">schrijf je in voor:</div>
-            <div class="cta__title js-get-data" id="course-title">cursus</div>
+            <div class="cta__label a a-fi">schrijf je in voor:</div>
+            <div class="cta__title a a-fi a-del-150 js-get-data" id="course-title">cursus</div>
         </h1>
 
-        <form name="Inschrijvingen" action="/bedankt" netlify>
+        <form class="a a-fi a-del-300" name="Inschrijvingen" action="/bedankt" netlify>
             <fieldset class="signup__fieldset">
                 {% include formfield.html class='js-set-data' id='firstname' label='voornaam' type='text' required='required' %}
                 {% include formfield.html class='js-set-data' id='lastname' label='achternaam' type='text' required='required' %}
