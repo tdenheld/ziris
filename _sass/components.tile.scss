@@ -17,6 +17,10 @@
     }
 }
 
+.tile__bg {
+    background-color: $light;
+}
+
 .tile__header {
     padding: 18px $gutter $gutter;
 }
