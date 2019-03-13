@@ -138,6 +138,9 @@ function scrollMagic() {
                     .offset(0)
                     .on("start", function () {
                         $(obj + " .js-tr").toggleClass("is-active");
+                        if ($(obj).hasClass("js-tr")) {
+                            $(obj).toggleClass("is-active");
+                        };
                     })
                     //.addIndicators()
                     .addTo(controller);

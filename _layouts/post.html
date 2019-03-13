@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="post">
+<section class="post a a-fi">
     <div class="container">
         <div class="post__container">
             <header class="post__header">
@@ -15,9 +15,9 @@ layout: default
             </div>
         </div>
     </div>
-    <div class="container">
-        <img class="post__img" src="/assets/img/{{ page.img.url }}.jpg" alt="{{ page.img.caption }}" title="{{ page.img.caption }}" />
-        <figcaption>{{ page.img.caption }}</figcaption>
+    <div class="container js-scroll-magic" hook="0.9">
+        <img class="post__img tr-stag js-tr" src="/assets/img/{{ page.img.url }}.jpg" alt="{{ page.img.caption }}" title="{{ page.img.caption }}" />
+        <figcaption class="tr-stag js-tr">{{ page.img.caption }}</figcaption>
     </div>
 </section>
 

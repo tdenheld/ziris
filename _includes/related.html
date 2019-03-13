@@ -15,7 +15,9 @@
     <div class="courses__container">
         <div class="container container--m">
             <section class="courses__category">
-                <h2 class="courses__category-title">meer cursussen voor {{ page.category }}</h2>
+                <h2 class="courses__category-title js-scroll-magic tr-stag js-tr" hook="0.95">
+                    meer cursussen voor {{ page.category }}
+                </h2>
                 <div class="courses__grid">
                     {% for entry in category %}
                         {% capture i %}{{ page.title }}{% endcapture %}
