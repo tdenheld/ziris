@@ -9,10 +9,10 @@
 }
 
 .cta__label {
-    @include font(24px, 500, $lh-title);
+    @include font(20px, 500, $lh-title);
 
     @include md {
-        font-size: calculate-rem(32px);
+        font-size: calculate-rem(28px);
     }
 }
 
@@ -30,9 +30,10 @@
 }
 
 .cta__description {
-    @include font(18px, 500, $lh-copy);
+    font-family: $serif;
+    @include font(20px, 500, $lh-copy);
 
     @include md {
-        font-size: calculate-rem(20px);
+        font-size: calculate-rem(24px);
     }
 }
