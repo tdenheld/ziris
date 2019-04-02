@@ -1,7 +1,7 @@
 host: 0.0.0.0
 
 sass:
-    style: compressed
+  style: compressed
 
 plugins:
   - jekyll-minifier
