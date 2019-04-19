@@ -1,7 +1,7 @@
 ---
 title: Nieuwe cursus
 date: 2019-04-19T12:13:06.816Z
-category: Volwassenen
+category: volwassenen
 description: Daarom moan
 thumb: /assets/img/long-thumb.jpg
 img: /assets/img/long.jpg
