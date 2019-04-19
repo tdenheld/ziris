@@ -5,10 +5,9 @@ backend:
 media_folder: "/assets/img"
 
 collections:
-  - name: "home"
+  - name: "index"
     label: "Homepage"
-    file: "home.yml"
-    folder: "_data/"
+    file: "/_data/home.yml"
     widget: "object"
     fields:
     - label: "Intro"
@@ -42,8 +41,6 @@ collections:
     folder: "_posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    filter:
-      field: "category"
     fields: # The fields for each document, usually in front matter
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
@@ -70,10 +67,9 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
     
 
-  - name: "members"
+  - name: "index"
     label: "Cursisten"
-    file: "members.yml"
-    folder: "_data/"
+    file: "/_data/members.yml"
     widget: "list"
     fields:
       - {label: "Naam", name: "name", widget: "string"}
@@ -83,8 +79,7 @@ collections:
 
   - name: "contact"
     label: "Contactgegevens"
-    file: "contact.yml"
-    folder: "_data/"
+    file: "/_data/contact.yml"
     fields:
       - {label: "Bedrijfsnaam", name: "company", widget: "string"}
       - {label: "Locatie", name: "location", widget: "string"}
