@@ -43,10 +43,11 @@ collections:
         file: "_data/members.yml"
         widget: "list"
         fields:
-          - {label: "Naam", name: "name", widget: "string"}
-          - {label: "Afbeelding", name: "img", widget: "image"}
-          - {label: "Beroep", name: "profession", widget: "string"}
-          - {label: "Citaat", name: "quote", widget: "text"}
+          field:
+            - {label: "Naam", name: "name", widget: "string"}
+            - {label: "Afbeelding", name: "img", widget: "image"}
+            - {label: "Beroep", name: "profession", widget: "string"}
+            - {label: "Citaat", name: "quote", widget: "text"}
       - name: "contact"
         label: "Contactgegevens"
         file: "_data/contact.yml"
