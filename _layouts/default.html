@@ -4,7 +4,8 @@
 <head>
 
     <!-- META DATA -->
-    <meta name="description" content="Ziris biedt cursussen aan op het gebied van kunstgeschiedenis in combinatie met fotografie en beoogt een verbinding te maken tussen kunsttheorie en praktijk." />
+    <meta name="description"
+        content="Ziris biedt cursussen aan op het gebied van kunstgeschiedenis in combinatie met fotografie en beoogt een verbinding te maken tussen kunsttheorie en praktijk." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- SOCIAL MEDIA -->
@@ -12,7 +13,8 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://ziris.nl" />
     <meta property="og:image" content="https://ziris.netlify.com/assets/img/ziris-og-image.png" />
-    <meta property="og:description" content="Ziris biedt cursussen aan op het gebied van kunstgeschiedenis in combinatie met fotografie en beoogt een verbinding te maken tussen kunsttheorie en praktijk." />
+    <meta property="og:description"
+        content="Ziris biedt cursussen aan op het gebied van kunstgeschiedenis in combinatie met fotografie en beoogt een verbinding te maken tussen kunsttheorie en praktijk." />
 
     <!-- DISPLAY ALL CHARACTER SYMBOLS -->
     <meta charset="utf-8" />
@@ -23,6 +25,7 @@
     <!-- LINKS -->
     <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
     <script src="/assets/js/modernizr.js"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     <!-- TITLE -->
     <title>{{ page.title }}{% unless page.layout=='default' %} | ziris{% endunless %}</title>
@@ -45,7 +48,17 @@
     <script src="/assets/js/generic.js"></script>
     <script src="/assets/js/form.js"></script>
     <script src="/assets/js/map.js"></script>
-
+    <script>
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                        document.location.href = "/admin/";
+                    });
+                }
+            });
+        }
+    </script>
 </body>
 
 </html>

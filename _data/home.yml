@@ -1,22 +1,19 @@
 intro:
   title: maak de klik tussen kunst en fotografie
   subtitle:
-  img:
-    url: /assets/img/jessen.jpg
-    caption: Rye Jessen, Untitled, 2018
+  img: /assets/img/jessen.jpg
+  caption: Rye Jessen, Untitled, 2018
   discover: ontdek meer
 
 art:
   title: aangeleerde kijkpatronen herkennen en doorbreken
   subtitle: helpt je om op een meer creatieve en bewuste manier te fotograferen.
-  img: 
-    url: /assets/img/blossfeldt.jpg
-    caption: Karl Blossfeldt
+  img: /assets/img/blossfeldt.jpg
+  caption: Karl Blossfeldt
 
 pattern:
   title: goede foto’s maken. zelfs met je mobiel
   subtitle: door bij mij een cursus te volgen leer je waarom.
   button: bekijk cursussen
 
-proof:
-  title: beoordelingen cursisten
+proof: beoordelingen cursisten

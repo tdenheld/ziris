@@ -1,10 +1,9 @@
 ---
 title: workshop de stad
 category: jongeren
-img: 
-  url: /assets/img/strogonoff.jpg
-  thumb: /assets/img/strogonoff-thumb.jpg
-  caption: Anton Strogonoff, Seoul, South Korea
+thumb: /assets/img/strogonoff-thumb.jpg
+img: /assets/img/strogonoff.jpg
+caption: Anton Strogonoff, Seoul, South Korea
 amount: 1 les van 2 uur
 time: zaterdag 11:00 - 13:00
 start: elke eerste zaterdag van de maand

@@ -1,0 +1,89 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: "/assets/img"
+
+collections:
+  - name: "home"
+    label: "Homepage"
+    folder: "_data/" 
+    widget: "object"
+    fields:
+    - label: "Intro"
+      name: "intro"
+      widget: "object"
+      fields: 
+        - {label: "Titel", name: "title", widget: "string", default: "maak de klik tussen kunst en fotografie"}
+        - {label: "Subtitel", name: "subtitle", widget: "text", required: false}
+        - {label: "Afbeelding", name: "img", widget: "image"}
+        - {label: "Afb. beschrijving", name: "caption", widget: "string"}
+        - {label: "Scroll indicatie", name: "discover", widget: "string", default: "ontdek meer"}
+    - label: "Vervolgsectie"
+      name: "art"
+      widget: "object"
+      fields: 
+        - {label: "Titel", name: "title", widget: "string", default: "aangeleerde kijkpatronen herkennen en doorbreken"}
+        - {label: "Subtitel", name: "subtitle", widget: "text", default: "helpt je om op een meer creatieve en bewuste manier te fotograferen.", required: false}
+        - {label: "Afbeelding", name: "img", widget: "image"}
+        - {label: "Afb. beschrijving", name: "caption", widget: "string"}
+    - label: "Oproep tot actie"
+      name: "pattern"
+      widget: "object"
+      fields: 
+        - {label: "Titel", name: "title", widget: "string", default: "goede foto’s maken. zelfs met je mobiel"}
+        - {label: "Subtitel", name: "subtitle", widget: "text", default: "door bij mij een cursus te volgen leer je waarom.", required: false}
+        - {label: "Knop", name: "button", widget: "string"}
+    - {label: "Sociaal bewijs (titel)", name: "proof", widget: "string", default: "beoordelingen cursisten"}
+
+  - name: "cursussen" # Used in routes, e.g., /admin/collections/blog
+    label: "Cursussen" # Used in the UI
+    folder: "_posts/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    filter:
+      field: "category"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Categorie", name: "category", widget: "string"}
+      - {label: "Beschrijving", name: "description", widget: "text"}
+      - {label: "Thumbnail", name: "thumb", widget: "image"}
+      - {label: "Afbeelding", name: "img", widget: "image"}
+      - {label: "Afb. beschrijving", name: "caption", widget: "string"}
+      - {label: "Aantal lessen", name: "amount", widget: "string"}
+      - {label: "Tijdstip", name: "time", widget: "string"}
+      - {label: "Start cursus", name: "start", widget: "string"}
+      - {label: "Locatie", name: "location", widget: "string"}
+      - {label: "Prijs", name: "price", widget: "string"}
+      - {label: "Inclusief", name: "inc", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "over-ziris"
+    label: "Over je bedrijf"
+    folder: "/"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
+      - {label: "Header", name: "header", widget: "hidden", default: "header--white"}
+      - {label: "Titel", name: "title", widget: "string", default: "over ziris kunst en fotografie"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    
+
+  - name: "members"
+    label: "Cursisten"
+    folder: "_data/"
+    widget: "list"
+    fields:
+      - {label: "Naam", name: "name", widget: "string"}
+      - {label: "Afbeelding", name: "img", widget: "image"}
+      - {label: "Beroep", name: "profession", widget: "string"}
+      - {label: "Citaat", name: "quote", widget: "text"}
+
+  - name: "contact"
+    label: "Contactgegevens"
+    folder: "_data/"
+    fields:
+      - {label: "Bedrijfsnaam", name: "company", widget: "string"}
+      - {label: "Locatie", name: "location", widget: "string"}
+      - {label: "E-mailadres", name: "email", widget: "string"}
+      - {label: "Telefoonnummer", name: "phone", widget: "string"}
