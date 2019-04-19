@@ -9,7 +9,7 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Home page"
+      - label: "Home"
         name: "home"
         file: "_data/home.yml"
         widget: "object"
@@ -52,7 +52,7 @@ collections:
                   - {label: "Beroep", name: "profession", widget: "string"}
                   - {label: "Citaat (niet tussen haakjes zetten)", name: "quote", widget: "text"}
       - name: "contact"
-        label: "Contactgegevens"
+        label: "Contact"
         file: "_data/contact.yml"
         fields:
           - {label: "Bedrijfsnaam", name: "company", widget: "string"}
@@ -68,7 +68,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
-      - {label: "Categorie", name: "category", widget: "string"}
+      - {label: "Categorie", name: "category", widget: "select", options: ["volwassenen", "jongeren", "kinderen"]}
       - {label: "Beschrijving", name: "description", widget: "text"}
       - {label: "Thumbnail", name: "thumb", widget: "image"}
       - {label: "Afbeelding", name: "img", widget: "image"}
