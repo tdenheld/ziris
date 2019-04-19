@@ -1,25 +1,27 @@
 intro:
-  title: maak de klik tussen kunst en fotografie
-  subtitle:
-  img: /assets/img/jessen.jpg
-  caption: Rye Jessen, Untitled, 2018
+  caption: 'Rye Jessen, Untitled, 2018'
   discover: ontdek meer
-
+  img: /assets/img/jessen.jpg
+  title: maak de klik tussen kunst en fotografie
 art:
-  title: aangeleerde kijkpatronen herkennen en doorbreken
-  subtitle: helpt je om op een meer creatieve en bewuste manier te fotograferen.
-  img: /assets/img/blossfeldt.jpg
   caption: Karl Blossfeldt
-
+  img: /assets/img/blossfeldt.jpg
+  subtitle: helpt je om op een meer creatieve en bewuste manier te fotograferen.
+  title: aangeleerde kijkpatronen herkennen en doorbreken
 pattern:
-  title: goede foto’s maken. zelfs met je mobiel
-  subtitle: door bij mij een cursus te volgen leer je waarom.
   button: bekijk cursussen
-
-proof: 
-  title: beoordelingen cursisten
+  subtitle: door bij mij een cursus te volgen leer je waarom.
+  title: goede foto’s maken. zelfs met je mobiel
+proof:
   members:
-    - name: Richard
-      img: /assets/img/hult.jpg
-      profession: Makelaar
-      quote: Dit had ik niet verwacht. Echt vet!
+    - img: /assets/img/morgan.jpg
+      name: Daniëlle Goudswaard
+      profession: Student SPH
+      quote: Echt geniaal dit Cili. Ik ben helemaal onder de indruk van dit fenomeen!
+    - img: /assets/img/holyoake.jpg
+      name: Richard Bihari
+      profession: Software Ontwikkelaar
+      quote: >-
+        Nu heb ik echt het idee dat ik veel meer weet over hoe je inhoudelijk
+        een goede foto kan maken. Chapeau Cili!
+  title: beoordelingen cursisten
