@@ -3,6 +3,7 @@ title: krachtig beeld
 category: jongeren
 img: 
   url: /assets/img/mazzoli.jpg
+  thumb: /assets/img/mazzoli-thumb.jpg
   caption: Francesco Mazzoli, Sesto San Giovanni, Italy
 amount: 8 lessen van 1,5 uur
 time: donderdag 16:00 - 17:30

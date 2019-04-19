@@ -3,6 +3,7 @@ title: niet-westerse fotografie
 category: volwassenen
 img: 
   url: /assets/img/ghoussein.jpg
+  thumb: /assets/img/ghoussein-thumb.jpg
   caption: Tarek Al-Ghoussein, Untitled 9 (Self Portrait Series), 2002-03
 amount: 5 lessen van 1,5 uur
 time: donderdag 19:30 - 21:00
