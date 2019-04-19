@@ -7,7 +7,7 @@ media_folder: "/assets/img"
 collections:
   - name: "home"
     label: "Homepage"
-    folder: "_data/" 
+    file: "_data/home.yml"
     widget: "object"
     fields:
     - label: "Intro"
@@ -71,7 +71,7 @@ collections:
 
   - name: "members"
     label: "Cursisten"
-    folder: "_data/"
+    file: "_data/members.yml"
     widget: "list"
     fields:
       - {label: "Naam", name: "name", widget: "string"}
@@ -81,7 +81,7 @@ collections:
 
   - name: "contact"
     label: "Contactgegevens"
-    folder: "_data/"
+    file: "_data/contact.yml"
     fields:
       - {label: "Bedrijfsnaam", name: "company", widget: "string"}
       - {label: "Locatie", name: "location", widget: "string"}
