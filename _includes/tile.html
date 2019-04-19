@@ -1,5 +1,5 @@
 <a class="tile js-scroll-magic" hook="0.94" href="{{ entry.url }}">
-    <img class="tile__img tr-stag js-tr" src="/assets/img/{{ entry.img.url }}-thumb.jpg" />
+    <img class="tile__img tr-stag js-tr" src="{{ entry.img.url | replace: ".jpg", "-thumb.jpg" }}" />
     <div class="tile__bg tr-stag js-tr">
         <header class="tile__header">
             <h3 class="tile__title tr-stag js-tr">{{ entry.title }}</h3>

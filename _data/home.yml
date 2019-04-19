@@ -2,7 +2,7 @@ intro:
   title: maak de klik tussen kunst en fotografie
   subtitle:
   img:
-    url: jessen.jpg
+    url: /assets/img/jessen.jpg
     caption: Rye Jessen, Untitled, 2018
   discover: ontdek meer
 
@@ -10,7 +10,7 @@ art:
   title: aangeleerde kijkpatronen herkennen en doorbreken
   subtitle: helpt je om op een meer creatieve en bewuste manier te fotograferen.
   img: 
-    url: blossfeldt.jpg
+    url: /assets/img/blossfeldt.jpg
     caption: Karl Blossfeldt
 
 pattern:
