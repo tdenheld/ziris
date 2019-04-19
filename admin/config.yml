@@ -5,36 +5,56 @@ backend:
 media_folder: "/assets/img"
 
 collections:
-  - name: "index"
-    label: "Homepage"
-    file: "/_data/home.yml"
-    widget: "object"
-    fields:
-    - label: "Intro"
-      name: "intro"
-      widget: "object"
-      fields: 
-        - {label: "Titel", name: "title", widget: "string", default: "maak de klik tussen kunst en fotografie"}
-        - {label: "Subtitel", name: "subtitle", widget: "text", required: false}
-        - {label: "Afbeelding", name: "img", widget: "image"}
-        - {label: "Afb. beschrijving", name: "caption", widget: "string"}
-        - {label: "Scroll indicatie", name: "discover", widget: "string", default: "ontdek meer"}
-    - label: "Vervolgsectie"
-      name: "art"
-      widget: "object"
-      fields: 
-        - {label: "Titel", name: "title", widget: "string", default: "aangeleerde kijkpatronen herkennen en doorbreken"}
-        - {label: "Subtitel", name: "subtitle", widget: "text", default: "helpt je om op een meer creatieve en bewuste manier te fotograferen.", required: false}
-        - {label: "Afbeelding", name: "img", widget: "image"}
-        - {label: "Afb. beschrijving", name: "caption", widget: "string"}
-    - label: "Oproep tot actie"
-      name: "pattern"
-      widget: "object"
-      fields: 
-        - {label: "Titel", name: "title", widget: "string", default: "goede foto’s maken. zelfs met je mobiel"}
-        - {label: "Subtitel", name: "subtitle", widget: "text", default: "door bij mij een cursus te volgen leer je waarom.", required: false}
-        - {label: "Knop", name: "button", widget: "string"}
-    - {label: "Sociaal bewijs (titel)", name: "proof", widget: "string", default: "beoordelingen cursisten"}
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home page"
+        name: "home"
+        file: "_data/home.yml"
+        widget: "object"
+        fields:
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            fields: 
+              - {label: "Titel", name: "title", widget: "string", default: "maak de klik tussen kunst en fotografie"}
+              - {label: "Subtitel", name: "subtitle", widget: "text", required: false}
+              - {label: "Afbeelding", name: "img", widget: "image"}
+              - {label: "Afb. beschrijving", name: "caption", widget: "string"}
+              - {label: "Scroll indicatie", name: "discover", widget: "string", default: "ontdek meer"}
+          - label: "Vervolgsectie"
+            name: "art"
+            widget: "object"
+            fields: 
+              - {label: "Titel", name: "title", widget: "string", default: "aangeleerde kijkpatronen herkennen en doorbreken"}
+              - {label: "Subtitel", name: "subtitle", widget: "text", default: "helpt je om op een meer creatieve en bewuste manier te fotograferen.", required: false}
+              - {label: "Afbeelding", name: "img", widget: "image"}
+              - {label: "Afb. beschrijving", name: "caption", widget: "string"}
+          - label: "Oproep tot actie"
+            name: "pattern"
+            widget: "object"
+            fields: 
+              - {label: "Titel", name: "title", widget: "string", default: "goede foto’s maken. zelfs met je mobiel"}
+              - {label: "Subtitel", name: "subtitle", widget: "text", default: "door bij mij een cursus te volgen leer je waarom.", required: false}
+              - {label: "Knop", name: "button", widget: "string"}
+          - {label: "Sociaal bewijs (titel)", name: "proof", widget: "string", default: "beoordelingen cursisten"}
+      - name: "members"
+        label: "Cursisten"
+        file: "_data/members.yml"
+        widget: "list"
+        fields:
+          - {label: "Naam", name: "name", widget: "string"}
+          - {label: "Afbeelding", name: "img", widget: "image"}
+          - {label: "Beroep", name: "profession", widget: "string"}
+          - {label: "Citaat", name: "quote", widget: "text"}
+      - name: "contact"
+        label: "Contactgegevens"
+        file: "_data/contact.yml"
+        fields:
+          - {label: "Bedrijfsnaam", name: "company", widget: "string"}
+          - {label: "Locatie", name: "location", widget: "string"}
+          - {label: "E-mailadres", name: "email", widget: "string"}
+          - {label: "Telefoonnummer", name: "phone", widget: "string"}
 
   - name: "cursussen" # Used in routes, e.g., /admin/collections/blog
     label: "Cursussen" # Used in the UI
@@ -65,23 +85,3 @@ collections:
       - {label: "Header", name: "header", widget: "hidden", default: "header--white"}
       - {label: "Titel", name: "title", widget: "string", default: "over ziris kunst en fotografie"}
       - {label: "Body", name: "body", widget: "markdown"}
-    
-
-  - name: "index"
-    label: "Cursisten"
-    file: "/_data/members.yml"
-    widget: "list"
-    fields:
-      - {label: "Naam", name: "name", widget: "string"}
-      - {label: "Afbeelding", name: "img", widget: "image"}
-      - {label: "Beroep", name: "profession", widget: "string"}
-      - {label: "Citaat", name: "quote", widget: "text"}
-
-  - name: "contact"
-    label: "Contactgegevens"
-    file: "/_data/contact.yml"
-    fields:
-      - {label: "Bedrijfsnaam", name: "company", widget: "string"}
-      - {label: "Locatie", name: "location", widget: "string"}
-      - {label: "E-mailadres", name: "email", widget: "string"}
-      - {label: "Telefoonnummer", name: "phone", widget: "string"}
