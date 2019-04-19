@@ -16,4 +16,10 @@ pattern:
   subtitle: door bij mij een cursus te volgen leer je waarom.
   button: bekijk cursussen
 
-proof: beoordelingen cursisten
+proof: 
+  title: beoordelingen cursisten
+  members:
+    - name: Richard
+      img: /assets/img/hult.jpg
+      profession: Makelaar
+      quote: Dit had ik niet verwacht. Echt vet!
