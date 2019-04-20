@@ -6,7 +6,7 @@ media_folder: "/assets/img"
 publish_mode: editorial_workflow
 
 collections:
-  - label: "Pages"
+  - label: "Pagina's"
     name: "pages"
     files:
       - label: "Home"
@@ -59,6 +59,14 @@ collections:
           - {label: "Locatie", name: "location", widget: "string"}
           - {label: "E-mailadres", name: "email", widget: "string"}
           - {label: "Telefoonnummer", name: "phone", widget: "string"}
+      - name: "over-ziris"
+        label: "Over Ziris"
+        folder: "/"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
+          - {label: "Header", name: "header", widget: "hidden", default: "header--white"}
+          - {label: "Titel", name: "title", widget: "string", default: "over ziris kunst en fotografie"}
+          - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "cursussen" # Used in routes, e.g., /admin/collections/blog
     label: "Cursussen" # Used in the UI
@@ -79,13 +87,4 @@ collections:
       - {label: "Locatie", name: "location", widget: "string"}
       - {label: "Prijs", name: "price", widget: "string"}
       - {label: "Inclusief", name: "inc", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-
-  - name: "over-ziris"
-    label: "Over je bedrijf"
-    folder: "/"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
-      - {label: "Header", name: "header", widget: "hidden", default: "header--white"}
-      - {label: "Titel", name: "title", widget: "string", default: "over ziris kunst en fotografie"}
       - {label: "Body", name: "body", widget: "markdown"}
