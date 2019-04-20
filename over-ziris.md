@@ -1,7 +1,7 @@
 ---
 layout: about
 header: header--white
-title: over ziris kunst en fotografie
+title: ziris kunst en fotografie
 ---
 ## visie
 
@@ -9,7 +9,7 @@ Ieder mens heeft creatieve eigenschappen. Creatieve ontwikkeling geeft je vrijhe
 
 
 
-## **over Ziris** 
+## **over ziris** 
 
 Ziris biedt cursussen aan op het gebied van kunstgeschiedenis in combinatie met fotografie. In de cursussen worden kunsttheorie en praktische opdrachten nadrukkelijk met elkaar verbonden. 
 
