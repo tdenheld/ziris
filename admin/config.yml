@@ -61,7 +61,7 @@ collections:
           - {label: "Telefoonnummer", name: "phone", widget: "string"}
       - name: "over-ziris"
         label: "Over Ziris"
-        folder: "/"
+        file: "over-ziris.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
           - {label: "Header", name: "header", widget: "hidden", default: "header--white"}
