@@ -1,7 +1,7 @@
 ---
 layout: about
 header: header--white
-title: ziris | kunst & fotografie
+title: over ziris
 ---
 ## visie
 
