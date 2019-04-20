@@ -2,7 +2,7 @@
 title: vrouwelijke fotografen
 date: 2019-04-20T04:32:17.416Z
 category: volwassenen
-description: Fotografie is een discipline te zijn waar vrouwen in grote mate bepalend zijn.
+description: Fotografie is een discipline waarin vrouwen in hoge mate bepalend zijn.
 thumb: /assets/img/essaydi_thumb.jpg
 img: /assets/img/essaydi.jpg
 caption: 'Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003'
