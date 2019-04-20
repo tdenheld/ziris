@@ -8,7 +8,7 @@ description: >-
   beeldvervaardiging.
 thumb: /assets/img/breitner_thumb.jpg
 img: /assets/img/breitner.jpg
-caption: 'G.H. Breitner, Portret van vrouw op het Spui. c.1895'
+caption: 'G.H. Breitner, Meisje op de brug bij Prinseneiland. c.1895'
 amount: '6 lessen van 1,5 uur'
 time: 'donderdag om de week 19:30 - 21:00'
 start: 26 september 2019
