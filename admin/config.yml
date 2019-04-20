@@ -51,14 +51,6 @@ collections:
                   - {label: "Afbeelding", name: "img", widget: "image"}
                   - {label: "Beroep", name: "profession", widget: "string"}
                   - {label: "Citaat (niet tussen haakjes zetten)", name: "quote", widget: "text"}
-      - name: "contact"
-        label: "Contact"
-        file: "_data/contact.yml"
-        fields:
-          - {label: "Bedrijfsnaam", name: "company", widget: "string"}
-          - {label: "Locatie", name: "location", widget: "string"}
-          - {label: "E-mailadres", name: "email", widget: "string"}
-          - {label: "Telefoonnummer", name: "phone", widget: "string"}
       - name: "over-ziris"
         label: "Over Ziris"
         file: "over-ziris.md"
@@ -67,6 +59,14 @@ collections:
           - {label: "Header", name: "header", widget: "hidden", default: "header--white"}
           - {label: "Titel", name: "title", widget: "string", default: "over ziris kunst en fotografie"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - name: "contact"
+        label: "Contact"
+        file: "_data/contact.yml"
+        fields:
+          - {label: "Bedrijfsnaam", name: "company", widget: "string"}
+          - {label: "Locatie", name: "location", widget: "string"}
+          - {label: "E-mailadres", name: "email", widget: "string"}
+          - {label: "Telefoonnummer", name: "phone", widget: "string"}
 
   - name: "cursussen" # Used in routes, e.g., /admin/collections/blog
     label: "Cursussen" # Used in the UI
