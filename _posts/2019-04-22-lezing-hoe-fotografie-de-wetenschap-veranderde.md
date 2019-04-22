@@ -2,11 +2,14 @@
 title: Lezing  Hoe fotografie de wetenschap veranderde
 date: 2019-04-22T07:53:17.291Z
 category: volwassenen
-description: Tijdens de lezing wordt ingegaan op de rol van fotografie in de wetenschap.
+description: >-
+  In het huidige wetenschappelijke onderzoek zijn fotografische afbeeldingen
+  onmisbaar. Achter dit gebruik zit een zeer interessante geschiedenis die ons
+  terugvoert naar de opkomst van de fotografie in de 19 e eeuw.
 thumb: /assets/img/magnolia_thumb.jpg
 img: /assets/img/magnolia.jpg
 caption: 'Anoniem, Tak met 4 magnolia''s. 1910-1925'
-amount: 1 lezing
+amount: lezing
 time: 14.00 - 16.00
 start: zaterdag 19 juni
 location: 'De Kargadoor Oudegracht 36, 3511 AP Utrecht'
