@@ -15,4 +15,4 @@ location: 'Buurthuis De Boog, Gambiadreef 60 Utrecht'
 price: '175,-'
 inc: lesboek met opdrachten
 ---
- Door selectieve opdrachten, zoals het maken van een zelfportret, het fotograferen met weinig licht, maar ook door het fotograferen van dieren, leren de kinderen hun omgeving op ongebruikelijke wijze te bekijken en vast te leggen. Het doel is om de visuele- en creatieve vaardigheden te versterken. De cursus wordt afgesloten met een presentatie.
+Door selectieve opdrachten, zoals het maken van een zelfportret, het fotograferen met weinig licht, maar ook door het fotograferen van dieren, leren de kinderen hun omgeving op ongebruikelijke wijze te bekijken en vast te leggen. Het doel is om de visuele- en creatieve vaardigheden te versterken. De cursus wordt afgesloten met een presentatie.
