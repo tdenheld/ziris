@@ -1,5 +1,5 @@
 ---
-title: Lezing  Hoe fotografie de wetenschap veranderde
+title: Lezing  <br>Hoe fotografie de wetenschap veranderde
 date: 2019-04-22T07:53:17.291Z
 category: volwassenen
 description: >-
