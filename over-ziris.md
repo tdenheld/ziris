@@ -15,6 +15,8 @@ Twee keer per jaar wordt er een foto-**excursie** georganiseerd. We gaan samen f
 
 Ieder jaar verzorgt Ziris een aantal **lezingen** over fotografie, met name op het gebied van kunstgeschiedenis, wetenschapsgeschiedenis en hun relatie tot de fotografie. 
 
+
+
 ## de docenten
 
 **Drs. Cecilia Kocsis**\
