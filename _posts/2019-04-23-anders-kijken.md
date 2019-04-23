@@ -8,7 +8,7 @@ description: >-
   manier te fotograferen.
 thumb: /assets/img/pierson_thumb.jpg
 img: /assets/img/pierson-countes-castiglione.jpg
-caption: 'L. Pierson, Countess Castiglione. c. 1860'
+caption: 'L. Pierson, Countess Castiglione. c. 1860 detail'
 amount: '5 lessen '
 time: 19.30 tot 21.00
 start: maandag 16 september 2019
