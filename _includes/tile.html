@@ -2,6 +2,9 @@
     <img class="tile__img tr-stag js-tr" src="{{ entry.thumb }}" />
     <div class="tile__bg tr-stag js-tr">
         <header class="tile__header">
+            {% if entry.type %}
+                <div class="tile__type tr-stag js-tr">{{ entry.type }}</div>
+            {% endif %}
             <h3 class="tile__title tr-stag js-tr">{{ entry.title }}</h3>
         </header>
         <div class="tile__txt tr-stag js-tr">

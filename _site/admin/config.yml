@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: "/assets/img"
+media_folder: "assets/img"
 publish_mode: editorial_workflow
 
 collections:
@@ -67,6 +67,11 @@ collections:
           - {label: "Locatie", name: "location", widget: "string"}
           - {label: "E-mailadres", name: "email", widget: "string"}
           - {label: "Telefoonnummer", name: "phone", widget: "string"}
+      - name: "convince"
+        label: "Overtuiging"
+        file: "_data/convince.yml"
+        fields:
+          - {label: "Tekstje", name: "text", widget: "string"}
 
   - name: "cursussen" # Used in routes, e.g., /admin/collections/blog
     label: "Cursussen" # Used in the UI
@@ -77,6 +82,7 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Categorie", name: "category", widget: "select", options: ["volwassenen", "jongeren", "kinderen"]}
+      - {label: "Type les", name: "type", widget: "string", required: false}
       - {label: "Beschrijving", name: "description", widget: "text"}
       - {label: "Thumbnail", name: "thumb", widget: "image"}
       - {label: "Afbeelding", name: "img", widget: "image"}
@@ -86,5 +92,5 @@ collections:
       - {label: "Start cursus", name: "start", widget: "string"}
       - {label: "Locatie", name: "location", widget: "string"}
       - {label: "Prijs", name: "price", widget: "string"}
-      - {label: "Inclusief", name: "inc", widget: "string"}
+      - {label: "Inclusief", name: "inc", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
