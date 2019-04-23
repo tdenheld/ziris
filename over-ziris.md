@@ -3,10 +3,10 @@ layout: about
 header: header--white
 title: over ziris kunst en fotografie
 ---
-### Visie
+## visie
 Ieder mens heeft creatieve eigenschappen. Creatieve ontwikkeling geeft je vrijheid, ruimdenkendheid en een sterkere plaats in de wereld. Dit gebeurt al door naar kunst te kijken, en wordt nog sterker door zelf kunstzinnig werk te maken.
 
-### Over Ziris
+## over Ziris
 Ziris biedt cursussen aan op het gebied van kunstgeschiedenis in combinatie met fotografie. In de cursussen worden kunsttheorie en praktische opdrachten nadrukkelijk met elkaar verbonden.
 
 In samenwerking met ZIMIHC theater Stefanus in Utrecht is er eens per jaar, in januari, een groeps**expositie** van het werk van de cursisten. De expositie van dit jaar ‘Van A tot Z, van Architectuur tot Zelfportret’ was drukbezocht en een groot succes.
