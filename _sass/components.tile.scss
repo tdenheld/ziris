@@ -6,15 +6,31 @@
     grid-template-rows: max-content 1fr max-content;
 }
 
-.tile__img {
-    object-fit: cover;
-    width: 100%;
+.tile__img-container {
+    position: relative;
+    overflow: hidden;
     height: 180px;
+}
+
+.tile__img {
+    @include full(absolute);
+    object-fit: cover;
     border-radius: 2px 2px 0 0;
 
     @include md {
         height: 240px;
     }
+}
+
+.tile__type {
+    position: absolute;
+    bottom: 20px;
+    left: $gutter;
+    display: inline-block;
+    padding: 2px 6px 3px;
+    background-color: $brand;
+    @include font(14px, 700, $lh-copy);
+    color: $light;
 }
 
 .tile__bg {
@@ -35,14 +51,6 @@
     @include md {
         font-size: calculate-rem(36px);
     }
-}
-
-.tile__type {
-    display: inline-block;
-    padding: 2px 6px 3px;
-    background-color: $brand;
-    @include font(14px, 700, $lh-copy);
-    color: $light;
 }
 
 .tile__amount {
