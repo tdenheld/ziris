@@ -10,8 +10,8 @@ thumb: /assets/img/pierson_thumb.jpg
 img: /assets/img/pierson-countes-castiglione.jpg
 caption: 'L. Pierson, Countess Castiglione. c. 1860 detail'
 amount: '5 lessen '
-time: 19.30 tot 21.00
-start: maandag 16 september 2019
+time: maandag om de week van 19.30 tot 21.00
+start: 16 september 2019
 location: 'Buurthuis De Boog,  Gambiadreef 60 Utrecht'
 price: '170,-'
 inc: lesmateriaal
