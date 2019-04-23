@@ -9,7 +9,7 @@ description: >-
 thumb: /assets/img/breitner_thumb.jpg
 img: /assets/img/breitner.jpg
 caption: 'G.H. Breitner, Meisje op de brug bij Prinseneiland. c.1895'
-amount: '6 lessen '
+amount: '6 lessen van 1,5 uur'
 time: 'donderdag om de week 19:30 - 21:00'
 start: 26 september 2019
 location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
