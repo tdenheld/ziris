@@ -1,5 +1,5 @@
 ---
-title: 'de invloed van fotografie op wetenschap '
+title: 'fotografie en wetenschap '
 date: 2019-04-23T07:53:17.291Z
 category: volwassenen
 type: lezing
