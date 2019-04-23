@@ -1,5 +1,5 @@
 ---
-title: Kijk mij eens!
+title: kijk mij eens!
 date: 2019-04-22T07:00:24.471Z
 category: kinderen
 description: >-
