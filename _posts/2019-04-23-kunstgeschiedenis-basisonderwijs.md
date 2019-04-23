@@ -1,5 +1,5 @@
 ---
-title: kunstgeschiedenis basisonderwijs
+title: kunst&shy;geschiedenis basisonderwijs
 date: 2019-04-23T13:50:54.040Z
 category: kinderen
 type: kunstles
