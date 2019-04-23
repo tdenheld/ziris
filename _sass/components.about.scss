@@ -50,16 +50,12 @@
 
     h3 {
         margin: $double-gutter 0 $half-gutter;
-        @include font(24px, 700, $lh-copy);
-
-        @include sm {
-            font-size: calculate-rem(32px);
-        }
+        @include font(20px, 900, $lh-copy);
     }
 
     h4 {
         margin: $double-gutter 0 $half-gutter;
-        @include font(20px, 900, $lh-copy);
+        @include font(18px, 700, $lh-copy);
     }
 
     ul {
