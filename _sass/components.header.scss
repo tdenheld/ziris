@@ -72,8 +72,12 @@
     .button--header {
         border: 1px solid $brand;
         color: $brand;
+    }
+}
 
-        &:hover {
+.no-touch {
+    .header--white {
+        .button--header:hover {
             background-color: $brand;
             color: $light;
         }
@@ -98,8 +102,12 @@
     .button--header {
         border: 1px solid $light;
         color: $light;
+    }
+}
 
-        &:hover {
+.no-touch {
+    .header--brand {
+        .button--header:hover {
             background-color: $light;
             color: $brand;
         }
