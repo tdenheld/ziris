@@ -1,6 +1,6 @@
 ---
 title: lezing  <br>hoe fotografie de wetenschap veranderde
-date: 2019-04-22T07:53:17.291Z
+date: 2019-04-23T07:53:17.291Z
 category: volwassenen
 description: >-
   In het huidige wetenschappelijke onderzoek zijn fotografische afbeeldingen
