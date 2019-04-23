@@ -1,5 +1,5 @@
 ---
-title: vrouwen fotografie
+title: vrouwenfotografie
 date: 2019-04-20T04:32:17.416Z
 category: volwassenen
 description: Kunnen vrouwen beter fotograferen dan mannen?
