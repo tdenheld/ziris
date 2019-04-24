@@ -13,7 +13,7 @@ amount: 5 lessen van 1.5 uur
 time: maandag om de week van 19.30 tot 21.00
 start: 16 september 2019
 location: 'Buurthuis De Boog,  Gambiadreef 60 Utrecht'
-price: '170,-'
+price: '175,-'
 inc: lesmateriaal
 ---
  Er wordt onder meer aandacht besteed aan de inhoud van een afbeelding. Welke betekenis heeft een foto en welke boodschap wil het overdragen? Maar ook leer je de effecten van formele fotografie begrijpen. Afbeeldingen uit de kunstgeschiedenis en fotografie, zowel de toegepaste vormen als de autonome vormen, dienen als voorbeeld en zullen tijdens de lessen getoond worden. Aan de hand van visuele analyses word je werk, samen met de andere deelnemers, bekeken en besproken. 
