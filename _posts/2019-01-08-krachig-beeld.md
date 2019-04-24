@@ -7,7 +7,7 @@ description: >-
   een boodschap kunt overdragen. Ook worden de manieren van communicatie en de
   context van een foto behandeld.
 thumb: /assets/img/sassen_thumb.jpg
-img: /assets/img/mazzoli.jpg
+img: /assets/img/sassen-fingersheet-umbra-2014.jpg
 caption: 'Francesco Mazzoli, Sesto San Giovanni, Italy'
 amount: '8 lessen van 1,5 uur'
 time: 'donderdag 16:00 - 17:30'
