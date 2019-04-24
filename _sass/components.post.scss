@@ -68,7 +68,6 @@
     }
 
     ul, ol {
-        padding-left: 18px;
         @include font(16px, 500, $lh-copy);
 
         @include sm {
@@ -77,7 +76,16 @@
     }
 
     ul {
+        padding-left: 18px;
         list-style-type: disc;
+    }
+
+    ol {
+        padding-left: 29px;
+
+        @include sm {
+            padding-left: 32px;
+        }
     }
 
     li {
