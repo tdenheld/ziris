@@ -11,7 +11,7 @@ Ieder mens heeft creatieve eigenschappen. Creatieve ontwikkeling geeft je vrijhe
 
 Ziris biedt cursussen aan op het gebied van kunstgeschiedenis in combinatie met fotografie. In de cursussen worden kunsttheorie en praktische opdrachten nadrukkelijk met elkaar verbonden.
 
-In samenwerking met ZIMIHC theater Stefanus in Utrecht is er eens per jaar, in januari, een groeps**expositie** van het werk van de cursisten. De expositie van dit jaar ‘Van A tot Z, van Architectuur tot Zelfportret’ was drukbezocht en een groot succes.
+In samenwerking met ZIMIHC theater Stefanus in Utrecht is er eens per jaar, in januari, een groeps <b>expositie<b> van het werk van de cursisten. De expositie van dit jaar ‘Van A tot Z, van Architectuur tot Zelfportret’ was drukbezocht en een groot succes.
 
 Twee keer per jaar wordt er een foto-**excursie** georganiseerd. We gaan samen fotograferen op interessante locaties. De excursies zijn gevarieerd, d.w.z. dat diverse fotografische disciplines aan bod komen.
 
