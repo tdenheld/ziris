@@ -9,7 +9,7 @@ description: >-
 thumb: /assets/img/haarmans_thumb.jpg
 img: /assets/img/haarmans.jpg
 caption: 'Marloes Haarmans, Eat.'
-amount: '8 lessen van 1,5 uur'
+amount: '6 lessen van 1,5 uur'
 time: 'donderdag 16:00 - 17:30'
 start: 26 september 2019
 location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
