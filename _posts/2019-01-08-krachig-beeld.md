@@ -8,7 +8,7 @@ description: >-
   context van een foto behandeld.
 thumb: /assets/img/sassen_thumb.jpg
 img: /assets/img/sassen-fingersheet-umbra-2014.jpg
-caption: 'Francesco Mazzoli, Sesto San Giovanni, Italy'
+caption: 'Viviane Sassen, Fingersheet, from UMBRA 2014.'
 amount: '8 lessen van 1,5 uur'
 time: 'donderdag 16:00 - 17:30'
 start: 26 september 2019
