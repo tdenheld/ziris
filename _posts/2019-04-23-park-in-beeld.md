@@ -9,7 +9,7 @@ description: >-
   Leidsche Rijn en is samengesteld uit verschillende soorten tuinen.
 thumb: /assets/img/ronald-correlje_thumb.jpg
 img: /assets/img/ronald-correlje.jpg
-caption: 'Ronald Correlje, Maximapark. Japanse tuin in de winter'
+caption: 'Ronald Correljé, Maximapark. Japanse tuin in de winter'
 amount: 1 les van 3 uur
 time: zaterdag van 14.00 tot 17.00
 start: 11 mei 2019
