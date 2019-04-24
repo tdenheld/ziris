@@ -13,7 +13,7 @@ amount: '6 lessen van 1,5 uur'
 time: 'donderdag om de week 19:30 - 21:00'
 start: 26 september 2019
 location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
-price: 185.-
+price: 195.-
 inc: lesmateriaal
 ---
 
