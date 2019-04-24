@@ -59,7 +59,7 @@
     }
 
     ul, ol {
-        list-style-position: inside;
+        padding-left: 18px;
         @include font(16px, 500, $lh-copy);
 
         @include sm {
