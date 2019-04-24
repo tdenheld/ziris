@@ -16,10 +16,12 @@ location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
 price: 165.-
 inc: lesmateriaal
 ---
-Wij kijken met westerse ogen naar beeld, ook naar fotografie die niet-westers is. In deze cursus wordt in 5 lessen de fotografie van andere continenten nader bestudeerd. Aan de hand van vele voorbeelden worden de verschillen die opvallen besproken. De cursisten krijgen na elke les een fotografische opdracht.
+Wij kijken met westerse ogen naar beeld, ook naar fotografie die niet-westers is. In deze cursus wordt  fotografie van andere continenten nader bestudeerd. Aan de hand van vele voorbeelden worden de verschillen die opvallen besproken. De cursisten krijgen na elke les een fotografische opdracht.
 
-* De Arabische wereld
-* Azië
-* Zuid-Amerika
-* Afrika
-* Oceanië
+## De cursus is opgebouwd uit 5 lessen:
+
+1. De Arabische wereld
+2. Azië
+3. Zuid-Amerika
+4. Afrika
+5. Oceanië
