@@ -10,7 +10,7 @@ description: >-
 thumb: /assets/img/ronald-correlje_thumb.jpg
 img: /assets/img/ronald-correlje.jpg
 caption: 'Ronald Correljé, Maximapark. Japanse tuin in de winter'
-amount: 1 les van 3 uur
+amount: eenmalig 3 uur
 time: zaterdag van 14.00 tot 17.00
 start: 11 mei 2019
 location: Maximapark Utrecht
