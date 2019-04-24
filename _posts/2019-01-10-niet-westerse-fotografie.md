@@ -1,6 +1,6 @@
 ---
 title: niet-westerse fotografie
-date: 2019-04-24T11:16:18.956Z
+date: 2019-04-22T11:16:18.956Z
 category: volwassenen
 description: >-
   Wij kijken met westerse ogen naar beeld, ook naar fotografie die niet-westers
