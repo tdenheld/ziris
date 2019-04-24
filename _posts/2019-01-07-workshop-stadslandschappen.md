@@ -8,7 +8,7 @@ description: >-
 thumb: /assets/img/najjar-netropolis-berlin_thumb-.jpg
 img: /assets/img/najjar-netropolis-berlin-.jpg
 caption: 'M. Najjar, Netropolis - Berlin. 2003-2009'
-amount: 1 les van 2 uur
+amount: eenmalig 2 uur
 time: 'zaterdag 11:00 - 13:00'
 start: elke eerste zaterdag van de maand
 location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
