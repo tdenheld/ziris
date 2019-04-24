@@ -8,7 +8,7 @@ description: >-
   context van een foto behandeld.
 thumb: /assets/img/adams_thumb.jpg
 img: /assets/img/adams.jpg
-caption: 'Robert Adams Colorado Springs, 1968'
+caption: 'Robert Adams, Colorado Springs, 1968'
 amount: '8 lessen van 1,5 uur'
 time: 'donderdag 16:00 - 17:30'
 start: 26 september 2019
@@ -18,10 +18,11 @@ inc: lesmateriaal
 ---
 
 Je leert in deze cursus over de betekenis van een foto, hoe je met een foto een boodschap kunt overdragen. In de cursus behandelen we verschillende fotografische disciplines zoals:
-- • reclamefotografie
-- • modefotografie
-- • portretfotografie
-- • natuurfotografie 
+
+* reclamefotografie
+* modefotografie
+* portretfotografie
+* natuurfotografie 
 
 Ook worden de manieren van communicatie en de context van een foto behandeld.
 Na elke les krijg je een creatieve fotografische opdracht die de week erop besproken wordt. Er bestaat een mogelijkheid om met je werk te exposeren in Cultuurhuis Stefanus, Utrecht. 
