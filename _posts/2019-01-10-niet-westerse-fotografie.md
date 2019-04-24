@@ -1,6 +1,6 @@
 ---
 title: niet-westerse fotografie
-date: 2019-04-21T14:34:11.696Z
+date: 2019-04-24T11:16:18.956Z
 category: volwassenen
 description: >-
   Wij kijken met westerse ogen naar beeld, ook naar fotografie die niet-westers
@@ -19,10 +19,8 @@ inc: lesmateriaal
 
 Wij kijken met westerse ogen naar beeld, ook naar fotografie die niet-westers is. In deze cursus wordt in 5 lessen de fotografie van andere continenten nader bestudeerd. Aan de hand van vele voorbeelden worden de verschillen die opvallen besproken. De cursisten krijgen na elke les een fotografische opdracht.
 
-## De cursus is opgebouwd uit 5 lessen:
-
-0. De Arabische wereld
-0. Azië
-0. Zuid-Amerika
-0. Afrika
-0. Oceanië
+- Les 1. De Arabische wereld
+- Les 2. Azië
+- Les 3. Zuid-Amerika
+- Les 4. Afrika
+- Les 5. Oceanië
