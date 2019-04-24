@@ -62,6 +62,11 @@
         }
     }
 
+    h3 {
+        margin: $double-gutter 0 $half-gutter;
+        @include font(20px, 900, $lh-copy);
+    }
+
     ul {
         @include font(16px, 500, $lh-copy);
 
