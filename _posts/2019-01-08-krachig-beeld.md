@@ -1,16 +1,20 @@
 ---
 title: krachtig beeld
+date: 2019-04-22T06:45:22.920Z
 category: jongeren
+description: >-
+  Je leert in deze cursus over de betekenis van een foto, hoe je met een foto
+  een boodschap kunt overdragen. Ook worden de manieren van communicatie en de
+  context van een foto behandeld.
+thumb: /assets/img/sassen_thumb.jpg
 img: /assets/img/mazzoli.jpg
-thumb: /assets/img/mazzoli-thumb.jpg
-caption: Francesco Mazzoli, Sesto San Giovanni, Italy
-amount: 8 lessen van 1,5 uur
-time: donderdag 16:00 - 17:30
-start:  26 september 2019
-location: buurthuis De Boog, Gambiadreef 60 Utrecht 
+caption: 'Francesco Mazzoli, Sesto San Giovanni, Italy'
+amount: '8 lessen van 1,5 uur'
+time: 'donderdag 16:00 - 17:30'
+start: 26 september 2019
+location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
 price: 195.-
 inc: lesmateriaal
-description: Je leert in deze cursus over de betekenis van een foto, hoe je met een foto een boodschap kunt overdragen. Ook worden de manieren van communicatie en de context van een foto behandeld.
 ---
 
 Je leert in deze cursus over de betekenis van een foto, hoe je met een foto een boodschap kunt overdragen. In de cursus behandelen we verschillende fotografische disciplines zoals:
