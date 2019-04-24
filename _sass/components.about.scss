@@ -58,12 +58,17 @@
         @include font(18px, 700, $lh-copy);
     }
 
-    ul {
+    ul, ol {
+        list-style-position: inside;
         @include font(16px, 500, $lh-copy);
 
         @include sm {
             font-size: calculate-rem(18px);
         }
+    }
+
+    ul {
+        list-style-type: disc;
     }
 
     li {
