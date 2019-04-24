@@ -18,10 +18,11 @@ inc: lesmateriaal
 ---
 
 Je leert in deze cursus over de betekenis van een foto, hoe je met een foto een boodschap kunt overdragen. In de cursus behandelen we verschillende fotografische disciplines zoals:
-- • reclamefotografie
-- • modefotografie
-- • portretfotografie
-- • natuurfotografie 
+
+* reclamefotografie
+* modefotografie
+* portretfotografie
+* natuurfotografie 
 
 Ook worden de manieren van communicatie en de context van een foto behandeld.
 Na elke les krijg je een creatieve fotografische opdracht die de week erop besproken wordt. Er bestaat een mogelijkheid om met je werk te exposeren in Cultuurhuis Stefanus, Utrecht. 
