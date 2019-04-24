@@ -4,8 +4,8 @@ date: 2019-04-23T13:50:54.040Z
 category: kinderen
 type: kunstles
 description: >-
-  kinderen gedurende de kunstles kennis maken met een aantal beroemde
-  kunstenaars- portretten
+  Laat kinderen in de kunstles kennis maken met een aantal beroemde kunstenaars-
+  portretten
 thumb: /assets/img/vermeer_thumb.jpg
 img: /assets/img/vermeer.jpg
 caption: 'Johannes Vermeer, Meisje met de parel. c. 1665'
