@@ -3,7 +3,7 @@ title: workshop de stad
 date: 2019-04-23T09:37:43.827Z
 category: jongeren
 description: >-
-  Je leert door verschillende technische toepassingen, de stad op verschillende
+  Door verschillende technische toepassingen leer je de stad op verschillende
   manieren fotograferen. Het doel is om je mogelijkheden te vergroten.
 thumb: /assets/img/najjar-netropolis-berlin_thumb-.jpg
 img: /assets/img/najjar-netropolis-berlin-.jpg
