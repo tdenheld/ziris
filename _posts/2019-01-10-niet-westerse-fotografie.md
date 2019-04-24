@@ -3,9 +3,9 @@ title: niet-westerse fotografie
 date: 2019-04-21T14:34:11.696Z
 category: volwassenen
 description: >-
-  Wij kijken met westerse ogen naar beeld, ook naar fotografie en ook naar
-  fotografie die niet-westers is. In deze cursus wordt in 5 lessen de fotografie
-  van andere continenten nader bestudeerd.
+  Wij kijken met westerse ogen naar beeld, ook naar fotografie die niet-westers
+  is. In deze cursus wordt in 5 lessen de fotografie van andere continenten
+  nader bestudeerd.
 thumb: /assets/img/ghoussein-thumb.jpg
 img: /assets/img/ghoussein.jpg
 caption: 'Tarek Al-Ghoussein, Untitled 9 (Self Portrait Series), 2002-03'
@@ -17,10 +17,10 @@ price: 165.-
 inc: lesmateriaal
 ---
 
-Wij kijken met westerse ogen naar beeld, ook naar fotografie en ook naar fotografie die niet-westers is. In deze cursus wordt in 5 lessen de fotografie van andere continenten nader bestudeerd. Aan de hand van vele voorbeelden worden de verschillen die opvallen besproken. De cursisten krijgen na elke les een fotografische opdracht.
+Wij kijken met westerse ogen naar beeld, ook naar fotografie die niet-westers is. In deze cursus wordt in 5 lessen de fotografie van andere continenten nader bestudeerd. Aan de hand van vele voorbeelden worden de verschillen die opvallen besproken. De cursisten krijgen na elke les een fotografische opdracht.
 
-- Les 1. Arabische fotografie 
-- Les 2. Aziatische fotografie
-- Les 3. Zuid-Amerikaanse fotografie
-- Les 4. Afrikaanse fotografie
-- Les 5. Oceanie
+- Les 1. De Arabische wereld
+- Les 2. Azië
+- Les 3. Zuid-Amerika
+- Les 4. Afrika
+- Les 5. Oceanië
