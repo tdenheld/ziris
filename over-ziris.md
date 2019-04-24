@@ -21,13 +21,13 @@ Ieder jaar verzorgt Ziris een aantal **lezingen** over fotografie, met name op h
 
 ![Cecilia Kocsis](/assets/img/docenten_1.jpg "Bart Karstens, Cecilia Kocsis")
 
-### Drs. Cecilia Kocsis
+### **Drs. Cecilia Kocsis**
 
 Na het behalen van mijn doctoraal kunstgeschiedenis in 1984 heb ik een aantal jaren gewerkt als docente kunst- en cultuurgeschiedenis aan de Hogeschool voor de Kunsten in Utrecht. Daarnaast was ik aan het werk als fotografe, zowel in opdracht als autonoom. Mijn interesse in mijn vrije werk gaat vooral uit naar portretfotografie. Ik heb een aantal keren geëxposeerd. Het thema in mijn vrije werk is ‘identiteit’. Dit heeft onder meer geresulteerd in de uitgave van mijn boek Alleen in het land (2002).\
 Vanaf 2006 geef ik cursussen fotografie die ik zelf ontwikkel. Van belang acht ik de combinatie tussen theorie en praktijk, tussen kunstgeschiedenis en fotografie.\
 In 2011 heb ik aan de Universiteit van Utrecht een module esthetiek gevolgd aan de faculteit wijsbegeerte. Vragen over universele waarden en persoonlijke smaak zijn voor mij
 hiervoor een drijfveer geweest.
 
-### Dr. Bart Karstens
+### **Dr. Bart Karstens**
 
 Bart Karstens is wetenschapshistoricus en wetenschapsfilosoof. Als postdoctoraal onderzoeker is hij verbonden aan de Vrije Universiteit van Amsterdam. Hij studeerde wetenschapsgeschiedenis in Utrecht, Amsterdam en Berlijn en haalde in 2009 cum laude zijn doctoraal. In 2015 promoveerde hij aan de Universiteit Leiden op een onderzoek naar ‘fouten’ in de wetenschap.  Zijn belangstelling gaat daarbij uit naar het ontstaan van het systeem van moderne wetenschappelijke disciplines, de wisselwerking tussen kunst en wetenschap en het fenomeen interdisciplinariteit.
