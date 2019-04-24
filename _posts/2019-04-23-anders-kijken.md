@@ -20,8 +20,8 @@ inc: lesmateriaal
 
 ## De cursus is opgebouwd uit 5 lessen:
 
-0. waarnemingspsychologie
-0. vormleer
-0. betekenislagen
-0. communicatie
-0. context
+1. waarnemingspsychologie
+2. vormleer
+3. betekenislagen
+4. communicatie
+5. context
