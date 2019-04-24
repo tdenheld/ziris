@@ -8,7 +8,7 @@ description: >-
   context van een foto behandeld.
 thumb: /assets/img/adams_thumb.jpg
 img: /assets/img/adams.jpg
-caption: 'Robert Adams Colorado Springs, 1968'
+caption: 'Robert Adams, Colorado Springs, 1968'
 amount: '8 lessen van 1,5 uur'
 time: 'donderdag 16:00 - 17:30'
 start: 26 september 2019
