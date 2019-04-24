@@ -8,7 +8,7 @@ description: >-
   context van een foto behandeld.
 thumb: /assets/img/newman_arnold_strawinsky_thumb.jpg
 img: /assets/img/newman_arnold_strawinsky.jpg
-caption: 'Robert Adams, Colorado Springs. 1968'
+caption: 'Arnold Newman, Strawinsky. 1946'
 amount: '6 lessen van 1,5 uur'
 time: 'donderdag 16:00 - 17:30'
 start: 26 september 2019
