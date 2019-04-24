@@ -2,7 +2,9 @@
 title: vrouwenfotografie
 date: 2019-04-20T04:32:17.416Z
 category: volwassenen
-description: Zijn vrouwen betere fotografen dan mannen?
+description: |-
+  Zijn vrouwen betere fotografen dan mannen? kijken vrouwen met een andere blik?
+  Hebben vrouwen een andere benadering?
 thumb: /assets/img/essaydi_thumb.jpg
 img: /assets/img/essaydi.jpg
 caption: 'Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003'
