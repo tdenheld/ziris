@@ -8,7 +8,7 @@ description: >-
   wetenschap drastisch heeft veranderd.
 thumb: /assets/img/magnolia_thumb.jpg
 img: /assets/img/magnolia.jpg
-caption: 'Anoniem, Tak met 4 magnolia''s. 1910-1925'
+caption: 'Anoniem, Tak met 4 magnolia''s. 1910-1925. Röntgenfoto. Rijksmuseum Amsterdam.'
 amount: eenmalig 2 uur
 time: 14.00 - 16.00
 start: zaterdag 19 juni
