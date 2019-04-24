@@ -6,9 +6,9 @@ description: >-
   Je leert in deze cursus over de betekenis van een foto, hoe je met een foto
   een boodschap kunt overdragen. Ook worden de manieren van communicatie en de
   context van een foto behandeld.
-thumb: /assets/img/sylvia-plachy_thumb-.jpg
-img: /assets/img/sylvia-plachy-.jpg
-caption: 'Sylvia Platchy, Love in the afternoon. 1982'
+thumb: /assets/img/haarmans_thumb.jpg
+img: /assets/img/haarmans.jpg
+caption: 'Marloes Haarmans, Eat.'
 amount: '8 lessen van 1,5 uur'
 time: 'donderdag 16:00 - 17:30'
 start: 26 september 2019
