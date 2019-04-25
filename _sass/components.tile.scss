@@ -4,6 +4,12 @@
     border-radius: 2px;
     display: grid;
     grid-template-rows: max-content 1fr max-content;
+
+    &:hover {
+        .tile__img {
+            transform: scale(1.06);
+        }
+    }
 }
 
 .tile__img-container {
@@ -20,6 +26,7 @@
     @include full(absolute);
     object-fit: cover;
     border-radius: 2px 2px 0 0;
+    transition: transform 600ms ease-in-out;
 }
 
 .tile__type {

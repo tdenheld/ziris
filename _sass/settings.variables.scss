@@ -82,9 +82,9 @@ $grey-9: mix($white, $dark, 94%);
         Shadows
 --------------------*/
 
-$box-shadow-soft:			0 4px 32px rgba($black, 0.1);
-$box-shadow-medium:			0 4px 32px rgba($black, 0.16);
-$box-shadow-hard:			0 4px 32px rgba($black, 0.24);
+$box-shadow-soft:			0 8px 50px rgba($black, 0.1);
+$box-shadow-medium:			0 8px 50px rgba($black, 0.16);
+$box-shadow-hard:			0 8px 50px rgba($black, 0.24);
 
 $text-shadow-1:				1px 1px 0 rgba($black, 0.5);
 $text-shadow-2:				0 0 50px rgba($black, 0.15), 1px 1px 0 rgba($black, 0.3);
