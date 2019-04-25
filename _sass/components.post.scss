@@ -36,28 +36,12 @@
         margin-bottom: 60px;
     }
 
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    p,
-    ul {
-        margin-bottom: $gutter;
-
-        @include sm {
-            margin-bottom: $one-half-gutter;
-        }
-
-        &:last-child {
-            margin-bottom: 0;
-        }
-    }
-
     h2 {
+        margin: 0 0 $gutter;
         @include font(24px, 500, $lh-copy);
 
         @include sm {
+            margin-bottom: $one-half-gutter;
             font-size: calculate-rem(28px);
         }
     }
@@ -67,47 +51,8 @@
         @include font(20px, 900, $lh-copy);
     }
 
-    ul, ol {
-        @include font(16px, 500, $lh-copy);
-
-        @include sm {
-            font-size: calculate-rem(18px);
-        }
-    }
-
-    ul {
-        padding-left: 18px;
-        list-style-type: disc;
-    }
-
-    ol {
-        padding-left: 28px;
-
-        @include sm {
-            padding-left: 32px;
-        }
-    }
-
-    li {
-        margin-bottom: 8px;
-
-        @include sm {
-            margin-bottom: 12px;
-        }
-
-        &:last-child {
-            margin-bottom: 0;
-        }
-    }
-
-    p {
-        @include font(20px, 500, $lh-copy);
-        font-family: $serif;
-        color: $grey-3;
-
-        @include sm {
-            font-size: calculate-rem(22px);
-        }
+    img {
+        margin: 0;
     }
 }
 
