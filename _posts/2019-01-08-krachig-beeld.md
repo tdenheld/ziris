@@ -6,9 +6,9 @@ description: >-
   Je leert in deze cursus over de betekenis van een foto, hoe je met een foto
   een boodschap kunt overdragen. Ook worden de manieren van communicatie en de
   context van een foto behandeld.
-thumb: /assets/img/adams_thumb.jpg
-img: /assets/img/adams.jpg
-caption: 'Robert Adams, Colorado Springs 1968'
+thumb: /assets/img/iris-martens_thumb.jpg
+img: /assets/img/iris-martens.jpg
+caption: Iris Martens
 amount: '6 lessen van 1,5 uur'
 time: 'donderdag 16:00 - 17:30'
 start: 26 september 2019
