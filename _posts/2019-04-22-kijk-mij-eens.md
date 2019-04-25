@@ -12,7 +12,7 @@ amount: 6 lessen van 1 uur
 time: woensdagmiddag van 16.00 tot 17.00
 start: 18 september 2019
 location: 'Buurthuis De Boog, Gambiadreef 60 Utrecht'
-price: '175,-'
+price: '175.-'
 inc: lesboek met opdrachten
 ---
 Door selectieve opdrachten, zoals het maken van een zelfportret, het fotograferen met weinig licht, maar ook door het fotograferen van dieren, leren de kinderen hun omgeving op ongebruikelijke wijze te bekijken en vast te leggen. Het doel is om de visuele- en creatieve vaardigheden te versterken. De cursus wordt afgesloten met een presentatie.

@@ -13,7 +13,7 @@ amount: 1 les van 2 uur
 time: op aanvraag
 start: in overleg
 location: schoollokaal
-price: '255,-'
+price: '255.-'
 ---
 Volgens de methode van Michael Parsons kunnen kinderen gedurende de kunstles kennis maken met een aantal beroemde kunstenaars- portretten. Door associatie leren de kinderen uiterlijke kenmerken van voorstellingen begrijpen, verwerven zij kennis van beeldaspecten, kunnen zij gevoelens ondergaan en leren zij hun mening geven.
 
