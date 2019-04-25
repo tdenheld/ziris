@@ -7,7 +7,7 @@ description: >-
   manieren fotograferen. Het doel is om je mogelijkheden te vergroten.
 thumb: /assets/img/najjar-netropolis-berlin_thumb-.jpg
 img: /assets/img/najjar-netropolis-berlin-.jpg
-caption: 'M. Najjar, Netropolis - Berlin. 2003-2009'
+caption: 'Michael Najjar, Netropolis - Berlin. 2003-2009'
 amount: eenmalig 2 uur
 time: 'zaterdag 11:00 - 13:00'
 start: elke eerste zaterdag van de maand
