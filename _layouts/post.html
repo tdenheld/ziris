@@ -7,7 +7,7 @@ layout: default
         <div class="post__container">
             <header class="post__header">
                 <h1 class="post__title js-set-data" id="course-title">
-                    {{ page.title }}
+                    {{ page.title | downcase }}
                 </h1>
             </header>
             <div class="post__content rich-text">
