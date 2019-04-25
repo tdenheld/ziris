@@ -10,7 +10,7 @@ thumb: /assets/img/ghoussein-thumb.jpg
 img: /assets/img/ghoussein.jpg
 caption: >-
   Tarek Al-Ghoussein, Untitled 9 (Self Portrait Series), 2002-03. Courtesy The
-  Third Line
+  Third Line, Dubai
 amount: '5 lessen van 1,5 uur'
 time: 'donderdag om de week 19:30 - 21:00'
 start: 19 september 2019
