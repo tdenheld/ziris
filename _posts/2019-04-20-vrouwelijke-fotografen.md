@@ -7,7 +7,9 @@ description: |-
   Hebben vrouwen een andere benadering?
 thumb: /assets/img/essaydi_thumb.jpg
 img: /assets/img/essaydi.jpg
-caption: 'Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003'
+caption: >-
+  Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003 Courtesy
+  of Edwynn Houk Gallery. New York
 amount: 6 lessen van 2 uur
 time: 19.30 - 21.30
 start: 18 september 2019
