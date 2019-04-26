@@ -19,7 +19,7 @@ Ieder jaar verzorgt Ziris een aantal **lezingen** over fotografie, met name op h
 
 ## de docenten
 
-![Cecilia Kocsis, zonder titel. 2019](/assets/img/website-portretten_3.jpg "Cecilia Kocsis, Bart Karstens")
+![]( "Cecilia Kocsis, Bart Karstens")
 
 ### **Drs. Cecilia Kocsis**
 
