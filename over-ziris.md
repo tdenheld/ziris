@@ -19,8 +19,6 @@ Ieder jaar verzorgt Ziris een aantal **lezingen** over fotografie, met name op h
 
 ## de docenten
 
-![Cecilia Kocsis, zonder titel. 2019](/assets/img/website-portretten_3.jpg "Cecilia Kocsis, Bart Karstens")
-
 ### **Drs. Cecilia Kocsis**
 
 Na het behalen van mijn doctoraal kunstgeschiedenis in 1984 heb ik een aantal jaren gewerkt als docente kunst- en cultuurgeschiedenis aan de Hogeschool voor de Kunsten in Utrecht. Daarnaast was ik aan het werk als fotografe, zowel in opdracht als autonoom. Mijn interesse in mijn vrije werk gaat vooral uit naar portretfotografie. Ik heb een aantal keren geëxposeerd. Het thema in mijn vrije werk is ‘identiteit’. Dit heeft onder meer geresulteerd in de uitgave van mijn boek Alleen in het land (2002).<br>
