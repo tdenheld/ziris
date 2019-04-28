@@ -125,26 +125,24 @@ function scrollMagic() {
 
         function scrollTrig(i) {
             var obj = "#scroll-magic-" + i;
-            if ($(obj)[0]) {
-                var hook = 0.7;
-                var customHook = $(obj).attr("hook");
-                if (customHook != null) {
-                    hook = customHook;
-                };
-                var scrll = new ScrollMagic.Scene({
-                        triggerElement: obj,
-                    })
-                    .triggerHook(hook)
-                    .offset(0)
-                    .on("start", function () {
-                        $(obj + " .js-tr").toggleClass("is-active");
-                        if ($(obj).hasClass("js-tr")) {
-                            $(obj).toggleClass("is-active");
-                        };
-                    })
-                    //.addIndicators()
-                    .addTo(controller);
+            var hook = 0.8;
+            var customHook = $(obj).attr("hook");
+            if (customHook != null) {
+                hook = customHook;
             };
+            var scrll = new ScrollMagic.Scene({
+                    triggerElement: obj,
+                })
+                .triggerHook(hook)
+                .offset(0)
+                .on("start", function () {
+                    $(obj + " .js-tr").toggleClass("is-active");
+                    if ($(obj).hasClass("js-tr")) {
+                        $(obj).toggleClass("is-active");
+                    };
+                })
+                //.addIndicators()
+                .addTo(controller);
         };
 
         section.each(function (i) {

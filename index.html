@@ -28,7 +28,7 @@ body: bg-brand
     </div>
 </section>
 
-<section class="art js-scroll-magic" hook="0.8">
+<section class="art js-scroll-magic">
     <div class="container container--m">
         <div class="art__grid">
             <header class="section-header order-last-md">
@@ -40,15 +40,15 @@ body: bg-brand
                     {{ site.data.home.art.subtitle }}
                 </p>
             </header>
-            <div>
-                <img class="art__img tr-stag js-tr" src="{{ site.data.home.art.img }}" />
+            <div class="tr-stag js-tr">
+                <img class="art__img" src="{{ site.data.home.art.img }}" />
                 <figcaption>{{ site.data.home.art.caption }}</figcaption>
             </div>
         </div>
     </div>
 </section>
 
-<section class="pattern js-scroll-magic tr-stag js-tr" hook="0.8">
+<section class="pattern js-scroll-magic tr-stag js-tr" hook="0.9">
     <div class="container pattern__container">
         <header class="section-header">
             <h2 class="f32 f48-sm f72-md lh-title mb-4 fw-900 tr-stag js-tr">
@@ -77,7 +77,7 @@ body: bg-brand
             </header>
             <div>
                 {% for member in site.data.home.proof.members %}
-                <div class="member js-scroll-magic" hook="0.8">
+                <div class="member js-scroll-magic" hook="0.87">
                     <img class="member__img tr-stag js-tr" src="{{ member.img }}" />
                     <div class="member__txt">
                         <h3 class="member__name tr-stag js-tr">{{ member.name }}</h3>
