@@ -1,5 +1,5 @@
 intro:
-  caption: 'Charlotte March, Donyale Luna met oorbellen, 1966'
+  caption: 'Charlotte March, Donyale Luna, 1966. Museum Ludwig Köln.'
   discover: ontdek meer
   img: /assets/img/donyale-luna.jpg
   title: maak de klik tussen kunst en fotografie
@@ -13,15 +13,20 @@ art:
 pattern:
   button: bekijk cursussen
   subtitle: leer je bij ziris | kunst en fotografie
-  title: goede foto’s maken, óók met je mobiel
+  title: 'goede foto’s maken, óók met je mobiel'
 proof:
   members:
     - img: /assets/img/morgan.jpg
       name: Daniëlle Goudswaard
       profession: Student SPH
-      quote: Persoonlijk heb ik veel opgestoken van de cursus als aanvulling op een basis opleiding. Cili geeft daarin uitstekende begeleiding.
+      quote: >-
+        Persoonlijk heb ik veel opgestoken van de cursus als aanvulling op een
+        basis opleiding. Cili geeft daarin uitstekende begeleiding.
     - img: /assets/img/holyoake.jpg
       name: Richard Bihari
       profession: Software Ontwikkelaar
-      quote: Ik wist dat ik niet veel kon verwachten van een korte cursus. Toch heb ik er wat aan gehad en ben meer te weten gekomen over het waarom van een foto. 
+      quote: >-
+        Ik wist dat ik niet veel kon verwachten van een korte cursus. Toch heb
+        ik er wat aan gehad en ben meer te weten gekomen over het waarom van een
+        foto.
   title: beoordelingen cursisten
