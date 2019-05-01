@@ -69,7 +69,7 @@
     }
 
     p {
-        @include font(20px, 500, $lh-copy);
+        @include font(20px, normal, $lh-copy);
         font-family: $serif;
         color: $grey-3;
 
@@ -88,5 +88,11 @@
         @include md {
             margin-left: -128px;
         }
+    }
+
+    small {
+        display: block;
+        max-width: 420px;
+        @include font(16px, normal, $lh-copy);
     }
 }
