@@ -9,7 +9,7 @@ thumb: /assets/img/kinderen_thumb.jpg
 img: /assets/img/kinderen.jpg
 caption: 'C. Kocsis, Jonge fotografen. 2011'
 amount: 6 lessen van 1 uur
-time: woensdagmiddag van 16.00 tot 17.00
+time: woensdagmiddag van 16:00 tot 17:00
 start: 18 september 2019
 location: 'Buurthuis De Boog, Gambiadreef 60 Utrecht'
 price: '175.-'

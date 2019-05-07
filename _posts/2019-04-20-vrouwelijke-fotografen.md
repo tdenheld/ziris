@@ -10,9 +10,9 @@ img: /assets/img/essaydi.jpg
 caption: >-
   Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003. Courtesy
   of Edwynn Houk Gallery, New York
-amount: '6 lessen van 2 uur, om de week.'
-time: 19.30 - 21.30
-start: woensdag 18 september 2019
+amount: '6 lessen van 2 uur'
+time: woensdag om de week 19:30 - 21:30
+start: 18 september 2019
 location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
 price: 255.-
 inc: lesmateriaal

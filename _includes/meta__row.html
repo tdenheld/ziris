@@ -2,6 +2,6 @@
     <p class="meta__data-label">{{ include.label }}</p>
     <p class="meta__data-entry js-set-data" id="course-{{ include.entry }}">
         {% capture entry %}{{ include.entry }}{% endcapture %}
-        {{ page[entry] | downcase }}
+        {{ page[entry] }}
     </p>
 </div>

@@ -10,7 +10,7 @@ thumb: /assets/img/magnolia_thumb.jpg
 img: /assets/img/magnolia.jpg
 caption: 'Anoniem, Tak met 4 magnolia''s. 1910-1925. Röntgenfoto. Rijksmuseum Amsterdam'
 amount: eenmalig 2 uur
-time: 14.00 - 16.00
+time: 14:00 - 16:00
 start: zaterdag 15 juni
 location: 'De Kargadoor, Oudegracht 36, 3511 AP Utrecht'
 price: 15.-
