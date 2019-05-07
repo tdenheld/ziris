@@ -2,7 +2,7 @@
 
     h2 {
         margin: $double-gutter 0 $half-gutter;
-        @include font(28px, 600, $lh-copy);
+        @include font(32px, 600, $lh-copy);
 
         @include sm {
             margin: $triple-gutter 0 $half-gutter;
@@ -12,7 +12,7 @@
 
     h3 {
         margin: $double-gutter 0 $half-gutter;
-        @include font(20px, 900, $lh-copy);
+        @include font(20px, 600, $lh-copy);
     }
 
     h4 {
