@@ -21,7 +21,7 @@ inc: koffie of thee
 
 De aandacht zal uitgaan naar natuur-, architectuur- en documentaire fotografie. Bijzondere aandacht verdienen de Vlinderhof, ontwerp van de wereldberoemde tuinarchitect Piet Oudolf, de Zeven Beelden, het Romeinse Castellum, en restaurant Anafora. Deelnemers krijgen fotografische opdrachten tijdens de excursie die ook besproken zullen worden. 
 
-### Programma 11 mei
+### Programma 18 mei
 
 * **14.00 - 14.15** – Verzamelen bij het parkeerplaatsje Alendorperweg 44. Ontvangst opdrachten.
 * **14.15 - 15.15** – Deel I Fotografische opdrachten 
