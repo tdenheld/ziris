@@ -4,7 +4,7 @@ date: 2019-04-22T14:57:43.630Z
 category: volwassenen
 type: excursie
 description: >-
-  De foto-excursie, op zaterdagmiddag 11 mei 2019, zal plaatsvinden in het
+  De foto-excursie, op zaterdagmiddag 18 mei 2019, zal plaatsvinden in het
   Maximapark in Utrecht. Het park vormt het groene centrale hart van de wijk
   Leidsche Rijn en is samengesteld uit verschillende soorten tuinen.
 thumb: /assets/img/ronald-correlje_thumb.jpg
