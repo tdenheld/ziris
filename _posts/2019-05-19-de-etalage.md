@@ -14,7 +14,7 @@ caption: 'Rook en Nagelkerke, Woonhuis Zandstra door Rudy Uytenhaak. 1998'
 amount: eenmalig 3 uur
 time: 14.00 tot 17.00
 start: zaterdag 20 juli 2019
-location: 'Amersfoort, Zielhorstpark'
+location: 'Amersfoort, Zielhorst Park'
 price: ' € 35,-'
 inc: lesmateriaal en versnapering
 ---
