@@ -1,6 +1,6 @@
 ---
 title: fotografie en wetenschap
-date: 2019-04-25T07:53:17.291Z
+date: 2019-05-20T07:53:17.291Z
 category: volwassenen
 type: lezing
 description: >-
