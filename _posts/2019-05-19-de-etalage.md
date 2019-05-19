@@ -20,9 +20,7 @@ inc: lesmateriaal en versnapering
 ---
 Architectuurfotografie is een vak apart. Van belang is om de essentie van een gebouw weer te geven, om de ideeën van de ontwerper in de foto vast te leggen. De opdrachten tijdens de excursie zijn zo samengesteld dat je als deelnemer de belangrijke aspecten van architectuurfotografie leert doorgronden.
 
-
-
-# **Programma**
+# **programma zaterdag 20 juli**
 
 14.00  – 14.15   Verzamelen bij woonhuis Hof: Le Corbusierstraat 12  Amersfoort 
 
@@ -33,5 +31,3 @@ Architectuurfotografie is een vak apart. Van belang is om de essentie van een ge
 15.45 –  16.45   Deel II Fotografische opdrachten
 
 16.45 –  17.00   Werkbespreking
-
-
