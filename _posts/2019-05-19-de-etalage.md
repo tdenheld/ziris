@@ -4,7 +4,7 @@ date: 2019-04-24T06:07:28.860Z
 category: volwassenen
 type: excursie
 description: >-
-  Vooraanstaande nederlandse architecten hebben bijgedragen aan de
+  Vooraanstaande Nederlandse architecten hebben bijgedragen aan de
   totstandkoming van een villawijkje van 42 kavels, het Etalageproject.
   Zielhorst Park moest een staalkaart worden van spraakmakende Nederlandse
   architectuur.
