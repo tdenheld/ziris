@@ -1,5 +1,5 @@
 ---
-title: Fotograferen in de architectenbuurt
+title: architectuurfotografie in Amersfoort
 date: 2019-04-24T06:07:28.860Z
 category: volwassenen
 type: excursie
