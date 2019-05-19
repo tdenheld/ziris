@@ -34,4 +34,4 @@ Architectuurfotografie is een vak apart. Van belang is om de essentie van een ge
 
 16.45 –  17.00   Werkbespreking
 
-#
+
