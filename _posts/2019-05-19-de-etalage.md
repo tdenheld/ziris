@@ -19,11 +19,11 @@ inc: lesmateriaal en versnapering
 ---
 # **Programma**
 
-14.00  – 14.15   Verzamelen bij   Ontvangst opdrachten.
+14.00  – 14.15   Verzamelen bij woonhuis Hof: Le Corbusierstraat 12  Amersfoort .Ontvangst opdrachten.
 
 14.15  – 15.15   Deel I Fotografische opdrachten 
 
-15.15  – 15.45   Versnapering op kosten Ziris in Anafora. Elkaars werk bekijken.
+15.15  – 15.45   Versnapering. Bekijken van elkaars werk.
 
 15.45 –  16.45   Deel II Fotografische opdrachten
 
