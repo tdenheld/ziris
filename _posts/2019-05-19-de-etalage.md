@@ -20,6 +20,8 @@ inc: lesmateriaal en versnapering
 ---
 # **Programma**
 
+
+
 14.00  – 14.15   Verzamelen bij woonhuis Hof: Le Corbusierstraat 12  Amersfoort 
 
 14.15  – 15.15   Deel I Fotografische opdrachten 
