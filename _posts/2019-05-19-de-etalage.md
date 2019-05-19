@@ -4,10 +4,10 @@ date: 2019-04-24T06:07:28.860Z
 category: volwassenen
 type: excursie
 description: >-
-  Architectuurfotografie in Amersfoort. Vooraanstaande nederlandse architecten
-  hebben bijgedragen aan de totstandkoming van een villawijkje van 42 kavels,
-  het Etalageproject. Zielhorst Park moest een staalkaart worden van
-  spraakmakende Nederlandse architectuur.
+  Vooraanstaande nederlandse architecten hebben bijgedragen aan de
+  totstandkoming van een villawijkje van 42 kavels, het Etalageproject.
+  Zielhorst Park moest een staalkaart worden van spraakmakende Nederlandse
+  architectuur.
 thumb: /assets/img/uytenhaak_amersfoort_thumb.jpg
 img: /assets/img/uytenhaak_amersfoort_thumb.jpg
 caption: 'Rook en Nagelkerke, Woonhuis Zandstra door Rudy Uytenhaak. 1998'
