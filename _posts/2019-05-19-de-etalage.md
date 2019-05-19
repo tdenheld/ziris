@@ -11,7 +11,7 @@ thumb: /assets/img/uytenhaak_amersfoort_thumb.jpg
 img: /assets/img/uytenhaak_amersfoort_thumb.jpg
 caption: 'Rook en Nagelkerke, Woonhuis Zandstra door Rudy Uytenkaak. 1998'
 amount: eenmalig 3 uur
-time: '14.00'
+time: 14.00 tot 17.00
 start: zaterdag 20 juli 2019
 location: Amersfoort  Villawijk De etalage
 price: ' € 35,-'
