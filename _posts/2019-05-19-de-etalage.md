@@ -13,7 +13,7 @@ caption: 'Rook en Nagelkerke, Woonhuis Zandstra door Rudy Uytenhaak. 1998'
 amount: eenmalig 3 uur
 time: 14.00 tot 17.00
 start: zaterdag 20 juli 2019
-location: Fotograferen in de architectenbuurt Villawijk De etalage
+location: 'Amersfoort, de architectenbuurt-zuid'
 price: ' € 35,-'
 inc: lesmateriaal en versnapering
 ---
