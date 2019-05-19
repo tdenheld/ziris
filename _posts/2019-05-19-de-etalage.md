@@ -1,5 +1,5 @@
 ---
-title: Villawijk de Etalageproject&shy;Fotograferen in de architectenbuurt
+title: Fotograferen in de architectenbuurt
 date: 2019-04-22T06:07:28.860Z
 category: volwassenen
 type: excursie
