@@ -1,6 +1,6 @@
 ---
 title: Villawijk De etalage
-date: 2019-05-19T06:07:28.860Z
+date: 2019-04-22T06:07:28.860Z
 category: volwassenen
 type: excursie
 description: Architectuurfotografie in Amersfoort.
