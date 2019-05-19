@@ -18,9 +18,11 @@ location: 'Amersfoort, de architectenbuurt-zuid'
 price: ' € 35,-'
 inc: lesmateriaal en versnapering
 ---
+Architectuurfotografie is een vak apart. Van belang is om de essentie van een gebouw weer te geven. Om de ideeën van de ontwerper in de foto vast te leggen. De opdrachten tijdens de excursie zijn zo samengesteld dat je als deelnemer de belangrijke aspecten van architectuurfotografie leert doorgronden.
+
+
+
 # **Programma**
-
-
 
 14.00  – 14.15   Verzamelen bij woonhuis Hof: Le Corbusierstraat 12  Amersfoort 
 
