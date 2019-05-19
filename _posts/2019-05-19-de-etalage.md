@@ -1,0 +1,37 @@
+---
+title: architectuurfotografie in Amersfoort
+date: 2019-04-24T06:07:28.860Z
+category: volwassenen
+type: excursie
+description: >-
+  Vooraanstaande nederlandse architecten hebben bijgedragen aan de
+  totstandkoming van een villawijkje van 42 kavels, het Etalageproject.
+  Zielhorst Park moest een staalkaart worden van spraakmakende Nederlandse
+  architectuur.
+thumb: /assets/img/uytenhaak_amersfoort_thumb.jpg
+img: /assets/img/uytenhaak_amersfoort_thumb.jpg
+caption: 'Rook en Nagelkerke, Woonhuis Zandstra door Rudy Uytenhaak. 1998'
+amount: eenmalig 3 uur
+time: 14.00 tot 17.00
+start: zaterdag 20 juli 2019
+location: 'Amersfoort, Zielhorst Park'
+price: ' € 35,-'
+inc: lesmateriaal en versnapering
+---
+Architectuurfotografie is een vak apart. Van belang is om de essentie van een gebouw weer te geven, om de ideeën van de ontwerper in de foto vast te leggen. De opdrachten tijdens de excursie zijn zo samengesteld dat je als deelnemer de belangrijke aspecten van architectuurfotografie leert doorgronden.
+
+
+
+# **Programma**
+
+14.00  – 14.15   Verzamelen bij woonhuis Hof: Le Corbusierstraat 12  Amersfoort 
+
+14.15  – 15.15   Deel I Fotografische opdrachten 
+
+15.15  – 15.45   Versnapering. Bekijken van elkaars werk.
+
+15.45 –  16.45   Deel II Fotografische opdrachten
+
+16.45 –  17.00   Werkbespreking
+
+#
