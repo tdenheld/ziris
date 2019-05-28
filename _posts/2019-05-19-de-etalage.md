@@ -1,5 +1,5 @@
 ---
-title: architectuur&shy;fotografie Amersfoort
+title: architectuur&shy; in Amersfoort
 date: 2019-04-24T06:07:28.860Z
 category: volwassenen
 type: excursie
