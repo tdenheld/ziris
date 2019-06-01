@@ -8,13 +8,13 @@ description: >-
   totstandkoming van een villawijkje van 42 kavels, het Etalageproject. Een
   staalkaart van spraakmakende Nederlandse architectuur.
 thumb: /assets/img/uytenhaak_amersfoort_thumb.jpg
-img: /assets/img/uytenhaak_amersfoort_thumb.jpg
+img: /assets/img/uytenhaak_amersfoort.jpg
 caption: 'Rook en Nagelkerke, Woonhuis Zandstra door Rudy Uytenhaak. 1998'
 amount: eenmalig 3 uur
 time: 14.00 tot 17.00
 start: zaterdag 20 juli 2019
 location: 'Amersfoort, Zielhorst Park'
-price: ' € 35.-'
+price: '€ 35.-'
 inc: lesmateriaal en versnapering
 ---
 Architectuurfotografie is een vak apart. Van belang is om de essentie van een gebouw weer te geven, om de ideeën van de ontwerper in de foto vast te leggen. De opdrachten tijdens de excursie zijn zo samengesteld dat je als deelnemer de belangrijke aspecten van architectuurfotografie leert doorgronden.
