@@ -1,6 +1,6 @@
 ---
 title: vrouwen&shy;fotografie
-date: 2019-04-20T04:32:17.416Z
+date: 2019-07-22T04:32:17.416Z
 category: volwassenen
 description: |-
   Zijn vrouwen betere fotografen dan mannen? Kijken vrouwen met een andere blik?
@@ -10,8 +10,8 @@ img: /assets/img/essaydi.jpg
 caption: >-
   Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003. Courtesy
   of Edwynn Houk Gallery, New York
-amount: '6 lessen van 2 uur'
-time: woensdag om de week 19:30 - 21:30
+amount: 6 lessen van 2 uur
+time: 'woensdag om de week 19:30 - 21:30'
 start: 18 september 2019
 location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
 price: 255.-
