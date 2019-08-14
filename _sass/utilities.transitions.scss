@@ -44,7 +44,8 @@
 
 .tr-fi-up {
 	opacity: 0;
-	transform: translate3d(0, 50px, 0);
+    transform: translate3d(0, 50px, 0);
+    transition-timing-function: $ease-out;
 	
 	&.is-active {
 		opacity: 1;
@@ -79,7 +80,7 @@
 			opacity: 0;
             transform-origin: 0 0;
 			transform: translate3d(0, (20px + ($i * 8)), 0) rotate(0.7deg);
-			transition: all (900ms + ($i * 150)) $ease;
+			transition: all (900ms + ($i * 150)) $ease-out;
 			
 			&.is-active {
 				opacity: 1;

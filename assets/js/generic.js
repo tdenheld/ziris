@@ -125,7 +125,7 @@ function scrollMagic() {
 
         function scrollTrig(i) {
             var obj = "#scroll-magic-" + i;
-            var hook = 0.8;
+            var hook = 0.9;
             var customHook = $(obj).attr("hook");
             if (customHook != null) {
                 hook = customHook;
