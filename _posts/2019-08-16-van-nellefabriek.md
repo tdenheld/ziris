@@ -16,7 +16,7 @@ location: Rotterdam
 price: '50,-'
 inc: toegangskaarten en lesmateriaal
 ---
-Het ontwerp voor de koffie-, thee en tabaksfabriek van Van Nelle door Van Brinkman en Van der Vlugt is van 1926. Het is van fundamentele waarde dat het hele complex een transparant karakter heeft. Door toepassing van moderne technieken werd het mogelijk om door het hele gebouw heen te kijken, van gevel tot gevel. De beeldende waarde van het gebouw is onmiskenbaar.
+Het ontwerp voor de koffie-, thee,- en tabaksfabriek van Van Nelle door Van Brinkman en Van der Vlugt is van 1926. Het is van fundamentele waarde dat het hele complex een transparant karakter heeft. Door toepassing van moderne technieken werd het mogelijk om door het hele gebouw heen te kijken, van gevel tot gevel. De beeldende waarde van het gebouw is onmiskenbaar.
 
 **Programma**
 
