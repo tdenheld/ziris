@@ -4,10 +4,8 @@ date: 2019-08-16T06:07:28.860Z
 category: volwassenen
 type: excursie
 description: >-
-  De Van Nellefabriek was ooit de modernste fabriek van Nederland. De eerste
-  daglichtfabriek van Europa. Ontworpen om energie te geven. Toonbeeld van het
-  functionalisme. Geen bakstenen, maar beton. Geen draagmuren, maar kolommen.
-  Een gevel van staal en glas. Een zee aan daglicht op de werkvloer.
+  Fotograferen in het rijksmonument in Rotterdam. Sinds 2014 behoort het tot het
+  UNESCO Werelderfgoed.
 thumb: /assets/img/kamman_thumb.jpg
 img: /assets/img/kamman_groot.jpg
 caption: 'Jan Kamman, Van Nellefabriek. Rotterdam'
