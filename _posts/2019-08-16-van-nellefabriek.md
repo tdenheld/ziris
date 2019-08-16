@@ -7,7 +7,7 @@ description: ....pr
 thumb: /assets/img/kamman_thumb.jpg
 img: /assets/img/kamman_groot.jpg
 caption: 'Jan Kamman, Van Nellefabriek. Rotterdam'
-amount: '1'
+amount: eenmalig
 time: '14.00'
 start: 9 november 2019
 location: Rotterdam
