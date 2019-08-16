@@ -8,7 +8,7 @@ description: >-
   Werelderfgoed.
 thumb: /assets/img/kamman_thumb.jpg
 img: /assets/img/kamman_groot.jpg
-caption: 'Jan Kamman, Van Nellefabriek. Rotterdam'
+caption: 'Jan Kamman, Van Nellefabriek. Rotterdam. Dubbeldruk'
 amount: eenmalig
 time: '14.00'
 start: 9 november 2019
