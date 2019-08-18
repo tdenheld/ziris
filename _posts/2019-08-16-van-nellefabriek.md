@@ -8,7 +8,7 @@ description: >-
   Werelderfgoed.
 thumb: /assets/img/kamman_thumb.jpg
 img: /assets/img/kamman_groot.jpg
-caption: 'Jan Kamman, Van Nellefabriek. Rotterdam. Dubbeldruk'
+caption: 'Jan Kamman, Van Nellefabriek. Rotterdam. c. 1930 negatiefmontage'
 amount: eenmalig
 time: 13.30 - 17.00
 start: 9 november 2019
@@ -16,7 +16,7 @@ location: Rotterdam
 price: '50,-'
 inc: toegangskaarten en lesmateriaal
 ---
-Het ontwerp voor de koffie-, thee,- en tabaksfabriek van Van Nelle door Van Brinkman en Van der Vlugt is van 1926. Door toepassing van moderne technieken werd het mogelijk om door het hele gebouw heen te kijken, van gevel tot gevel. De beeldende waarde van het gebouw is onmiskenbaar.
+De architect Brinkman staat centraal in deze excursie. Allereerst bekijken we het Justus van Effencomplex in Spangen dat ook door Brinkman is ontworpen om vervolgens door te steken naar de Van Nellefabriek (1926) Brinkman gaf veel opdrachten voor het documenteren van zijn gebouwen aan de fotograaf Jan Kamman. De laatste zegt: "Moderne fotografie is niet in de eerste plaats het produceren van min of meer mooie prenten, doch het maken van studies. Het is een graduele overgang van techniek naar esthetica."
 
 **Programma**
 
