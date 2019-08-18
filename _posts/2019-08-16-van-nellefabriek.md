@@ -21,6 +21,6 @@ Justus van Effencomplex in Spangen dat ook door Brinkman is ontworpen om vervolg
 
 **Programma**
 
-13.30 - 15.00 Justus van Effencomplex
+13.30 - 15.00 Fotografische opdrachten bij het Justus van Effencomplex
 
-15.00 - 16.00 Van Nellefabriek
+15.00 - 16.00 Fotografische opdrachten in en om de Van Nellefabriek
