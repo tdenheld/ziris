@@ -1,5 +1,5 @@
 ---
-title: Van Nellefabriek
+title: van nellefabriek
 date: 2019-08-16T06:07:28.860Z
 category: volwassenen
 type: excursie
@@ -10,7 +10,7 @@ thumb: /assets/img/kamman_thumb.jpg
 img: /assets/img/kamman_groot.jpg
 caption: 'Jan Kamman, Van Nellefabriek. Rotterdam. c. 1930 negatiefmontage'
 amount: eenmalig
-time: 13.30 - 17.00
+time: '13:30 - 17:00'
 start: 9 november 2019
 location: Rotterdam
 price: '50,-'
