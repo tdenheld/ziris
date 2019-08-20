@@ -123,20 +123,14 @@ function scrollMagic() {
             },
         });
 
-        function scrollTrig(i) {
-            var obj = "#scroll-magic-" + i;
-            var hook = 0.9;
-            var customHook = $(obj).attr("hook");
-            if (customHook != null) {
-                hook = customHook;
-            };
+        function scrollTrig(obj) {
             var scrll = new ScrollMagic.Scene({
                     triggerElement: obj,
                 })
-                .triggerHook(hook)
+                .triggerHook(0.94)
                 .offset(0)
                 .on("start", function () {
-                    $(obj + " .js-tr").toggleClass("is-active");
+                    $('.js-tr', obj).toggleClass('is-active');
                     if ($(obj).hasClass("js-tr")) {
                         $(obj).toggleClass("is-active");
                     };
@@ -145,9 +139,8 @@ function scrollMagic() {
                 .addTo(controller);
         };
 
-        section.each(function (i) {
-            $(this).attr("id", "scroll-magic-" + i);
-            scrollTrig(i);
+        section.each(function () {
+            scrollTrig(this);
         });
     };
 };
