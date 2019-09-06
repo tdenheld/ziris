@@ -14,12 +14,12 @@ body: bg-brand
             </p>
         </header>
     </div>
-    <figure class="intro__img-container a a-fi a-dur-1200">
-        <div>
+    <div class="intro__img-container">
+        <figure class="a a-fi a-dur-1200">
             <img class="intro__img" src="{{ site.data.home.intro.img }}" />
             <figcaption class="intro__figcaption">{{ site.data.home.intro.caption }}</figcaption>
-        </div>
-    </figure>
+        </figure>
+    </div>
     <div class="discover tr-750 js-discover">
         <div class="a a-fi-up-small a-del-500">
             <div class="discover__txt">{{ site.data.home.intro.discover }}</div>
@@ -40,10 +40,10 @@ body: bg-brand
                     {{ site.data.home.art.subtitle }}
                 </p>
             </header>
-            <div class="js-scroll-magic tr-stag js-tr">
-                <img class="art__img" src="{{ site.data.home.art.img }}" />
+            <figure class="js-scroll-magic tr-stag js-tr">
+                <img class="art__img" src="{{ site.data.home.art.img }}" alt="{{ site.data.home.art.caption }}" />
                 <figcaption>{{ site.data.home.art.caption }}</figcaption>
-            </div>
+            </figure>
         </div>
     </div>
 </section>
@@ -79,7 +79,7 @@ body: bg-brand
             <div>
                 {% for member in site.data.home.proof.members %}
                 <div class="member js-scroll-magic">
-                    <img class="member__img tr-stag js-tr" src="{{ member.img }}" />
+                    <img class="member__img tr-stag js-tr" src="{{ member.img }}" alt="{{ member.name }}" />
                     <div class="member__txt">
                         <h3 class="member__name tr-stag js-tr">{{ member.name }}</h3>
                         <p class="member__profession tr-stag js-tr">{{ member.profession }}</p>
