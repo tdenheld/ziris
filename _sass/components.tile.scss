@@ -4,8 +4,11 @@
     border-radius: 2px;
     display: grid;
     grid-template-rows: max-content 1fr max-content;
+    transition: box-shadow 1s $ease-out;
 
     &:hover {
+        box-shadow: 0 4px 16px rgba($black, 0.08);
+
         .tile__img {
             transform: scale(1.06);
         }
@@ -26,7 +29,7 @@
     @include full(absolute);
     object-fit: cover;
     border-radius: 2px 2px 0 0;
-    transition: transform 600ms ease-in-out;
+    transition: transform 900ms $ease-out;
 }
 
 .tile__type {
