@@ -1,6 +1,6 @@
 <header class="header {{ page.header }} a a-fi-down a-del-150">
     <div class="container header__container">
-        <a href="/">
+        <a href="/" aria-label="Logo Ziris">
             <div class="header__logo">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 194.58 67.338">
                     <path d="M39.187,65.777H0l21.679-31.89H2.63V24.552H39.673l-21.43,31.89h20.92v9.335Z" />
@@ -16,7 +16,7 @@
         </a>
         <nav class="header__nav">
             {% for nav in site.data.navigation %}
-            <a href="{{ nav.url }}">
+            <a href="{{ nav.url }}" aria-label="{{ nav.title }}">
                 {% if nav.title=='cursussen' %}
                 <span class="header__item {{ nav.class }}">
                     {{ nav.title }}
