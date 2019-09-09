@@ -21,6 +21,8 @@ defaults:
     values:
       layout: "default"
       title: "ziris | kunst en fotografie"
+      description: "Ziris biedt cursussen aan op het gebied van kunstgeschiedenis in combinatie met fotografie en beoogt een verbinding te maken tussen kunsttheorie en praktijk."
+      img: /assets/img/ziris-og-image.png
   - scope:
       path: ""
       type: "posts"
