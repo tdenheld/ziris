@@ -12,7 +12,7 @@
     @include font(20px, 500, $lh-title);
 
     @include md {
-        font-size: calculate-rem(28px);
+        font-size: toRem(28px);
     }
 }
 
@@ -21,11 +21,11 @@
     margin-bottom: 4px;
 
     @include sm {
-        font-size: calculate-rem(48px);
+        font-size: toRem(48px);
     }
 
     @include md {
-        font-size: calculate-rem(60px);
+        font-size: toRem(60px);
     }
 }
 
@@ -34,6 +34,6 @@
     @include font(20px, 500, $lh-copy);
 
     @include md {
-        font-size: calculate-rem(24px);
+        font-size: toRem(24px);
     }
 }

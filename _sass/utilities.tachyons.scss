@@ -651,82 +651,82 @@
 
 // font sizes
 // ----------------------------------------------------------------------
-.f12 {font-size: calculate-rem(12px);}
-.f14 {font-size: calculate-rem(14px);}
-.f16 {font-size: calculate-rem(16px);}
-.f18 {font-size: calculate-rem(18px);}
-.f20 {font-size: calculate-rem(20px);}
-.f24 {font-size: calculate-rem(24px);}
-.f28 {font-size: calculate-rem(28px);}
-.f30 {font-size: calculate-rem(30px);}
-.f32 {font-size: calculate-rem(32px);}
-.f36 {font-size: calculate-rem(36px);}
-.f38 {font-size: calculate-rem(38px);}
-.f40 {font-size: calculate-rem(40px);}
-.f48 {font-size: calculate-rem(48px);}
-.f56 {font-size: calculate-rem(56px);}
-.f60 {font-size: calculate-rem(60px);}
-.f64 {font-size: calculate-rem(64px);}
-.f72 {font-size: calculate-rem(72px);}
-.f80 {font-size: calculate-rem(80px);}
-.f96 {font-size: calculate-rem(96px);}
+.f12 {font-size: toRem(12px);}
+.f14 {font-size: toRem(14px);}
+.f16 {font-size: toRem(16px);}
+.f18 {font-size: toRem(18px);}
+.f20 {font-size: toRem(20px);}
+.f24 {font-size: toRem(24px);}
+.f28 {font-size: toRem(28px);}
+.f30 {font-size: toRem(30px);}
+.f32 {font-size: toRem(32px);}
+.f36 {font-size: toRem(36px);}
+.f38 {font-size: toRem(38px);}
+.f40 {font-size: toRem(40px);}
+.f48 {font-size: toRem(48px);}
+.f56 {font-size: toRem(56px);}
+.f60 {font-size: toRem(60px);}
+.f64 {font-size: toRem(64px);}
+.f72 {font-size: toRem(72px);}
+.f80 {font-size: toRem(80px);}
+.f96 {font-size: toRem(96px);}
 
 @include sm {
-	.f16-sm {font-size: calculate-rem(16px);}
-	.f18-sm {font-size: calculate-rem(18px);}
-	.f20-sm {font-size: calculate-rem(20px);}
-	.f24-sm {font-size: calculate-rem(24px);}
-	.f28-sm {font-size: calculate-rem(28px);}
-	.f30-sm {font-size: calculate-rem(30px);}
-	.f32-sm {font-size: calculate-rem(32px);}
-	.f36-sm {font-size: calculate-rem(36px);}
-	.f38-sm {font-size: calculate-rem(38px);}
-	.f40-sm {font-size: calculate-rem(40px);}
-	.f48-sm {font-size: calculate-rem(48px);}
-	.f56-sm {font-size: calculate-rem(56px);}
-	.f60-sm {font-size: calculate-rem(60px);}
-	.f64-sm {font-size: calculate-rem(64px);}
-	.f72-sm {font-size: calculate-rem(72px);}
-	.f80-sm {font-size: calculate-rem(80px);}
-	.f96-sm {font-size: calculate-rem(96px);}
+	.f16-sm {font-size: toRem(16px);}
+	.f18-sm {font-size: toRem(18px);}
+	.f20-sm {font-size: toRem(20px);}
+	.f24-sm {font-size: toRem(24px);}
+	.f28-sm {font-size: toRem(28px);}
+	.f30-sm {font-size: toRem(30px);}
+	.f32-sm {font-size: toRem(32px);}
+	.f36-sm {font-size: toRem(36px);}
+	.f38-sm {font-size: toRem(38px);}
+	.f40-sm {font-size: toRem(40px);}
+	.f48-sm {font-size: toRem(48px);}
+	.f56-sm {font-size: toRem(56px);}
+	.f60-sm {font-size: toRem(60px);}
+	.f64-sm {font-size: toRem(64px);}
+	.f72-sm {font-size: toRem(72px);}
+	.f80-sm {font-size: toRem(80px);}
+	.f96-sm {font-size: toRem(96px);}
 }
 @include md {
-	.f16-md {font-size: calculate-rem(16px);}
-	.f18-md {font-size: calculate-rem(18px);}
-	.f20-md {font-size: calculate-rem(20px);}
-	.f24-md {font-size: calculate-rem(24px);}
-	.f28-md {font-size: calculate-rem(28px);}
-	.f30-md {font-size: calculate-rem(30px);}
-	.f32-md {font-size: calculate-rem(32px);}
-	.f36-md {font-size: calculate-rem(36px);}
-	.f38-md {font-size: calculate-rem(38px);}
-	.f40-md {font-size: calculate-rem(40px);}
-	.f48-md {font-size: calculate-rem(48px);}
-	.f56-md {font-size: calculate-rem(56px);}
-	.f60-md {font-size: calculate-rem(60px);}
-	.f64-md {font-size: calculate-rem(64px);}
-	.f72-md {font-size: calculate-rem(72px);}
-	.f80-md {font-size: calculate-rem(80px);}
-	.f96-md {font-size: calculate-rem(96px);}
+	.f16-md {font-size: toRem(16px);}
+	.f18-md {font-size: toRem(18px);}
+	.f20-md {font-size: toRem(20px);}
+	.f24-md {font-size: toRem(24px);}
+	.f28-md {font-size: toRem(28px);}
+	.f30-md {font-size: toRem(30px);}
+	.f32-md {font-size: toRem(32px);}
+	.f36-md {font-size: toRem(36px);}
+	.f38-md {font-size: toRem(38px);}
+	.f40-md {font-size: toRem(40px);}
+	.f48-md {font-size: toRem(48px);}
+	.f56-md {font-size: toRem(56px);}
+	.f60-md {font-size: toRem(60px);}
+	.f64-md {font-size: toRem(64px);}
+	.f72-md {font-size: toRem(72px);}
+	.f80-md {font-size: toRem(80px);}
+	.f96-md {font-size: toRem(96px);}
 }
 @include lg {
-	.f16-lg {font-size: calculate-rem(16px);}
-	.f18-lg {font-size: calculate-rem(18px);}
-	.f20-lg {font-size: calculate-rem(20px);}
-	.f24-lg {font-size: calculate-rem(24px);}
-	.f28-lg {font-size: calculate-rem(28px);}
-	.f30-lg {font-size: calculate-rem(30px);}
-	.f32-lg {font-size: calculate-rem(32px);}
-	.f36-lg {font-size: calculate-rem(36px);}
-	.f38-lg {font-size: calculate-rem(38px);}
-	.f40-lg {font-size: calculate-rem(40px);}
-	.f48-lg {font-size: calculate-rem(48px);}
-	.f56-lg {font-size: calculate-rem(56px);}
-	.f60-lg {font-size: calculate-rem(60px);}
-	.f64-lg {font-size: calculate-rem(64px);}
-	.f72-lg {font-size: calculate-rem(72px);}
-	.f80-lg {font-size: calculate-rem(80px);}
-	.f96-lg {font-size: calculate-rem(96px);}
+	.f16-lg {font-size: toRem(16px);}
+	.f18-lg {font-size: toRem(18px);}
+	.f20-lg {font-size: toRem(20px);}
+	.f24-lg {font-size: toRem(24px);}
+	.f28-lg {font-size: toRem(28px);}
+	.f30-lg {font-size: toRem(30px);}
+	.f32-lg {font-size: toRem(32px);}
+	.f36-lg {font-size: toRem(36px);}
+	.f38-lg {font-size: toRem(38px);}
+	.f40-lg {font-size: toRem(40px);}
+	.f48-lg {font-size: toRem(48px);}
+	.f56-lg {font-size: toRem(56px);}
+	.f60-lg {font-size: toRem(60px);}
+	.f64-lg {font-size: toRem(64px);}
+	.f72-lg {font-size: toRem(72px);}
+	.f80-lg {font-size: toRem(80px);}
+	.f96-lg {font-size: toRem(96px);}
 }
 
 // line-heights

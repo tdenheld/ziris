@@ -20,12 +20,12 @@
     @include font(40px, 900, $lh-title);
 
     @include sm {
-        font-size: calculate-rem(60px);
+        font-size: toRem(60px);
     }
 
     @include md {
-        font-size: calculate-rem(90px);
-        letter-spacing: calculate-rem(-1.5px);
+        font-size: toRem(90px);
+        letter-spacing: toRem(-1.5px);
     }
 }
 
@@ -42,7 +42,7 @@
 
         @include sm {
             margin-bottom: $one-half-gutter;
-            font-size: calculate-rem(28px);
+            font-size: toRem(28px);
         }
     }
 

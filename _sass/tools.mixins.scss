@@ -6,7 +6,7 @@
 // ------------------------------
 
 // convert px to rem
-@function calculate-rem($size) {
+@function toRem($size) {
   $remSize: $size / 16px;
   @return #{$remSize}rem;
 }
@@ -14,7 +14,7 @@
 // set font style
 @mixin font($size, $weight, $factor) {
 	font-weight: $weight;
-	font-size: calculate-rem($size);
+	font-size: toRem($size);
 	line-height: $factor;
 }
 

@@ -88,7 +88,7 @@
     @include font(22px, 900, $lh-title);
 
     @include sm {
-        font-size: calculate-rem(28px);
+        font-size: toRem(28px);
     }
 }
 

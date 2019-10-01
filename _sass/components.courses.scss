@@ -8,15 +8,15 @@
     @include font(60px, 900, $lh-title);
 
     @media (max-width: 359px) {
-        font-size: calculate-rem(56px);
+        font-size: toRem(56px);
     }
 
     @include sm {
-        font-size: calculate-rem(90px);
+        font-size: toRem(90px);
     }
 
     @include md {
-        font-size: calculate-rem(120px);
+        font-size: toRem(120px);
     }
 }
 
@@ -47,7 +47,7 @@
 
     @include sm {
         margin-bottom: $gutter;
-        font-size: calculate-rem(18px);
+        font-size: toRem(18px);
     }
 }
 

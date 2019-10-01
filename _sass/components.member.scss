@@ -19,12 +19,12 @@
 .member__name {
     @include font(24px, 600, $lh-title);
     @include sm {
-        font-size: calculate-rem(28px);
+        font-size: toRem(28px);
     }
 }
 
 .member__profession {
-    margin-bottom: 20px;
+    margin-bottom: 24px;
     @include font(12px, 600, $lh-title);
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -32,11 +32,11 @@
 }
 
 .member__quote {
-    @include font(20px, normal, $lh-copy);
-    font-family: serif;
+    @include font(18px, normal, $lh-copy);
+    font-family: $serif;
 
     @include sm {
-        font-size: calculate-rem(24px);
+        font-size: toRem(22px);
     }
 }
 

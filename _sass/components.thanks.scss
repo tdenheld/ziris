@@ -19,6 +19,6 @@
     @include font(28px, 500, $lh-title);
 
     @include sm {
-        font-size: calculate-rem(40px);
+        font-size: toRem(40px);
     }
 }

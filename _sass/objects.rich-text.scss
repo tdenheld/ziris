@@ -6,7 +6,7 @@
 
         @include sm {
             margin: $triple-gutter 0 $half-gutter;
-            font-size: calculate-rem(48px);
+            font-size: toRem(48px);
         }
     }
 
@@ -39,7 +39,7 @@
         @include font(16px, 500, $lh-copy);
 
         @include sm {
-            font-size: calculate-rem(18px);
+            font-size: toRem(18px);
         }
     }
 
@@ -74,7 +74,7 @@
         color: $grey-3;
 
         @include sm {
-            font-size: calculate-rem(22px);
+            font-size: toRem(22px);
         }
     }
 

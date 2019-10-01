@@ -3,17 +3,17 @@ $meta__row-border: 1px solid rgba($brand, 0.35);
 .meta {
     position: relative;
     padding: $gutter 0 $double-gutter;
-    font-size: calculate-rem(18px);
+    font-size: toRem(18px);
     border-bottom: 1px solid rgba($light, 0.15);
 
     @include sm {
         padding: $double-gutter 0;
-        font-size: calculate-rem(24px);
+        font-size: toRem(24px);
     }
 
     @include lg { 
         padding: $triple-gutter 0;  
-        font-size: calculate-rem(32px);
+        font-size: toRem(32px);
     }
 }
 

@@ -36,13 +36,13 @@
 
 .header__item {
     color: $light;
-    margin-left: calculate-rem(20px);
-    font-size: calculate-rem(16px);
+    margin-left: toRem(20px);
+    font-size: toRem(16px);
     letter-spacing: 0.2px;
     cursor: pointer;
 
     @include sm {
-        margin-left: calculate-rem($gutter);
+        margin-left: toRem($gutter);
     }
 
     @include lg {
