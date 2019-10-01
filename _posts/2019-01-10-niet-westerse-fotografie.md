@@ -13,7 +13,7 @@ caption: >-
   Third Line, Dubai
 amount: '5 lessen van 1,5 uur'
 time: 'donderdag om de week 19:30 - 21:00'
-start: 19 september 2019
+start: 23 januari 2020
 location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
 price: 175.-
 inc: lesmateriaal
