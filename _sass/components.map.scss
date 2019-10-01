@@ -10,10 +10,15 @@
 }
 
 .map__controls {
+    display: none;
     position: fixed;
     bottom: $gutter;
     right: $gutter;
     box-shadow: $box-shadow-medium;
+
+    @include sm {
+        display: block;
+    }
 
     @include md {
         bottom: $double-gutter;
@@ -42,12 +47,6 @@
 
     &:last-child {
         border: none;
-    }
-}
-
-.touch {
-    .map__controls {
-        display: none;
     }
 }
 
