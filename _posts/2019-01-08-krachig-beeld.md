@@ -11,7 +11,7 @@ img: /assets/img/kim-van-aalderen.jpg
 caption: 'Kim van Aalderen, Spanish Soil. Personal Series 2019'
 amount: '6 lessen van 1,5 uur'
 time: 'donderdag 16:00 - 17:30'
-start: 26 september 2019
+start: 23 januari 2020
 location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
 price: 195.-
 inc: lesmateriaal
