@@ -41,6 +41,9 @@
         {% unless page.no-footer %}{% include footer.html %}{% endunless %}
     </main>
 
+   {% include cursor.html %}
+
+
     <!-- JAVASCRIPT -->
     {% if page.google-maps %}
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCzOr-5E1X-ZVgYTGjgSANxyFWP0JPCRNI"></script>
@@ -49,6 +52,7 @@
     <script src="/assets/js/generic.js"></script>
     <script src="/assets/js/form.js"></script>
     <script src="/assets/js/map.js"></script>
+    <script src="/assets/js/cursor.js"></script>
     <script>
         if (window.netlifyIdentity) {
             window.netlifyIdentity.on("init", user => {
