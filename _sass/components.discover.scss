@@ -3,9 +3,10 @@
 .discover {
     display: none;
     position: absolute;
+    width: 140px;
     z-index: 1;
     bottom: 0;
-    left: 28%;
+    left: calc(27% + 16px);
     text-align: center;
     @include font(16px, 900, $lh-title);
     font-style: italic;
@@ -15,15 +16,22 @@
     @include lg {
         display: block;
     }
+
+    &:hover {
+        .discover__txt {
+            letter-spacing: 3px;
+        }
+    }
 }
 
 .discover__txt {
     margin-bottom: 4px;
+    transition: $fade-all;
 }
 
 .discover__line {
+    margin: 0 auto;
     width: 1px;
     height: 80px;
     background-color: $light;
-    margin: 0 auto;
 }
