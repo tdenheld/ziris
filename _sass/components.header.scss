@@ -54,6 +54,31 @@
     }
 }
 
+.header__item--link {
+    position: relative;
+
+    &:after {
+        content: '';
+        position: absolute;
+        width: 5px;
+        height: 5px;
+        bottom: -10px;
+        left: calc(50% - 2px);
+        background-color: $light;
+        border-radius: 50%;
+        opacity: 0;
+        transition: $fade-link;
+
+        @include lg {
+            background-color: $brand;
+        }
+    }
+
+    &:hover:after {
+        opacity: 1;
+    }
+}
+
 .header--white {
     .header__logo {
         svg {
@@ -67,6 +92,10 @@
         svg {
             fill: $brand;
         }
+    }
+
+    .header__item--link:after {
+        background-color: $brand;
     }
 
     .button--header {
@@ -100,6 +129,10 @@
         svg {
             fill: $light;
         }
+    }
+
+    .header__item--link:after {
+        background-color: $light;
     }
 
     .button--header {
