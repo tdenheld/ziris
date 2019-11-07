@@ -3,7 +3,7 @@ title: vrouwen fotografie
 date: 2019-07-22T04:32:17.416Z
 category: volwassenen
 description: |-
-  Alleen de werken van vrouwen komen in deze cursus aan bod.
+  Alleen werken van vrouwen komen in deze cursus aan bod.
   De vraag of er een vrouwelijk blik bestaat wordt nader bekeken.
 thumb: /assets/img/essaydi_thumb.jpg
 img: /assets/img/essaydi.jpg
