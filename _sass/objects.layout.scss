@@ -1,8 +1,5 @@
-.app {
-    // push footer to bottom
-    display: grid;
-    grid-template-rows: 1fr max-content;
-    height: 100%;
+.content {
+    min-height: calc(100vh - 62px);
 }
 
 .container {
