@@ -3,8 +3,6 @@ title: vrouwen fotografie
 date: 2019-07-22T04:32:17.416Z
 category: volwassenen
 description: >-
-  Alleen werken van vrouwen komen in deze cursus aan bod.
-
   De vraag of er een vrouwelijk blik bestaat wordt nader bekeken aan de hand van
   verschillende fotografische disciplines.
 thumb: /assets/img/essaydi_thumb.jpg
