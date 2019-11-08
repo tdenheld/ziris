@@ -18,6 +18,7 @@ const getData = () => {
 
     ß(obj).map((el) => {
         const data = checkSessionStorage(el.id);
+        if (!data) return;
         (el.nodeName === 'INPUT') ? el.value = data : el.textContent = data;
     });
 }
