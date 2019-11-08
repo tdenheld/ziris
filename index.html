@@ -34,7 +34,7 @@ cursor: true
 <section class="art">
     <div class="container container--m">
         <div class="art__grid">
-            <header class="section-header order-last-md js-scroll-magic">
+            <header class="section-header order-last-md js-scroll">
                 <div class="thick-line hidden-xs hidden-sm tr-stag js-tr"></div>
                 <h2 class="section-header__title section-header__title--small mxw-550 tr-stag js-tr">
                     {{ site.data.home.art.title }}
@@ -43,7 +43,7 @@ cursor: true
                     {{ site.data.home.art.subtitle }}
                 </p>
             </header>
-            <figure class="js-scroll-magic tr-stag js-tr">
+            <figure class="js-scroll tr-stag js-tr">
                 <img class="art__img" src="{{ site.data.home.art.img }}" alt="{{ site.data.home.art.caption }}" />
                 <figcaption>{{ site.data.home.art.caption }}</figcaption>
             </figure>
@@ -51,7 +51,7 @@ cursor: true
     </div>
 </section>
 
-<section class="pattern js-scroll-magic tr-stag js-tr">
+<section class="pattern js-scroll tr-stag js-tr">
     <div class="pattern__bg"></div>
     <div class="container pattern__container">
         <header class="section-header">
@@ -73,7 +73,7 @@ cursor: true
 <section class="proof">
     <div class="container container--m">
         <div class="proof__grid">
-            <header class="section-header mxw-350 js-scroll-magic">
+            <header class="section-header mxw-350 js-scroll">
                 <div class="thick-line hidden-xs hidden-sm tr-stag js-tr"></div>
                 <h2 class="section-header__title section-header__title--small tr-stag js-tr">
                     {{ site.data.home.proof.title }}
@@ -81,7 +81,7 @@ cursor: true
             </header>
             <div>
                 {% for member in site.data.home.proof.members %}
-                <div class="member js-scroll-magic">
+                <div class="member js-scroll">
                     <img class="member__img tr-stag js-tr" src="{{ member.img }}" alt="{{ member.name }}" />
                     <div class="member__txt">
                         <h3 class="member__name tr-stag js-tr">{{ member.name }}</h3>
