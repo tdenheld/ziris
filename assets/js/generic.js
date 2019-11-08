@@ -24,6 +24,10 @@ const checkLocalStorage = (value) => {
     if (localStorage.getItem(value)) return localStorage.getItem(value).trim();
 }
 
+const checkSessionStorage = (value) => {
+    if (sessionStorage.getItem(value)) return sessionStorage.getItem(value).trim();
+}
+
 const removeAllChilds = node => {
     while (node.firstChild) node.removeChild(node.firstChild);
 }
@@ -54,9 +58,6 @@ const scrollToObject = () => {
     });
 }
 
-
-// discover
-// ------------------------------------------------------------
 const discover = () => {
     const node = '.js-discover';
     const obj = document.querySelector(node);
@@ -83,10 +84,6 @@ const discover = () => {
     window.addEventListener('resize', () => requestAnimationFrame(reveal));
 }
 
-
-
-// reveal on scroll
-// ------------------------------------------------------------------
 const revealOnScroll = () => {
     const section = '.js-scroll';
     const richTxt = '.js-scroll-rt > *';
