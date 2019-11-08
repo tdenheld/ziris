@@ -19,48 +19,28 @@ const getData = () => {
     ß(obj).map((el) => {
         const data = checkSessionStorage(el.id);
         if (!data) return;
-        (el.nodeName === 'INPUT') ? el.value = data : el.textContent = data;
+        (el.nodeName === 'INPUT') ? el.value = data: el.textContent = data;
     });
 }
 
 
 // form field
 // ------------------------------------------------------------
-function form() {
-    function formField(i) {
-        var id = "#js-formfield-" + i;
-        var input = $(id + " .js-input");
-        var label = $(id + " .js-label");
+const form = () => {
+    ß('.js-formfield').map((el) => {
+        const input = el.querySelector('.js-input');
+        const label = el.querySelector('.js-label');
 
-        input.keyup(() => {
-            if (input.val() != "") {
-                label.addClass("is-active");
-            } else {
-                label.removeClass("is-active");
-            }
+        input.addEventListener('keyup', () => {
+            input.value ? label.classList.add('is-active') : label.classList.remove('is-active');
         });
 
-        input.focusin(() => {
-            label.addClass("is-focussed");
-        });
+        input.addEventListener('focusin', () => label.classList.add('is-focussed'));
+        input.addEventListener('focusout', () => label.classList.remove('is-focussed'));
+    });
 
-        input.focusout(() => {
-            label.removeClass("is-focussed");
-        });
-    }
-
-    if ($(".js-submit")[0]) {
-        $(".js-submit").click(() => {
-            setData();
-        });
-    }
-
-    if ($(".js-formfield")[0]) {
-        $(".js-formfield").each(function (i) {
-            $(this).attr("id", "js-formfield-" + i);
-            formField(i);
-        });
-    }
+    const submit = '.js-submit';
+    if (exists(submit)) ß(submit).map((el) => el.onclick = () => setData());
 }
 
 document.addEventListener('DOMContentLoaded', () => {
