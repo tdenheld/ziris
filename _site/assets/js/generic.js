@@ -58,6 +58,22 @@ const scrollToObject = () => {
     });
 }
 
+const scrollRevealer = (node, hook, inView, outView) => {
+    const reveal = () => {
+        const nodePosition = node.getBoundingClientRect();
+        const inViewport = !(nodePosition.top > innerHeight * hook);
+        if (inViewport) {
+            if (inView) inView();
+        } else {
+            if (outView) outView();
+        }
+    }
+    reveal();
+
+    window.addEventListener('scroll', () => requestAnimationFrame(reveal));
+    window.addEventListener('resize', () => requestAnimationFrame(reveal));
+}
+
 const discover = () => {
     const node = '.js-discover';
     const obj = document.querySelector(node);
@@ -73,15 +89,7 @@ const discover = () => {
         });
     }
 
-    const reveal = () => {
-        const nodePosition = obj.getBoundingClientRect();
-        const inViewport = !(nodePosition.top > innerHeight * 0.82);
-        inViewport ? obj.classList.add('o-0') : obj.classList.remove('o-0');
-    }
-    reveal();
-
-    window.addEventListener('scroll', () => requestAnimationFrame(reveal));
-    window.addEventListener('resize', () => requestAnimationFrame(reveal));
+    scrollRevealer(obj, 0.82, () => obj.classList.add('o-0'), () => obj.classList.remove('o-0'));
 }
 
 const revealOnScroll = () => {
@@ -90,22 +98,14 @@ const revealOnScroll = () => {
     if (!exists(section) && !exists(richTxt)) return;
 
     const init = (node) => {
-        const reveal = () => ß(node).map((el) => {
+        ß(node).map((el) => {
             const defaultHook = 0.92;
             const hook = el.getAttribute('data-hook') || defaultHook;
-
-            const nodePosition = el.getBoundingClientRect();
-            const inViewport = !(nodePosition.top > innerHeight * hook);
-
-            if (inViewport) {
+            scrollRevealer(el, hook, () => {
                 ß('.js-tr', el).map((ae) => ae.classList.add('is-active'));
                 if (el.classList.contains('js-tr')) el.classList.add('is-active');
-            }
+            });
         });
-        reveal();
-
-        window.addEventListener('scroll', () => requestAnimationFrame(reveal));
-        window.addEventListener('resize', () => requestAnimationFrame(reveal));
     }
 
     ß(richTxt).map((el) => el.classList.add('js-tr', 'tr-fi-up', 'tr-1500'));
