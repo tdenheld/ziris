@@ -16,6 +16,8 @@ time: 13.30 - 16.30
 start: 16 mei 2020
 location: 'Erasmuslaan, Prins hendriklaan, Utrecht'
 price: '€ 50,- '
-inc: Inclusief rondleiding maar exclusief entrée. Museumjaarkaart is geldig.
+inc: >-
+  Inclusief rondleiding en fotografische opdrachten en versnapering. Exclusief
+  entrée. Museumjaarkaart is geldig.
 ---
 Functionele woningbouw.
