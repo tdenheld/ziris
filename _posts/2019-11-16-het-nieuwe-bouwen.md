@@ -20,9 +20,7 @@ inc: >-
   Inclusief rondleiding en opdrachten. Exclusief entrée. Museumjaarkaart is
   geldig.
 ---
-De excursie zal plaatsvinden in twee woningen. In de eerste plaats gaan we naar woningen ontworpen door Gerrit Rietveld aan de Erasmuslaan. Dit is een voorbeeld van functionele ideeën omtrent het Nieuwe Bouwen.
-
-Het iconische Rietveld-Schröderhuis, specifiek ontwerp voor Truus Schröder in de vormgeving van de Stijl, zal als tweede locatie bezocht worden.
+De excursie zal plaatsvinden in twee woningen. In de eerste plaats gaan we naar woningen ontworpen door Gerrit Rietveld aan de Erasmuslaan. Dit is een voorbeeld van functionele ideeën omtrent het Nieuwe Bouwen. Het iconische Rietveld-Schröderhuis, specifiek ontwerp voor Truus Schröder in de vormgeving van de Stijl, zal als tweede locatie bezocht worden.
 
 Fotografische opdrachten worden voor de excursie uitgedeeld. 
 
