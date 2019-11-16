@@ -21,3 +21,5 @@ inc: >-
   entrée. Museumjaarkaart is geldig.
 ---
 Functionele woningbouw.
+
+Maximaal 10 personen.
