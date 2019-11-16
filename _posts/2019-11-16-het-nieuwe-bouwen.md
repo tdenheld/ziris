@@ -17,8 +17,8 @@ start: 16 mei 2020
 location: 'Erasmuslaan, Prins hendriklaan, Utrecht'
 price: '€ 50,- '
 inc: >-
-  Inclusief rondleiding en fotografische opdrachten en versnapering. Exclusief
-  entrée. Museumjaarkaart is geldig.
+  Inclusief rondleiding en opdrachten. Exclusief entrée. Museumjaarkaart is
+  geldig.
 ---
 De excursie zal plaatsvinden in twee woningen. In de eerste plaats gaan we naar een herenhuis ontworpen door Gerrit Rietveld aan  de Erasmuslaan. Dit is een voorbeeld van het Nieuwe Bouwen. Functionele woningbouw.
 
