@@ -4,7 +4,7 @@ date: 2019-11-16T04:38:54.578Z
 category: volwassenen
 type: excursie
 description: |-
-  Fotograferen in 2 Rietveldwoningen in Utrecht.
+  Fotograferen in Rietveldwoningen in Utrecht.
   UNESCO werelderfgoed.
 thumb: /assets/img/retveld-thumb.jpg
 img: /assets/img/rietveld-groot.jpg
