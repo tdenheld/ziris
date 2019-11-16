@@ -20,6 +20,10 @@ inc: >-
   Inclusief rondleiding en fotografische opdrachten en versnapering. Exclusief
   entrée. Museumjaarkaart is geldig.
 ---
-Functionele woningbouw.
+De excursie zal plaatsvinden in twee woningen. In de eerste plaats gaan we naar een herenhuis aan de Erasmuslaan. Dit is een voorbeeld van het Nieuwe Bouwen. 
 
-Maximaal 10 personen.
+Het specifieke ontwerp voor Truus Schröder in de vormgeving van de Stijl, het iconische Rietveld-Schröderhuis zal als tweede locatie bezocht worden.
+
+Omdat door richtlijnen van UNESCO Werelderfgoed slechts een beperkt aantal personen worden toegelaten is er een maximum van 10 aanmeldingen.
+
+Verzamelen Erasmuslaan 9.
