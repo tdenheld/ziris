@@ -20,10 +20,12 @@ inc: >-
   Inclusief rondleiding en fotografische opdrachten en versnapering. Exclusief
   entrée. Museumjaarkaart is geldig.
 ---
-De excursie zal plaatsvinden in twee woningen. In de eerste plaats gaan we naar een herenhuis aan de Erasmuslaan. Dit is een voorbeeld van het Nieuwe Bouwen. 
+De excursie zal plaatsvinden in twee woningen. In de eerste plaats gaan we naar een herenhuis ontworpen door Gerrit Rietveld aan  de Erasmuslaan. Dit is een voorbeeld van het Nieuwe Bouwen. 
 
 Het specifieke ontwerp voor Truus Schröder in de vormgeving van de Stijl, het iconische Rietveld-Schröderhuis zal als tweede locatie bezocht worden.
 
 Omdat door richtlijnen van UNESCO Werelderfgoed slechts een beperkt aantal personen worden toegelaten is er een maximum van 10 aanmeldingen.
+
+**Programma:**
 
 Verzamelen Erasmuslaan 9.
