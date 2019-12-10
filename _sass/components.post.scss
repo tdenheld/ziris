@@ -17,7 +17,7 @@
 }
 
 .post__title {
-    @include font(40px, 900, $lh-title);
+    @include font(40px, 900, 1.1);
 
     @include sm {
         font-size: toRem(60px);

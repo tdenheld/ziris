@@ -22,15 +22,11 @@ De excursie zal plaatsvinden in twee woningen. In de eerste plaats gaan we naar 
 
 Omdat door richtlijnen van UNESCO Werelderfgoed slechts een beperkt aantal personen worden toegelaten is er een maximum van 10 aanmeldingen.
 
-**Programma:**
+## Programma:
 
-13.30 - 13.35     Verzamelen Erasmuslaan 9.   
-
-13.35 - 14.00     Opdrachten exterieur.   
-
-14.00 - 15.00     Erasmuslaan   
-
-15.00 - 16.00     Rietveld-Schröderhuis             
-
-16.00 -16.30      Bekijken van opdrachten in Jan Primus.           
+- 13.30 - 13.35 &nbsp; Verzamelen Erasmuslaan 9.   
+- 13.35 - 14.00 &nbsp; Opdrachten exterieur.   
+- 14.00 - 15.00 &nbsp; Erasmuslaan   
+- 15.00 - 16.00 &nbsp; Rietveld-Schröderhuis             
+- 16.00 - 16.30 &nbsp; Bekijken van opdrachten in Jan Primus.           
 
