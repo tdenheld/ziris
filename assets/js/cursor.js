@@ -4,59 +4,70 @@ const cursor = () => {
     if (Modernizr.touchevents) return;
 
     const follow = (obj, x, y, t) => {
-        if (!exists(obj)) return;
-        TweenMax.to(obj, t, {
+        gsap.to(obj, {
+            duration: t,
+            ease: 'power4.out',
             x: x,
             y: y,
-            ease: Power4.easeOut
         });
     }
 
-    const fade = (obj, a, b, t) => {
-        if (!exists(obj)) return;
-        TweenMax.fromTo(obj, t, {
-            autoAlpha: a
+    const fade = (obj) => {
+        const _tween = gsap.fromTo(obj, {
+            autoAlpha: 0
         }, {
-            autoAlpha: b,
-            ease: Power4.easeOut
-        });
-    }
+            ease: 'linear.none',
+            autoAlpha: 1,
+        }).pause();
 
-    const tracking = (obj, t, fading) => {
-        if (!exists(obj)) return;
-
-        document.addEventListener('mousemove', e => {
-            requestAnimationFrame(() => {
-                follow(obj, e.clientX, e.clientY, t);
+        const fadeIn = dur => {
+            gsap.to(_tween, {
+                ease: 'power4.out'
             });
-        }, {
-            passive: true
-        });
+            _tween.duration(dur).play();
+        }
 
-        document.body.addEventListener('mouseenter', e => {
-            if (fading) fade(obj, 0, 1, 0.1);
+        const fadeOut = dur => {
+            gsap.to(_tween, {
+                ease: 'power4.in'
+            });
+            _tween.duration(dur).reverse();
+        }
+
+        return {
+            fadeIn,
+            fadeOut
+        }
+    }
+
+    const tracking = (obj, duration, fading) => {
+        if (!exists(obj)) return;
+        const fadeObj = fade(obj);
+
+        document.addEventListener('mousemove', e => requestAnimationFrame(() => {
+            follow(obj, e.clientX, e.clientY, duration);
+        }));
+
+        document.addEventListener('mouseover', e => {
+            if (fading) fadeObj.fadeIn(0.3);
             follow(obj, e.clientX, e.clientY, 0);
-        }, {
-            passive: true
         });
 
-        document.body.addEventListener('mouseleave', () => {
-            if (fading) fade(obj, 1, 0, 0.7);
-        }, {
-            passive: true
+        document.addEventListener('mouseout', () => {
+            if (fading) fadeObj.fadeOut(1);
         });
     }
 
     // hover states
     // ------------------------------------------------
     const sizing = (obj, size) => {
-        if (!exists(obj)) return;
-        TweenMax.to(obj, 0.5, {
+        gsap.to(obj, {
+            duration: 0.5,
+            ease: 'power4.out',
             width: size,
             height: size,
             top: -size / 2,
             left: -size / 2,
-            ease: Power4.easeOut
         });
     }
 
@@ -66,12 +77,8 @@ const cursor = () => {
         const hover = 'a, button, fieldset, .js-discover';
 
         ß(hover).map((el) => {
-            el.addEventListener('mouseenter', () => sizing(obj, initSize * 3), {
-                passive: true
-            });
-            el.addEventListener('mouseleave', () => sizing(obj, initSize), {
-                passive: true
-            });
+            el.addEventListener('mouseenter', () => sizing(obj, initSize * 3));
+            el.addEventListener('mouseleave', () => sizing(obj, initSize));
         });
     }
 

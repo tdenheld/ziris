@@ -46,12 +46,12 @@ const scrollToObject = () => {
     ß(obj).map((el) => el.onclick = () => {
         const target = el.getAttribute('href');
         if (!exists(target)) return;
-        TweenMax.to(window, .8, {
-            ease: Power3.easeInOut,
+        gsap.to(window, {
+            duration: 0.8,
+            ease: 'power3.inOut',
             scrollTo: {
                 y: target,
-                offsetY: offset,
-                autoKill: false,
+                offsetY: offset
             }
         });
         return false;
@@ -80,10 +80,11 @@ const discover = () => {
     if (!exists(node)) return;
 
     obj.onclick = () => {
-        TweenMax.to(window, .8, {
-            ease: Power3.easeInOut,
+        gsap.to(window, {
+            duration: 0.8,
+            ease: 'power3.inOut',
             scrollTo: {
-                y: ".art",
+                y: '.art',
                 autoKill: false,
             }
         });
