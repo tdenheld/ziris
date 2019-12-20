@@ -15,10 +15,12 @@ layout: default
             </div>
         </div>
     </div>
-    <figure class="container js-scroll">
-        <img class="post__img tr-stag js-tr" src="{{ page.img }}" alt="{{ page.caption }}" />
+    <div class="container js-scroll">
+        <figure class="post__img tr-stag js-tr">
+            <img class="w-100" src="{{ page.img }}" alt="{{ page.caption }}" />
+        </figure>
         <figcaption class="tr-stag js-tr">{{ page.caption }}</figcaption>
-    </figure>
+    </div>
 </section>
 
 {% include meta.html %}

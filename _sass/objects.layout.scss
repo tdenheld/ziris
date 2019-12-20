@@ -4,6 +4,7 @@
 
 .container {
     padding: 0 $gutter;
+
     @include md {
         padding: 0 $double-gutter;
     }
