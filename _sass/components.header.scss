@@ -83,6 +83,7 @@
 .header__item--icon {
     @include center(inline-flex);
     position: relative;
+    top: 1px;
     width: 40px;
     height: 40px;
     margin: 0 -10px 0 10px;
@@ -110,6 +111,11 @@
 
     .header__item--link:after {
         background-color: $brand;
+    }
+
+    .header-mobile {
+        background-color: $light;
+        color: $brand;
     }
 
     .hamburger__line {
@@ -153,6 +159,11 @@
         background-color: $light;
     }
 
+    .header-mobile {
+        background-color: $brand;
+        color: $light;
+    }
+
     .hamburger__line {
         background-color: $light;
     }
@@ -184,14 +195,17 @@
     @include full(fixed);
     justify-content: center;
     background-color: $brand;
-    z-index: 998;
-    text-align: center;
-    padding-top: 128px;
     color: $light;
+    z-index: -1;
+    text-align: center;
+    padding-top: 120px;
+    transform-origin: 0 0;
+    transform: scaleY(0);
 }
 
 .header-mobile__item {
     display: block;
     padding: 12px 0;
-    @include font(36px, 600, $lh-copy);
+    @include font(36px, 700, $lh-copy);
+    transition: initial;
 }
