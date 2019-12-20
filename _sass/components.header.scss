@@ -174,3 +174,24 @@
         }
     }
 }
+
+
+
+// mobile
+// ----------------------------------------------------
+.header-mobile {
+    display: none;
+    @include full(fixed);
+    justify-content: center;
+    background-color: $brand;
+    z-index: 998;
+    text-align: center;
+    padding-top: 128px;
+    color: $light;
+}
+
+.header-mobile__item {
+    display: block;
+    padding: 12px 0;
+    @include font(36px, 600, $lh-copy);
+}
