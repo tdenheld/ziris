@@ -1,0 +1,18 @@
+// gallery
+// --------------------------------------------------
+
+.gallery {
+    overflow: hidden;
+    padding-top: 6vw;
+}
+
+.gallery__container {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.gallery__img {
+    margin-right: $gutter;
+    height: 60vh;
+    object-fit: cover;
+}

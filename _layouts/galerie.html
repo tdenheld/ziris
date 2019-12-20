@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<section class="section pb-0">
+    <h1 class="pos-a v-hidden">{{ page.title }}</h1>
+
+    <div class="gallery js-gallery">
+        <div class="gallery__container">
+            {% for image in site.static_files reversed %}
+            {% if image.path contains '/assets/img' %}
+            <img class="gallery__img" src="{{ image.path }}" alt="{{ image.path }}" />
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>

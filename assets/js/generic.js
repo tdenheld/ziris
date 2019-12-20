@@ -114,9 +114,17 @@ const revealOnScroll = () => {
     init(section);
 }
 
+const gallery = () => {
+    if (!exists('.js-gallery')) return;
+    window.addEventListener('scroll', () => requestAnimationFrame(() => {
+        console.log(window.scrollX);
+    }));
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     toggle();
     scrollToObject();
     discover();
     revealOnScroll();
+    gallery();
 });
