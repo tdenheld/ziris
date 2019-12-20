@@ -35,6 +35,7 @@
 }
 
 .header__item {
+    display: inline-block;
     color: $light;
     margin-left: toRem(20px);
     font-size: toRem(16px);
@@ -79,6 +80,19 @@
     }
 }
 
+.header__item--icon {
+    @include center(inline-flex);
+    position: relative;
+    width: 40px;
+    height: 40px;
+    margin: 0 -10px 0 10px;
+}
+
+
+
+
+// modifiers
+// --------------------------------------------
 .header--white {
     .header__logo {
         svg {
@@ -95,6 +109,10 @@
     }
 
     .header__item--link:after {
+        background-color: $brand;
+    }
+
+    .hamburger__line {
         background-color: $brand;
     }
 
@@ -132,6 +150,10 @@
     }
 
     .header__item--link:after {
+        background-color: $light;
+    }
+
+    .hamburger__line {
         background-color: $light;
     }
 

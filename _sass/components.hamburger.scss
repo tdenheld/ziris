@@ -1,0 +1,62 @@
+// hamburger menu icon
+// ----------------------------------
+.hamburger {
+    width: 20px;
+    outline: none;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    line-height: 0;
+    cursor: pointer;
+
+    &__line {
+        position: relative;
+        display: block;
+        width: 100%;
+        height: 1px;
+        background: $light;
+        opacity: 1;
+        transition: $fade-all;
+
+        &:not(:last-child) {
+            margin-bottom: 5px;
+        }
+
+        &:first-child {
+            transform-origin: 0 0;
+        }
+
+        &:last-child {
+            width: 60%;
+            transform-origin: 0 100%;
+        }
+    }
+
+    &:focus,
+    &:focus-within,
+    &:active,
+    &:hover {
+        outline: none;
+        border: none;
+    }
+
+    &.is-active {
+        .hamburger__line {
+            width: 0;
+            opacity: 0;
+        }
+
+        .hamburger__line:first-child {
+            transform: rotate(45deg) translateY(-2px);
+            width: 22px;
+            opacity: 1;
+        }
+
+        .hamburger__line:last-child {
+            transform: rotate(-45deg) translateY(2px);
+            width: 22px;
+            opacity: 1;
+        }
+    }
+}

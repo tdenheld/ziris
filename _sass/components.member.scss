@@ -38,6 +38,10 @@
     @include sm {
         font-size: toRem(22px);
     }
+
+    @include md-ex {
+        font-size: toRem(18px);
+    }
 }
 
 .member__img {
