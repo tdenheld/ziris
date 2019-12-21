@@ -4,6 +4,10 @@
     position: absolute;
     width: 100%;
     z-index: 999;
+
+    &.is-active {
+        position: fixed;
+    }
 }
 
 .header__container {

@@ -8,6 +8,7 @@
     if (!exists('.js-nav')) return;
     const nav = document.querySelector('.js-nav');
     const toggle = document.querySelector('.js-nav-toggle');
+    const header = document.querySelector('.js-header');
 
     const tl = gsap.timeline({
         paused: true,
@@ -30,7 +31,13 @@
     });
 
     toggle.parentNode.addEventListener('click', () => {
-        !toggle.classList.contains('is-active') ? tl.play().timeScale(1) : tl.timeScale(-2);
+        if (!toggle.classList.contains('is-active')) {
+            tl.play().timeScale(1);
+            header.classList.add('is-active');
+        } else {
+            tl.timeScale(-2);
+            setTimeout(() => header.classList.remove('is-active'), 400);
+        }
         toggle.classList.toggle('is-active');
     });
 })();
