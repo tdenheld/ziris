@@ -4,37 +4,43 @@
 $gallery-height: 70vh;
 
 .gallery {
-    @include full(fixed);
-    @include center(flex);
-}
-
-.gallery__container {
-    margin-top: $triple-gutter;
-    height: $gallery-height;
-    overflow-y: hidden;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
 }
 
 .gallery__scroll-container {
+    height: calc(100% + #{$gutter});
     display: flex;
-    height: calc(#{$gallery-height} + #{$gutter});
-    padding-bottom: $gutter;
+    align-items: center;
     overflow-x: scroll;
     -webkit-overflow-scrolling: touch;
 }
 
 .gallery__tile {
+    margin-bottom: $half-gutter;
     padding-left: $gutter;
-    height: 100%;
+
+    @include sm {
+        margin-bottom: 0;
+    }
 
     @include md {
-        padding-left: $double-gutter;
+        padding-left: $triple-gutter;
+    }
+
+    &:first-child {
+        @include md {
+            padding-left: $double-gutter;
+        }
     }
 
     &:last-child {
         padding-right: $gutter;
 
         @include md {
-            padding-right: $double-gutter;
+            padding-right: $triple-gutter;
         }
     }
 }
@@ -43,6 +49,9 @@ $gallery-height: 70vh;
     margin-bottom: 4px;
     max-width: none;
     width: auto;
-    height: calc(100% - 64px);
-    object-fit: cover;
+    height: 54vh;
+
+    @include sm {
+        height: 70vh;
+    }
 }
