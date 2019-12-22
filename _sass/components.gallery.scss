@@ -2,17 +2,27 @@
 // --------------------------------------------------
 
 .gallery {
+    @include full(fixed);
+    @include center(flex);
     overflow: hidden;
-    padding-top: 6vw;
 }
 
 .gallery__container {
+    height: 60vh; // hide scroll bar
+    overflow-y: hidden; // hide scroll bar
+}
+
+.gallery__scroll-container {
+    height: calc(60vh + #{$gutter}); // hide scroll bar
+    padding-bottom: $gutter; // hide scroll bar
     display: flex;
     overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
 }
 
 .gallery__img {
     margin-right: $gutter;
-    height: 60vh;
-    object-fit: cover;
+    max-width: none;
+    width: auto;
+    height: 100%;
 }

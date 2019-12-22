@@ -1,6 +1,6 @@
 ---
 layout: galerie
 title: galerie
-header: header--white
-footer: bg-light f-brand
+header: header--white pos-f
+footer: pos-f w-100
 ---
