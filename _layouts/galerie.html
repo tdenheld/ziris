@@ -7,10 +7,8 @@ layout: default
 <div class="gallery js-gallery a a-fi-right-200px a-dur-1500">
     <div class="gallery__container">
         <div class="gallery__scroll-container">
-            {% for image in site.static_files reversed %}
-            {% if image.path contains '/assets/img' %}
-            <img class="gallery__img" src="{{ image.path }}" alt="{{ image.path }}" />
-            {% endif %}
+            {% for entry in page.items %}
+            <img class="gallery__img" src="{{ entry.img }}" alt="{{ entry.author }}" />
             {% endfor %}
         </div>
     </div>
