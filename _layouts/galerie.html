@@ -11,7 +11,7 @@ layout: default
         <div class="gallery__tile">
             <img class="gallery__img" src="{{ entry.img }}" alt="{{ entry.author }}" />
             <h2 class="fw-900 f18">{{ entry.author }}</h2>
-            <h3 class="f12 f-grey-4">{{ entry.course }}</h3>
+            <h3 class="f12 f-grey-4">{{ entry.course | downcase }}</h3>
         </div>
         {% endfor %}
 
