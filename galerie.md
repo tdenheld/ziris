@@ -16,4 +16,10 @@ items:
     - author: Noah Gelso
       course: Kijk mij eens!
       img: /assets/img/magnolia.jpg
+    - author: Marlous Klaassen
+      course: Krachtig Beeld
+      img: /assets/img/haarmans.jpg
+    - author: Niels Bennekom
+      course: Niet Westerse Fotografie
+      img: /assets/img/hult.jpg
 ---
