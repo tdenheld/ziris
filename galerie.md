@@ -2,7 +2,7 @@
 layout: galerie
 title: galerie
 header: header--white pos-f
-footer: pos-f bottom-0px w-100
+footer: dn
 items:
     - author: Marieke van Helst
       course: Anders Kijken
@@ -13,7 +13,7 @@ items:
     - author: Henk de Lunter
       course: Fotografie en Beeldende Kunst
       img: /assets/img/ollier.jpg
-    - author: Marieke van Helst
-      course: Anders Kijken
+    - author: Noah Gelso
+      course: Kijk mij eens!
       img: /assets/img/magnolia.jpg
 ---

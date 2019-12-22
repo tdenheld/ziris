@@ -4,12 +4,18 @@ layout: default
 
 <h1 class="pos-a v-hidden">{{ page.title }}</h1>
 
-<div class="gallery js-gallery a a-fi-right-200px a-dur-1500">
+<div class="gallery js-gallery a a-fi-right-200px a-del-500 a-dur-1500">
     <div class="gallery__container">
         <div class="gallery__scroll-container">
+
             {% for entry in page.items %}
-            <img class="gallery__img" src="{{ entry.img }}" alt="{{ entry.author }}" />
+            <div class="gallery__tile">
+                <img class="gallery__img" src="{{ entry.img }}" alt="{{ entry.author }}" />
+                <h2 class="fw-900 f18">{{ entry.author }}</h2>
+                <h3 class="f12 f-grey-4">{{ entry.course }}</h3>
+            </div>
             {% endfor %}
+
         </div>
     </div>
 </div>
