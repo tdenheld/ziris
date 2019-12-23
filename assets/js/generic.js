@@ -148,9 +148,7 @@ const gallery = () => {
         window.scrollTo(0, gallery.scrollLeft);
     }, 100));
 
-    window.addEventListener('load', () => {
-        updateEmptyContainerHeight();
-    });
+    window.addEventListener('load', () => updateEmptyContainerHeight());
 }
 
 document.addEventListener('DOMContentLoaded', () => {
