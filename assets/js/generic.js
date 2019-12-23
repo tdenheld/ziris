@@ -125,36 +125,9 @@ const revealOnScroll = () => {
     init(section);
 }
 
-const gallery = () => {
-    const obj = '.js-gallery';
-    if (!exists(obj) || Modernizr.touchevents) return;
-    
-    const verticalEmptyContainer = document.querySelector('.js-gallery-vertical-empty-container');
-    const gallery = document.querySelector(obj);
-
-    window.scrollTop = 0;
-    gallery.scrollLeft = 0;
-    
-    const updateEmptyContainerHeight = () => {
-        verticalEmptyContainer.style.height = gallery.scrollWidth + 'px';
-    }
-    updateEmptyContainerHeight();
-
-    window.addEventListener('scroll', () => requestAnimationFrame(() => {
-        gallery.scrollLeft = window.scrollY;
-    }));
-
-    gallery.addEventListener('scroll', debounce(() => {
-        window.scrollTo(0, gallery.scrollLeft);
-    }, 24));
-
-    window.addEventListener('load', () => updateEmptyContainerHeight());
-}
-
 document.addEventListener('DOMContentLoaded', () => {
     toggle();
     scrollToObject();
     discover();
     revealOnScroll();
-    gallery();
 });
