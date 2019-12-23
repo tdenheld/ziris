@@ -4,8 +4,8 @@ layout: default
 
 <h1 class="pos-a v-hidden">{{ page.title }}</h1>
 
-<div class="gallery js-gallery a a-fi-right-200px a-del-500 a-dur-1500">
-    <div class="gallery__scroll-container">
+<div class="gallery a a-fi-right-200px a-del-500 a-dur-1500">
+    <div class="gallery__scroll-container js-gallery">
 
         {% for entry in page.items %}
         <div class="gallery__tile">
@@ -17,3 +17,5 @@ layout: default
 
     </div>
 </div>
+
+<div class="pos-a top-0px w-10 js-gallery-vertical-empty-container"></div>

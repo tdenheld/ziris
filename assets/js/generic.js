@@ -32,6 +32,17 @@ const removeAllChilds = node => {
     while (node.firstChild) node.removeChild(node.firstChild);
 }
 
+const debounce = (callback, time) => {
+    let interval;
+    return (...args) => {
+        clearTimeout(interval);
+        interval = setTimeout(() => {
+            interval = null;
+            callback(...args);
+        }, time);
+    }
+}
+
 const toggle = () => {
     const obj = '.js-toggle';
     if (!exists(obj)) return;
@@ -115,10 +126,22 @@ const revealOnScroll = () => {
 }
 
 const gallery = () => {
-    if (!exists('.js-gallery')) return;
+    const obj = '.js-gallery';
+    if (!exists(obj)) return;
+    const verticalEmptyContainer = document.querySelector('.js-gallery-vertical-empty-container');
+    const gallery = document.querySelector(obj);
+
+    window.scrollTop = 0;
+    gallery.scrollLeft = 0;
+    verticalEmptyContainer.style.height = gallery.scrollWidth + 'px';
+
     window.addEventListener('scroll', () => requestAnimationFrame(() => {
-        console.log(window.scrollX);
+        gallery.scrollLeft = window.scrollY;
     }));
+
+    gallery.addEventListener('scroll', debounce(() => {
+        window.scrollTo(0, gallery.scrollLeft);
+    }, 100));
 }
 
 document.addEventListener('DOMContentLoaded', () => {
