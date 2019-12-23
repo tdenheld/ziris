@@ -127,7 +127,8 @@ const revealOnScroll = () => {
 
 const gallery = () => {
     const obj = '.js-gallery';
-    if (!exists(obj)) return;
+    if (!exists(obj) || Modernizr.touchevents) return;
+    
     const verticalEmptyContainer = document.querySelector('.js-gallery-vertical-empty-container');
     const gallery = document.querySelector(obj);
 
