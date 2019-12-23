@@ -146,7 +146,7 @@ const gallery = () => {
 
     gallery.addEventListener('scroll', debounce(() => {
         window.scrollTo(0, gallery.scrollLeft);
-    }, 100));
+    }, 24));
 
     window.addEventListener('load', () => updateEmptyContainerHeight());
 }
