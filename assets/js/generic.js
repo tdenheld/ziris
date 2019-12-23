@@ -134,7 +134,11 @@ const gallery = () => {
 
     window.scrollTop = 0;
     gallery.scrollLeft = 0;
-    verticalEmptyContainer.style.height = gallery.scrollWidth + 'px';
+    
+    const updateEmptyContainerHeight = () => {
+        verticalEmptyContainer.style.height = gallery.scrollWidth + 'px';
+    }
+    updateEmptyContainerHeight();
 
     window.addEventListener('scroll', () => requestAnimationFrame(() => {
         gallery.scrollLeft = window.scrollY;
@@ -143,6 +147,10 @@ const gallery = () => {
     gallery.addEventListener('scroll', debounce(() => {
         window.scrollTo(0, gallery.scrollLeft);
     }, 100));
+
+    window.addEventListener('load', () => {
+        updateEmptyContainerHeight();
+    });
 }
 
 document.addEventListener('DOMContentLoaded', () => {
