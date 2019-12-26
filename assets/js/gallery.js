@@ -7,14 +7,14 @@
 (() => {
     const obj = '.js-gallery';
     if (!exists(obj) || Modernizr.touchevents) return;
-    
+
     const container = document.querySelector('.js-gallery-container');
     const gallery = document.querySelector(obj);
 
     // reset positions on page load
     window.scrollTop = 0;
     gallery.scrollLeft = 0;
-    
+
     /* make an empty vertical container to let the window object scroll down
     the same height as the width of the gallery scroll container */
     const updateEmptyContainerHeight = () => {
