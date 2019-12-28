@@ -51,6 +51,18 @@ collections:
                   - {label: "Afbeelding", name: "img", widget: "image"}
                   - {label: "Beroep", name: "profession", widget: "string"}
                   - {label: "Citaat (niet tussen haakjes zetten)", name: "quote", widget: "text"}
+      - name: "galerie"
+        label: "Galerie"
+        file: "galerie.md"
+        widget: "object"
+        fields:
+          - label: "Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: "Afbeelding", name: "img", widget: "image"}
+              - {label: "Auteur", name: "author", widget: "string"}
+              - {label: "Cursus", name: "course", widget: "string"}
       - name: "over-ziris"
         label: "Over Ziris"
         file: "over-ziris.md"
