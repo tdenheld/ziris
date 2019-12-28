@@ -26,7 +26,7 @@ collections:
           - label: "Vervolgsectie"
             name: "art"
             widget: "object"
-            fields: 
+            fields:
               - {label: "Titel", name: "title", widget: "string", default: "aangeleerde kijkpatronen herkennen en doorbreken"}
               - {label: "Subtitel", name: "subtitle", widget: "text", default: "helpt je om op een meer creatieve en bewuste manier te fotograferen.", required: false}
               - {label: "Afbeelding", name: "img", widget: "image"}
@@ -34,7 +34,7 @@ collections:
           - label: "Oproep tot actie"
             name: "pattern"
             widget: "object"
-            fields: 
+            fields:
               - {label: "Titel", name: "title", widget: "string", default: "goede foto’s maken. zelfs met je mobiel"}
               - {label: "Subtitel", name: "subtitle", widget: "text", default: "door bij mij een cursus te volgen leer je waarom.", required: false}
               - {label: "Knop", name: "button", widget: "string"}
@@ -46,7 +46,7 @@ collections:
               - label: "Cursisten"
                 name: "members"
                 widget: "list"
-                fields: 
+                fields:
                   - {label: "Naam", name: "name", widget: "string"}
                   - {label: "Afbeelding", name: "img", widget: "image"}
                   - {label: "Beroep", name: "profession", widget: "string"}
