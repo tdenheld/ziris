@@ -25,12 +25,12 @@ items:
   - author: Liek Bouma
     course: Vrouwenfotografie
     img: /assets/img/galerie--liek-bouma.jpg
-  - author: Arno de Bruin
-    course: Vrouwenfotografie
-    img: /assets/img/galerie--arno-de-bruin.jpg
   - author: Lucien Aspeling
     course: Fotografie en Beeldende Kunst
     img: /assets/img/galerie--lucien-aspeling.jpg
+  - author: Arno de Bruin
+    course: Vrouwenfotografie
+    img: /assets/img/galerie--arno-de-bruin.jpg
   - author: Marja de Beus
     course: Kijk mij eens!
     img: /assets/img/galerie--marja-de-beus.jpg
