@@ -37,8 +37,5 @@ items:
   - author: May Boll
     course: Krachtig Beeld
     img: /assets/img/galerie--may-boll.jpg
-  - author: testme
-    course: testme
-    img: /assets/img/art.jpg
 ---
 
