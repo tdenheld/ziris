@@ -7,9 +7,6 @@ items:
   - author: Alien Bijker
     course: Anders Kijken
     img: /assets/img/galerie--alien-bijker.jpg
-  - author: Blosfeld
-    course: Kijk mij eens!
-    img: /assets/img/blossfeldt.jpg
   - author: Astrid
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
@@ -19,9 +16,6 @@ items:
   - author: Hennie Visser
     course: Krachtig Beeld
     img: /assets/img/galerie--hennie-visser.jpg
-  - author: Arno de Bruin
-    course: Vrouwenfotografie
-    img: /assets/img/galerie--arno-de-bruin.jpg
   - author: Jacco van Muiswinkel
     course: Niet Westerse Fotografie
     img: /assets/img/galerie--jacco-van-muiswinkel.jpg
@@ -31,6 +25,9 @@ items:
   - author: Liek Bouma
     course: Vrouwenfotografie
     img: /assets/img/galerie--liek-bouma.jpg
+  - author: Arno de Bruin
+    course: Vrouwenfotografie
+    img: /assets/img/galerie--arno-de-bruin.jpg
   - author: Lucien Aspeling
     course: Fotografie en Beeldende Kunst
     img: /assets/img/galerie--lucien-aspeling.jpg
