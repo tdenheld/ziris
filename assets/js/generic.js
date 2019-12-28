@@ -32,6 +32,17 @@ const removeAllChilds = node => {
     while (node.firstChild) node.removeChild(node.firstChild);
 }
 
+const debounce = (callback, time) => {
+    let interval;
+    return (...args) => {
+        clearTimeout(interval);
+        interval = setTimeout(() => {
+            interval = null;
+            callback(...args);
+        }, time);
+    }
+}
+
 const toggle = () => {
     const obj = '.js-toggle';
     if (!exists(obj)) return;

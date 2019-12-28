@@ -603,6 +603,8 @@
      Seen or not
 --------------------*/
 
+.v-hidden { visibility: hidden; }
+
 // opacities
 // ----------------------------------------------------------------------
 .o-100 { opacity: 1;    }
@@ -782,10 +784,11 @@
 	}
 }
 
-// word wraps
+// misc
 // ----------------------------------------------------------------------
 .no-wrap {white-space: nowrap;}
 .break-word {word-wrap: break-word;}
+.uppercase {text-transform: uppercase;}
 
 
 

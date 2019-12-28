@@ -35,16 +35,6 @@
         color: $brand;
     }
 
-    @media (max-width: 359px) {
-        border: none !important;
-        padding: 9px 0 12px;
-
-        &:hover {
-            background-color: transparent;
-            color: $light;
-        }
-    }
-
     @include lg {
         border: 1px solid $brand;
         color: $brand;

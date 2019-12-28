@@ -16,8 +16,11 @@
         grid-gap: $gutter;
     }
 
+    @include md {
+        grid-template-columns: max-content 1fr;
+    }
+
     @include lg {
         grid-gap: $double-gutter;
-        grid-template-columns: max-content 1fr;
     }
 }

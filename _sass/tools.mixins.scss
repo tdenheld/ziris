@@ -73,3 +73,9 @@
 	background-repeat: no-repeat;
 	background-size: $s;
 }
+
+@mixin center($d) {
+    display: $d;
+    align-items: center;
+    justify-content: center;
+}

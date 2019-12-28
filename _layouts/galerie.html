@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="gallery a a-fi-right-200px a-del-500 a-dur-1500">
+    <div class="gallery__scroll-container js-gallery">
+
+        <div class="gallery__tile gallery__tile--intro">
+            <h1 class="fw-900 f32 f48-sm f72-md lh-solid mb-2 mb-4-sm">
+                foto's van cursisten
+            </h1>
+            <p class="f-grey-4 f20-sm f28-md lh-title">
+                geselecteerd<br>door Ziris
+            </p>
+        </div>
+
+        {% for entry in page.items %}
+        <div class="gallery__tile">
+            <img class="gallery__img" data-src="{{ entry.img }}" alt="{{ entry.author }}" />
+            <h3 class="fw-900 f18">{{ entry.author }}</h3>
+            <h4 class="f12 f-grey-4">{{ entry.course | downcase }}</h4>
+        </div>
+        {% endfor %}
+
+    </div>
+</div>
+
+<!-- empty vertical scroll container -->
+<div class="pos-a top-0px w-10 js-gallery-container"></div>

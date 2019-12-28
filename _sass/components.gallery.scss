@@ -1,0 +1,75 @@
+// gallery
+// --------------------------------------------------
+
+$gallery-height: 70vh;
+
+.gallery {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.gallery__scroll-container {
+    height: calc(100% + #{$gutter});
+    display: flex;
+    align-items: center;
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.gallery__tile {
+    margin-bottom: $half-gutter;
+    padding-left: $gutter;
+
+    @include sm {
+        margin-bottom: 0;
+    }
+
+    @include md {
+        padding-left: $triple-gutter;
+    }
+
+    &:first-child {
+        @include md {
+            padding-left: $double-gutter;
+        }
+    }
+
+    &:last-child {
+        padding-right: $gutter;
+
+        @include md {
+            padding-right: $triple-gutter;
+        }
+    }
+}
+
+.gallery__tile--intro {
+    border-right: 1px solid $brand;
+    padding-right: $gutter;
+    margin-bottom: 62px;
+    height: 54vh;
+
+    @include sm {
+        height: 70vh;
+        margin-bottom: 51px;
+    }
+
+    @include md {
+        padding-right: $triple-gutter;
+    }
+}
+
+.gallery__img {
+    margin-bottom: 6px;
+    max-width: none;
+    min-width: 100vh;
+    width: auto;
+    height: 54vh;
+    object-fit: cover;
+
+    @include sm {
+        height: 70vh;
+    }
+}
