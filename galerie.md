@@ -7,6 +7,9 @@ items:
   - author: Alien Bijker
     course: Anders Kijken
     img: /assets/img/galerie--alien-bijker.jpg
+  - author: Blosfeld
+    course: Kijk mij eens!
+    img: /assets/img/blossfeldt.jpg
   - author: Astrid
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
