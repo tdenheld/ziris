@@ -1,4 +1,8 @@
 ---
+layout: galerie
+title: galerie
+header: header--white pos-f
+footer: dn
 items:
   - author: Alien Bijker
     course: Anders Kijken
