@@ -47,7 +47,6 @@
     const observer = new IntersectionObserver((entries, self) => {
         entries.map(entry => {
             if (entry.isIntersecting) {
-                console.log('img');
                 updateEmptyContainerHeight();
                 preloadImage(entry.target);
 
