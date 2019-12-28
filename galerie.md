@@ -1,4 +1,8 @@
 ---
+layout: galerie
+title: galerie
+header: header--white pos-f
+footer: dn
 items:
   - author: Alien Bijker
     course: Anders Kijken
@@ -33,8 +37,5 @@ items:
   - author: May Boll
     course: Krachtig Beeld
     img: /assets/img/galerie--may-boll.jpg
-  - author: Test
-    course: test
-    img: /assets/img/breitner.jpg
 ---
 

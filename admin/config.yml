@@ -56,12 +56,16 @@ collections:
         file: "galerie.md"
         widget: "object"
         fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "galerie"}
+          - {label: "Title", name: "title", widget: "hidden", default: "galerie"}
+          - {label: "Header", name: "header", widget: "hidden", default: "header--white pos-f"}
+          - {label: "Footer", name: "footer", widget: "hidden", default: "dn"}
           - label: "Items"
             name: "items"
             widget: "list"
             fields:
               - {label: "Afbeelding", name: "img", widget: "image"}
-              - {label: "Auteur", name: "author", widget: "string"}
+              - {label: "Cursist", name: "author", widget: "string"}
               - {label: "Cursus", name: "course", widget: "string"}
       - name: "over-ziris"
         label: "Over Ziris"
