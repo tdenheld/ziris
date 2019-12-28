@@ -4,40 +4,37 @@ title: galerie
 header: header--white pos-f
 footer: dn
 items:
-    - author: Marieke van Helst
+    - author: Alien Bijker
       course: Anders Kijken
-      img: /assets/img/strogonoff.jpg
-    - author: Willem van Garderen
-      course: Vrouwenfotografie
-      img: /assets/img/vermeer.jpg
-    - author: Henk de Lunter
+      img: /assets/img/galerie--alien-bijker.jpg
+    - author: Astrid
       course: Fotografie en Beeldende Kunst
-      img: /assets/img/ollier.jpg
-    - author: Noah Gelso
+      img: assets/img/galerie--astrid-1.jpg
+    - author: Harry Slegh
       course: Kijk mij eens!
-      img: /assets/img/magnolia.jpg
-    - author: Marlous Klaassen
+      img: /assets/img/galerie--harry-slegh.jpg
+    - author: Hennie Visser
       course: Krachtig Beeld
-      img: /assets/img/haarmans.jpg
-    - author: Niels Bennekom
+      img: /assets/img/galerie--hennie-visser.jpg
+    - author: Arno de Bruin
+      course: Vrouwenfotografie
+      img: /assets/img/galerie--arno-de-bruin.jpg
+    - author: Jacco van Muiswinkel
       course: Niet Westerse Fotografie
-      img: /assets/img/hult.jpg
-    - author: Marieke van Helst
+      img: /assets/img/galerie--jacco-van-muiswinkel.jpg
+    - author: Jelte Wisse
       course: Anders Kijken
-      img: /assets/img/mazzoli.jpg
-    - author: Willem van Garderen
+      img: /assets/img/galerie--jelte-wisse.jpg
+    - author: Liek Bouma
       course: Vrouwenfotografie
-      img: /assets/img/long.jpg
-    - author: Henk de Lunter
+      img: /assets/img/galerie--liek-bouma.jpg
+    - author: Lucien Aspeling
       course: Fotografie en Beeldende Kunst
-      img: /assets/img/uytenhaak_amersfoort.jpg
-    - author: Noah Gelso
+      img: /assets/img/galerie--lucien-aspeling.jpg
+    - author: Marja de Beus
       course: Kijk mij eens!
-      img: /assets/img/ronald-correlje.jpg
-    - author: Marlous Klaassen
+      img: /assets/img/galerie--marja-de-beus.jpg
+    - author: May Boll
       course: Krachtig Beeld
-      img: /assets/img/jessen.jpg
-    - author: Niels Bennekom
-      course: Niet Westerse Fotografie
-      img: /assets/img/kamman_groot.jpg
+      img: /assets/img/galerie--may-boll.jpg
 ---
