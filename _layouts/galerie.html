@@ -16,7 +16,7 @@ layout: default
 
         {% for entry in page.items %}
         <div class="gallery__tile">
-            <img class="gallery__img" src="{{ entry.img }}" alt="{{ entry.author }}" />
+            <img class="gallery__img" data-src="{{ entry.img }}" alt="{{ entry.author }}" />
             <h3 class="fw-900 f18">{{ entry.author }}</h3>
             <h4 class="f12 f-grey-4">{{ entry.course | downcase }}</h4>
         </div>

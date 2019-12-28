@@ -64,8 +64,10 @@ $gallery-height: 70vh;
 .gallery__img {
     margin-bottom: 6px;
     max-width: none;
+    min-width: 2000px;
     width: auto;
     height: 54vh;
+    object-fit: cover;
 
     @include sm {
         height: 70vh;

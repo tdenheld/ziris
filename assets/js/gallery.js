@@ -34,4 +34,34 @@
 
     // update vertical empty container height when all images are loaded
     window.addEventListener('load', () => updateEmptyContainerHeight());
+
+    // lazy loading images
+    // --------------------------------------------------------
+    const preloadImage = img => {
+        const src = img.getAttribute('data-src');
+        if (!src) return
+        img.src = src;
+        setTimeout(() => img.style.minWidth = '0px', 10);
+    }
+
+    const observer = new IntersectionObserver((entries, self) => {
+        entries.map(entry => {
+            if (entry.isIntersecting) {
+                console.log('img');
+                updateEmptyContainerHeight();
+                preloadImage(entry.target);
+
+                // Stop watching and load the image
+                self.unobserve(entry.target);
+            }
+        });
+    }, {
+        root: gallery,
+        rootMargin: '256px',
+        threshold: 0,
+    });
+
+    ß('[data-src]').map(el => {
+        observer.observe(el);
+    });
 })();
