@@ -5,13 +5,13 @@ header: header--white pos-f
 footer: dn
 items:
   - author: Alien Bijker
-    course: Anders Kijken
+    course: Imulatio Emulatio
     img: /assets/img/galerie--alien-bijker.jpg
   - author: Astrid Latupeirissa
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
   - author: Harry Slegh
-    course: Kijk mij eens!
+    course: Vrouwenfotografie
     img: /assets/img/galerie--harry-slegh.jpg
   - author: Hennie Visser
     course: Krachtig Beeld
