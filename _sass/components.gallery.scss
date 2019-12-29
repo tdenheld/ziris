@@ -19,9 +19,12 @@
 .gallery__tile {
     margin-bottom: $half-gutter;
     padding-left: $gutter;
+    margin-bottom: 62px;
+    height: 54vh;
 
     @include sm {
-        margin-bottom: 0;
+        height: 70vh;
+        margin-bottom: 51px;
     }
 
     @include md {
@@ -46,13 +49,6 @@
 .gallery__tile--intro {
     border-right: 1px solid $brand;
     padding-right: $gutter;
-    margin-bottom: 62px;
-    height: 54vh;
-
-    @include sm {
-        height: 70vh;
-        margin-bottom: 51px;
-    }
 
     @include md {
         padding-right: $triple-gutter;
