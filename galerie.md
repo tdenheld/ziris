@@ -39,6 +39,6 @@ items:
     img: /assets/img/galerie--may-boll.jpg
   - author: Mieke Posthumus
     course: Excursie Zielhorst
-    img: /assets/img/mieke-zielhorst-2.jpeg
+    img: /assets/img/mieke-zielhorst-2.jpg
 ---
 
