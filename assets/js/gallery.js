@@ -52,7 +52,7 @@
     /* make an empty vertical container to let the window object scroll down
     the same height as the width of the gallery scroll container */
     const updateEmptyContainerHeight = () => {
-        container.style.height = gallery.scrollWidth * 0.97 + 'px';
+        container.style.height = gallery.scrollWidth + 'px';
     }
     updateEmptyContainerHeight();
 
@@ -65,5 +65,8 @@
     gallery.addEventListener('scroll', debounce(() => {
         window.scrollTo(0, gallery.scrollLeft);
     }, 24));
-    
+
+    // update vertical empty container height when all images are loaded
+    window.addEventListener('load', () => updateEmptyContainerHeight());
+
 })();
