@@ -6,10 +6,46 @@
 
 (() => {
     const obj = '.js-gallery';
-    if (!exists(obj) || Modernizr.touchevents) return;
+    if (!exists(obj)) return;
 
     const container = document.querySelector('.js-gallery-container');
     const gallery = document.querySelector(obj);
+
+    // lazy loading images
+    // --------------------------------------------------------
+    const preloadImage = img => {
+        const src = img.getAttribute('data-src');
+        if (!src) return
+        img.src = src;
+        setTimeout(() => img.style.minWidth = '0px', 10);
+    }
+
+    const observer = new IntersectionObserver((entries, self) => {
+        entries.map(entry => {
+            if (entry.isIntersecting) {
+                if (!Modernizr.touchevents) updateEmptyContainerHeight();
+                preloadImage(entry.target);
+
+                // Stop watching and load the image
+                self.unobserve(entry.target);
+            }
+        });
+    }, {
+        root: gallery,
+        rootMargin: '256px',
+        threshold: 0,
+    });
+
+    ß('[data-src]').map(el => {
+        observer.observe(el);
+    });
+
+
+
+
+    // vertical scroll gallery
+    // --------------------------------------------------------
+    if (Modernizr.touchevents) return;
 
     // reset positions on page load
     window.scrollTop = 0;
@@ -31,36 +67,5 @@
     gallery.addEventListener('scroll', debounce(() => {
         window.scrollTo(0, gallery.scrollLeft);
     }, 24));
-
-    // update vertical empty container height when all images are loaded
-    window.addEventListener('load', () => updateEmptyContainerHeight());
-
-    // lazy loading images
-    // --------------------------------------------------------
-    const preloadImage = img => {
-        const src = img.getAttribute('data-src');
-        if (!src) return
-        img.src = src;
-        setTimeout(() => img.style.minWidth = '0px', 10);
-    }
-
-    const observer = new IntersectionObserver((entries, self) => {
-        entries.map(entry => {
-            if (entry.isIntersecting) {
-                updateEmptyContainerHeight();
-                preloadImage(entry.target);
-
-                // Stop watching and load the image
-                self.unobserve(entry.target);
-            }
-        });
-    }, {
-        root: gallery,
-        rootMargin: '256px',
-        threshold: 0,
-    });
-
-    ß('[data-src]').map(el => {
-        observer.observe(el);
-    });
+    
 })();
