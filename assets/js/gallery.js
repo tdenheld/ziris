@@ -25,8 +25,6 @@
             if (entry.isIntersecting) {
                 if (!Modernizr.touchevents) updateEmptyContainerHeight();
                 preloadImage(entry.target);
-
-                // Stop watching and load the image
                 self.unobserve(entry.target);
             }
         });
