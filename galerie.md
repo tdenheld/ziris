@@ -7,7 +7,7 @@ items:
   - author: Alien Bijker
     course: Anders Kijken
     img: /assets/img/galerie--alien-bijker.jpg
-  - author: Astrid
+  - author: Astrid Latupeirissa
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
   - author: Harry Slegh
