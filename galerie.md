@@ -7,7 +7,7 @@ items:
   - author: Alien Bijker
     course: Anders Kijken
     img: /assets/img/galerie--alien-bijker.jpg
-  - author: Astrid
+  - author: Astrid Latupeirissa
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
   - author: Harry Slegh
@@ -25,12 +25,12 @@ items:
   - author: Liek Bouma
     course: Vrouwenfotografie
     img: /assets/img/galerie--liek-bouma.jpg
-  - author: Arno de Bruin
-    course: Vrouwenfotografie
-    img: /assets/img/galerie--arno-de-bruin.jpg
   - author: Lucien Aspeling
     course: Fotografie en Beeldende Kunst
     img: /assets/img/galerie--lucien-aspeling.jpg
+  - author: Arno de Bruin
+    course: Vrouwenfotografie
+    img: /assets/img/galerie--arno-de-bruin.jpg
   - author: Marja de Beus
     course: Kijk mij eens!
     img: /assets/img/galerie--marja-de-beus.jpg
