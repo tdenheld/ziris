@@ -11,7 +11,7 @@ items:
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
   - author: Harry Slegh
-    course: Kijk mij eens!
+    course: Vrouwenfotografie
     img: /assets/img/galerie--harry-slegh.jpg
   - author: Hennie Visser
     course: Krachtig Beeld
