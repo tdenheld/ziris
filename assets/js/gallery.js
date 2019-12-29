@@ -52,7 +52,7 @@
     /* make an empty vertical container to let the window object scroll down
     the same height as the width of the gallery scroll container */
     const updateEmptyContainerHeight = () => {
-        container.style.height = gallery.scrollWidth + 'px';
+        container.style.height = gallery.scrollWidth * 0.97 + 'px';
     }
     updateEmptyContainerHeight();
 

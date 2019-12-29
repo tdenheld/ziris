@@ -36,22 +36,26 @@
             padding-left: $double-gutter;
         }
     }
-
-    &:last-child {
-        padding-right: $gutter;
-
-        @include md {
-            padding-right: $triple-gutter;
-        }
-    }
 }
 
-.gallery__tile--intro {
+.gallery__tile--start {
     border-right: 1px solid $brand;
     padding-right: $gutter;
 
     @include md {
         padding-right: $triple-gutter;
+    }
+}
+
+.gallery__tile--finish {
+    @include center(flex);
+    border-left: 1px solid $brand;
+    margin-left: $gutter;
+    padding-right: $double-gutter;
+
+    @include md {
+        margin-left: $triple-gutter;
+        padding-right: 320px;
     }
 }
 
