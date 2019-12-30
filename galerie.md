@@ -10,7 +10,7 @@ items:
   - author: 'Astrid Latupeirissa, Kubus'
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
-  - author: Harry Slegh
+  - author: 'Harry Slegh, Zonder titel'
     course: Vrouwenfotografie
     img: /assets/img/galerie--harry-slegh.jpg
   - author: 'Hennie Visser, Moeder.'
@@ -19,7 +19,7 @@ items:
   - author: Jacco van Muiswinkel
     course: Niet Westerse Fotografie
     img: /assets/img/galerie--jacco-van-muiswinkel.jpg
-  - author: Jelte Wisse
+  - author: 'Jelte Wisse, Zonder titel'
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
   - author: 'Liek Bouma, Pastoe'
@@ -34,7 +34,7 @@ items:
   - author: 'Marja de Beus, zelfportret'
     course: De grenzen van het portret
     img: /assets/img/marja-de-beus-zelfportret.jpg
-  - author: May Boll
+  - author: 'May Boll, zonder titel'
     course: Krachtig Beeld
     img: /assets/img/galerie--may-boll.jpg
   - author: Mieke Posthumus
