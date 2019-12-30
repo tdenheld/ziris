@@ -19,7 +19,7 @@ items:
   - author: Jacco van Muiswinkel
     course: Niet Westerse Fotografie
     img: /assets/img/galerie--jacco-van-muiswinkel.jpg
-  - author: Jelte Wisse
+  - author: 'Jelte Wisse, Zonder titel'
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
   - author: 'Liek Bouma, Pastoe'
