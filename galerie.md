@@ -25,9 +25,9 @@ items:
   - author: Liek Bouma
     course: excursie Rotsoord
     img: /assets/img/galerie--liek-bouma.jpg
-  - author: Lucien Aspeling
-    course: De geschiedenis van de fotografie
-    img: /assets/img/galerie--lucien-aspeling.jpg
+  - author: 'Lucien Aspeling, moderne architectuur #4'
+    course: Imulatio emulatio
+    img: /assets/img/lucien-architectuurfotografie.jpg
   - author: 'Arno de Bruin, Catan met mezelf'
     course: Anders Kijken
     img: /assets/img/catannen-met-mezelf.jpg
