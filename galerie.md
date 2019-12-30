@@ -28,7 +28,7 @@ items:
   - author: 'Lucien Aspeling, moderne architectuur #4'
     course: Imulatio emulatio
     img: /assets/img/lucien-architectuurfotografie.jpg
-  - author: 'Arno de Bruin, Catan met mezelf'
+  - author: 'Arno de Bruijn, Catan met mezelf'
     course: Anders Kijken
     img: /assets/img/catannen-met-mezelf.jpg
   - author: 'Marja de Beus, zelfportret'
