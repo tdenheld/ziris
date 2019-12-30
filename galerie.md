@@ -47,7 +47,7 @@ items:
   - author: 'Annemiek Hoitink, Zonder titel'
     course: geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
-  - author: 'Els van Tuinen, Zonder titel'
+  - author: 'Els van Tuinen, Uit de serie Alice in Wonderland'
     course: vrouwenfotografie
     img: /assets/img/galerij_els-_zelfportret.jpg
 ---
