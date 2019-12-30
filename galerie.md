@@ -7,7 +7,7 @@ items:
   - author: 'Alien Bijker, Rode kool.'
     course: Imulatio Emulatio
     img: /assets/img/galerie--alien-bijker.jpg
-  - author: 'Astrid Latupeirissa, Kubus. Kleurstudie'
+  - author: 'Astrid Latupeirissa, Kubus'
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
   - author: Harry Slegh
