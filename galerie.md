@@ -23,7 +23,7 @@ items:
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
   - author: Liek Bouma
-    course: Vrouwenfotografie
+    course: excursie Rotsoord
     img: /assets/img/galerie--liek-bouma.jpg
   - author: Lucien Aspeling
     course: De geschiedenis van de fotografie
