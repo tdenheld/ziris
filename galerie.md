@@ -40,5 +40,9 @@ items:
   - author: Mieke Posthumus
     course: Excursie Zielhorst
     img: /assets/img/mieke-zielhorst-2.jpg
+  - author: 'Manon Balfoort, #13 Good heavens, er blijkt nog vanalles te volgen.'
+    course: Vrouwenfotografie
+    img: >-
+      /assets/img/galerij_manon-13-good-heavens-er-blijkt-nog-vanalles-te-volgen.jpg
 ---
 
