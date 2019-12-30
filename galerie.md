@@ -31,9 +31,9 @@ items:
   - author: 'Arno de Bruin, Catan met mezelf'
     course: Anders Kijken
     img: /assets/img/catannen-met-mezelf.jpg
-  - author: Marja de Beus
+  - author: 'Marja de Beus, zelfportret'
     course: De grenzen van het portret
-    img: /assets/img/galerie--marja-de-beus.jpg
+    img: /assets/img/marja-de-beus-zelfportret.jpg
   - author: May Boll
     course: Krachtig Beeld
     img: /assets/img/galerie--may-boll.jpg
