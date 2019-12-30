@@ -32,7 +32,7 @@ items:
     course: Vrouwenfotografie
     img: /assets/img/galerie--arno-de-bruin.jpg
   - author: Marja de Beus
-    course: Kijk mij eens!
+    course: De grenzen van het portret
     img: /assets/img/galerie--marja-de-beus.jpg
   - author: May Boll
     course: Krachtig Beeld
