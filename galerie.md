@@ -10,7 +10,7 @@ items:
   - author: 'Astrid Latupeirissa, Kubus'
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
-  - author: Harry Slegh
+  - author: 'Harry Slegh, Zonder titel'
     course: Vrouwenfotografie
     img: /assets/img/galerie--harry-slegh.jpg
   - author: 'Hennie Visser, Moeder.'
