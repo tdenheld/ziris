@@ -4,7 +4,7 @@ title: galerie
 header: header--white pos-f
 footer: dn
 items:
-  - author: 'Alien Bijker, rode kool.'
+  - author: 'Alien Bijker, Rode kool.'
     course: Imulatio Emulatio
     img: /assets/img/galerie--alien-bijker.jpg
   - author: Astrid Latupeirissa
