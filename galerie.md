@@ -47,8 +47,8 @@ items:
   - author: 'Annemiek Hoitink, Zonder titel'
     course: geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
-  - author: Els van Tuinen
-    course: excursie de uithof
-    img: /assets/img/galerij_els-van-tuinen-uithof.jpg
+  - author: 'Els van Tuinen, Zonder titel'
+    course: vrouwenfotografie
+    img: /assets/img/galerij_els-_zelfportret.jpg
 ---
 
