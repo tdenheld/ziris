@@ -28,9 +28,9 @@ items:
   - author: Lucien Aspeling
     course: De geschiedenis van de fotografie
     img: /assets/img/galerie--lucien-aspeling.jpg
-  - author: Arno de Bruin
-    course: Vrouwenfotografie
-    img: /assets/img/galerie--arno-de-bruin.jpg
+  - author: 'Arno de Bruin, Catan met mezelf'
+    course: Anders Kijken
+    img: /assets/img/catannen-met-mezelf.jpg
   - author: Marja de Beus
     course: De grenzen van het portret
     img: /assets/img/galerie--marja-de-beus.jpg
