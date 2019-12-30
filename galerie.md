@@ -44,5 +44,8 @@ items:
     course: Vrouwenfotografie
     img: >-
       /assets/img/galerij_manon-13-good-heavens-er-blijkt-nog-vanalles-te-volgen.jpg
+  - author: 'Annemiek Hoitink, Zonder titel'
+    course: geschiedenis van de fotografie
+    img: /assets/img/galerij-annemiek.jpg
 ---
 
