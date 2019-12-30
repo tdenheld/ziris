@@ -22,9 +22,9 @@ items:
   - author: Jelte Wisse
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
-  - author: 'Liek Bouma, #2'
-    course: excursie Domplein
-    img: /assets/img/galerij_liek-bouma-excursie-domplein.jpg
+  - author: 'Liek Bouma, Zonder titel'
+    course: excursie Elinkwijk
+    img: /assets/img/galerij_liek-bouma_-excursie-elinkwijk.jpg
   - author: 'Lucien Aspeling, moderne architectuur #4'
     course: Imulatio emulatio
     img: /assets/img/lucien-architectuurfotografie.jpg
