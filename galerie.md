@@ -13,8 +13,8 @@ items:
   - author: Harry Slegh
     course: Vrouwenfotografie
     img: /assets/img/galerie--harry-slegh.jpg
-  - author: Hennie Visser
-    course: Krachtig Beeld
+  - author: 'Hennie Visser, Moeder.'
+    course: Portretfotografie
     img: /assets/img/galerie--hennie-visser.jpg
   - author: Jacco van Muiswinkel
     course: Niet Westerse Fotografie
