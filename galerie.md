@@ -34,7 +34,7 @@ items:
   - author: 'Marja de Beus, zelfportret'
     course: De grenzen van het portret
     img: /assets/img/marja-de-beus-zelfportret.jpg
-  - author: May Boll
+  - author: 'May Boll, zonder titel'
     course: Krachtig Beeld
     img: /assets/img/galerie--may-boll.jpg
   - author: Mieke Posthumus
