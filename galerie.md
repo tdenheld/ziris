@@ -4,10 +4,10 @@ title: galerie
 header: header--white pos-f
 footer: dn
 items:
-  - author: 'Alien Bijker, rode kool.'
+  - author: 'Alien Bijker, Rode kool.'
     course: Imulatio Emulatio
     img: /assets/img/galerie--alien-bijker.jpg
-  - author: Astrid Latupeirissa
+  - author: 'Astrid Latupeirissa, Kubus. Kleurstudie'
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
   - author: Harry Slegh
@@ -22,7 +22,7 @@ items:
   - author: Jelte Wisse
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
-  - author: Liek Bouma
+  - author: 'Liek Bouma, Pastoe.'
     course: excursie Rotsoord
     img: /assets/img/galerie--liek-bouma.jpg
   - author: 'Lucien Aspeling, moderne architectuur #4'
