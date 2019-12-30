@@ -26,7 +26,7 @@ items:
     course: Vrouwenfotografie
     img: /assets/img/galerie--liek-bouma.jpg
   - author: Lucien Aspeling
-    course: Fotografie en Beeldende Kunst
+    course: De geschiedenis van de fotografie
     img: /assets/img/galerie--lucien-aspeling.jpg
   - author: Arno de Bruin
     course: Vrouwenfotografie
