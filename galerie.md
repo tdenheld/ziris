@@ -13,8 +13,8 @@ items:
   - author: Harry Slegh
     course: Vrouwenfotografie
     img: /assets/img/galerie--harry-slegh.jpg
-  - author: Hennie Visser
-    course: Krachtig Beeld
+  - author: 'Hennie Visser, Moeder.'
+    course: Portretfotografie
     img: /assets/img/galerie--hennie-visser.jpg
   - author: Jacco van Muiswinkel
     course: Niet Westerse Fotografie
@@ -23,16 +23,16 @@ items:
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
   - author: Liek Bouma
-    course: Vrouwenfotografie
+    course: excursie Rotsoord
     img: /assets/img/galerie--liek-bouma.jpg
   - author: Lucien Aspeling
-    course: Fotografie en Beeldende Kunst
+    course: De geschiedenis van de fotografie
     img: /assets/img/galerie--lucien-aspeling.jpg
-  - author: Arno de Bruin
-    course: Vrouwenfotografie
-    img: /assets/img/galerie--arno-de-bruin.jpg
+  - author: 'Arno de Bruin, Catan met mezelf'
+    course: Anders Kijken
+    img: /assets/img/catannen-met-mezelf.jpg
   - author: Marja de Beus
-    course: Kijk mij eens!
+    course: De grenzen van het portret
     img: /assets/img/galerie--marja-de-beus.jpg
   - author: May Boll
     course: Krachtig Beeld
