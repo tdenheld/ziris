@@ -16,7 +16,7 @@ items:
   - author: 'Hennie Visser, Moeder.'
     course: Portretfotografie
     img: /assets/img/galerie--hennie-visser.jpg
-  - author: 'Jacco van Muiswinkel, vuur'
+  - author: 'Jacco van Muiswinkel, Vuur'
     course: De 4 elementen
     img: /assets/img/galerij_jacco-4-elementen.jpg
   - author: 'Jelte Wisse, Zonder titel'
