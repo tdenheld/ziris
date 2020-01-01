@@ -16,9 +16,9 @@ items:
   - author: 'Hennie Visser, Moeder.'
     course: Portretfotografie
     img: /assets/img/galerie--hennie-visser.jpg
-  - author: Jacco van Muiswinkel
-    course: Niet Westerse Fotografie
-    img: /assets/img/galerie--jacco-van-muiswinkel.jpg
+  - author: 'Jacco van Muiswinkel, vuur'
+    course: De 4 elementen
+    img: /assets/img/galerij_jacco-4-elementen.jpg
   - author: 'Jelte Wisse, Zonder titel'
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
