@@ -42,8 +42,7 @@ items:
     img: /assets/img/mieke-zielhorst-2.jpg
   - author: 'Manon Balfoort, #13 Good heavens, er blijkt nog van alles te volgen.'
     course: Vrouwenfotografie
-    img: >-
-      /assets/img/galerij_manon-13-good-heavens-er-blijkt-nog-vanalles-te-volgen.jpg
+    img: /assets/img/galerij_manon-13-good-heavens-er-blijkt-nog-vanalles-te-volgen.jpg
   - author: 'Annemiek Hoitink, Zonder titel'
     course: geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
