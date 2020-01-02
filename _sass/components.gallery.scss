@@ -71,3 +71,27 @@
         height: 70vh;
     }
 }
+
+.gallery__author {
+    @include font(16px, 900, $lh-copy);
+
+    @include sm {
+        font-size: toRem(18px);
+    }
+}
+
+.gallery__title {
+    font-size: toRem(12px);
+    margin-bottom: 10px;
+
+    @include sm {
+        font-size: toRem(14px);
+    }
+}
+
+.gallery__course {
+    @include font(9px, normal, $lh-copy);
+    text-transform: uppercase;
+    color: $grey-4;
+    letter-spacing: toRem(1.5px);
+}

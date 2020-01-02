@@ -66,6 +66,7 @@ collections:
             fields:
               - {label: "Afbeelding", name: "img", widget: "image"}
               - {label: "Cursist", name: "author", widget: "string"}
+              - {label: "Titel", name: "title", widget: "string"}
               - {label: "Cursus", name: "course", widget: "string"}
       - name: "over-ziris"
         label: "Over Ziris"
