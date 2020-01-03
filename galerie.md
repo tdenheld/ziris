@@ -4,65 +4,66 @@ title: galerie
 header: header--white pos-f
 footer: dn
 items:
-  - author: 'Alien Bijker'
-    title: Rode kool
+  - author: Alien Bijker
     course: Imulatio Emulatio
     img: /assets/img/galerie--alien-bijker.jpg
-  - author: 'Astrid Latupeirissa'
-    title: Kubus
+    title: Rode kool
+  - author: Astrid Latupeirissa
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
-  - author: 'Harry Slegh'
-    title: Zonder titel
+    title: Kubus
+  - author: Harry Slegh
     course: Vrouwenfotografie
     img: /assets/img/galerie--harry-slegh.jpg
-  - author: 'Hennie Visser'
-    title: Moeder
+    title: Zonder titel
+  - author: Hennie Visser
     course: Portretfotografie
     img: /assets/img/galerie--hennie-visser.jpg
-  - author: 'Jacco van Muiswinkel'
-    title: Vuur
+    title: Moeder
+  - author: Jacco van Muiswinkel
     course: De 4 elementen
     img: /assets/img/galerij_jacco-4-elementen.jpg
-  - author: 'Jelte Wisse'
-    title: Zonder titel
+    title: Vuur
+  - author: Jelte Wisse
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
-  - author: 'Liek Bouma'
-    title: Pastoe
-    course: Excursie Rotsoord
-    img: /assets/img/galerie--liek-bouma.jpg
-  - author: 'Lucien Aspeling'
-    title: 'Moderne architectuur #4'
+    title: Zonder titel
+  - author: Liek Bouma
+    course: Excursie Domplein
+    img: /assets/img/galerijliek-bouma-excursie-domplein.jpg
+    title: zonder titel
+  - author: Lucien Aspeling
     course: Imulatio emulatio
     img: /assets/img/lucien-architectuurfotografie.jpg
-  - author: 'Arno de Bruijn'
-    title: Catan met mezelf
+    title: 'Moderne architectuur #4'
+  - author: Arno de Bruijn
     course: Anders Kijken
     img: /assets/img/catannen-met-mezelf.jpg
-  - author: 'Marja de Beus'
-    title: Zelfportret
+    title: Catan met mezelf
+  - author: Marja de Beus
     course: De grenzen van het portret
     img: /assets/img/marja-de-beus-zelfportret.jpg
-  - author: 'May Boll'
-    title: Zonder titel
+    title: Zelfportret
+  - author: May Boll
     course: Krachtig Beeld
     img: /assets/img/galerie--may-boll.jpg
-  - author: Mieke Posthumus
     title: Zonder titel
+  - author: Mieke Posthumus
     course: Excursie Zielhorst
     img: /assets/img/mieke-zielhorst-2.jpg
-  - author: 'Manon Balfoort'
-    title: 'Good heavens #13'
-    course: Vrouwenfotografie
-    img: /assets/img/galerij_manon-13-good-heavens-er-blijkt-nog-vanalles-te-volgen.jpg
-  - author: 'Annemiek Hoitink'
     title: Zonder titel
+  - author: Manon Balfoort
+    course: Vrouwenfotografie
+    img: >-
+      /assets/img/galerij_manon-13-good-heavens-er-blijkt-nog-vanalles-te-volgen.jpg
+    title: 'Good heavens #13'
+  - author: Annemiek Hoitink
     course: Geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
-  - author: 'Els van Tuinen'
-    title: Uit de serie Alice in Wonderland
+    title: Zonder titel
+  - author: Els van Tuinen
     course: Vrouwenfotografie
     img: /assets/img/galerij_els-_zelfportret.jpg
+    title: Uit de serie Alice in Wonderland
 ---
 
