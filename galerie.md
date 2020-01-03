@@ -51,7 +51,7 @@ items:
   - author: Mieke Posthumus
     course: Excursie Zielhorst
     img: /assets/img/mieke-zielhorst-2.jpg
-    title: Zonder titel
+    title: zonder titel
   - author: Manon Balfoort
     course: Vrouwenfotografie
     img: >-
