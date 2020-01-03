@@ -15,7 +15,7 @@ items:
   - author: Harry Slegh
     course: Vrouwenfotografie
     img: /assets/img/galerie--harry-slegh.jpg
-    title: Zonder titel
+    title: zonder titel
   - author: Hennie Visser
     course: Portretfotografie
     img: /assets/img/galerie--hennie-visser.jpg
