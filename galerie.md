@@ -15,7 +15,7 @@ items:
   - author: Harry Slegh
     course: Vrouwenfotografie
     img: /assets/img/galerie--harry-slegh.jpg
-    title: Zonder titel
+    title: zonder titel
   - author: Hennie Visser
     course: Portretfotografie
     img: /assets/img/galerie--hennie-visser.jpg
@@ -47,20 +47,20 @@ items:
   - author: May Boll
     course: Krachtig Beeld
     img: /assets/img/galerie--may-boll.jpg
-    title: Zonder titel
+    title: zonder titel
   - author: Mieke Posthumus
     course: Excursie Zielhorst
     img: /assets/img/mieke-zielhorst-2.jpg
-    title: Zonder titel
+    title: zonder titel
   - author: Manon Balfoort
     course: Vrouwenfotografie
     img: >-
       /assets/img/galerij_manon-13-good-heavens-er-blijkt-nog-vanalles-te-volgen.jpg
-    title: 'Good heavens #13'
+    title: '#13 Good heavens ......'
   - author: Annemiek Hoitink
     course: Geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
-    title: Zonder titel
+    title: zonder titel
   - author: Els van Tuinen
     course: Vrouwenfotografie
     img: /assets/img/galerij_els-_zelfportret.jpg
