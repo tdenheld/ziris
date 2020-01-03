@@ -27,7 +27,7 @@ items:
   - author: Jelte Wisse
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
-    title: Zonder titel
+    title: zonder titel
   - author: Liek Bouma
     course: Excursie Domplein
     img: /assets/img/galerijliek-bouma-excursie-domplein.jpg
