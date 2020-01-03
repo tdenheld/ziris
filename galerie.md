@@ -60,7 +60,7 @@ items:
   - author: Annemiek Hoitink
     course: Geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
-    title: Zonder titel
+    title: zonder titel
   - author: Els van Tuinen
     course: Vrouwenfotografie
     img: /assets/img/galerij_els-_zelfportret.jpg
