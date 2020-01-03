@@ -56,7 +56,7 @@ items:
     course: Vrouwenfotografie
     img: >-
       /assets/img/galerij_manon-13-good-heavens-er-blijkt-nog-vanalles-te-volgen.jpg
-    title: 'Good heavens #13'
+    title: '#13 Good heavens ......'
   - author: Annemiek Hoitink
     course: Geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
