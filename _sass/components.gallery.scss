@@ -2,9 +2,7 @@
 // --------------------------------------------------
 
 .gallery {
-    position: fixed;
-    width: 100vw;
-    height: 100vh;
+    @include full(fixed);
     overflow: hidden;
 }
 
@@ -17,14 +15,17 @@
 }
 
 .gallery__tile {
-    margin-bottom: $half-gutter;
     padding-left: $gutter;
-    margin-bottom: 62px;
+    margin-bottom: $gutter;
     height: 54vh;
 
+    @media (max-width: 359px) {
+        height: 50vh;
+    }
+
     @include sm {
+        margin-bottom: 40px;
         height: 70vh;
-        margin-bottom: 51px;
     }
 
     @include md {
@@ -59,17 +60,17 @@
     }
 }
 
-.gallery__img {
+.gallery__img-container {
     margin-bottom: 6px;
+    height: 100%;
+}
+
+.gallery__img {
     max-width: none;
     min-width: 100vh;
     width: auto;
-    height: 54vh;
+    height: 100%;
     object-fit: cover;
-
-    @include sm {
-        height: 70vh;
-    }
 }
 
 .gallery__author {

@@ -30,8 +30,7 @@
         });
     }, {
         root: gallery,
-        rootMargin: '256px',
-        threshold: 0,
+        rootMargin: '0px 256px',
     });
 
     ß('[data-src]').map(el => {
@@ -49,7 +48,7 @@
         });
     }, {
         root: gallery,
-        threshold: 0.2,
+        rootMargin: '0px -16%'
     });
 
     ß('.js-gallery-scroll').map(el => {

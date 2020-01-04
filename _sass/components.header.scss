@@ -213,6 +213,10 @@
 .header-mobile__item {
     display: block;
     padding: 12px 0;
-    @include font(36px, 700, $lh-copy);
+    @include font(32px, 700, $lh-copy);
     transition: initial;
+
+    @media (max-width: 359px) {
+        padding: 8px 0;
+    }
 }
