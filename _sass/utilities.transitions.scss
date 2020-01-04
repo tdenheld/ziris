@@ -20,75 +20,78 @@
 
 // none
 .tr-0 {
-	transition: none;
+    transition: none;
 }
+
 // 50ms - 1600ms
 @for $i from 1 through 32 {
-	$x: $i * 50;
-	$d: $x * 1ms;
-	.tr-#{$x} {
-		transition: all #{$d} $ease;
-	}
+    $x: $i * 50;
+    $d: $x * 1ms;
+
+    .tr-#{$x} {
+        transition: all #{$d} $ease;
+    }
 }
 
 
 // singles
 // ------------------------------
 .tr-fi {
-	opacity: 0;
-	
-	&.is-active {
-		opacity: 1;
-	}
+    opacity: 0;
+
+    &.is-active {
+        opacity: 1;
+    }
 }
 
 .tr-fi-up {
-	opacity: 0;
-    transform: translate3d(0, 50px, 0);
+    opacity: 0;
+    transform: translateY(50px) rotate(1deg);
     transition-timing-function: $ease-out;
-	
-	&.is-active {
-		opacity: 1;
-		transform: none;
-	}
+
+    &.is-active {
+        opacity: 1;
+        transform: none;
+    }
 }
 
 .tr-si {
-	opacity: 0;
-	transform: scale(0.97);
-	@include md {
-		transition-delay: 200ms;
-	}
-	
-	&.is-active {
-		opacity: 1;
-		transform: none;
-	}
+    opacity: 0;
+    transform: scale(0.97);
+
+    @include md {
+        transition-delay: 200ms;
+    }
+
+    &.is-active {
+        opacity: 1;
+        transform: none;
+    }
 }
 
 
 // staggered
 // ------------------------------
 .tr-stag {
-	@for $i from 1 through 12 {
-		&:nth-child(#{$i}) {
-			opacity: 0;
+    @for $i from 1 through 12 {
+        &:nth-child(#{$i}) {
+            opacity: 0;
             transform-origin: 0 0;
-			transform: translate3d(0, (20px + ($i * 8)), 0) rotate(1deg);
-			transition: all (900ms + ($i * 150)) $ease-out;
-			
-			&.is-active {
-				opacity: 1;
-				transform: none;
-			}
-		}
-	}
+            transform: translateY(20px + $i * 8) rotate(1deg);
+            transition: all (900ms + ($i * 150)) $ease-out;
+
+            &.is-active {
+                opacity: 1;
+                transform: none;
+            }
+        }
+    }
 }
 
 .tr-stag--right {
-	@for $i from 1 through 12 {
-		&:nth-child(#{$i}) {
-			transform: translateX(20px + $i * 8) rotate(1deg);
-		}
-	}
+    @for $i from 1 through 12 {
+        &:nth-child(#{$i}) {
+            transform: translateX(20px + $i * 8) rotate(1deg);
+        }
+    }
 }
