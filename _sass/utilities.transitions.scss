@@ -64,11 +64,6 @@
 		opacity: 1;
 		transform: none;
 	}
-	
-	&.is-ended {
-		opacity: 0;
-		transform: scale(0.97);
-	}
 }
 
 
@@ -79,18 +74,21 @@
 		&:nth-child(#{$i}) {
 			opacity: 0;
             transform-origin: 0 0;
-			transform: translate3d(0, (20px + ($i * 8)), 0) rotate(0.7deg);
+			transform: translate3d(0, (20px + ($i * 8)), 0) rotate(1deg);
 			transition: all (900ms + ($i * 150)) $ease-out;
 			
 			&.is-active {
 				opacity: 1;
 				transform: none;
 			}
-			
-			&.is-ended {
-				opacity: 0;
-				transform: translate3d(0, (-20px + ($i * 8)), 0);
-			}
+		}
+	}
+}
+
+.tr-stag--right {
+	@for $i from 1 through 12 {
+		&:nth-child(#{$i}) {
+			transform: translateX(20px + $i * 8) rotate(1deg);
 		}
 	}
 }

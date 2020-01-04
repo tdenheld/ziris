@@ -20,7 +20,7 @@
         setTimeout(() => img.style.minWidth = '0px', 10);
     }
 
-    const observer = new IntersectionObserver((entries, self) => {
+    const observeImage = new IntersectionObserver((entries, self) => {
         entries.map(entry => {
             if (entry.isIntersecting) {
                 if (!Modernizr.touchevents) updateEmptyContainerHeight();
@@ -35,9 +35,26 @@
     });
 
     ß('[data-src]').map(el => {
-        observer.observe(el);
+        observeImage.observe(el);
     });
 
+    // transition gallery tile
+    // --------------------------------------------------------
+    const observeTile = new IntersectionObserver((entries, self) => {
+        entries.map(entry => {
+            if (entry.isIntersecting) {
+                ß('.js-tr', entry.target).map((el) => el.classList.add('is-active'));
+                self.unobserve(entry.target);
+            }
+        });
+    }, {
+        root: gallery,
+        threshold: 0.2,
+    });
+
+    ß('.js-gallery-scroll').map(el => {
+        observeTile.observe(el);
+    });
 
 
 

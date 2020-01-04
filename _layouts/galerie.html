@@ -15,16 +15,16 @@ layout: default
         </div>
 
         {% for entry in page.items %}
-        <div class="gallery__tile">
-            <img class="gallery__img" data-src="{{ entry.img }}" alt="{{ entry.author }}" />
-            <h3 class="gallery__author">{{ entry.author }}</h3>
-            <h4 class="gallery__title">{{ entry.title }}</h4>
-            <h5 class="gallery__course">{{ entry.course }}</h5>
+        <div class="gallery__tile js-gallery-scroll">
+            <img class="gallery__img js-tr tr-stag tr-stag--right" data-src="{{ entry.img }}" alt="{{ entry.author }}" />
+            <h3 class="gallery__author js-tr tr-stag tr-stag--right">{{ entry.author }}</h3>
+            <h4 class="gallery__title js-tr tr-stag tr-stag--right">{{ entry.title | capitalize }}</h4>
+            <h5 class="gallery__course js-tr tr-stag tr-stag--right">{{ entry.course }}</h5>
         </div>
         {% endfor %}
 
-        <div class="gallery__tile gallery__tile--finish">
-            <h2 class="fw-900 f32 f48-sm f72-md lh-solid mb-2 mb-4-sm">
+        <div class="gallery__tile gallery__tile--finish js-gallery-scroll">
+            <h2 class="fw-900 f32 f48-sm f72-md lh-solid mb-2 mb-4-sm js-tr tr-stag tr-stag--right">
                 einde
             </h2>
         </div>

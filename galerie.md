@@ -15,7 +15,7 @@ items:
   - author: Harry Slegh
     course: Vrouwenfotografie
     img: /assets/img/galerie--harry-slegh.jpg
-    title: zonder titel
+    title: Zonder titel
   - author: Hennie Visser
     course: Portretfotografie
     img: /assets/img/galerie--hennie-visser.jpg
@@ -27,11 +27,11 @@ items:
   - author: Jelte Wisse
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
-    title: zonder titel
+    title: Zonder titel
   - author: Liek Bouma
     course: Excursie Domplein
     img: /assets/img/galerijliek-bouma-excursie-domplein.jpg
-    title: zonder titel
+    title: Zonder titel
   - author: Lucien Aspeling
     course: Imulatio emulatio
     img: /assets/img/lucien-architectuurfotografie.jpg
@@ -47,7 +47,7 @@ items:
   - author: May Boll
     course: Krachtig Beeld
     img: /assets/img/galerie--may-boll.jpg
-    title: zonder titel
+    title: Zonder titel
   - author: Mieke Posthumus
     course: Excursie Zielhorst
     img: /assets/img/mieke-zielhorst-2.jpg
@@ -60,7 +60,7 @@ items:
   - author: Annemiek Hoitink
     course: Geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
-    title: zonder titel
+    title: Zonder titel
   - author: Els van Tuinen
     course: Vrouwenfotografie
     img: /assets/img/galerij_els-_zelfportret.jpg
