@@ -81,7 +81,7 @@
     // update vertical scroll listener (window) when finished scrolling horizontal
     gallery.addEventListener('scroll', debounce(() => {
         window.scrollTo(0, gallery.scrollLeft);
-    }, 24));
+    }, 50));
 
     // update vertical empty container height when all images are loaded
     window.addEventListener('load', () => updateEmptyContainerHeight());
