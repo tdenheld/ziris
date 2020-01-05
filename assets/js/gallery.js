@@ -33,9 +33,7 @@
         rootMargin: '0px 256px',
     });
 
-    ß('[data-src]').map(el => {
-        observeImage.observe(el);
-    });
+    ß('[data-src]').map(el => observeImage.observe(el));
 
     // transition gallery tile
     // --------------------------------------------------------
@@ -51,9 +49,7 @@
         rootMargin: '0px -16%'
     });
 
-    ß('.js-gallery-scroll').map(el => {
-        observeTile.observe(el);
-    });
+    ß('.js-gallery-scroll').map(el => observeTile.observe(el));
 
 
 

@@ -49,7 +49,7 @@ const toggle = () => {
     ß(obj).map((el) => el.onclick = () => el.classList.toggle('is-active'));
 }
 
-const scrollToObject = () => {
+const scrollTo = () => {
     const obj = '.js-scroll-to';
     const offset = document.querySelector('.header').offsetHeight + 24;
     if (!exists(obj)) return;
@@ -69,22 +69,6 @@ const scrollToObject = () => {
     });
 }
 
-const scrollRevealer = (node, hook, inView, outView) => {
-    const reveal = () => {
-        const nodePosition = node.getBoundingClientRect();
-        const inViewport = !(nodePosition.top > innerHeight * hook);
-        if (inViewport) {
-            if (inView) inView();
-        } else {
-            if (outView) outView();
-        }
-    }
-    reveal();
-
-    window.addEventListener('scroll', () => requestAnimationFrame(reveal));
-    window.addEventListener('resize', () => requestAnimationFrame(reveal));
-}
-
 const discover = () => {
     const node = '.js-discover';
     const obj = document.querySelector(node);
@@ -101,7 +85,19 @@ const discover = () => {
         });
     }
 
-    scrollRevealer(obj, 0.82, () => obj.classList.add('o-0'), () => obj.classList.remove('o-0'));
+    const observer = new IntersectionObserver((entries, self) => {
+        entries.map(entry => {            
+            if (entry.isIntersecting) {
+                entry.target.classList.add('o-0');
+            } else if (!entry.isIntersecting) {
+                entry.target.classList.remove('o-0');
+            }
+        });
+    }, {
+        rootMargin: '-18% 0px',
+    });
+
+    observer.observe(obj);
 }
 
 const revealOnScroll = () => {
@@ -133,7 +129,7 @@ const revealOnScroll = () => {
 
 document.addEventListener('DOMContentLoaded', () => {
     toggle();
-    scrollToObject();
+    scrollTo();
     discover();
     revealOnScroll();
 });
