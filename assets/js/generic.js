@@ -86,7 +86,7 @@ const discover = () => {
     }
 
     const observer = new IntersectionObserver((entries, self) => {
-        entries.map(entry => {            
+        entries.map(entry => {        
             if (entry.isIntersecting) {
                 entry.target.classList.add('o-0');
             } else if (!entry.isIntersecting) {
@@ -94,7 +94,7 @@ const discover = () => {
             }
         });
     }, {
-        rootMargin: '-18% 0px',
+        rootMargin: '200% 0px -18%',
     });
 
     observer.observe(obj);
