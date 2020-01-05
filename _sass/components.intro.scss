@@ -20,8 +20,12 @@
     background-color: $brand;
 
     @include lg {
-        width: 67%;
+        width: 64%;
         height: 100%;
+    }
+
+    @include xl {
+        width: 67%;
     }
 }
 
