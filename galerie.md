@@ -65,9 +65,5 @@ items:
     course: Vrouwenfotografie
     img: /assets/img/galerij_els-_zelfportret.jpg
     title: Uit de serie Alice in Wonderland
-  - author: Feddien van Tuinen
-    course: Vrouwenfotografie
-    img: /assets/img/Feddien_Brelcdhoes.jpg
-    title: zonder titel
 ---
 
