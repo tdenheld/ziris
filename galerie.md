@@ -68,6 +68,6 @@ items:
   - author: Feddien van Tuinen
     course: vrouwenfotografie
     img: /assets/img/Feddien.jpg
-    title: '‘Ne me quitte pas’ '
+    title: ‘Ne me quitte pas’  CD hoes
 ---
 
