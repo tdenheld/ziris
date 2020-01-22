@@ -69,5 +69,9 @@ items:
     course: vrouwenfotografie
     img: /assets/img/Feddien.jpg
     title: ‘Ne me quitte pas’  CD hoes
+  - author: Leslie Oostveen
+    course: Niet westerse fotografie
+    img: /assets/img/galerie_leslie-Oostveen.-collage.jpg
+    title: collage
 ---
 
