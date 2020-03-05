@@ -78,7 +78,7 @@ items:
     course: imulatio emulatio
     title: Zonder titel
   - img: /assets/img/galerie_nila_polder_emulatio.jpg
-    author: 'Nila '
+    author: Nila Latupeirissa
     course: imulatio emulatio
-    title: Zonder Titel
+    title: Aangezicht
 ---
