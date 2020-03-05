@@ -73,5 +73,8 @@ items:
     course: Niet westerse fotografie
     img: /assets/img/galerie_leslie-Oostveen.-collage.jpg
     title: collage
+  - img: /assets/img/galerij_john_polder_anton-corbijn.jpg
+    author: John Polder
+    course: imulatio emulatio
+    title: Zonder titel
 ---
-
