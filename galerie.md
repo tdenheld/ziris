@@ -13,7 +13,7 @@ items:
     img: /assets/img/galerij_els-_zelfportret.jpg
     title: Uit de serie Alice in Wonderland
   - author: Lucien Aspeling
-    course: Imiatio emulatio
+    course: Imitatio emulatio
     img: /assets/img/lucien-architectuurfotografie.jpg
     title: 'Moderne architectuur #4'
   - author: Annemiek Hoitink
