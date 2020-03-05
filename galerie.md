@@ -77,4 +77,8 @@ items:
     author: John Polder
     course: imulatio emulatio
     title: Zonder titel
+  - img: /assets/img/galerie_nila_polder_emulatio.jpg
+    author: 'Nila '
+    course: imulatio emulatio
+    title: Zonder Titel
 ---
