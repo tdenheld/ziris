@@ -20,6 +20,10 @@ items:
     course: Geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
     title: Zonder titel
+  - img: /assets/img/galerie_nila_polder_emulatio.jpg
+    author: Nila Latupeirissa
+    course: imitatio emulatio
+    title: Aangezicht
   - author: Jacco van Muiswinkel
     course: De 4 elementen
     img: /assets/img/galerij_jacco-4-elementen.jpg
@@ -28,10 +32,6 @@ items:
     course: Anders Kijken
     img: /assets/img/catannen-met-mezelf.jpg
     title: Catan met mezelf
-  - img: /assets/img/galerie_nila_polder_emulatio.jpg
-    author: Nila Latupeirissa
-    course: imulatio emulatio
-    title: Aangezicht
   - author: Alien Bijker
     course: Imulatio Emulatio
     img: /assets/img/galerie--alien-bijker.jpg
@@ -52,6 +52,15 @@ items:
     course: Excursie Zielhorst
     img: /assets/img/mieke-zielhorst-2.jpg
     title: zonder titel
+  - author: Manon Balfoort
+    course: Vrouwenfotografie
+    img: >-
+      /assets/img/galerij_manon-13-good-heavens-er-blijkt-nog-vanalles-te-volgen.jpg
+    title: '#13 Good heavens ......'
+  - author: Feddien van Tuinen
+    course: vrouwenfotografie
+    img: /assets/img/Feddien.jpg
+    title: ‘Ne me quitte pas’  CD hoes
   - author: Hennie Visser
     course: Portretfotografie
     img: /assets/img/galerie--hennie-visser.jpg
@@ -64,15 +73,6 @@ items:
     course: Krachtig Beeld
     img: /assets/img/galerie--may-boll.jpg
     title: Zonder titel
-  - author: Manon Balfoort
-    course: Vrouwenfotografie
-    img: >-
-      /assets/img/galerij_manon-13-good-heavens-er-blijkt-nog-vanalles-te-volgen.jpg
-    title: '#13 Good heavens ......'
-  - author: Feddien van Tuinen
-    course: vrouwenfotografie
-    img: /assets/img/Feddien.jpg
-    title: ‘Ne me quitte pas’  CD hoes
   - author: Jelte Wisse
     course: Anders Kijken
     img: /assets/img/galerie--jelte-wisse.jpg
