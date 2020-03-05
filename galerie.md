@@ -13,7 +13,7 @@ items:
     course: imitatio emulatio
     title: Oerkreet
   - author: Lucien Aspeling
-    course: Imulatio emulatio
+    course: Imiatio emulatio
     img: /assets/img/lucien-architectuurfotografie.jpg
     title: 'Moderne architectuur #4'
   - author: Annemiek Hoitink
