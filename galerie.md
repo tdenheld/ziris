@@ -4,22 +4,22 @@ title: galerie
 header: header--white pos-f
 footer: dn
 items:
-  - author: Arno de Bruijn
-    course: Anders Kijken
-    img: /assets/img/catannen-met-mezelf.jpg
-    title: Catan met mezelf
   - img: /assets/img/galerij_john_polder_anton-corbijn.jpg
     author: John Polder
     course: imitatio emulatio
     title: Oerkreet
-  - author: Lucien Aspeling
-    course: Imiatio emulatio
-    img: /assets/img/lucien-architectuurfotografie.jpg
-    title: 'Moderne architectuur #4'
+  - author: Arno de Bruijn
+    course: Anders Kijken
+    img: /assets/img/catannen-met-mezelf.jpg
+    title: Catan met mezelf
   - author: Annemiek Hoitink
     course: Geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
     title: Zonder titel
+  - author: Lucien Aspeling
+    course: Imiatio emulatio
+    img: /assets/img/lucien-architectuurfotografie.jpg
+    title: 'Moderne architectuur #4'
   - img: /assets/img/galerie_nila_polder_emulatio.jpg
     author: Nila Latupeirissa
     course: imitatio emulatio
