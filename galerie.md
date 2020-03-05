@@ -20,6 +20,10 @@ items:
     course: Geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
     title: Zonder titel
+  - author: Marja de Beus
+    course: De grenzen van het portret
+    img: /assets/img/marja-de-beus-zelfportret.jpg
+    title: Zelfportret
   - img: /assets/img/galerie_nila_polder_emulatio.jpg
     author: Nila Latupeirissa
     course: imitatio emulatio
@@ -40,10 +44,6 @@ items:
     course: Imitatio Emulatio
     img: /assets/img/galerie--alien-bijker.jpg
     title: Rode kool
-  - author: Marja de Beus
-    course: De grenzen van het portret
-    img: /assets/img/marja-de-beus-zelfportret.jpg
-    title: Zelfportret
   - author: Liek Bouma
     course: Excursie Domplein
     img: /assets/img/galerijliek-bouma-excursie-domplein.jpg
