@@ -6,7 +6,7 @@ footer: dn
 items:
   - img: /assets/img/galerij_john_polder_anton-corbijn.jpg
     author: John Polder
-    course: imulatio emulatio
+    course: imitatio emulatio
     title: Oerkreet
   - author: Astrid Latupeirissa
     course: Fotografie en Beeldende Kunst
