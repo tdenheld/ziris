@@ -33,7 +33,7 @@ items:
     img: /assets/img/galerij_jacco-4-elementen.jpg
     title: Vuur
   - author: Alien Bijker
-    course: Imulatio Emulatio
+    course: Imitatio Emulatio
     img: /assets/img/galerie--alien-bijker.jpg
     title: Rode kool
   - author: Marja de Beus
