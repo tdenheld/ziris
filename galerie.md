@@ -8,14 +8,18 @@ items:
     author: John Polder
     course: imitatio emulatio
     title: Oerkreet
-  - author: Annemiek Hoitink
-    course: Geschiedenis van de fotografie
-    img: /assets/img/galerij-annemiek.jpg
-    title: Zonder titel
+  - author: Els van Tuinen
+    course: Vrouwenfotografie
+    img: /assets/img/galerij_els-_zelfportret.jpg
+    title: Uit de serie Alice in Wonderland
   - author: Lucien Aspeling
     course: Imiatio emulatio
     img: /assets/img/lucien-architectuurfotografie.jpg
     title: 'Moderne architectuur #4'
+  - author: Annemiek Hoitink
+    course: Geschiedenis van de fotografie
+    img: /assets/img/galerij-annemiek.jpg
+    title: Zonder titel
   - img: /assets/img/galerie_nila_polder_emulatio.jpg
     author: Nila Latupeirissa
     course: imitatio emulatio
@@ -40,10 +44,6 @@ items:
     course: De grenzen van het portret
     img: /assets/img/marja-de-beus-zelfportret.jpg
     title: Zelfportret
-  - author: Els van Tuinen
-    course: Vrouwenfotografie
-    img: /assets/img/galerij_els-_zelfportret.jpg
-    title: Uit de serie Alice in Wonderland
   - author: Liek Bouma
     course: Excursie Domplein
     img: /assets/img/galerijliek-bouma-excursie-domplein.jpg
