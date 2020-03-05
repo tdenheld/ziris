@@ -4,14 +4,14 @@ title: galerie
 header: header--white pos-f
 footer: dn
 items:
+  - author: Arno de Bruijn
+    course: Anders Kijken
+    img: /assets/img/catannen-met-mezelf.jpg
+    title: Catan met mezelf
   - img: /assets/img/galerij_john_polder_anton-corbijn.jpg
     author: John Polder
     course: imitatio emulatio
     title: Oerkreet
-  - author: Astrid Latupeirissa
-    course: Fotografie en Beeldende Kunst
-    img: assets/img/galerie--astrid-1.jpg
-    title: Kubus
   - author: Lucien Aspeling
     course: Imulatio emulatio
     img: /assets/img/lucien-architectuurfotografie.jpg
@@ -24,14 +24,14 @@ items:
     author: Nila Latupeirissa
     course: imitatio emulatio
     title: Aangezicht
+  - author: Astrid Latupeirissa
+    course: Fotografie en Beeldende Kunst
+    img: assets/img/galerie--astrid-1.jpg
+    title: Kubus
   - author: Jacco van Muiswinkel
     course: De 4 elementen
     img: /assets/img/galerij_jacco-4-elementen.jpg
     title: Vuur
-  - author: Arno de Bruijn
-    course: Anders Kijken
-    img: /assets/img/catannen-met-mezelf.jpg
-    title: Catan met mezelf
   - author: Alien Bijker
     course: Imulatio Emulatio
     img: /assets/img/galerie--alien-bijker.jpg
