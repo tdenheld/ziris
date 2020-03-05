@@ -40,6 +40,10 @@ items:
     course: De 4 elementen
     img: /assets/img/galerij_jacco-4-elementen.jpg
     title: Vuur
+  - author: Mieke Posthumus
+    course: Excursie Zielhorst
+    img: /assets/img/mieke-zielhorst-2.jpg
+    title: zonder titel
   - author: Alien Bijker
     course: Imitatio Emulatio
     img: /assets/img/galerie--alien-bijker.jpg
@@ -48,10 +52,6 @@ items:
     course: Excursie Domplein
     img: /assets/img/galerijliek-bouma-excursie-domplein.jpg
     title: Zonder titel
-  - author: Mieke Posthumus
-    course: Excursie Zielhorst
-    img: /assets/img/mieke-zielhorst-2.jpg
-    title: zonder titel
   - author: Manon Balfoort
     course: Vrouwenfotografie
     img: >-
