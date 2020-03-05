@@ -8,10 +8,6 @@ items:
     author: John Polder
     course: imitatio emulatio
     title: Oerkreet
-  - author: Arno de Bruijn
-    course: Anders Kijken
-    img: /assets/img/catannen-met-mezelf.jpg
-    title: Catan met mezelf
   - author: Annemiek Hoitink
     course: Geschiedenis van de fotografie
     img: /assets/img/galerij-annemiek.jpg
@@ -24,6 +20,10 @@ items:
     author: Nila Latupeirissa
     course: imitatio emulatio
     title: Aangezicht
+  - author: Arno de Bruijn
+    course: Anders Kijken
+    img: /assets/img/catannen-met-mezelf.jpg
+    title: Catan met mezelf
   - author: Astrid Latupeirissa
     course: Fotografie en Beeldende Kunst
     img: assets/img/galerie--astrid-1.jpg
