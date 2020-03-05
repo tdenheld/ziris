@@ -76,9 +76,9 @@ items:
   - img: /assets/img/galerij_john_polder_anton-corbijn.jpg
     author: John Polder
     course: imulatio emulatio
-    title: Zonder titel
+    title: Oerkreet
   - img: /assets/img/galerie_nila_polder_emulatio.jpg
-    author: 'Nila '
+    author: Nila Latupeirissa
     course: imulatio emulatio
-    title: Zonder Titel
+    title: Aangezicht
 ---
