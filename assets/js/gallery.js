@@ -51,6 +51,11 @@
 
     ß('.js-gallery-scroll').map(el => observeTile.observe(el));
 
+    /* show 2nd image by default otherwise
+       the user has no scroll indication */
+    const secondGalleryItem = document.querySelector('#js-gallery-scroll-2');
+    ß('.js-tr', secondGalleryItem).map((el) => el.classList.add('is-active'));
+
 
 
     // vertical scroll gallery

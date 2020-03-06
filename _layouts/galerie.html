@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="gallery a a-fi-right-200px a-del-500 a-dur-1500">
+<div class="gallery a a-fi-right-200px a-del-500 a-dur-1000">
     <div class="gallery__scroll-container js-gallery">
 
         <div class="gallery__tile gallery__tile--start">
@@ -15,7 +15,7 @@ layout: default
         </div>
 
         {% for entry in page.items %}
-        <div class="gallery__tile js-gallery-scroll">
+        <div class="gallery__tile js-gallery-scroll" id="js-gallery-scroll-{{ forloop.index }}">
             <figure class="gallery__img-container js-tr tr-stag tr-stag--right">
                 <img class="gallery__img" data-src="{{ entry.img }}" alt="{{ entry.author }}" />
             </figure>
