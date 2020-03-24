@@ -5,7 +5,7 @@ category: volwassenen
 type: gratis
 description: >
   We maken een fotodagboek door elke dag een diptiek te maken.  Twee
-  verschillende foto's iedere dag samengevoegd.
+  verschillende foto's telkens bij elkaar gevoegd.
 thumb: /assets/img/thumb_koronadagboek-site.jpg
 img: /assets/img/koronadagboek-site.jpg
 caption: 'CK, diptiek 24 maart 2020.'
