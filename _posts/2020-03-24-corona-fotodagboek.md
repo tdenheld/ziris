@@ -3,8 +3,9 @@ title: corona fotodagboek
 date: 2020-03-24T08:05:30.632Z
 category: volwassenen
 type: gratis
-description: |
-  We maken een fotodagboek door elke dag een diptiek te maken. 
+description: >
+  We maken een fotodagboek door elke dag een diptiek te maken.  Twee
+  verschillende foto's telkens bij elkaar gevoegd.
 thumb: /assets/img/thumb_koronadagboek-site.jpg
 img: /assets/img/koronadagboek-site.jpg
 caption: 'CK, diptiek 24 maart 2020.'
