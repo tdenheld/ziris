@@ -17,4 +17,4 @@ price: '0,00'
 ---
 We maken een fotodagboek door elke dag een diptiek te maken. Éen foto is een plant of boom genomen vanuit je huis. Elke dag vanuit dezelfde hoek gefotografeerd waardoor tijd waarneembaar zal zijn. De tweede foto is een activiteit die je op een bepaald moment in de dag doet. Deze foto zal per dag wisselen. 
 
-Aan het einde van de beperkende corona-maatregelen gaan je de foto's bundelen. Dit kan op geheel eigen inzicht. Een bespreking hiervan volgt zodra de reguliere lessen weer beginnen.
+Aan het einde van de beperkende corona-maatregelen ga je de foto's bundelen. Dit kan op geheel eigen inzicht. Een bespreking hiervan volgt zodra de reguliere lessen weer beginnen.
