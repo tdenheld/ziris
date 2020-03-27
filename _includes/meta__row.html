@@ -1,7 +1,8 @@
+{% capture entry %}{{ include.entry }}{% endcapture %}
+{% if page[entry] %}
 <div class="meta__row tr-stag js-tr">
     <p class="meta__data-label">{{ include.label }}</p>
     <p class="meta__data-entry js-set-data" id="course-{{ include.entry }}">
-        {% capture entry %}{{ include.entry }}{% endcapture %}
         {% if entry == 'price' %}
         {{ page[entry] | replace: ',', '.' }}
         {% else %}
@@ -9,3 +10,4 @@
         {% endif %}
     </p>
 </div>
+{% endif %}
