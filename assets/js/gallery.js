@@ -17,7 +17,7 @@
         const src = img.getAttribute('data-src');
         if (!src) return
         img.src = src;
-        setTimeout(() => img.style.minWidth = '0px', 10);
+        img.addEventListener('load', () => img.style.minHeight = 'auto');
     }
 
     const observeImage = new IntersectionObserver((entries, self) => {
@@ -54,7 +54,7 @@
     /* show 2nd image by default otherwise
        the user has no scroll indication */
     const secondGalleryItem = document.querySelector('#js-gallery-scroll-2');
-    ß('.js-tr', secondGalleryItem).map((el) => el.classList.add('is-active'));
+    ß('.js-tr', secondGalleryItem).map(el => el.classList.add('is-active'));
 
 
 
