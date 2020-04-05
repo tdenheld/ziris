@@ -6,7 +6,7 @@
     color: $light;
     @include font(14px, 500, $lh-solid);
 
-    @include sm {
+    @include respond-min($m) {
         text-align: center;
     }
 }

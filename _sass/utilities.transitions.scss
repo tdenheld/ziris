@@ -59,7 +59,7 @@
     opacity: 0;
     transform: scale(0.97);
 
-    @include md {
+    @include respond-min($l) {
         transition-delay: 200ms;
     }
 

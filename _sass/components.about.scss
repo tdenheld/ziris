@@ -17,7 +17,7 @@
 .about__content {
     margin-bottom: $gutter;
 
-    @include sm {
+    @include respond-min($m) {
         margin-bottom: 60px;
     }
 }

@@ -1,22 +1,22 @@
 .rich-text {
 
     h2 {
-        margin: $double-gutter 0 $half-gutter;
+        margin: space(8) 0 space(2);
         @include font(32px, 600, $lh-copy);
 
-        @include sm {
-            margin: $triple-gutter 0 $half-gutter;
+        @include respond-min($m) {
+            margin: space(12) 0 space(2);
             font-size: toRem(48px);
         }
     }
 
     h3 {
-        margin: $double-gutter 0 $half-gutter;
+        margin: space(8) 0 space(2);
         @include font(20px, 600, $lh-copy);
     }
 
     h4 {
-        margin: $double-gutter 0 $half-gutter;
+        margin: space(8) 0 space(2);
         @include font(18px, 700, $lh-copy);
     }
 
@@ -25,8 +25,8 @@
     ol {
         margin-bottom: $gutter;
 
-        @include sm {
-            margin-bottom: $one-half-gutter;
+        @include respond-min($m) {
+            margin-bottom: space(6);
         }
 
         &:last-child {
@@ -38,7 +38,7 @@
     ol {
         @include font(16px, 500, $lh-copy);
 
-        @include sm {
+        @include respond-min($m) {
             font-size: toRem(18px);
         }
     }
@@ -51,7 +51,7 @@
     ol {
         padding-left: 28px;
 
-        @include sm {
+        @include respond-min($m) {
             padding-left: 32px;
         }
     }
@@ -59,7 +59,7 @@
     li {
         margin-bottom: 8px;
 
-        @include sm {
+        @include respond-min($m) {
             margin-bottom: 12px;
         }
 
@@ -73,7 +73,7 @@
         font-family: $serif;
         color: $grey-3;
 
-        @include sm {
+        @include respond-min($m) {
             font-size: toRem(22px);
         }
     }
@@ -81,11 +81,11 @@
     img {
         margin-left: -$gutter;
 
-        @include sm {
-            margin-left: -$triple-gutter;
+        @include respond-min($m) {
+            margin-left: -space(12);
         }
 
-        @include md {
+        @include respond-min($l) {
             margin-left: -128px;
         }
     }

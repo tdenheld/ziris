@@ -5,8 +5,8 @@
 .container {
     padding: 0 $gutter;
 
-    @include md {
-        padding: 0 $double-gutter;
+    @include respond-min($l) {
+        padding: 0 space(8);
     }
 }
 
@@ -23,7 +23,7 @@
 .section {
     padding: $section-padding-s 0;
 
-    @include sm {
+    @include respond-min($m) {
         padding: $section-padding-l 0;
     }
 }

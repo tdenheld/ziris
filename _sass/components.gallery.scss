@@ -23,18 +23,18 @@
         height: 50vh;
     }
 
-    @include sm {
+    @include respond-min($m) {
         margin-bottom: 40px;
         height: 70vh;
     }
 
-    @include md {
-        padding-left: $triple-gutter;
+    @include respond-min($l) {
+        padding-left: space(12);
     }
 
     &:first-child {
-        @include md {
-            padding-left: $double-gutter;
+        @include respond-min($l) {
+            padding-left: space(8);
         }
     }
 }
@@ -43,8 +43,8 @@
     border-right: 1px solid $brand;
     padding-right: $gutter;
 
-    @include md {
-        padding-right: $triple-gutter;
+    @include respond-min($l) {
+        padding-right: space(12);
     }
 }
 
@@ -52,10 +52,10 @@
     @include center(flex);
     border-left: 1px solid $brand;
     margin-left: $gutter;
-    padding-right: $double-gutter;
+    padding-right: space(8);
 
-    @include md {
-        margin-left: $triple-gutter;
+    @include respond-min($l) {
+        margin-left: space(12);
         padding-right: 320px;
     }
 }
@@ -76,7 +76,7 @@
 .gallery__author {
     @include font(16px, 900, $lh-copy);
 
-    @include sm {
+    @include respond-min($m) {
         font-size: toRem(18px);
     }
 }
@@ -85,7 +85,7 @@
     font-size: toRem(12px);
     margin-bottom: 10px;
 
-    @include sm {
+    @include respond-min($m) {
         font-size: toRem(14px);
     }
 }

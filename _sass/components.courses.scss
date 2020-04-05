@@ -11,11 +11,11 @@
         font-size: toRem(56px);
     }
 
-    @include sm {
+    @include respond-min($m) {
         font-size: toRem(90px);
     }
 
-    @include md {
+    @include respond-min($l) {
         font-size: toRem(120px);
     }
 }
@@ -23,18 +23,18 @@
 .courses__container {
     border-top: 1px solid $grey-8;
     background-color: $grey-9;
-    padding: $double-gutter 0 0;
+    padding: space(8) 0 0;
 
-    @include sm {
-        padding: $triple-gutter 0 0;
+    @include respond-min($m) {
+        padding: space(12) 0 0;
     }
 }
 
 .courses__category {
-    padding-bottom: $double-gutter;
+    padding-bottom: space(8);
 
-    @include sm {
-        padding-bottom: $triple-gutter;
+    @include respond-min($m) {
+        padding-bottom: space(12);
     }
 }
 
@@ -45,7 +45,7 @@
     text-transform: uppercase;
     letter-spacing: 3px;
 
-    @include sm {
+    @include respond-min($m) {
         margin-bottom: $gutter;
         font-size: toRem(18px);
     }
@@ -55,11 +55,11 @@
     display: grid;
     grid-gap: $gutter;
 
-    @include sm {
+    @include respond-min($m) {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    @include lg {
+    @include respond-min($xxl) {
         grid-template-columns: repeat(3, 1fr);
     }
 }

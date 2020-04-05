@@ -2,17 +2,17 @@ $meta__row-border: 1px solid rgba($brand, 0.35);
 
 .meta {
     position: relative;
-    padding: $gutter 0 $double-gutter;
+    padding: $gutter 0 space(8);
     font-size: toRem(18px);
     border-bottom: 1px solid rgba($light, 0.15);
 
-    @include sm {
-        padding: $double-gutter 0;
+    @include respond-min($m) {
+        padding: space(8) 0;
         font-size: toRem(24px);
     }
 
-    @include lg { 
-        padding: $triple-gutter 0;  
+    @include respond-min($xxl) { 
+        padding: space(12) 0;  
         font-size: toRem(32px);
     }
 }
@@ -41,16 +41,16 @@ $meta__row-border: 1px solid rgba($brand, 0.35);
         margin-bottom: 0;
     }
 
-    @include xs {
+    @include respond-min($sm) {
         grid-template-columns: 110px 1fr;
     }
 
-    @include sm {
+    @include respond-min($m) {
         grid-template-columns: 164px 1fr;
-        grid-gap: $double-gutter;
+        grid-gap: space(8);
     }
 
-    @include md {
+    @include respond-min($l) {
         grid-template-columns: 200px 1fr;
     }
 }

@@ -3,7 +3,7 @@
 .post {
     padding-top: $section-padding-s;
 
-    @include sm {
+    @include respond-min($m) {
         padding-top: $section-padding-l;
     }
 }
@@ -19,11 +19,11 @@
 .post__title {
     @include font(40px, 900, 1.1);
 
-    @include sm {
+    @include respond-min($m) {
         font-size: toRem(60px);
     }
 
-    @include md {
+    @include respond-min($l) {
         font-size: toRem(90px);
         letter-spacing: toRem(-1.5px);
     }
@@ -32,7 +32,7 @@
 .post__content {
     margin-bottom: $gutter;
 
-    @include sm {
+    @include respond-min($m) {
         margin-bottom: 60px;
     }
 
@@ -40,14 +40,14 @@
         margin: 0 0 $gutter;
         @include font(24px, 500, $lh-copy);
 
-        @include sm {
-            margin-bottom: $one-half-gutter;
+        @include respond-min($m) {
+            margin-bottom: space(6);
             font-size: toRem(28px);
         }
     }
 
     h3 {
-        margin: $double-gutter 0 $half-gutter;
+        margin: space(8) 0 space(2);
         @include font(20px, 900, $lh-copy);
     }
 

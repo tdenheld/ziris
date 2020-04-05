@@ -2,7 +2,7 @@
 // --------------------------------------------------
 .member {
     display: grid;
-    grid-row-gap: $half-gutter;
+    grid-row-gap: space(2);
     grid-column-gap: $gutter;
     margin-bottom: 64px;
 
@@ -10,15 +10,15 @@
         margin-bottom: 0;
     }
 
-    @include sm {
-        margin-bottom: $double-gutter;
+    @include respond-min($m) {
+        margin-bottom: space(8);
         grid-template-columns: 2fr 3fr;
     }
 }
 
 .member__name {
     @include font(24px, 600, $lh-title);
-    @include sm {
+    @include respond-min($m) {
         font-size: toRem(28px);
     }
 }
@@ -35,11 +35,11 @@
     @include font(18px, normal, $lh-copy);
     font-family: $serif;
 
-    @include sm {
+    @include respond-min($m) {
         font-size: toRem(22px);
     }
 
-    @include md-ex {
+    @include respond-minMax($l, $xxl) {
         font-size: toRem(18px);
     }
 }
@@ -49,11 +49,11 @@
     width: 100%;
     height: calc(100px + 50vw); 
 
-    @include sm {
+    @include respond-min($m) {
         height: calc(64px + 42vw); 
     }
 
-    @include md {
+    @include respond-min($l) {
         object-fit: initial;
         width: 100%;
         height: auto;

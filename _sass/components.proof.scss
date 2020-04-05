@@ -2,9 +2,9 @@
 // --------------------------------------------------
 .proof {
     background-color: $light;
-    padding: $double-gutter 0;
+    padding: space(8) 0;
 
-    @include md {
+    @include respond-min($l) {
         padding: 100px 0;
     }
 }
@@ -12,15 +12,15 @@
 .proof__grid {
     display: grid;
 
-    @include sm {
+    @include respond-min($m) {
         grid-gap: $gutter;
     }
 
-    @include md {
+    @include respond-min($l) {
         grid-template-columns: max-content 1fr;
     }
 
-    @include lg {
-        grid-gap: $double-gutter;
+    @include respond-min($xxl) {
+        grid-gap: space(8);
     }
 }

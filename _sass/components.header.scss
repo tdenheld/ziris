@@ -26,7 +26,7 @@
         fill: $light;
     }
 
-    @include sm {
+    @include respond-min($m) {
         svg {
             height: 28px;
         }
@@ -46,11 +46,11 @@
     letter-spacing: 0.2px;
     cursor: pointer;
 
-    @include sm {
+    @include respond-min($m) {
         margin-left: toRem($gutter);
     }
 
-    @include lg {
+    @include respond-min($xxl) {
         color: $brand;
     }
 
@@ -74,7 +74,7 @@
         opacity: 0;
         transition: $fade-link;
 
-        @include lg {
+        @include respond-min($xxl) {
             background-color: $brand;
         }
     }

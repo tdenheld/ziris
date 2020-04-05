@@ -1,7 +1,7 @@
 html,
 body {
     background-color: $light;
-    font-family: $sans-serif;
+    font-family: $sans;
     font-size: 16px;
     font-weight: normal;
     font-kerning: normal;
@@ -37,7 +37,7 @@ input[type='button'],
 input[type='submit'] {
 	outline: none;
     transition: $fade-link;
-    font-family: $sans-serif;
+    font-family: $sans;
 }
 
 input,
@@ -47,7 +47,7 @@ input:focus,
 input:visited {
     outline: none;
     transition: $fade-all;
-    font-family: $sans-serif;
+    font-family: $sans;
     border-radius: 0;
     color: inherit;
 }

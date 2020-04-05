@@ -35,7 +35,7 @@
         color: $brand;
     }
 
-    @include lg {
+    @include respond-min($xxl) {
         border: 1px solid $brand;
         color: $brand;
 

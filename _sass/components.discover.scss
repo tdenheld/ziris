@@ -13,7 +13,7 @@
     color: $light;
     cursor: pointer;
 
-    @include lg {
+    @include respond-min($xxl) {
         display: block;
     }
 

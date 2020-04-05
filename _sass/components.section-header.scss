@@ -8,7 +8,7 @@
     margin-bottom: $gutter;
     @include font(36px, 900, $lh-title);
 
-    @include sm {
+    @include respond-min($m) {
         font-size: toRem(60px);
     }
 }
@@ -16,13 +16,13 @@
 .section-header__title--small {
     font-size: toRem(32px);
 
-    @include sm {
+    @include respond-min($m) {
         font-size: toRem(40px);
     }
 }
 
 .section-header__title--small-sm {
-    @include sm-ex {
+    @include respond-minMax($m, $xxl) {
         font-size: toRem(40px);
     }
 }
@@ -32,7 +32,7 @@
     font-family: $serif;
     @include font(24px, 400, $lh-title);
 
-    @include sm {
+    @include respond-min($m) {
         font-size: toRem(32px);
     }
 }

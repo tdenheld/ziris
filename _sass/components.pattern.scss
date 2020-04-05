@@ -4,9 +4,9 @@
     position: relative;
     background-color: $brand;
     color: $light;
-    padding: $double-gutter 0;
+    padding: space(8) 0;
 
-    @include md {
+    @include respond-min($l) {
         padding: 200px 0;
     }
 }
@@ -16,7 +16,7 @@
     @include bg(cover);
     background-image: url("/assets/img/geo.svg");
 
-    @include lg {
+    @include respond-min($xxl) {
         background-size: contain;
     }
 }

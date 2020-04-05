@@ -5,8 +5,8 @@
 .signup__header {
     margin-bottom: $gutter;
 
-    @include sm {
-        margin-bottom: $one-half-gutter;
+    @include respond-min($m) {
+        margin-bottom: space(6);
     }
 }
 

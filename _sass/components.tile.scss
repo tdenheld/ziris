@@ -20,7 +20,7 @@
     overflow: hidden;
     height: 180px;
 
-    @include md {
+    @include respond-min($l) {
         height: 240px;
     }
 }
@@ -58,7 +58,7 @@
 .tile__title {
     @include font(28px, 900, $lh-title);
 
-    @include md {
+    @include respond-min($l) {
         font-size: toRem(36px);
     }
 }
@@ -75,7 +75,7 @@
     @include font(16px, normal, $lh-copy);
     color: $grey-3;
 
-    @include md {
+    @include respond-min($l) {
         font-size: toRem(18px);
     }
 }
@@ -89,7 +89,7 @@
     align-self: end;
     @include font(32px, 500, $lh-title);
 
-    @include md {
+    @include respond-min($l) {
         font-size: toRem(40px);
     }
 }

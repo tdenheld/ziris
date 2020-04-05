@@ -11,30 +11,11 @@ $fade-link:                 all 200ms $ease;
 
 
 /*-------------------
-    Media queries
---------------------*/
-
-$xs: 480px;
-$sm: 640px;
-$md: 912px;
-$lg: 1200px;
-$xl: 1440px;
-
-
-
-/*-------------------
 	   Spacers
 --------------------*/
 
-$grid-gutter-width: 24px;
-
-$triple-gutter:				$grid-gutter-width * 3;
-$double-gutter:				$grid-gutter-width * 2;
-$one-half-gutter:			$grid-gutter-width * 1.5;
-
-$gutter:					$grid-gutter-width;
-$half-gutter:				$grid-gutter-width / 2;
-$quarter-gutter:			$grid-gutter-width / 4;
+$global-baseline: 6px;
+$gutter: $global-baseline * 4;
 
 
 
@@ -42,12 +23,16 @@ $quarter-gutter:			$grid-gutter-width / 4;
         Fonts
 --------------------*/
 
-$sans-serif: 'Ziris', helvetica, arial, sans-serif;
+$sans: 'Ziris', helvetica, arial, sans-serif;
 $serif: 'Crimson Text', georgia, times, serif;
+$mono: 'Courier New', courier;
 
 $lh-copy: 1.5;
 $lh-title: 1.25;
 $lh-solid: 1;
+
+// letter spacings for headings
+$ls-heading: -0.016em;
 
 
 
