@@ -13,7 +13,7 @@ caption: >-
   Utrechts Archief
 amount: eenmalig
 time: 13.30 - 16.30
-start: november 2020
+start: 28 november 2020
 location: 'Erasmuslaan, Prins Hendriklaan, Utrecht'
 price: 50.-
 inc: rondleiding en opdrachten – exclusief entrée – museumjaarkaart is geldig
