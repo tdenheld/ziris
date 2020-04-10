@@ -21,12 +21,6 @@
     }
 }
 
-.section-header__title--small-sm {
-    @include respond-minMax($m, $xxl) {
-        font-size: toRem(40px);
-    }
-}
-
 .section-header__description {
     max-width: 440px;
     font-family: $serif;
