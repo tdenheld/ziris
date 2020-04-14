@@ -13,7 +13,7 @@
     display: grid;
 
     @include respond-min($m) {
-        grid-gap: $gutter;
+        gap: $gutter;
     }
 
     @include respond-min($l) {
@@ -21,6 +21,6 @@
     }
 
     @include respond-min($xxl) {
-        grid-gap: space(8);
+        gap: space(8);
     }
 }

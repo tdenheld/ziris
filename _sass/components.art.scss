@@ -11,8 +11,8 @@
 
 .art__grid {
     display: grid;
-    grid-column-gap: 80px;
-    grid-row-gap: space(8);
+    column-gap: 80px;
+    row-gap: space(8);
     align-items: center;
 
     @include respond-min($l) {

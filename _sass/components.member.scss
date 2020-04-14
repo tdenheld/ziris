@@ -2,8 +2,8 @@
 // --------------------------------------------------
 .member {
     display: grid;
-    grid-row-gap: space(2);
-    grid-column-gap: $gutter;
+    row-gap: space(2);
+    column-gap: $gutter;
     margin-bottom: 64px;
 
     &:last-child {

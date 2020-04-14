@@ -53,7 +53,7 @@
 
 .courses__grid {
     display: grid;
-    grid-gap: $gutter;
+    gap: $gutter;
 
     @include respond-min($m) {
         grid-template-columns: repeat(2, 1fr);

@@ -27,7 +27,7 @@ $meta__row-border: 1px solid rgba($brand, 0.35);
 .meta__row {
     display: grid;
     grid-template-columns: 70px 1fr;
-    grid-gap: $gutter;
+    gap: $gutter;
     margin-bottom: 20px;
     padding: 0 $gutter $gutter;
     border-bottom: $meta__row-border;
@@ -47,7 +47,7 @@ $meta__row-border: 1px solid rgba($brand, 0.35);
 
     @include respond-min($m) {
         grid-template-columns: 164px 1fr;
-        grid-gap: space(8);
+        gap: space(8);
     }
 
     @include respond-min($l) {
