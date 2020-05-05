@@ -11,10 +11,12 @@
 }
 
 .header__container {
+    position: relative;
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: $header-height;
+    z-index: 1;
 }
 
 .header__logo {
@@ -199,11 +201,14 @@
 // ----------------------------------------------------
 .header-mobile {
     display: none;
-    @include full(fixed);
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
     justify-content: center;
     background-color: $brand;
     color: $light;
-    z-index: -1;
     text-align: center;
     padding-top: 120px;
     transform-origin: 0 0;
