@@ -1,4 +1,4 @@
-$cursor-size: 60px;
+$cursor-size: 16px;
 
 .cursor {
     visibility: hidden;
@@ -11,7 +11,6 @@ $cursor-size: 60px;
     height: $cursor-size;
     top: -$cursor-size / 2;
     left: -$cursor-size / 2;
-    border: 1px solid rgba($light, 0.7);
-    border-radius: 50%;
-    box-shadow: 0 0 30px rgba($brand, 0.15);
+    border: 1px solid rgba($light, 0.5);
+    box-shadow: 0 0 0 1px rgba($brand, 0.5);
 }

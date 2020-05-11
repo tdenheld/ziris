@@ -60,14 +60,16 @@ const cursor = () => {
 
     // hover states
     // ------------------------------------------------
-    const sizing = (obj, size) => {
+    const sizing = (obj, size, rotation, opacity) => {
         gsap.to(obj, {
-            duration: 0.5,
+            duration: 1,
             ease: 'power4.out',
+            rotate: rotation,
             width: size,
             height: size,
             top: -size / 2,
             left: -size / 2,
+            opacity: opacity
         });
     }
 
@@ -77,8 +79,8 @@ const cursor = () => {
         const hover = 'a, button, fieldset, .js-discover';
 
         ß(hover).map((el) => {
-            el.addEventListener('mouseenter', () => sizing(obj, initSize * 3));
-            el.addEventListener('mouseleave', () => sizing(obj, initSize));
+            el.addEventListener('mouseenter', () => sizing(obj, initSize * 3, '135deg', 0));
+            el.addEventListener('mouseleave', () => sizing(obj, initSize, '0deg', 1));
         });
     }
 
