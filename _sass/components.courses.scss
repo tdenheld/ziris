@@ -59,6 +59,10 @@
         grid-template-columns: repeat(2, 1fr);
     }
 
+    @include respond-min($l) {
+        gap: 32px;
+    }
+
     @include respond-min($xxl) {
         grid-template-columns: repeat(3, 1fr);
     }
