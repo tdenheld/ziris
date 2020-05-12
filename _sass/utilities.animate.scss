@@ -138,17 +138,6 @@
 }
 .a-fi-left {animation-name: fade-in-left;}
 
-@keyframes fade-in-left-o100 {
-	from {
-		transform: translate3d(-100%, 0, 0);
-	}
-
-	to {
-		transform: none;
-	}
-}
-.a-fi-left-o100 {animation-name: fade-in-left-o100;}
-
 @keyframes fade-in-right {
 	from {
 		opacity: 0;

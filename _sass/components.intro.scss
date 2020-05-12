@@ -43,14 +43,6 @@
     }
 }
 
-.intro__header {
-    max-width: 700px;
-
-    @include respond-min($xxl) {
-        text-align: right;
-    }
-}
-
 .intro__img-container {
     position: relative;
     @extend .container;

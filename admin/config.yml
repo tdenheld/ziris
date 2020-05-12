@@ -19,7 +19,6 @@ collections:
             widget: "object"
             fields: 
               - {label: "Titel", name: "title", widget: "string", default: "maak de klik tussen kunst en fotografie"}
-              - {label: "Subtitel", name: "subtitle", widget: "text", required: false}
               - {label: "Afbeelding", name: "img", widget: "image"}
               - {label: "Afb. beschrijving", name: "caption", widget: "string"}
               - {label: "Scroll indicatie", name: "discover", widget: "string", default: "ontdek meer"}

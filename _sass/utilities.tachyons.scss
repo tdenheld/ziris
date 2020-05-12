@@ -97,6 +97,8 @@
     .ma-auto\@xxl {margin: auto;}
     .mh-auto\@xxl {margin: 0 auto;}
     .mv-auto\@xxl {margin: auto 0;}
+    .ml-auto\@xxl {margin-left: auto;}
+    .mr-auto\@xxl {margin-right: auto;}  
 }
 
 @for $i from 0 through 20 {	

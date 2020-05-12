@@ -85,7 +85,7 @@ const discover = () => {
         });
     }
 
-    const observer = new IntersectionObserver((entries, self) => {
+    const observer = new IntersectionObserver(entries => {
         entries.map(entry => {        
             if (entry.isIntersecting) {
                 entry.target.classList.add('o-0');
@@ -100,6 +100,20 @@ const discover = () => {
     observer.observe(obj);
 }
 
+const splitText = node => {
+    const st = new SplitText(node, {
+        type: 'chars,words,lines'
+    });
+    const chars = st.chars;
+
+    gsap.from(chars, {
+        duration: 'random(0.5, 5)',
+        ease: 'power3.out',
+        opacity: 0,
+        stagger: 0.01
+    });
+}
+
 const revealOnScroll = () => {
     const section = '.js-scroll';
     const richTxt = '.js-scroll-rt > *';
@@ -112,6 +126,9 @@ const revealOnScroll = () => {
             if (entry.isIntersecting) {
                 ß('.js-tr', target).map((el) => el.classList.add('is-active'));
                 if (target.classList.contains('js-tr')) target.classList.add('is-active');
+                if (target.classList.contains('js-split-text')) {
+                    splitText(target);
+                }
                 self.unobserve(target);
             }
         });
