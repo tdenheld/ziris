@@ -3,10 +3,10 @@ body: bg-brand
 cursor: true
 ---
 
-<section class="intro">
-    <div class="intro__bg a a-fi a-del-500"></div>
+<section class="intro js-intro">
+    <div class="intro__bg v-hidden js-intro-bg"></div>
     <div class="container intro__container">
-        <header class="mxw-700 txt-r@xxl">
+        <header class="mxw-700 txt-r@xxl v-hidden js-intro-txt">
             <h1 class="f36 f48@m f80@l lh-title mb-4 fw-900">
                 {{ site.data.home.intro.title }}
             </h1>
@@ -14,8 +14,8 @@ cursor: true
     </div>
     <div class="intro__img-container">
         <figure class="o-hidden">
-            <img class="intro__img a a-fi" src="{{ site.data.home.intro.img }}" alt="{{ site.data.home.intro.caption }}" />
-            <figcaption class="intro__figcaption a a-fi a-del-250">{{ site.data.home.intro.caption }}</figcaption>
+            <img class="intro__img v-hidden js-intro-img" src="{{ site.data.home.intro.img }}" alt="{{ site.data.home.intro.caption }}" />
+            <figcaption class="intro__figcaption v-hidden js-intro-caption">{{ site.data.home.intro.caption }}</figcaption>
         </figure>
     </div>
     <div class="discover tr-750 js-discover">
