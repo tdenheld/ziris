@@ -10,22 +10,26 @@
     gsap.timeline({
         defaults: {
             duration: 2,
-            ease: 'power4.out',
+            ease: 'power3.out',
         }
     }).fromTo('.js-intro-bg', {
+        autoAlpha: 0,
+        x: '-100%'
+    }, {
+        autoAlpha: 1,
+        x: 0
+    }).fromTo('.js-intro-img', {
         autoAlpha: 1,
         x: '-100%'
     }, {
-        x: 0
-    }).set('.js-intro-txt', {
-        autoAlpha: 1
-    },'<0').fromTo('.js-intro-img', {
-        autoAlpha: 1,
-        x: '-100%'
-    },{
-        ease: 'power3.inOut',
-        x: 0
-    },'<-0.4');
+        x: 0,
+        onComplete() {
+            ß('.js-intro-caption').map(el => el.style.visibility = 'visible');
+            splitText('.js-intro-caption');
+        }
+    }, '<0.2');
 
-    splitText('.js-intro-txt');
+    ß('.js-intro-txt').map(el => el.style.visibility = 'visible');
+    splitText('.js-intro-txt', 0.03);
+
 })();

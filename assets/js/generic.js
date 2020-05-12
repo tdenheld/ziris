@@ -100,7 +100,8 @@ const discover = () => {
     observer.observe(obj);
 }
 
-const splitText = node => {
+const splitText = (node, stag) => {
+    const stagger = stag || 0.01
     const st = new SplitText(node, {
         type: 'chars,words,lines'
     });
@@ -110,7 +111,7 @@ const splitText = node => {
         duration: 'random(0.5, 5)',
         ease: 'power3.out',
         opacity: 0,
-        stagger: 0.01
+        stagger: stagger
     });
 }
 

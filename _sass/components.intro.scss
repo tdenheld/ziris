@@ -4,12 +4,19 @@
     position: relative;
     color: $light;
     background-color: $brand;
+    padding-bottom: space(2);
 
-    @include respond-min($xxl) {
+    @include respond-min($m) {
+        padding-bottom: $gutter;
+    }
+
+    @include respond-min($xl) {
         display: flex;
         position: relative;
-        justify-content: space-between;
         height: 100vh;
+    }
+
+    @include respond-min($xxl) {
         background-color: $light;
     }
 }
@@ -33,56 +40,59 @@
     position: relative;
     z-index: 1;
     padding-top: $section-padding-s;
-    margin-bottom: space(8);
+    margin: 0 auto space(8);
+    justify-self: center;
 
-    @include respond-min($xxl) {
-        display: flex;
+    @include respond-min($xl) {
+        display: grid;
+        grid-template-columns: 3fr 4fr;
+        column-gap: 80px;
         align-items: center;
         margin-bottom: 0;
         padding: 0 space(12);
     }
 }
 
-.intro__img-container {
-    position: relative;
-    @extend .container;
-    padding-bottom: space(8);
+.intro__title {
+    @include font(36px, 900, $lh-title);
+    margin-bottom: space(4);
 
-    @include respond-min($l) {
-        padding-bottom: 100px;
+    @include respond-min($sm) {
+        font-size: calc(3vw + 2rem);
     }
 
-    @include respond-min($xxl) {
-        display: flex;
-        align-items: center;
-        width: 50%;
-        padding: 0;
+    @include respond-min($xl) {
+        font-size: calc(3.5vw + 1rem);
+    }
+}
+
+.intro__figure {
+    width: 100%;
+
+    @include respond-min($m) {
+        height: calc(70vw + 100px);
+    }
+
+    @include respond-min($xl) {
+        height: calc(40vh + 16vw);
+        width: 90%;
     }
 }
 
 .intro__img {
     object-fit: cover;
     width: 100%;
-    height: 75vw;
-
-    @include respond-min($m) {
-        width: auto;
-        height: auto;
-    }
-
-    @include respond-min($xxl) {
-        width: 100%;
-        height: calc(50vh + 10vw);
-    }
+    height: calc(100% - 30px);
 }
 
 .intro__figcaption {
     color: $light;
 
-    @include respond-min($xxl) {
-        margin-right: $gutter;
-        padding: 0 4px 0;
-        color: $brand;
+    @include respond-min($xl) {
         text-align: right;
+    }
+
+    @include respond-min($xxl) {
+        color: $brand;
     }
 }

@@ -880,6 +880,12 @@
 	.txt-c\@l  { text-align: center; }
 	.txt-j\@l  { text-align: justify; }
 }
+@include respond-min($xl) {
+	.txt-l\@xl  { text-align: left; }
+	.txt-r\@xl  { text-align: right; }
+	.txt-c\@xl  { text-align: center; }
+	.txt-j\@xl  { text-align: justify; }
+}
 @include respond-min($xxl) {
 	.txt-l\@xxl  { text-align: left; }
 	.txt-r\@xxl  { text-align: right; }

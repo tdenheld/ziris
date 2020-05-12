@@ -1,33 +1,33 @@
-<header class="header {{ page.header }} js-header a a-fi-down a-del-150">
+<header class="header {{ page.header }} js-header a a-fi-down {{ page.header-animation }}">
     <div class="container header__container">
-        <a href="/" aria-label="Logo Ziris">
+        <a href="/" aria-label="Logo Ziris" class="js-intro-header">
             <div class="header__logo">
                 {% include svg/logo.svg %}
             </div>
         </a>
         <nav class="header__nav">
-            <a href="/galerie" aria-label="galerie">
+            <a href="/galerie" aria-label="galerie" class="js-intro-header">
                 <span class="header__item header__item--link hidden-until@m
                 {% if page.url == '/galerie.html' %}is-active{% endif %}">
                     galerie
                 </span>
             </a>
 
-            <a href="/cursussen" aria-label="cursussen">
+            <a href="/cursussen" aria-label="cursussen" class="js-intro-header">
                 <span class="header__item button button--header
                 {% if page.url == '/cursussen.html' %}is-active{% endif %}">
                     cursussen
                 </span>
             </a>
 
-            <a href="/over-ziris" aria-label="over ziris">
+            <a href="/over-ziris" aria-label="over ziris" class="js-intro-header">
                 <span class="header__item header__item--link hidden-until@m
                 {% if page.url == '/over-ziris.html' %}is-active{% endif %}">
                     over ziris
                 </span>
             </a>
 
-            <a href="/contact" aria-label="contact">
+            <a href="/contact" aria-label="contact" class="js-intro-header">
                 <span class="header__item header__item--link hidden-until@m
                 {% if page.url == '/contact.html' %}is-active{% endif %}">
                     contact
