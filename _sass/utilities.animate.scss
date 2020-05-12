@@ -24,6 +24,11 @@
 	animation-timing-function: $ease;
 }
 
+.a-eo {
+    animation-duration: 1500ms;
+    animation-timing-function: $ease-out;
+}
+
 // durations & delays
 // --------------------------------
 @for $i from 0 through 64 {
