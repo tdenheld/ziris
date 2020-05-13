@@ -17,7 +17,10 @@
         const src = img.getAttribute('data-src');
         if (!src) return
         img.src = src;
-        img.addEventListener('load', () => img.style.minHeight = 'auto');
+        img.addEventListener('load', () => {
+            img.style.minHeight = 'auto';
+            img.nextElementSibling.classList.add('is-hidden');
+        });
     }
 
     const observeImage = new IntersectionObserver((entries, self) => {

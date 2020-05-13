@@ -18,6 +18,7 @@ layout: default
         <div class="gallery__tile js-gallery-scroll" id="js-gallery-scroll-{{ forloop.index }}">
             <figure class="gallery__img-container js-tr tr-stag tr-stag--right">
                 <img class="gallery__img" src="#" data-src="{{ entry.img }}" alt="{{ entry.author }}" />
+                <div class="gallery__img-loader"></div>
             </figure>
             <h3 class="gallery__author js-tr tr-stag tr-stag--right">
                 {{ entry.author }}

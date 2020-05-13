@@ -259,3 +259,14 @@
 	}
 }
 .a-fo-up-s {animation-name: fade-out-up-small;}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+.a-rotate {animation-name: rotate;}
