@@ -18,7 +18,7 @@
         if (!src) return
         img.src = src;
         img.addEventListener('load', () => {
-            img.style.minHeight = 'auto';
+            img.style.minWidth = 'auto';
             img.nextElementSibling.classList.add('is-hidden');
         });
     }
