@@ -28,8 +28,7 @@
             splitText('.js-intro-caption');
         }
     }, '<0.2');
-
-    ß('.js-intro-txt').map(el => el.style.visibility = 'visible');
-    splitText('.js-intro-txt', 0.03);
+    
+    splitText('.js-intro-header', 0.03);
 
 })();

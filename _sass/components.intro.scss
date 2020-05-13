@@ -54,6 +54,18 @@
     }
 }
 
+.intro__header {
+    max-width: 700px;
+
+    @include respond-min($xl) {
+        text-align: right;
+    }
+
+    @include respond-min($xxxl) {
+        max-width: 35vw;
+    }
+}
+
 .intro__title {
     @include font(36px, 900, $lh-title);
     margin-bottom: space(4);
