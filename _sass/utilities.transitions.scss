@@ -69,6 +69,18 @@
     }
 }
 
+.tr-si-right {
+    opacity: 0;
+    transform: scaleX(0);
+    transform-origin: 0 0;
+    transition-timing-function: $ease-out;
+
+    &.is-active {
+        opacity: 1;
+        transform: none;
+    }
+}
+
 
 // staggered
 // ------------------------------

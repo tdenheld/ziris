@@ -86,7 +86,7 @@ const discover = () => {
     }
 
     const observer = new IntersectionObserver(entries => {
-        entries.map(entry => {        
+        entries.map(entry => {
             if (entry.isIntersecting) {
                 entry.target.classList.add('o-0');
             } else if (!entry.isIntersecting) {
@@ -123,13 +123,15 @@ const revealOnScroll = () => {
     const observer = new IntersectionObserver((entries, self) => {
         entries.map(entry => {
             const target = entry.target;
-            
+
             if (entry.isIntersecting) {
-                ß('.js-tr', target).map((el) => el.classList.add('is-active'));
+                ß('.js-tr', target).map((el) => {
+                    el.classList.add('is-active');
+                    if (el.classList.contains('js-split-text')) splitText(el);
+                });
                 if (target.classList.contains('js-tr')) target.classList.add('is-active');
-                if (target.classList.contains('js-split-text')) {
-                    splitText(target);
-                }
+                if (target.classList.contains('js-split-text')) splitText(target);
+                if (target.classList.contains('js-pattern')) pattern();
                 self.unobserve(target);
             }
         });

@@ -12,8 +12,10 @@ cursor: true
             </h1>
         </header>
         <figure class="intro__figure o-hidden">
-            <img class="intro__img v-hidden js-intro-img" src="{{ site.data.home.intro.img }}" alt="{{ site.data.home.intro.caption }}" />
-            <figcaption class="intro__figcaption v-hidden js-intro-caption">{{ site.data.home.intro.caption }}</figcaption>
+            <img class="intro__img v-hidden js-intro-img" src="{{ site.data.home.intro.img }}"
+                alt="{{ site.data.home.intro.caption }}" />
+            <figcaption class="intro__figcaption v-hidden js-intro-caption">{{ site.data.home.intro.caption }}
+            </figcaption>
         </figure>
     </div>
     <div class="discover tr-750 js-discover">
@@ -46,17 +48,19 @@ cursor: true
     </div>
 </section>
 
-<section class="pattern js-scroll tr-stag js-tr">
-    <div class="pattern__bg"></div>
+<section class="pattern js-scroll js-pattern tr-stag js-tr">
+    <div class="pattern__bg js-pattern-bg"></div>
     <div class="container pattern__container">
         <header class="section-header">
-            <h2 class="f32 f48@m f72@l lh-title mb-4 fw-900 tr-stag js-tr">
-                {{ site.data.home.pattern.title }}
-            </h2>
-            <p class="section-header__description mxw-500 mb-6 tr-stag js-tr">
-                {{ site.data.home.pattern.subtitle }}
-            </p>
-            <div class="tr-stag js-tr">
+            <div class="js-pattern-txt">
+                <h2 class="f32 f48@m f72@l lh-title mb-4 fw-900 tr-fi js-tr">
+                    {{ site.data.home.pattern.title }}
+                </h2>
+                <p class="section-header__description mxw-500 mb-6 tr-fi js-tr">
+                    {{ site.data.home.pattern.subtitle }}
+                </p>
+            </div>
+            <div class="tr-fi js-tr js-pattern-button">
                 <a href="/cursussen" class="button button--l">
                     {{ site.data.home.pattern.button }}
                 </a>
@@ -69,8 +73,8 @@ cursor: true
     <div class="container container--m">
         <div class="proof__grid">
             <header class="section-header mxw-350 js-scroll">
-                <div class="thick-line hidden-until@m tr-stag js-tr"></div>
-                <h2 class="section-header__title section-header__title--small tr-stag js-tr">
+                <div class="thick-line hidden-until@m tr-si-right tr-1500 js-tr"></div>
+                <h2 class="section-header__title section-header__title--small js-split-text tr-stag js-tr">
                     {{ site.data.home.proof.title }}
                 </h2>
             </header>
@@ -79,7 +83,7 @@ cursor: true
                 <div class="member js-scroll">
                     <img class="member__img tr-stag js-tr" src="{{ member.img }}" alt="{{ member.name }}" />
                     <div class="member__txt">
-                        <h3 class="member__name tr-stag js-tr">{{ member.name }}</h3>
+                        <h3 class="member__name tr-stag js-tr js-split-text">{{ member.name }}</h3>
                         <p class="member__profession tr-stag js-tr">{{ member.profession }}</p>
                         <p class="member__quote tr-stag js-tr">“{{ member.quote }}”</p>
                     </div>
