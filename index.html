@@ -6,7 +6,7 @@ cursor: true
 <section class="intro js-intro">
     <div class="intro__bg v-hidden js-intro-bg"></div>
     <div class="container intro__container">
-        <header class="intro__header a a-fi a-dur-50 js-intro-header">
+        <header class="intro__header v-hidden js-intro-header">
             <h1 class="intro__title">
                 {{ site.data.home.intro.title }}
             </h1>
@@ -31,12 +31,12 @@ cursor: true
 <section class="art">
     <div class="container container--m">
         <div class="art__grid">
-            <header class="section-header order-last@l js-scroll js-split-text">
-                <div class="thick-line hidden-until@m tr-stag js-tr"></div>
-                <h2 class="section-header__title section-header__title--small mxw-550 tr-stag js-tr">
+            <header class="section-header order-last@l js-scroll">
+                <div class="thick-line hidden-until@m tr-si-right tr-1500 js-tr"></div>
+                <h2 class="section-header__title section-header__title--small mxw-550 tr-fi js-split-text js-tr">
                     {{ site.data.home.art.title }}
                 </h2>
-                <p class="section-header__description mxw-700 tr-stag js-tr">
+                <p class="section-header__description mxw-700 tr-fi tr-1500 tr-del-750 js-tr">
                     {{ site.data.home.art.subtitle }}
                 </p>
             </header>
@@ -52,14 +52,14 @@ cursor: true
     <div class="pattern__bg js-pattern-bg"></div>
     <div class="container pattern__container">
         <header class="section-header">
-            <div class="js-pattern-txt">
-                <h2 class="f32 f48@m f72@l lh-title mb-4 fw-900 tr-fi js-tr">
+            
+                <h2 class="f32 f48@m f72@l lh-title mb-4 fw-900 tr-fi js-tr js-split-text">
                     {{ site.data.home.pattern.title }}
                 </h2>
-                <p class="section-header__description mxw-500 mb-6 tr-fi js-tr">
+                <p class="section-header__description mxw-500 mb-6 tr-fi tr-1500 tr-del-750 js-tr">
                     {{ site.data.home.pattern.subtitle }}
                 </p>
-            </div>
+            
             <div class="tr-fi js-tr js-pattern-button">
                 <a href="/cursussen" class="button button--l">
                     {{ site.data.home.pattern.button }}

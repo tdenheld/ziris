@@ -29,6 +29,7 @@
         }
     }, '<0.2');
     
+    document.querySelector('.js-intro-header').style.visibility = 'visible';
     splitText('.js-intro-header', 0.03);
 
 })();

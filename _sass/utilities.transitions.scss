@@ -31,6 +31,10 @@
     .tr-#{$x} {
         transition: all #{$d} $ease;
     }
+
+    .tr-del-#{$x} {
+		transition-delay: #{$d};
+	}
 }
 
 

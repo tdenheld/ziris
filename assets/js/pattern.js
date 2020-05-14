@@ -22,6 +22,7 @@ const pattern = () => {
         autoAlpha: 0,
         x: -20
     },{
+        duration: 2,
         autoAlpha: 1,
         x: 0
     }, '<0.8');

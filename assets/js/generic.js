@@ -103,12 +103,12 @@ const discover = () => {
 const splitText = (node, stag) => {
     const stagger = stag || 0.01
     const st = new SplitText(node, {
-        type: 'chars,words,lines'
+        type: 'chars,words,lines',
     });
     const chars = st.chars;
 
     gsap.from(chars, {
-        duration: 'random(0.5, 5)',
+        duration: 'random(1, 4)',
         ease: 'power3.out',
         opacity: 0,
         stagger: stagger
