@@ -26,6 +26,4 @@ const pattern = () => {
         autoAlpha: 1,
         x: 0
     }, '<0.8');
-    
-    splitText('.js-pattern-txt', 0.02);
 }
