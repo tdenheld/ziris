@@ -23,11 +23,14 @@
         x: '-100%'
     }, {
         x: 0,
-        onComplete() {
-            ß('.js-intro-caption').map(el => el.style.visibility = 'visible');
-            splitText('.js-intro-caption');
-        }
-    }, '<0.2');
+    }, '<0.2').fromTo('.js-intro-caption', {
+        autoAlpha: 0,
+        x: -20
+    },{
+        duration: 1.5,
+        autoAlpha: 1,
+        x: 0
+    },'<1.5');
     
     document.querySelector('.js-intro-header').style.visibility = 'visible';
     splitText('.js-intro-header', 0.03);
