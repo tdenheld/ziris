@@ -12,7 +12,7 @@ const introAnimation = () => {
     gsap.timeline({
         defaults: {
             duration: 2,
-            ease: 'power3.out',
+            ease: 'power4.out',
         }
     }).fromTo('.js-intro-bg', {
         autoAlpha: 0,
@@ -67,5 +67,5 @@ const pattern = () => {
         duration: 2,
         autoAlpha: 1,
         x: 0
-    }, '<0.8');
+    }, '<0.6');
 }
