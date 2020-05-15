@@ -100,8 +100,11 @@ const discover = () => {
     observer.observe(obj);
 }
 
-const splitText = (node, stag) => {
-    const stagger = stag || 0.01
+const splitText = node => {
+    if (!document.body.contains(node)) return;
+
+    node.style.visibility = 'visible';
+    const stagger = node.dataset.stag || 0.01;
     const st = new SplitText(node, {
         type: 'chars,words,lines',
     });
@@ -130,10 +133,7 @@ const revealOnScroll = () => {
                     if (el.classList.contains('js-split-text')) splitText(el);
                 });
                 if (target.classList.contains('js-tr')) target.classList.add('is-active');
-                if (target.classList.contains('js-split-text')) {
-                    const stag = target.dataset.stag || 0.01
-                    splitText(target, stag);
-                }
+                if (target.classList.contains('js-split-text')) splitText(target);
                 if (target.classList.contains('js-pattern')) pattern();
                 self.unobserve(target);
             }
