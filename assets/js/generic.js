@@ -103,19 +103,24 @@ const discover = () => {
 const splitText = node => {
     if (!document.body.contains(node)) return;
 
-    node.style.visibility = 'visible';
     const stagger = node.dataset.stag || 0.01;
     const st = new SplitText(node, {
         type: 'chars,words,lines',
     });
     const chars = st.chars;
 
-    gsap.from(chars, {
+    gsap.timeline().from(chars, {
         duration: 'random(1, 4)',
         ease: 'power3.out',
         opacity: 0,
         stagger: stagger
-    });
+    }).fromTo(node, {
+        autoAlpha: 0
+    }, {
+        duration: 0.3,
+        ease: 'power3.inOut',
+        autoAlpha: 1
+    }, '<0');
 }
 
 const revealOnScroll = () => {
