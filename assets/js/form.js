@@ -92,7 +92,7 @@ const form = () => {
 
     // activate all formfields
     // ------------------------------------------------------------------
-    ß('.js-formfield').map(el => {
+    ß('.js-formfield').reverse().map(el => { // reversed to focus on first invalid field
         const input = el.querySelector('input');
         const label = el.querySelector('label');
 
