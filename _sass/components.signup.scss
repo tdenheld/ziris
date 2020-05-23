@@ -45,6 +45,7 @@
     padding: 20px 0 8px;
     border-bottom: 3px solid $brand;
     @include font(24px, 700, $lh-solid);
+    transition: $fade-all;
     -webkit-appearance: none;
 
     &::placeholder {
@@ -58,6 +59,13 @@
     }
 }
 
+.signup__error {
+    display: block;
+    overflow: hidden;
+    margin-top: space(1);
+    @include font(12px, 500, $lh-title);
+    color: $cta;
+}
 
 
 

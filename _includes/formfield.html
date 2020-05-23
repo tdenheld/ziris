@@ -1,8 +1,9 @@
 <div class="signup__formfield js-formfield">
-    <label class="signup__label js-label" for="{{ include.id }}">
+    <label class="signup__label" for="{{ include.id }}">
         {{ include.label }}
     </label>
-    <input class="signup__input js-input {{ include.class }}" 
+    <input class="signup__input {{ include.class }}" 
         id="{{ include.id }}" placeholder="{{ include.label }}" type="{{ include.type }}"
-        name="{{ include.id }}" {{ include.required }} >
+        name="{{ include.id }}" {{ include.required }}
+        {% if include.minlength %}minlength="{{ include.minlength }}"{% endif %} >
 </div>

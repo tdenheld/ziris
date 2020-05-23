@@ -12,11 +12,11 @@ title: inschrijven | ziris
             <div class="cta__title a a-fi a-del-150 js-get-data" id="course-title">cursus</div>
         </h1>
 
-        <form class="a a-fi a-del-300" name="Inschrijvingen" action="/bedankt" netlify>
+        <form id="form" class="a a-fi a-del-300" name="Inschrijvingen" action="/bedankt" novalidate netlify>
             <fieldset class="signup__fieldset">
                 {% include formfield.html class='js-set-data' id='firstname' label='voornaam' type='text' required='required' %}
                 {% include formfield.html class='js-set-data' id='lastname' label='achternaam' type='text' required='required' %}
-                {% include formfield.html class='js-set-data' id='phone' label='telefoonnummer' type='tel' required='required' %}
+                {% include formfield.html class='js-set-data' id='phone' label='telefoonnummer' type='tel' minlength='10' required='required' %}
                 {% include formfield.html class='js-set-data' id='email' label='e-mailadres' type='email' required='required' %}
             </fieldset>
             <fieldset class="signup__fieldset dn">
@@ -27,7 +27,7 @@ title: inschrijven | ziris
                 {% include formfield.html class='js-get-data' id='course-time' label='tijdstip' type='hidden' %}
                 {% include formfield.html class='js-get-data' id='course-location' label='locatie' type='hidden' %}
             </fieldset>
-            <button class="button button--l js-submit" type="submit">inschrijving verzenden</button>
+            <button class="button button--l" type="submit">inschrijving verzenden</button>
         </form>
 
     </div>

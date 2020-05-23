@@ -32,6 +32,10 @@ const removeAllChilds = node => {
     while (node.firstChild) node.removeChild(node.firstChild);
 }
 
+const insertAfter = (newNode, referenceNode) => {
+    referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+}
+
 const debounce = (callback, time) => {
     let interval;
     return (...args) => {
