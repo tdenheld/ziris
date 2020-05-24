@@ -114,6 +114,7 @@ const form = () => {
         // create error element
         const error = document.createElement('span');
         error.classList.add('signup__error');
+        error.setAttribute('aria-live', 'polite');
 
         input.addEventListener('input', () => {
             removeError(error);
