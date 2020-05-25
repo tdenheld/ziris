@@ -30,7 +30,7 @@ const form = () => {
     const obj = '#form';
     const formField = '.js-formfield';
 
-    if (!exists(obj) && !exists(formField)) return;
+    if (!exists(obj) || !exists(formField)) return;
     const form = document.querySelector(obj);
 
     // validation show and hide errors

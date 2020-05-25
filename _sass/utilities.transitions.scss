@@ -32,6 +32,8 @@
         transition-property: all;
         transition-duration: #{$d};
         transition-timing-function: $ease-out;
+        backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
     }
 
     .tr-del-#{$x} {
@@ -109,10 +111,13 @@
 // staggered
 // ------------------------------
 .tr-stag {
+    opacity: 0;
+    transform-origin: 0 0;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+
     @for $i from 1 through 12 {
         &:nth-child(#{$i}) {
-            opacity: 0;
-            transform-origin: 0 0;
             transform: translateY(20px + $i * 8) rotate(1deg);
             transition-duration: (900ms + ($i * 150));
 

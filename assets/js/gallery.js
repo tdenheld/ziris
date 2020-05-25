@@ -32,7 +32,6 @@
             }
         });
     }, {
-        root: gallery,
         rootMargin: '0px 256px',
     });
 
@@ -48,7 +47,6 @@
             }
         });
     }, {
-        root: gallery,
         rootMargin: '0px -16%'
     });
 
