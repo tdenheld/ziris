@@ -2,18 +2,16 @@
 title: vrouwen fotografie
 date: 2019-04-22T04:32:00.000Z
 category: volwassenen
-description: >-
-  De vraag of er een vrouwelijk blik bestaat wordt nader bekeken aan de hand van
-  verschillende fotografische disciplines.
+description: De vraag of er een vrouwelijk blik bestaat wordt nader bekeken aan
+  de hand van verschillende fotografische disciplines.
 thumb: /assets/img/essaydi_thumb.jpg
 img: /assets/img/essaydi.jpg
-caption: >-
-  Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003. Courtesy
-  of Edwynn Houk Gallery, New York
+caption: "Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003.
+  Courtesy of Edwynn Houk Gallery, New York"
 amount: 6 lessen van 2 uur
-time: 'maandag om de week 19:30 - 21:30'
-start: 27 januari 2020
-location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
+time: maandag om de week 19:30 - 21:30
+start: 5 oktober 2020
+location: buurthuis De Boog, Gambiadreef 60 Utrecht
 price: 275.-
 inc: lesmateriaal
 ---
