@@ -1,20 +1,18 @@
 ---
 title: het nieuwe bouwen
-date: 2019-11-16T04:38:54.578Z
+date: 2019-11-16T04:38:00.000Z
 category: volwassenen
 type: excursie verplaatst
-description: >-
-  Fotograferen in Rietveldwoningen in Utrecht op twee verschillende locaties
-  waaronder het iconische Rietveld-Schröderhuis: UNESCO werelderfgoed.
+description: "Fotograferen in Rietveldwoningen in Utrecht op twee verschillende
+  locaties waaronder het iconische Rietveld-Schröderhuis: UNESCO werelderfgoed."
 thumb: /assets/img/retveld-thumb.jpg
 img: /assets/img/rietveld-groot.jpg
-caption: >-
-  Blitz en Zn, Zicht op Rietveld-Schröderhuis. 1925. Catalogusnummer 58133 Het
-  Utrechts Archief
+caption: Blitz en Zn, Zicht op Rietveld-Schröderhuis. 1925. Catalogusnummer
+  58133 Het Utrechts Archief
 amount: eenmalig
 time: 13.30 - 16.30
-start: 28 november 2020
-location: 'Erasmuslaan, Prins Hendriklaan, Utrecht'
+start: zaterdag 20 juni 2021
+location: Erasmuslaan, Prins Hendriklaan, Utrecht
 price: 50.-
 inc: rondleiding en opdrachten, exclusief entrée, museumjaarkaart is geldig
 ---
