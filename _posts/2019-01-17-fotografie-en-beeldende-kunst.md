@@ -2,17 +2,16 @@
 title: fotografie en beeldende kunst
 date: 2019-05-22T09:35:00.000Z
 category: volwassenen
-description: >-
-  Meer inzicht krijgen in de historische aspecten van de fotografie waardoor een
-  beter begrip ontstaat van de eigentijdse digitale vormen van
+description: Meer inzicht krijgen in de historische aspecten van de fotografie
+  waardoor een beter begrip ontstaat van de eigentijdse digitale vormen van
   beeldvervaardiging.
 thumb: /assets/img/breitner_thumb.jpg
 img: /assets/img/breitner.jpg
-caption: 'George Hendrik  Breitner, Meisje op de brug bij Prinseneiland. c.1895'
-amount: '6 lessen van 1,5 uur'
-time: 'donderdag om de week 19:30 - 21:00'
-start: 30 januari 2020
-location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
+caption: George Hendrik  Breitner, Meisje op de brug bij Prinseneiland. c.1895
+amount: 6 lessen van 1,5 uur
+time: donderdag om de week 19:30 - 21:00
+start: 1 oktober 2020
+location: buurthuis De Boog, Gambiadreef 60 Utrecht
 price: 195.-
 inc: lesmateriaal
 ---
