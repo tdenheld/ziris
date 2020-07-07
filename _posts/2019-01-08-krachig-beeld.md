@@ -2,17 +2,16 @@
 title: krachtig beeld
 date: 2019-04-22T06:45:22.920Z
 category: jongeren
-description: >-
-  Je leert in deze cursus over de betekenis van een foto, hoe je met een foto
-  een boodschap kunt overdragen. Ook worden de manieren van communicatie en de
-  context van een foto behandeld.
+description: Je leert in deze cursus over de betekenis van een foto, hoe je met
+  een foto een boodschap kunt overdragen. Ook worden de manieren van
+  communicatie en de context van een foto behandeld.
 thumb: /assets/img/kim-van-aalderen_thumb.jpg
 img: /assets/img/kim-van-aalderen.jpg
-caption: 'Kim van Aalderen, Spanish Soil. Personal Series 2019'
-amount: '6 lessen van 1,5 uur'
-time: 'donderdag 16:00 - 17:30'
-start: 23 januari 2020
-location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
+caption: Kim van Aalderen, Spanish Soil. Personal Series 2019
+amount: 6 lessen van 1,5 uur
+time: donderdag 16:00 - 17:30
+start: 1 oktober 2020
+location: buurthuis De Boog, Gambiadreef 60 Utrecht
 price: 195.-
 inc: lesmateriaal
 ---
