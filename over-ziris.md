@@ -1,7 +1,7 @@
 ---
 layout: about
-title: over ziris | kunst en fotografie
 header: header--white
+title: over ziris | kunst en fotografie
 ---
 ## visie
 
@@ -9,15 +9,13 @@ Ieder mens heeft creatieve eigenschappen. Creatieve ontwikkeling geeft je vrijhe
 
 ## wat we doen
 
-Ziris biedt cursussen aan op het gebied van kunstgeschiedenis in combinatie met fotografie. In de cursussen worden kunsttheorie en praktische opdrachten nadrukkelijk met elkaar verbonden.
+Ziris biedt cursussen en workshops aan op het gebied van kunstgeschiedenis in combinatie met fotografie. In de cursussen worden kunsttheorie en praktische opdrachten nadrukkelijk met elkaar verbonden.
 
 In samenwerking met ZIMIHC theater Stefanus in Utrecht is er eens per jaar, in januari, een groepsexpositie van het werk van de cursisten. De expositie van dit jaar ‘Van A tot Z, van Architectuur tot Zelfportret’ was drukbezocht en een groot succes.
 
 Twee keer per jaar wordt er een foto-excursie georganiseerd. We gaan samen fotograferen op interessante locaties. De excursies zijn gevarieerd, d.w.z. dat diverse fotografische disciplines aan bod komen.
 
 Ieder jaar verzorgt Ziris een aantal lezingen over fotografie, met name op het gebied van kunstgeschiedenis, wetenschapsgeschiedenis en hun relatie tot de fotografie.
-
-
 
 ## de docenten
 
