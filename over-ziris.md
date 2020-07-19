@@ -34,6 +34,6 @@ Bart Karstens is wetenschapshistoricus en wetenschapsfilosoof. Als postdoctoraal
 
 Kind & Co
 
-Brede School Maarssen
-
 MeanderOmnium
+
+Brede School Maarssen
