@@ -36,4 +36,4 @@ Kind & Co
 
 Brede School Maarssen
 
-MeanderOmnium Zeist
+MeanderOmnium
