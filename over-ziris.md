@@ -11,7 +11,7 @@ Ieder mens heeft creatieve eigenschappen. Creatieve ontwikkeling geeft je vrijhe
 
 Ziris biedt cursussen en workshops en lezingen aan op het gebied van kunstgeschiedenis in combinatie met fotografie. In de cursussen worden kunsttheorie en praktische opdrachten nadrukkelijk met elkaar verbonden.
 
-Het aanbod is divers en  ook geschikt voor scholen en bedrijven. In overleg kan Ziris workshops ontwikkelen die passen bij de behoefte van de klant.
+Het aanbod is divers en ook geschikt voor scholen en bedrijven. In overleg kan Ziris workshops ontwikkelen die passen bij de behoefte van de klant.
 
 ## de docenten
 
