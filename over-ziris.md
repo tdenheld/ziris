@@ -13,12 +13,6 @@ Ziris biedt cursussen en workshops en lezingen aan op het gebied van kunstgeschi
 
 Het aanbod is divers en  ook geschikt voor scholen en bedrijven. In overleg kan Ziris workshops ontwikkelen die passen bij de behoefte van de klant.
 
-
-
-
-
-
-
 ## de docenten
 
 ### Drs. Cecilia Kocsis
@@ -32,7 +26,9 @@ hiervoor een drijfveer geweest.
 
 Bart Karstens is wetenschapshistoricus en wetenschapsfilosoof. Als postdoctoraal onderzoeker is hij verbonden aan de Vrije Universiteit van Amsterdam. Hij studeerde wetenschapsgeschiedenis in Utrecht, Amsterdam en Berlijn en haalde in 2009 cum laude zijn doctoraal. In 2015 promoveerde hij aan de Universiteit Leiden op een onderzoek naar ‘fouten’ in de wetenschap.  Zijn belangstelling gaat uit naar het ontstaan van het systeem van moderne wetenschappelijke disciplines, de wisselwerking tussen kunst en wetenschap en het fenomeen interdisciplinariteit.
 
-## opdrachtgevers
+## samenwerkingsverband 
+
+Zimihc
 
 Kind & Co
 
