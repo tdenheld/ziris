@@ -3,7 +3,7 @@ layout: about
 header: header--white
 title: over ziris | kunst en fotografie
 ---
-![]()
+![](/assets/img/hoera-web.jpg "Cecilia Kocsis")
 
 ## visie
 
