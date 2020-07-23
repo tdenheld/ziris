@@ -3,6 +3,8 @@ layout: about
 header: header--white
 title: over ziris | kunst en fotografie
 ---
+![Cecilia Kocsis](/assets/img/zelf_site3.jpg)
+
 ## visie
 
 Ieder mens heeft creatieve eigenschappen. Creatieve ontwikkeling geeft je vrijheid, ruimdenkendheid en een sterkere plaats in de wereld. Dit gebeurt al door naar kunst te kijken, en wordt nog sterker door zelf kunstzinnig werk te maken.
