@@ -13,7 +13,7 @@ Ziris biedt cursussen, workshops en lezingen aan op het gebied van kunstgeschied
 
 Het aanbod is divers en ook geschikt voor scholen en bedrijven. In overleg kan Ziris workshops ontwikkelen die passen bij de behoefte van de klant.
 
-## de docenten
+## de docente
 
 ### Drs. Cecilia Kocsis
 
@@ -22,9 +22,7 @@ Vanaf 2006 geef ik cursussen fotografie die ik zelf ontwikkel. Van belang acht i
 In 2011 heb ik aan de Universiteit van Utrecht een module esthetiek gevolgd aan de faculteit wijsbegeerte. Vragen over universele waarden en persoonlijke smaak zijn voor mij
 hiervoor een drijfveer geweest.
 
-### Dr. Bart Karstens
-
-Bart Karstens is wetenschapshistoricus en wetenschapsfilosoof. Als postdoctoraal onderzoeker is hij verbonden aan de Vrije Universiteit van Amsterdam. Hij studeerde wetenschapsgeschiedenis in Utrecht, Amsterdam en Berlijn en haalde in 2009 cum laude zijn doctoraal. In 2015 promoveerde hij aan de Universiteit Leiden op een onderzoek naar ‘fouten’ in de wetenschap.  Zijn belangstelling gaat uit naar het ontstaan van het systeem van moderne wetenschappelijke disciplines, de wisselwerking tussen kunst en wetenschap en het fenomeen interdisciplinariteit.
+![Cecilia Kocsis](/assets/img/zelfportret-website.jpg)
 
 ## samenwerking
 
