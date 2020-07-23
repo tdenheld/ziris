@@ -3,7 +3,7 @@ layout: about
 header: header--white
 title: over ziris | kunst en fotografie
 ---
-![Cecilia Kocsis](/assets/img/zelf_site3.jpg)
+![](/assets/img/zelf_site3.jpg "Cecilia Kocsis")
 
 ## visie
 
