@@ -29,4 +29,4 @@ hiervoor een drijfveer geweest.
 * [Zimihc](https://www.zimihc.nl/)
 * [Kind & Co](https://www.kmnkindenco.nl/)
 * [MeanderOmnium](https://www.meanderomnium.nl/)
-*
+* Brede school Maarssen
