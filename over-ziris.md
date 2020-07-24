@@ -3,7 +3,6 @@ layout: about
 header: header--white
 title: over ziris | kunst en fotografie
 ---
-
 ## visie
 
 Ieder mens heeft creatieve eigenschappen. Creatieve ontwikkeling geeft je vrijheid, ruimdenkendheid en een sterkere plaats in de wereld. Dit gebeurt al door naar kunst te kijken, en wordt nog sterker door zelf kunstzinnig werk te maken.
@@ -15,6 +14,7 @@ Ziris biedt cursussen, workshops en lezingen aan op het gebied van kunstgeschied
 Het aanbod is divers en ook geschikt voor scholen en bedrijven. In overleg kan Ziris workshops ontwikkelen die passen bij de behoefte van de klant.
 
 ## de docente
+
 ![Cecilia Kocsis, Hoera. Een zelfportret](/assets/img/hoera-web.jpg "Cecilia Kocsis")
 
 ### Drs. Cecilia Kocsis
@@ -26,7 +26,7 @@ hiervoor een drijfveer geweest.
 
 ## samenwerking
 
-- Zimihc
-- Kind & Co
-- MeanderOmnium
-- Brede School Maarssen
+* [Zimihc](https://www.zimihc.nl/)
+* Kind & Co
+* MeanderOmnium
+* Brede School Maarssen
