@@ -16,6 +16,7 @@ Ziris biedt cursussen, workshops en lezingen aan op het gebied van kunstgeschied
 Het aanbod is divers en ook geschikt voor scholen en bedrijven. In overleg kan Ziris workshops ontwikkelen die passen bij de behoefte van de klant.
 
 ## de docente
+![Cecilia Kocsis, Hoera. Een zelfportret](/assets/img/hoera-web.jpg "Cecilia Kocsis")
 
 ### Drs. Cecilia Kocsis
 
@@ -23,8 +24,6 @@ Na het behalen van mijn doctoraal kunstgeschiedenis heb ik een aantal jaren gewe
 Vanaf 2006 geef ik cursussen fotografie die ik zelf ontwikkel. Van belang acht ik de combinatie tussen theorie en praktijk, tussen kunstgeschiedenis en fotografie.<br>
 In 2011 heb ik aan de Universiteit van Utrecht een module esthetiek gevolgd aan de faculteit wijsbegeerte. Vragen over universele waarden en persoonlijke smaak zijn voor mij
 hiervoor een drijfveer geweest.
-
-![Cecilia Kocsis, Hoera. Een zelfportret](/assets/img/hoera-web.jpg "Cecilia Kocsis")
 
 ## samenwerking
 
