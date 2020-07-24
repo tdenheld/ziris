@@ -1,6 +1,7 @@
 ---
 title: kijk mij eens!
 date: 2019-04-22T07:00:24.471Z
+visible: true
 category: kinderen
 description: In 6 weken worden kinderen in de leeftijd van 11 tot 15 opgeleid
   tot "omgevingsfotograaf".

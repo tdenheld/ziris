@@ -1,6 +1,7 @@
 ---
 title: krachtig beeld
 date: 2019-04-22T06:45:22.920Z
+visible: true
 category: jongeren
 description: Je leert in deze cursus over de betekenis van een foto, hoe je met
   een foto een boodschap kunt overdragen. Ook worden de manieren van

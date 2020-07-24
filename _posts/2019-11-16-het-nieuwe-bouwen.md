@@ -1,6 +1,7 @@
 ---
 title: het nieuwe bouwen
 date: 2019-10-07T03:38:00.000Z
+visible: true
 category: volwassenen
 type: excursie
 description: "Fotograferen in Rietveldwoningen in Utrecht op twee verschillende

@@ -1,6 +1,7 @@
 ---
 title: kunst&shy;geschiedenis basisonderwijs
 date: 2019-04-23T13:50:54.040Z
+visible: true
 category: kinderen
 type: kunstles
 description: >-

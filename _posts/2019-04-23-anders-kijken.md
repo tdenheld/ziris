@@ -1,6 +1,7 @@
 ---
 title: anders kijken
 date: 2019-07-22T13:57:00.000Z
+visible: true
 category: volwassenen
 description: Je leert in deze cursus aangeleerde kijkpatronen te herkennen en je
   leert deze patronen te doorbreken. Dit helpt je om op een meer creatieve en

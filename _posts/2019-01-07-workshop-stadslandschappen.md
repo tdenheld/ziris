@@ -1,6 +1,7 @@
 ---
 title: workshop de stad
 date: 2019-04-23T09:37:43.827Z
+visible: true
 category: jongeren
 description: >-
   Door verschillende technische toepassingen leer je de stad op verschillende
