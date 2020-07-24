@@ -1,6 +1,6 @@
 ---
 title: fotografie en beeldende kunst
-date: 2019-05-22T09:35:00.000Z
+date: 2019-08-22T09:35:00.000Z
 visible: true
 category: volwassenen
 description: Meer inzicht krijgen in de historische aspecten van de fotografie
