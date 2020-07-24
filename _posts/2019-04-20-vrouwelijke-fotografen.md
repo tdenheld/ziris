@@ -1,7 +1,7 @@
 ---
 title: vrouwen fotografie
 date: 2019-04-22T04:32:00.000Z
-visible: true
+visible: false
 category: volwassenen
 description: De vraag of er een vrouwelijk blik bestaat wordt nader bekeken aan
   de hand van verschillende fotografische disciplines.
