@@ -24,7 +24,7 @@ Vanaf 2006 geef ik cursussen fotografie die ik zelf ontwikkel. Van belang acht i
 In 2011 heb ik aan de Universiteit van Utrecht een module esthetiek gevolgd aan de faculteit wijsbegeerte. Vragen over universele waarden en persoonlijke smaak zijn voor mij
 hiervoor een drijfveer geweest.
 
-![]()
+![Cecilia Kocsis, Hoera. Een zelfportret](/assets/img/hoera-web.jpg)
 
 ## samenwerking
 
