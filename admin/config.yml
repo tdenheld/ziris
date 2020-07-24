@@ -97,6 +97,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Zichtbaar", name: "visible", widget: "boolean"}
       - {label: "Categorie", name: "category", widget: "select", options: ["volwassenen", "jongeren", "kinderen"]}
       - {label: "Soort les", name: "type", widget: "string", required: false}
       - {label: "Beschrijving", name: "description", widget: "text"}

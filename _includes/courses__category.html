@@ -4,6 +4,9 @@
     </header>
     <div class="courses__grid">
         {% for entry in category %}
+        {% if entry.visible == false %}
+        {% continue %}
+        {% endif %}
         {% include tile.html %}
         {% endfor %}
     </div>
