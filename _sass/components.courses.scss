@@ -20,6 +20,15 @@
     }
 }
 
+.courses__subtitle {
+    position: relative;
+    top: -#{space(2)};
+
+    @include respond-min($m) {
+        top: -#{space(3)};
+    }
+}
+
 .courses__container {
     border-top: 1px solid $grey-8;
     background-color: $grey-9;
