@@ -28,10 +28,7 @@ hiervoor een drijfveer geweest.
 
 ## samenwerking
 
-Zimihc
-
-Kind & Co
-
-MeanderOmnium
-
-Brede School Maarssen
+- Zimihc
+- Kind & Co
+- MeanderOmnium
+- Brede School Maarssen
