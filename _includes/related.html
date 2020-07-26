@@ -21,7 +21,7 @@
                 <div class="courses__grid">
                     {% for entry in category %}
                         {% capture i %}{{ page.title }}{% endcapture %}
-                        {% if entry.title==i %}
+                        {% if entry.title==i or entry.visible == false %}
                             {% continue %}
                         {% endif %}
                         {% include tile.html %}
