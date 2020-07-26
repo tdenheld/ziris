@@ -26,10 +26,7 @@ hiervoor een drijfveer geweest.
 
 ## samenwerking
 
-* [Zimihc](https://www.zimihc.nl/)
-
-  [Kind & Co](https://www.kmnkindenco.nl/)
-
-  [MeanderOmnium](https://www.meanderomnium.nl/)
-
-  Brede school Maarssen
+* <a href="https://www.zimihc.nl/" target="_blank" rel="noreferrer">Zimihc</a>
+* <a href="https://www.kmnkindenco.nl/" target="_blank" rel="noreferrer">Kind & Co</a>
+* <a href="https://www.meanderomnium.nl/" target="_blank" rel="noreferrer">MeanderOmnium</a>
+* Brede school Maarssen

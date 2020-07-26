@@ -19,6 +19,10 @@
         @include font(18px, 700, $lh-copy);
     }
 
+    a {
+        text-decoration: underline;
+    }
+
     p,
     ul,
     ol {
