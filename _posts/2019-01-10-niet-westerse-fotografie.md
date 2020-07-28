@@ -11,8 +11,8 @@ img: /assets/img/ghoussein.jpg
 caption: Tarek Al-Ghoussein, Untitled 9 (Self Portrait Series), 2002-03.
   Courtesy The Third Line, Dubai
 amount: 5 lessen van 1,5 uur
-time: donderdag om de week 19:30 - 21:00
-start: 24 september 2020
+time: maandag om de week 19:30 - 21:00
+start: 21 september 2020
 location: buurthuis De Boog, Gambiadreef 60 Utrecht
 price: 195.-
 inc: lesmateriaal
