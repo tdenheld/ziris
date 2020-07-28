@@ -6,9 +6,9 @@ category: volwassenen
 description: Meer inzicht krijgen in de historische aspecten van de fotografie
   waardoor een beter begrip ontstaat van de eigentijdse digitale vormen van
   beeldvervaardiging.
-thumb: /assets/img/breitner_thumb.jpg
-img: /assets/img/breitner.jpg
-caption: George Hendrik  Breitner, Meisje op de brug bij Prinseneiland. c.1895
+thumb: /assets/img/magnolia_thumb.jpg
+img: /assets/img/magnolia.jpg
+caption: Anoniem, Tak met vier magnolia's 1910-1925. Röntgenstraling. Rijksmuseum
 amount: 6 lessen van 1,5 uur
 time: donderdag 19:30 - 21:00
 start: 1 oktober 2020
