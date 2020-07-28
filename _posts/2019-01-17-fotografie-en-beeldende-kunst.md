@@ -3,8 +3,8 @@ title: fotografie en beeldende kunst
 date: 2019-08-22T09:35:00.000Z
 visible: true
 category: volwassenen
-description: Meer inzicht krijgen in de historische aspecten van de fotografie
-  waardoor een beter begrip ontstaat van de eigentijdse digitale vormen van
+description: Inzicht in de historische aspecten van de fotografie waardoor een
+  beter begrip ontstaat van de eigentijdse digitale vormen van
   beeldvervaardiging.
 thumb: /assets/img/magnolia_thumb.jpg
 img: /assets/img/magnolia.jpg
