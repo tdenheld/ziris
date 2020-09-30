@@ -11,7 +11,7 @@ caption: "Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003.
   Courtesy of Edwynn Houk Gallery, New York"
 amount: 6 lessen van 2 uur
 time: maandag om de week 19:30 - 21:30
-start: 5 oktober 2020
+start: 8 februari 2021
 location: buurthuis De Boog, Gambiadreef 60 Utrecht
 price: 275.-
 inc: lesmateriaal
