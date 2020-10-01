@@ -3,6 +3,7 @@ title: fotografie en beeldende kunst
 date: 2019-08-22T09:35:00.000Z
 visible: true
 category: volwassenen
+type: cursus
 description: Begrip van de eigentijdse digitale vormen van beeldvervaardiging
   door een historisch perspectief van de fotografie.
 thumb: /assets/img/magnolia_thumb.jpg
