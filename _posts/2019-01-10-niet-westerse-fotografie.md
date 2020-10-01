@@ -3,6 +3,7 @@ title: niet-westerse fotografie
 date: 2019-04-22T11:16:18.956Z
 visible: true
 category: volwassenen
+type: cursus
 description: Wij kijken met westerse ogen naar beeld, ook naar fotografie die
   niet-westers is. In deze cursus wordt in 5 lessen de fotografie van andere
   continenten nader bestudeerd.
