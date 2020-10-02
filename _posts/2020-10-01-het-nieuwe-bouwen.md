@@ -8,7 +8,7 @@ description: Laat je inspireren door Zonnestraal in Hilversum. Met veel
   fotografische opdrachten van het gebouw en het omliggende park....
 thumb: /assets/img/zonnestraal_hilversum_thumb.jpg
 img: /assets/img/zonnestraal_hilversum_groot.jpg
-caption: Rijksmonument Sanatorium Zonnestraal Hilversum © Arjandb 2011
+caption: "Rijksmonument Sanatorium Zonnestraal Hilversum © Arjandb "
 amount: eenmalig
 time: 13.30 - 16.30
 start: zondag 7 februari 2021
