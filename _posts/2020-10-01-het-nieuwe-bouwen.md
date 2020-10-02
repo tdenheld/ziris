@@ -13,7 +13,7 @@ amount: eenmalig
 time: 13.30 - 16.30
 start: zondag 7 februari 2021
 location: Sanatorium Zonnestraal, Loosdrechtse Bos 7, Hilversum
-price: 39,50
+price: "39.50"
 inc: fotografische opdrachten en versnapering
 ---
 nnn
