@@ -3,7 +3,7 @@ title: het nieuwe bouwen
 date: 2020-10-01T06:58:55.753Z
 visible: true
 category: volwassenen
-type: culturele buitenactiviteit
+type: excursie
 description: Laat je inspireren door Zonnestraal in Hilversum. Met veel
   fotografische opdrachten van het gebouw en het omliggende park.......
 thumb: /assets/img/zonnestraal_hilversum_thumb.jpg
