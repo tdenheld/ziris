@@ -4,8 +4,8 @@ date: 2020-10-01T06:58:55.753Z
 visible: true
 category: volwassenen
 type: excursie
-description: Laat je inspireren door Zonnestraal in Hilversum. Met veel
-  fotografische opdrachten van het gebouw en het omliggende park.......
+description: Laat je inspireren door het gebouw De Zonnestraal in Hilversum en
+  de prachtige omliggende natuur.
 thumb: /assets/img/zonnestraal_hilversum_thumb.jpg
 img: /assets/img/zonnestraal_hilversum_groot.jpg
 caption: "Rijksmonument Sanatorium Zonnestraal Hilversum © Arjandb "
