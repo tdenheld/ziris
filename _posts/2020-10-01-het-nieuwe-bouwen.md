@@ -23,4 +23,4 @@ Zonnestraal is in 1928 ontworpen door Jan Duiker, Bernard Bijvoet en Jan Gerko W
 
 Het voormalige sanatorium ligt in een gevarieerd landschap van bos en heide. Volop zonlicht vanuit het zuiden en de geur van dennenbomen waren essentieel voor het herstelproces van de tuberculosepatiënten
 
-Bijzonder en bepalend gegeven van Zonnestraal is haar ligging in de overgang van het laagveengebied van Loosdrecht naar de dekzandgronden van de Utrechtse Heuvelrug, de Hoorneboegse Heide en buitenplaats op de verhoging in het landschap Hoorneboeg. Dit gaat gepaard met (naar Nederlandse begrippen) enorme hoogteverschillen. Bron: <https://www.zonnestraalhilversum.nl/>
+ Bron: <https://www.zonnestraalhilversum.nl/>
