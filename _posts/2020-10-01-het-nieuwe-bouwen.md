@@ -1,5 +1,5 @@
 ---
-title: het nieuwe bouwen
+title: Rijksmonument Zonnestraal
 date: 2020-10-01T06:58:55.753Z
 visible: true
 category: volwassenen
