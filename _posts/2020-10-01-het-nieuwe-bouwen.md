@@ -11,7 +11,7 @@ thumb: /assets/img/zonnestraal_hilversum_thumb.jpg
 img: /assets/img/zonnestraal_hilversum_groot.jpg
 caption: "Rijksmonument Sanatorium Zonnestraal Hilversum © Arjandb "
 amount: eenmalig
-time: 13.30 - 16.30
+time: 13.30 - 16.00
 start: zondag 7 februari 2021
 location: Sanatorium Zonnestraal, Loosdrechtse Bos 7, Hilversum
 price: "39.50"
