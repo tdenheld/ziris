@@ -16,17 +16,15 @@
     @include respond-min($xl) {
         display: block;
     }
-
-    &:hover {
-        .discover__txt {
-            letter-spacing: 3px;
-        }
-    }
 }
 
 .discover__txt {
     margin-bottom: 4px;
     transition: all 700ms $ease-out;
+
+    .discover &:hover {
+        letter-spacing: 3px;
+    }
 }
 
 .discover__line {
