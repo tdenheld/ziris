@@ -15,6 +15,6 @@ location: je bank
 price: 22,50
 inc: presentatie
 ---
-Tijdens deze online activiteit krijg je elke week, gedurende een maand, een fotografische opdracht die je vanaf je bank in je huiskamer moet maken. 
+Tijdens deze online activiteit krijg je elke week, gedurende een maand, een fotografische opdracht die je vanaf je bank in je eigen huiskamer gaat maken. 
 
 Als je alle opdrachten hebt gemaakt, stuur je je werk op naar Ziris om ze online te bespreken.
