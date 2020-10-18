@@ -7,7 +7,7 @@ type: online
 description: Verrassende fotografische opdrachten vanaf de bank.
 thumb: /assets/img/lockdown-bank-thumb.jpg
 img: /assets/img/lockdown-bank-groot.jpg
-caption: ziris
+caption: ziris kunst & fotografie
 amount: 4 opdrachten
 time: najaar 2020
 start: op eigen verzoek
