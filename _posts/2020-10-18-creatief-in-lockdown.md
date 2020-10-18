@@ -15,4 +15,4 @@ location: je bank
 price: 15,-
 inc: presentatie
 ---
-nnnn
+Tijdens deze online activiteit krijg je elke week, gedurende een maand, een fotografische opdracht die je vanaf je bank in je huiskamer moet maken.
