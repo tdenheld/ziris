@@ -12,7 +12,7 @@ amount: 4 opdrachten
 time: najaar 2020
 start: op eigen verzoek
 location: je bank
-price: 15,-
+price: 22,50
 inc: presentatie
 ---
 Tijdens deze online activiteit krijg je elke week, gedurende een maand, een fotografische opdracht die je vanaf je bank in je huiskamer moet maken. 
