@@ -8,7 +8,7 @@ description: Verrassende fotografische opdrachten vanaf de bank.
 thumb: /assets/img/lockdown-bank-thumb.jpg
 img: /assets/img/lockdown-bank-groot.jpg
 caption: ziris
-amount: nvt
+amount: eenmalig
 time: najaar 2020
 start: op eigen verzoek
 location: je bank
@@ -17,4 +17,4 @@ inc: presentatie
 ---
 Tijdens deze online activiteit krijg je elke week, gedurende een maand, een fotografische opdracht die je vanaf je bank in je huiskamer moet maken. 
 
-Als je alle opdrachten hebt gemaakt, stuur je je werk op naar Ziris. Een online bespreking ....
+Als je alle opdrachten hebt gemaakt, stuur je je werk op naar Ziris om ze online te bespreken.
