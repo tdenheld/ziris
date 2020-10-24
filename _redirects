@@ -1,2 +1,4 @@
 /cursussen  /aanbod 301
 /aanbod /aanbod.html 200
+
+/cursussen/*  /aanbod/:splat
