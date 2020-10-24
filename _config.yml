@@ -28,5 +28,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /cursussen/:title
+      permalink: /aanbod/:title
       header: header--white
