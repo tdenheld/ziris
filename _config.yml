@@ -15,6 +15,9 @@ jekyll-minifier:
 autoprefixer:
   only_production: true
 
+include:
+  - _redirects
+
 defaults:
   - scope:
       path: ""
