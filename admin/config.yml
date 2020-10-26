@@ -89,7 +89,7 @@ collections:
         fields:
           - {label: "Tekstje", name: "text", widget: "string"}
 
-  - name: "cursussen" # Used in routes, e.g., /admin/collections/blog
+  - name: "aanbod" # Used in routes, e.g., /admin/collections/blog
     label: "Aanbod" # Used in the UI
     folder: "_posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
