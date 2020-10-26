@@ -1,8 +1,9 @@
-// image gallery of studends
-// ------------------------------------------------------------------
-// ------------------------------------------------------------------
+// ----------------------------------------------------
+// #GALLERY
+// ----------------------------------------------------
 
 'use strict';
+
 
 (() => {
     const obj = '.js-gallery';
@@ -10,6 +11,11 @@
 
     const container = document.querySelector('.js-gallery-container');
     const gallery = document.querySelector(obj);
+
+
+
+
+
 
     // lazy loading images
     // --------------------------------------------------------
@@ -37,6 +43,11 @@
 
     ß('[data-src]').map(el => observeImage.observe(el));
 
+
+
+
+
+
     // transition gallery tile
     // --------------------------------------------------------
     const observeTile = new IntersectionObserver((entries, self) => {
@@ -56,6 +67,9 @@
        the user has no scroll indication */
     const secondGalleryItem = document.querySelector('#js-gallery-item-2');
     ß('.js-tr', secondGalleryItem).map(el => el.classList.add('is-active'));
+
+
+
 
 
 

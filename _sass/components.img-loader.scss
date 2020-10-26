@@ -1,0 +1,27 @@
+.img-loader {
+    position: relative;
+}
+
+    .img-loader__item {
+        display: none;
+        width: 100%;
+
+        &.is-visible {
+            display: block;
+        }
+    }
+    
+
+    .img-loader__placeholder {
+        width: 100%;
+        height: auto;
+    
+        &.is-hidden {
+            display: none;
+        }
+    }
+
+    .img-loader__placeholder--dev {
+        background-color: $grey-8;
+        height: 80vh;
+    }

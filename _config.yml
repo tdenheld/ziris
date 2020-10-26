@@ -6,6 +6,10 @@ sass:
 plugins:
   - jekyll-minifier
   - jekyll-autoprefixer
+  - jekyll-thumb
+
+thumb:
+  optipng: true
   
 jekyll-minifier:
   compress_css: false
