@@ -1,6 +1,12 @@
 <a class="tile js-scroll a a-fi a-stag a-stag-del" href="{{ entry.url }}">
     <figure class="tile__img-container tr-stag js-tr">
-        <img class="tile__img" src="{{ entry.thumb }}" alt="{{ entry.title }}" />
+
+        {% if entry.thumb %}
+            <img class="tile__img" src="{{ entry.thumb }}" alt="{{ entry.title }}" />
+        {% else %}
+            {% thumb src=entry.img width="640" link=false alt=entry.title class="tile__img" %}
+        {% endif %}
+
         {% if entry.type %}
             <div class="tile__type">{{ entry.type }}</div>
         {% endif %}

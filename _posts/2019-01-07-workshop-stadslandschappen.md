@@ -6,7 +6,6 @@ category: jongeren
 description: >-
   Door verschillende technische toepassingen leer je de stad op verschillende
   manieren fotograferen. Het doel is om je mogelijkheden te vergroten.
-thumb: /assets/img/najjar-netropolis-berlin_thumb-.jpg
 img: /assets/img/najjar-netropolis-berlin-.jpg
 caption: 'Michael Najjar, Netropolis - Berlin. 2003-2009'
 amount: eenmalig 2 uur

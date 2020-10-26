@@ -6,7 +6,6 @@ category: volwassenen
 type: excursie
 description: "Fotograferen in Rietveldwoningen in Utrecht op twee verschillende
   locaties waaronder het iconische Rietveld-Schröderhuis: UNESCO werelderfgoed."
-thumb: /assets/img/retveld-thumb.jpg
 img: /assets/img/rietveld-groot.jpg
 caption: Blitz en Zn, Zicht op Rietveld-Schröderhuis. 1925. Catalogusnummer
   58133 Het Utrechts Archief

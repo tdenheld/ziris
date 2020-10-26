@@ -6,7 +6,6 @@ category: jongeren
 description: Je leert in deze cursus over de betekenis van een foto, hoe je met
   een foto een boodschap kunt overdragen. Ook worden de manieren van
   communicatie en de context van een foto behandeld.
-thumb: /assets/img/kim-van-aalderen_thumb.jpg
 img: /assets/img/kim-van-aalderen.jpg
 caption: Kim van Aalderen, Spanish Soil. Personal Series 2019
 amount: 6 lessen van 1,5 uur

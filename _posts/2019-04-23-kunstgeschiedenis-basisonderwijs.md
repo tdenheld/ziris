@@ -7,7 +7,6 @@ type: kunstles
 description: >-
   Laat kinderen in de kunstles kennis maken met een aantal beroemde kunstenaars-
   portretten
-thumb: /assets/img/vermeer_thumb.jpg
 img: /assets/img/vermeer.jpg
 caption: 'Johannes Vermeer, Meisje met de parel. c. 1665'
 amount: 1 les van 2 uur

@@ -7,7 +7,6 @@ type: cursus
 description: Wij kijken met westerse ogen naar beeld, ook naar fotografie die
   niet-westers is. In deze cursus wordt in 5 lessen de fotografie van andere
   continenten nader bestudeerd.
-thumb: /assets/img/ghoussein-thumb.jpg
 img: /assets/img/ghoussein.jpg
 caption: Tarek Al-Ghoussein, Untitled 9 (Self Portrait Series), 2002-03.
   Courtesy The Third Line, Dubai

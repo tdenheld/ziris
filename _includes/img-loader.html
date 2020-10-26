@@ -12,8 +12,7 @@
 
     {% else %}
 
-        {% capture thumb %}{{ include.img }}{% endcapture %}
-        {% thumb src=thumb width="100" link=false 
+        {% thumb src=include.img width="100" link=false alt=include.alt
                 class="img-loader__placeholder js-img-loader-placeholder" %}
 
     {% endif %}
