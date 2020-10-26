@@ -13,10 +13,10 @@
         if (!src) return
         img.src = src
         img.addEventListener('load', () => {
-            img.classList.add('is-visible');
             if (exists('.js-img-loader-placeholder')) {
                 placeholder.classList.add('is-hidden');
             }
+            img.classList.remove('is-hidden');
         });
     }
 

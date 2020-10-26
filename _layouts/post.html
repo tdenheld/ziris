@@ -16,7 +16,9 @@ layout: default
         </div>
     </div>
     <figure class="container js-scroll">
-        {% include img-loader.html img=page.img alt=page.caption %}
+        <div class="tr-stag js-tr">
+            {% include img-loader.html img=page.img alt=page.caption %}
+        </div>
         <figcaption class="tr-stag js-tr">{{ page.caption }}</figcaption>
     </figure>
 </section>
