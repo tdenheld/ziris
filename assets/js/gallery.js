@@ -19,21 +19,26 @@
 
     // lazy loading images
     // --------------------------------------------------------
-    const preloadImage = img => {
+    const preloadImage = (placeholder, img) => {
         const src = img.getAttribute('data-src');
         if (!src) return
-        img.src = src;
+        img.src = src
         img.addEventListener('load', () => {
-            img.style.minWidth = 'auto';
-            img.nextElementSibling.classList.add('is-hidden');
+            img.classList.remove('is-hidden');
+            if (exists('.js-gallery-placeholder')) {
+                placeholder.classList.add('is-hidden');
+            }
         });
     }
 
     const observeImage = new IntersectionObserver((entries, self) => {
         entries.map(entry => {
+            const placeholder = entry.target.querySelector('.js-gallery-placeholder');
+            const img = entry.target.querySelector('.js-gallery-img');
+
             if (entry.isIntersecting) {
                 if (!Modernizr.touchevents) updateEmptyContainerHeight();
-                preloadImage(entry.target);
+                preloadImage(placeholder, img);
                 self.unobserve(entry.target);
             }
         });
@@ -41,7 +46,7 @@
         rootMargin: '0px 256px',
     });
 
-    ß('[data-src]').map(el => observeImage.observe(el));
+    ß('.js-gallery-item').map(el => observeImage.observe(el));
 
 
 

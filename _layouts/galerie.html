@@ -17,8 +17,8 @@ layout: default
         {% for entry in page.items %}
         <div class="gallery__tile js-gallery-item a a-fi-right-200px a-del-200 a-eo" id="js-gallery-item-{{ forloop.index }}">
             <figure class="gallery__img-container js-tr tr-stag tr-stag--right">
-                <img class="gallery__img" src="#" data-src="{{ entry.img }}" alt="{{ entry.author }}" />
-                <div class="gallery__img-loader"></div>
+                {% thumb src=entry.img width="100" link=false alt=entry.author class="gallery__img js-gallery-placeholder" %}
+                <img class="gallery__img js-gallery-img is-hidden" src="#" data-src="{{ entry.img }}" alt="{{ entry.author }}" />
             </figure>
             <h3 class="gallery__author js-tr tr-stag tr-stag--right">
                 {{ entry.author }}

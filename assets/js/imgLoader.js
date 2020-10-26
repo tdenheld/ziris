@@ -5,6 +5,9 @@
 'use strict';
 
 (() => {
+    const obj = '.js-img-loader';
+    if (!exists(obj)) return;
+
     const preloadImage = (placeholder, img) => {
         const src = img.getAttribute('data-src');
         if (!src) return
@@ -31,5 +34,5 @@
         rootMargin: '1600px 0px',
     });
 
-    ß('.js-img-loader').map(el => observeImage.observe(el));
+    ß(obj).map(el => observeImage.observe(el));
 })();
