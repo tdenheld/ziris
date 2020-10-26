@@ -1,6 +1,7 @@
 <a class="tile js-scroll a a-fi a-stag a-stag-del" href="{{ entry.url }}">
-    <figure class="tile__img-container tr-stag js-tr">
 
+    <!-- image -->
+    <figure class="tile__img-container tr-stag js-tr">
         {% if entry.thumb %}
             <img class="tile__img" src="{{ entry.thumb }}" alt="{{ entry.title }}" />
         {% else %}
@@ -11,6 +12,8 @@
             <div class="tile__type">{{ entry.type }}</div>
         {% endif %}
     </figure>
+
+    <!-- content -->
     <div class="tile__bg tr-stag js-tr">
         <header class="tile__header">
             <h3 class="tile__title tr-stag js-tr">{{ entry.title | downcase }}</h3>
@@ -20,4 +23,5 @@
             <p class="tile__description tr-stag js-tr">{{ entry.description }}</p>
         </div>
     </div>
+
 </a>

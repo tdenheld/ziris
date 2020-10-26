@@ -30,6 +30,7 @@
     object-fit: cover;
     border-radius: 2px 2px 0 0;
     transition: transform 900ms $ease-out;
+    background-color: $grey-8;
 }
 
 .tile__type {
