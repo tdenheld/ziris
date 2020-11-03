@@ -8,11 +8,11 @@ description: Probeer meer te begrijpen van de eigentijdse digitale vormen van
   beeldvervaardiging door foto's te bekijken in een historisch perspectief.
 img: /assets/img/magnolia.jpg
 caption: Anoniem, Tak met vier magnolia's 1910-1925. Röntgenstraling. Rijksmuseum
-amount: 6 lessen van 1,5 uur
-time: donderdag 19:30 - 21:00
+amount: 6 lessen van 2 uur
+time: donderdag 19:30 - 21:30
 start: 4 februari 2021
 location: buurthuis De Boog, Gambiadreef 60 Utrecht
-price: 205.-
+price: 275,-
 inc: lesmateriaal
 ---
 
