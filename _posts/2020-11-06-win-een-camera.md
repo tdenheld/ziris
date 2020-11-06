@@ -15,4 +15,4 @@ start: 15 november tot 1 februari 2021
 location: online
 price: 10,-
 ---
-Ongeveer 100 jaar geleden heerste de spaanse griep. Er zijn .....
+Veel memorabele foto's zijn gemaakt tijdens de pandemie van de Spaanse griep van 100 jaar geleden.
