@@ -18,6 +18,8 @@ price: 10,-
 ---
 ### Maak een iconische foto van de huidige pandemie!
 
-Veel memorabele foto's zijn gemaakt tijdens de pandemie van de Spaanse griep van 100 jaar geleden. Ook nu tijdens de huidige pandemie worden vele foto's gemaakt die ons zullen herinneren aan deze tijd. Maak voor de wedstrijd een iconische foto van de huidige pandemie waarin in ieder geval het mondkapje in beeld wordt gebracht.De fotowedstrijd heeft als doel om je als deelnemer scherp te laten kijken naar je omgeving. Wat valt je op? Alle weggegooide mondkapjes in het straatbeeld? De inventief en modieus vormgegeven mondkapjes? 
+#### Fotografeer het gebruik van mondkapjes
 
-In de jury zullen Hans Roosenboom, conservator fotografie van het Rijksmuseum van Amsterdam en Cecilia Kocsis, fotohistorica, plaatsnemen.  Elke deelnemer ontvangt na afloop een verslag over de ingezonden foto.  Op 1 februari aanstaande zal de winnaar bekend worden gemaakt en zal de Instantcamera worden uitgereikt.
+Veel memorabele foto's zijn gemaakt tijdens de pandemie van de Spaanse griep van 100 jaar geleden. Ook nu tijdens de huidige pandemie worden veel momenten die ons zullen herinneren aan deze tijd in beeld gebracht. Maak voor de wedstrijd een iconische foto van het gebruik van mondkapjes en stuur de foto op naar Ziris. Op 1 februari aanstaande zal de winnaar bekend worden gemaakt en zal de te winnen camera worden uitgereikt.
+
+In de jury zullen Hans Roosenboom, conservator fotografie van het Rijksmuseum van Amsterdam en Cecilia Kocsis, fotohistorica, plaatsnemen.  Deelnemers ontvangen na afloop een verslag over de ingezonden foto.
