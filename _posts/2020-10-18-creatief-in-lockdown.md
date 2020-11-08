@@ -1,7 +1,7 @@
 ---
 title: creatief in lockdown
 date: 2020-10-18T07:15:23.793Z
-visible: true
+visible: false
 category: volwassenen
 type: online
 description: |
