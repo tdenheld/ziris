@@ -8,7 +8,7 @@ description: "Win een Fujifilm Instax Mini instantcamera door de meest
   onvergetelijke foto van de huidige coronaperiode te maken. "
 thumb: /assets/img/masker-thumb-.jpg
 img: /assets/img/maskergroot.jpg
-caption: "Mondkapjes tijdens de Spaanse griep. Londen 1918."
+caption: Mondkapjes tijdens de Spaanse griep. Londen 1918.
 caption-center: true
 amount: eenmalig
 start: 15 november tot 1 februari 2021
@@ -17,7 +17,7 @@ inc: individuele werkbespreking van je ingezonden foto
 ---
 ### Maak een iconische foto van de huidige pandemie!
 
-Veel memorabele foto's zijn gemaakt tijdens de Spaanse griep van 100 jaar geleden. Ook nu, tijdens de huidige pandemie, worden veel bijzondere momenten vastgelegd. 
+Veel memorabele foto's zijn gemaakt tijdens de Spaanse griep van 100 jaar geleden. Ook nu, tijdens de huidige pandemie, worden veel bijzondere momenten vastgelegd.  Doe mee met de fotowedstrijd en win een Fujifilm Instax Mini instantcamera.
 
 #### Inzending
 
