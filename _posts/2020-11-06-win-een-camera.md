@@ -23,4 +23,4 @@ De fotowedstrijd heeft als doel om je als deelnemer scherp te laten kijken naar 
 
 waarin in ieder geval het mondkapje in beeld wordt gebracht.
 
-In de jury zullen Hans Roosenboom, conservator fotografie van het Rijksmuseum van Amsterdam en Cecilia Kocsis, fotohistorica, plaatsnemen.
+In de jury zullen Hans Roosenboom, conservator fotografie van het Rijksmuseum van Amsterdam en Cecilia Kocsis, fotohistorica, plaatsnemen.  Op 1 februari aanstaande zal de winnaar bekend worden gemaakt. Elke deelnemer ontvangt na afloop een verslag over de ingezonden foto.
