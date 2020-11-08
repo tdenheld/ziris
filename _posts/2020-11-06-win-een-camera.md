@@ -19,4 +19,6 @@ Veel memorabele foto's zijn gemaakt tijdens de pandemie van de Spaanse griep van
 
 Ook nu tijdens de huidige pandemie worden vele foto's gemaakt die ons zullen herinneren aan deze tijd.
 
-De fotowedstrijd heeft als doel om je als deelnemer scherp te laten kijken naar je omgeving. En specifiek naar het gebruik van de mondkap. Wat valt je op? Alle weggegooide mondkapjes in het straatbeeld? De inventief en modieus vormgegeven mondkapjes?
+De fotowedstrijd heeft als doel om je als deelnemer scherp te laten kijken naar je omgeving. En specifiek naar het gebruik van de mondkap. Wat valt je op? Alle weggegooide mondkapjes in het straatbeeld? De inventief en modieus vormgegeven mondkapjes? Maak voor de wedstrijd een iconische foto van de huidige pandemie
+
+waarin in ieder geval het mondkapje in beeld wordt gebracht.
