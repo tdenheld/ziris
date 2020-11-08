@@ -15,7 +15,7 @@ time: nvt
 start: 15 november tot 1 februari 2021
 location: nvt
 price: 10,-
-inc: Individuele werkbespreking van je ingezonden foto
+inc: individuele werkbespreking van je ingezonden foto
 ---
 ### Maak een iconische foto van de huidige pandemie!
 
