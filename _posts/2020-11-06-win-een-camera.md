@@ -22,4 +22,4 @@ price: 10,-
 
 Veel memorabele foto's zijn gemaakt tijdens de pandemie van de Spaanse griep van 100 jaar geleden. Ook nu tijdens de huidige pandemie worden veel momenten die ons zullen herinneren aan deze tijd in beeld gebracht. Maak voor de wedstrijd een iconische foto van het gebruik van mondkapjes en stuur de foto op naar Ziris. Dit kan tot de sluitingsdatum 1 februari 2021. Uiterlijk binnen twee weken hierna zal de winnaar bekend worden gemaakt en zal de te winnen camera worden uitgereikt.
 
-In de jury zullen Hans Roosenboom, conservator fotografie van het Rijksmuseum van Amsterdam en Cecilia Kocsis, fotohistorica, plaatsnemen.  Deelnemers ontvangen na afloop een verslag over de ingezonden foto.
+In de jury zullen HB conservator fotografie van het Rijksmuseum van Amsterdam en Cecilia Kocsis, fotohistorica, plaatsnemen.  Deelnemers ontvangen na afloop een verslag over de ingezonden foto.
