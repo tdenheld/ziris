@@ -20,4 +20,6 @@ price: 10,-
 
 #### Fotografeer het gebruik van mondkapjes
 
-Veel memorabele foto's zijn gemaakt tijdens de pandemie van de Spaanse griep van 100 jaar geleden. Ook nu tijdens de huidige pandemie worden veel momenten die ons zullen herinneren aan deze tijd in beeld gebracht. Maak voor de wedstrijd een iconische foto van het gebruik van mondkapjes en stuur de foto op naar Ziris. Op 1 februari aanstaande zal de winnaar bekend worden gemaakt en zal de te winnen camera worden uitgereikt. In de jury zullen Hans Roosenboom, conservator fotografie van het Rijksmuseum van Amsterdam en Cecilia Kocsis, fotohistorica, plaatsnemen.  Deelnemers ontvangen na afloop een verslag over de ingezonden foto.
+Veel memorabele foto's zijn gemaakt tijdens de pandemie van de Spaanse griep van 100 jaar geleden. Ook nu tijdens de huidige pandemie worden veel momenten die ons zullen herinneren aan deze tijd in beeld gebracht. Maak voor de wedstrijd een iconische foto van het gebruik van mondkapjes en stuur de foto op naar Ziris. Op 1 februari aanstaande zal de winnaar bekend worden gemaakt en zal de te winnen camera worden uitgereikt.
+
+In de jury zullen Hans Roosenboom, conservator fotografie van het Rijksmuseum van Amsterdam en Cecilia Kocsis, fotohistorica, plaatsnemen.  Deelnemers ontvangen na afloop een verslag over de ingezonden foto.
