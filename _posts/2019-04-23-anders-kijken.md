@@ -1,7 +1,7 @@
 ---
 title: een cursus visuele analyse
 date: 2019-07-22T13:57:00.000Z
-visible: false
+visible: true
 category: volwassenen
 type: cursus
 description: Je leert in deze cursus aangeleerde kijkpatronen te herkennen en je
