@@ -1,5 +1,5 @@
 ---
-title: een cursus visuele analyse
+title: een cursus analyseren
 date: 2019-07-22T13:57:00.000Z
 visible: true
 category: volwassenen
