@@ -13,7 +13,7 @@ caption: "                                           Mondkapjes tijdens de
 amount: eenmalig
 time: nvt
 start: 15 november tot 1 februari 2021
-location: online
+location: nvt
 price: 10,-
 ---
 ### Maak een iconische foto van de huidige pandemie!
