@@ -17,7 +17,12 @@ inc: individuele werkbespreking van je ingezonden foto
 ---
 ### Maak een iconische foto van de huidige pandemie!
 
-Veel memorabele foto's zijn gemaakt tijdens de Spaanse griep van 100 jaar geleden. Ook nu, tijdens de huidige pandemie, worden veel bijzondere momenten vastgelegd.  Doe mee met de fotowedstrijd en win een Fujifilm Instax Mini instantcamera.
+Veel memorabele foto's zijn gemaakt tijdens de Spaanse griep van 100 jaar geleden. Ook nu, tijdens de huidige pandemie, worden veel bijzondere momenten vastgelegd. Doe mee met de fotowedstrijd en win een Fujifilm Instax Mini instantcamera.
+
+<figure class="w-80 mxw-350">
+    <img src="/assets/img/instax.jpg" alt="Fujifilm Instax Mini" />
+    <figcaption>Fujifilm Instax Mini instantcamera</figcaption>
+</figure>
 
 #### Inzending
 
