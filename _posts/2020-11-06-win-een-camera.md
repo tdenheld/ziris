@@ -18,12 +18,10 @@ price: 10,-
 ---
 ### Maak een iconische foto van de huidige pandemie!
 
-#### Fotografeer het gebruik van mondkapjes
-
 Veel memorabele foto's zijn gemaakt tijdens de Spaanse griep van 100 jaar geleden. Ook nu, tijdens de huidige pandemie, worden veel bijzondere momenten vastgelegd. 
 
 #### Inzending
 
-Maak een foto van het gebruik van mondkapjes en stuur de foto op naar Ziris. Dit kan tot de sluitingsdatum 1 februari 2021. Uiterlijk binnen twee weken hierna zal de winnaar bekend worden gemaakt en zal de te winnen camera worden uitgereikt. Tussentijds kan je contact opnemen als je vragen of problemen hebt over de opdracht.
+Maak een foto van het **gebruik van mondkapjes** en stuur de foto op naar Ziris. Dit kan tot de sluitingsdatum 1 februari 2021. Uiterlijk binnen twee weken hierna zal de winnaar bekend worden gemaakt en zal de te winnen camera worden uitgereikt. Tussentijds kan je contact opnemen als je vragen of problemen hebt over de opdracht.
 
 In de jury zullen HB conservator fotografie van het Rijksmuseum van Amsterdam en Cecilia Kocsis, fotohistorica, plaatsnemen.  Deelnemers ontvangen na afloop een verslag over de ingezonden foto.
