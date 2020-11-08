@@ -19,7 +19,9 @@ layout: default
         <div class="tr-stag js-tr">
             {% include img-loader.html img=page.img alt=page.caption %}
         </div>
-        <figcaption class="tr-stag js-tr">{{ page.caption }}</figcaption>
+        <figcaption class="tr-stag js-tr {% if page.caption-center %}txt-c{% endif %}">
+            {{ page.caption }}
+            </figcaption>
     </figure>
 </section>
 

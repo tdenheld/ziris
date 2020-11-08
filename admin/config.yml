@@ -104,10 +104,11 @@ collections:
       - {label: "Thumbnail", name: "thumb", widget: "image", required: false}
       - {label: "Afbeelding", name: "img", widget: "image"}
       - {label: "Afb. beschrijving", name: "caption", widget: "string"}
+      - {label: "Afb. beschrijving gecentreerd", name: "caption-center", widget: "boolean", required: false}
       - {label: "Aantal lessen", name: "amount", widget: "string"}
-      - {label: "Tijdstip", name: "time", widget: "string"}
-      - {label: "Start cursus", name: "start", widget: "string"}
-      - {label: "Locatie", name: "location", widget: "string"}
+      - {label: "Tijdstip", name: "time", widget: "string", required: false}
+      - {label: "Aanvang", name: "start", widget: "string"}
+      - {label: "Locatie", name: "location", widget: "string", required: false}
       - {label: "Prijs", name: "price", widget: "string"}
       - {label: "Inclusief", name: "inc", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
