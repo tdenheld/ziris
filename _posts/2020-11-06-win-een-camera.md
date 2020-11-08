@@ -6,8 +6,8 @@ category: volwassenen
 type: fotowedstrijd
 description: Win een Fujifilm Instax Mini instantcamera door de meest
   onvergetelijke foto van de huidige coronaperiode te maken.
-thumb: /assets/img/masker-thumb.jpg
-img: /assets/img/masker-thumb-.jpg
+thumb: /assets/img/masker-thumb-.jpg
+img: /assets/img/maskergroot.jpg
 caption: "Mondkapjes tijdens de Spaanse griep. Londen 1918. "
 amount: eenmalig
 time: nvt
