@@ -6,8 +6,8 @@ category: volwassenen
 type: fotowedstrijd
 description: Win een Fujifilm Instax Mini instantcamera door de meest
   onvergetelijke foto van de huidige coronaperiode te maken.
-thumb: /assets/img/spaanse-griep-alamy-stock.jpg
-img: /assets/img/spaanse-griep-alamy-stock.jpg
+thumb: /assets/img/masker-thumb.jpg
+img: /assets/img/maskergroot.jpg
 caption: Spaanse griep 1918. Alamy Stock
 amount: eenmalig
 time: nvt
