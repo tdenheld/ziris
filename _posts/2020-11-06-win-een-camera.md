@@ -15,7 +15,7 @@ start: 15 november tot 1 februari 2021
 location: online
 price: 10,-
 ---
-#### Maak een iconische foto van de huidige pandemie!
+### Maak een iconische foto van de huidige pandemie!
 
 Veel memorabele foto's zijn gemaakt tijdens de pandemie van de Spaanse griep van 100 jaar geleden. Ook nu tijdens de huidige pandemie worden vele foto's gemaakt die ons zullen herinneren aan deze tijd. Maak voor de wedstrijd een iconische foto van de huidige pandemie waarin in ieder geval het mondkapje in beeld wordt gebracht.De fotowedstrijd heeft als doel om je als deelnemer scherp te laten kijken naar je omgeving. Wat valt je op? Alle weggegooide mondkapjes in het straatbeeld? De inventief en modieus vormgegeven mondkapjes? 
 
