@@ -13,7 +13,7 @@ caption-center: true
 amount: eenmalig
 start: 15 november tot 1 februari 2021
 price: 10,-
-inc: individuele werkbespreking van je ingezonden foto
+inc: het juryrapport
 ---
 ### Maak een iconische foto van de huidige pandemie!
 
