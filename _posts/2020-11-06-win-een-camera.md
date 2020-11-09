@@ -11,7 +11,7 @@ img: /assets/img/maskergroot.jpg
 caption: Mondkapjes tijdens de Spaanse griep. Londen 1918.
 caption-center: true
 amount: eenmalig
-start: 15 november tot 1 februari 2021
+start: inzenden mogelijk tot 1 februari 2021
 price: 10,-
 inc: het juryrapport
 ---
