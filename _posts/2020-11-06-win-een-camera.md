@@ -13,7 +13,7 @@ caption-center: true
 amount: eenmalig
 start: 15 november tot 1 februari 2021
 price: 10,-
-inc: individuele werkbespreking van je ingezonden foto
+inc: het juryrapport
 ---
 ### Maak een iconische foto van de huidige pandemie!
 
@@ -26,6 +26,6 @@ Veel memorabele foto's zijn gemaakt tijdens de Spaanse griep van 100 jaar gelede
 
 #### Inzending
 
-Maak een foto van het **gebruik van mondkapjes** en stuur de foto op naar Ziris. Dit kan tot de sluitingsdatum 1 februari 2021. Uiterlijk binnen twee weken hierna zal de winnaar bekend worden gemaakt en zal de te winnen camera worden uitgereikt. Tussentijds kan je contact opnemen als je vragen of problemen hebt over de opdracht.
+Maak een foto van het **gebruik van mondkapjes** of een ander opvallend kenmerk van de coronaperiode, en stuur de foto op naar Ziris. Dit kan tot de sluitingsdatum 1 februari 2021. Uiterlijk binnen twee weken hierna zal de winnaar bekend worden gemaakt en zal de te winnen camera worden uitgereikt. Tussentijds kan je contact opnemen als je vragen of problemen hebt over de opdracht.
 
 De jury bestaat uit HB, conservator fotografie van het Rijksmuseum van Amsterdam, en Cecilia Kocsis, fotohistorica. Deelnemers ontvangen na afloop een verslag over de ingezonden foto.
