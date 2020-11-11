@@ -1,7 +1,7 @@
 ---
 title: win een camera!
 date: 2020-11-06T13:00:39.913Z
-visible: true
+visible: false
 category: volwassenen
 type: fotowedstrijd
 description: "Win een Fujifilm Instax Mini instantcamera door de meest
