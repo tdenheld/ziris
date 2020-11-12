@@ -7,6 +7,7 @@ type: cursus
 description: De vraag of er een vrouwelijke blik bestaat wordt nader bekeken aan
   de hand van verschillende fotografische disciplines.
 img: /assets/img/essaydi.jpg
+thumb: /assets/img/essaydi-thumb.jpg
 caption: "Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003.
   Courtesy of Edwynn Houk Gallery, New York"
 amount: 6 lessen van 2 uur
