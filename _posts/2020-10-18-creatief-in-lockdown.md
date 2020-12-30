@@ -9,7 +9,7 @@ description: |
 img: /assets/img/lockdown-bank-groot.jpg
 caption: ziris kunst & fotografie
 amount: 4 opdrachten
-time: najaar 2020
+time: januari en februari 2021
 start: op eigen verzoek
 location: je bank
 price: 25 euro
