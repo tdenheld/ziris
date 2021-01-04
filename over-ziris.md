@@ -13,7 +13,7 @@ Kunst onderwijzen ter verrijking van het geestelijk welzijn.
 
 ## wat we doen
 
-Ziris biedt cursussen, workshops en lezingen aan op het gebied van kunstgeschiedenis in combinatie met fotografie. **Waarom?** In de cursussen worden kunsttheorie en praktische opdrachten nadrukkelijk met elkaar verbonden.
+Ziris biedt cursussen, workshops en lezingen aan op het gebied van kunstgeschiedenis in combinatie met fotografie. In de cursussen worden kunsttheorie en praktische opdrachten nadrukkelijk met elkaar verbonden.
 
 Het aanbod is divers en ook geschikt voor scholen en bedrijven. In overleg kan Ziris workshops ontwikkelen die passen bij de behoefte van de klant.
 
