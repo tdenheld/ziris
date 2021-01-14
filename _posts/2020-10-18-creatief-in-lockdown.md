@@ -4,8 +4,7 @@ date: 2020-10-18T07:15:23.793Z
 visible: true
 category: volwassenen
 type: online
-description: |
-  Verrassende fotografische opdrachten vanaf de bank.
+description: Elke week, gedurende een maand, een fotografische opdracht die je vanaf je bank in je eigen huiskamer gaat maken.
 img: /assets/img/lockdown-bank-groot.jpg
 caption: ziris kunst & fotografie
 amount: 4 opdrachten

@@ -17,14 +17,14 @@ title: aanbod | ziris
             {% include courses__category.html category='volwassenen' %}
             {% endif %}
 
-            {% assign category = site.posts | where: 'category', 'jongeren' %}
-            {% if category.size > 0 %}
-            {% include courses__category.html category='jongeren' %}
-            {% endif %}
-
             {% assign category = site.posts | where: 'category', 'kinderen' %}
             {% if category.size > 0 %}
             {% include courses__category.html category='kinderen' %}
+            {% endif %}
+
+            {% assign category = site.posts | where: 'category', 'jongeren' %}
+            {% if category.size > 0 %}
+            {% include courses__category.html category='jongeren' %}
             {% endif %}
         </div>
     </div>
