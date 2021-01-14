@@ -6,13 +6,13 @@ category: volwassenen
 type: cursus
 description: De vraag of er een vrouwelijke blik bestaat wordt nader bekeken aan
   de hand van verschillende fotografische disciplines.
-img: /assets/img/essaydi.jpg
 thumb: /assets/img/essaydi-thumb.jpg
+img: /assets/img/essaydi.jpg
 caption: "Lalla Essaydi, Apparel #3 (from Converging Territories series), 2003.
   Courtesy of Edwynn Houk Gallery, New York"
 amount: 6 lessen van 2 uur
 time: maandag om de week 19:30 - 21:30
-start: 8 februari 2021
+start: 17 mei 2021
 location: buurthuis De Boog, Gambiadreef 60 Utrecht
 price: 275.-
 inc: lesmateriaal
