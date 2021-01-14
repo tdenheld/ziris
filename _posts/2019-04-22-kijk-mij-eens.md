@@ -3,13 +3,14 @@ title: kijk mij eens!
 date: 2019-04-22T07:00:24.471Z
 visible: true
 category: kinderen
+type: cursus
 description: In 6 weken worden kinderen in de leeftijd van 11 tot 15 opgeleid
   tot "omgevingsfotograaf".
 img: /assets/img/kinderen.jpg
 caption: C. Kocsis, Jonge fotografen. 2011
 amount: 6 lessen van 1 uur
 time: woensdagmiddag van 16:00 tot 17:00
-start: 3 februari 2021
+start: 12 mei 2021
 location: Buurthuis De Boog, Gambiadreef 60 Utrecht
 price: 175.-
 inc: lesboek met opdrachten
