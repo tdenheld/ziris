@@ -8,8 +8,8 @@ description: "'De kat in de kunst’ is een introductieworkshop in
   kunstgeschiedenis voor kinderen. "
 thumb: /assets/img/promotie-kind-en-co_thumb.jpg
 img: /assets/img/promotie-kind-en-co_groot.jpg
-caption: Bart van der Leck, De kat, 1914    -                            Wanda
-  Wulz, Ik en de kat, 1932
+caption: Bart van der Leck, De kat, 1914    -              Wanda Wulz, Ik en de
+  kat, 1932
 amount: eenmalig
 time: 15.00 tot 16.30
 start: woensdag 14 april 2021
