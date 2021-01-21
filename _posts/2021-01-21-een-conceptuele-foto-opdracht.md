@@ -1,5 +1,5 @@
 ---
-title: een conceptuele foto-opdracht
+title: een conceptuele online foto-opdracht
 date: 2021-01-21T17:10:20.253Z
 visible: false
 category: volwassenen
