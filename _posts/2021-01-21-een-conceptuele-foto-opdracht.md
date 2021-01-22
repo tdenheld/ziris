@@ -8,9 +8,10 @@ description: Een conceptuele online foto-opdracht.
 thumb: /assets/img/logo-ziris.svg
 img: /assets/img/barquin.jpg
 caption: rrrrrrrr
-amount: "1"
-start: "10.20 "
-location: de boog
-price: "1"
+amount: eenmalig
+start: in overeenstemming
+location: online
+price: € 100,-
+inc: lesmateriaal
 ---
 iets maken dat gebruikt kan worden eindproduct bijvoorbeeld in bedrijf ophangen
