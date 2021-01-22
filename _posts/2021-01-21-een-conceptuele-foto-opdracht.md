@@ -1,5 +1,5 @@
 ---
-title: Een inspirerend online bedrijfsuitje
+title: online bedrijfsuitje ....
 date: 2021-01-21T17:10:20.253Z
 visible: false
 category: volwassenen
