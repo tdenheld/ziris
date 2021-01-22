@@ -1,7 +1,7 @@
 ---
 title: Bedrijfsuitje in lockdown
 date: 2021-01-21T17:10:20.253Z
-visible: true
+visible: false
 category: volwassenen
 type: online
 description: Een conceptuele online foto-opdracht.
