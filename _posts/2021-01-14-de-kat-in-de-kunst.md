@@ -6,7 +6,7 @@ category: kinderen
 type: workshop
 description: "'De kat in de kunst’ is een kennismaking met kunstgeschiedenis
   voor kinderen aan de hand van kunstvoorwerpen van katten uit de Nederlandse
-  museale collectie."
+  museale collecties."
 thumb: /assets/img/promotie-kind-en-co_thumb.jpg
 img: /assets/img/promotie-kind-en-co_groot.jpg
 caption: Bart van der Leck, De kat, 1914     -      Wanda Wulz, Ik en de kat, 1932
