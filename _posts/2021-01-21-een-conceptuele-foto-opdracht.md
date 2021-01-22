@@ -1,9 +1,9 @@
 ---
-title: Bedrijfsuitje in lockdown
+title: Een inspirerend online bedrijfsuitje
 date: 2021-01-21T17:10:20.253Z
 visible: false
 category: volwassenen
-type: online
+type: workshop
 description: Een conceptuele online foto-opdracht.
 thumb: /assets/img/logo-ziris.svg
 img: /assets/img/barquin.jpg
