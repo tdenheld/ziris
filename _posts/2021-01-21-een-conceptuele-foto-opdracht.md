@@ -1,10 +1,10 @@
 ---
-title: een conceptuele online foto-opdracht
+title: Bedrijfsuitje in lockdown
 date: 2021-01-21T17:10:20.253Z
 visible: false
 category: volwassenen
 type: online
-description: iets maken dat gebruikt kan worden eindproduct bijvoorbeeld in bedrijf ophangen
+description: Een conceptuele online foto-opdracht.
 thumb: /assets/img/logo-ziris.svg
 img: /assets/img/barquin.jpg
 caption: rrrrrrrr
@@ -13,4 +13,4 @@ start: "10.20 "
 location: de boog
 price: "1"
 ---
-brrrrr
+iets maken dat gebruikt kan worden eindproduct bijvoorbeeld in bedrijf ophangen
