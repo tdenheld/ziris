@@ -1,7 +1,7 @@
 ---
 title: organisatie in beeld
 date: 2021-02-01T15:47:50.850Z
-visible: true
+visible: false
 category: volwassenen
 type: teambuilding
 description: "Om een bedrijf of organisatie in beeld te brengen is een idee, een
