@@ -6,7 +6,7 @@ category: volwassenen
 type: excursie
 description: Ontdek het markante gebouw Zonnestraal in Hilversum en de prachtige
   omliggende natuur door inspirerende fotografische opdrachten te maken tijdens
-  de excursie op 7 februari aanstaande.
+  de excursie op 13 februari aanstaande.
 img: /assets/img/zonnestraal_hilversum_groot.jpg
 caption: "Rijksmonument Sanatorium Zonnestraal Hilversum © Arjandb "
 amount: eenmalig
