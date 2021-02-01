@@ -1,6 +1,6 @@
 ---
 title: organisatie in beeld
-date: 2019-07-23T16:10:00.000Z
+date: 2021-02-01T15:47:50.850Z
 visible: true
 category: volwassenen
 type: teambuilding
@@ -13,7 +13,7 @@ caption: Wolfgang Tillmann Studio Still Life, c 2014
 amount: eenmalig
 start: in overeenstemming
 location: online of op locatie
-price: € 25,- per persoon
+price: in overleg
 inc: lesmateriaal
 ---
 
