@@ -1,7 +1,7 @@
 ---
 title: organisatie in beeld
-date: 2021-01-21T17:10:20.253Z
-visible: false
+date: 2019-07-23T16:10:00.000Z
+visible: true
 category: volwassenen
 type: teambuilding
 description: "Om een bedrijf of organisatie in beeld te brengen is een idee, een
@@ -16,8 +16,14 @@ location: online of op locatie
 price: € 25,- per persoon
 inc: lesmateriaal
 ---
+
+
+
+
+
+
+
+
 iets maken dat gebruikt kan worden eindproduct bijvoorbeeld in bedrijf ophangen
 
-
-
-De fotograaf Wolfgang Tillmans.... conceptueel heeft...
+De fotograaf Wolfgang Tillmans. ... conceptueel heeft...
