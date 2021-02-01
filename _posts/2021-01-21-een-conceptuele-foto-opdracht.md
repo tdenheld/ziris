@@ -1,6 +1,6 @@
 ---
 title: organisatie in beeld
-date: 2021-01-21T17:10:20.253Z
+date: 2019-07-23T16:10:00.000Z
 visible: true
 category: volwassenen
 type: teambuilding
