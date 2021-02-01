@@ -1,10 +1,11 @@
 ---
 title: creatief in lockdown
 date: 2020-10-18T07:15:23.793Z
-visible: true
+visible: false
 category: volwassenen
 type: online
-description: Elke week, gedurende een maand, een fotografische opdracht die je vanaf je bank in je eigen huiskamer gaat maken.
+description: Elke week, gedurende een maand, een fotografische opdracht die je
+  vanaf je bank in je eigen huiskamer gaat maken.
 img: /assets/img/lockdown-bank-groot.jpg
 caption: ziris kunst & fotografie
 amount: 4 opdrachten
