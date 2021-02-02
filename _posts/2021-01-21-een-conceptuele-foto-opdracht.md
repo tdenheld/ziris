@@ -16,9 +16,9 @@ location: online of op locatie
 price: in overleg
 inc: lesmateriaal
 ---
+Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben te verbeelden. Zij krijgen hiervoor twee gerichte fotografische opdrachten.
 
-
-
+verbeelding
 
 
 
