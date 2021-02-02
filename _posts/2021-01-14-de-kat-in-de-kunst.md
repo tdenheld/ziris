@@ -1,5 +1,5 @@
 ---
-title: De kat in de kunst
+title: de kat in de kunst
 date: 2021-01-14T04:57:28.317Z
 visible: true
 category: kinderen
