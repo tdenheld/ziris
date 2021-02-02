@@ -22,6 +22,4 @@ Nadat de opdrachten gemaakt zijn sturen de deelnemers twee geslecteerde foto's o
 
 Vervolgens volgt een gezamelijke werkbespreking waarbij alle ingestuurde foto's getoond worden.
 
-Afhankelijk van de wensen van de organisatie/bedrijf kan een eindproduct bedacht worden.
-
-Te denken valt aan een bundeling van de foto's in de vorm van een boek/album of wellicht kunnen foto's in het bedrijf worden opgehangen.
+Afhankelijk van de wensen van de organisatie/bedrijf kan een eindproduct bedacht worden. Te denken valt aan een bundeling van de foto's in de vorm van een boek/album of wellicht kunnen foto's in het bedrijf worden opgehangen.
