@@ -16,14 +16,12 @@ location: online of op locatie
 price: in overleg
 inc: lesmateriaal
 ---
-Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben te verbeelden. Zij krijgen hiervoor twee gerichte fotografische opdrachten.
+Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben te verbeelden. Zij krijgen hiervoor twee gerichte fotografische opdrachten: een reportage- en een conceptuele opdracht. De opdrachten worden door de docent, online, in een presentatie toegelicht.
 
-verbeelding
+Keuze maken
 
+Eindproduct mogelijkheden
 
+bundeling van de foto's in de vorm van een boek/album
 
-
-
-iets maken dat gebruikt kan worden eindproduct bijvoorbeeld in bedrijf ophangen
-
-De fotograaf Wolfgang Tillmans. ... conceptueel heeft...
+afzonderlijke foto's inlijsten en ophangen
