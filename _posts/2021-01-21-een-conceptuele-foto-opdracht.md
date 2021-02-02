@@ -16,9 +16,9 @@ location: online of op locatie
 price: in overleg
 inc: lesmateriaal
 ---
-Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben te verbeelden. Zij krijgen hiervoor twee gerichte fotografische opdrachten: een reportage- en een conceptuele opdracht. De opdrachten worden door de docent, online, in een presentatie toegelicht.
+Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben weer te geven. Zij krijgen hiervoor twee verschillende fotografische opdrachten. Hieruit wordt vervolgens een keuze gemaakt. De opdrachten worden door de docent, online, in een presentatie toegelicht.
 
-Keuze maken
+
 
 Eindproduct mogelijkheden
 
