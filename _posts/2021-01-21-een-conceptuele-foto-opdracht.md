@@ -18,12 +18,10 @@ inc: werkbespreking
 ---
 Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben weer te geven. Zij krijgen hiervoor twee verschillende fotografische opdrac Hieruit wordt vervolgens een keuze gemaakt. De opdrachten worden door de docent in een online- presentatie toegelicht.
 
-De deelnemers sturen vervolgens twee geslecteerde foto's op naar Ziris ter bespreking. Hierbij wordt gelet op inhoudelijke en formele aspecten van de foto's.
+Nadat de opdrachten gemaakt zijn sturen de deelnemers twee geslecteerde foto's op naar Ziris ter beoordeling. Hierbij wordt gelet op inhoudelijke en formele aspecten van de foto's.
 
+Vervolgens volgt een gezamelijke werkbespreking waarbij alle ingestuurde foto's getoond worden.
 
+Afhankelijk van de wensen van de organisatie/bedrijf kan een eindproduct bedacht worden.
 
-Eindproduct mogelijkheden
-
-bundeling van de foto's in de vorm van een boek/album
-
-afzonderlijke foto's inlijsten en ophangen
+Te denken valt aan een bundeling van de foto's in de vorm van een boek/album of wellicht kunnen foto's in het bedrijf worden opgehangen.
