@@ -5,7 +5,7 @@ title: over ziris | kunst en fotografie
 ---
 ## **visie**
 
-Ieder mens heeft creatieve eigenschappen. Creatieve ontwikkeling geeft je vrijheid, ruimdenkendheid en een sterkere plaats in de wereld. Dit gebeurt al door naar kunst te kijken, en wordt nog sterker door zelf kunstzinnig werk te maken. Ziris stelt zich ten doel kunst te onderwijzen ter verrijking van het geestelijk welzijn.
+Ziris wil inspireren, losmaken, nieuwe inzichten bieden, creativiteit aanwakkeren, talent aanboren door nieuwe perspectieven aan te reiken, vakgebieden met elkaar te verbinden, praktische en technische handvatten te geven om creatieve ontwikkeling te sturen. Want creatieve ontwikkeling geeft je vrijheid, ruimdenkendheid en een sterkere plaats in de wereld. 
 
 ## wat we doen
 
