@@ -5,7 +5,7 @@ title: over ziris | kunst en fotografie
 ---
 ## **visie**
 
-Ziris wil inspireren, losmaken, nieuwe inzichten bieden, creativiteit aanwakkeren, talent aanboren door nieuwe perspectieven aan te reiken, vakgebieden met elkaar te verbinden, praktische en technische handvatten te geven om creatieve ontwikkeling te sturen. Want creatieve ontwikkeling geeft je vrijheid, ruimdenkendheid en een sterkere plaats in de wereld. 
+Ziris wil inspireren, creativiteit aanwakkeren en nieuwe perspectieven aanreiken door vakgebieden met elkaar te verbinden en door praktische en technische handvatten te geven. Creatieve ontwikkeling geeft je vrijheid, ruimdenkendheid en een sterkere plaats in de wereld. 
 
 ## wat we doen
 
