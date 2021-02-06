@@ -17,8 +17,8 @@ location: online of op locatie
 price: € 35,- per persoon
 inc: werkbespreking
 ---
-Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben weer te geven. Zij krijgen hiervoor twee verschillende fotografische opdrachten. De opdrachten worden door de docent in een online- presentatie toegelicht.
+Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben weer te geven. Zij krijgen hiervoor fotografische opdrachten die door de docent vooraf in een online- presentatie worden toegelicht.
 
-Nadat de opdrachten gemaakt zijn sturen de deelnemers twee geslecteerde foto's op naar Ziris ter beoordeling. Hierbij wordt gelet op inhoudelijke en formele aspecten van de foto's. Vervolgens volgt een gezamelijke werkbespreking waarbij alle ingestuurde foto's getoond worden.
+Nadat de opdrachten gemaakt zijn sturen de deelnemers twee geslecteerde foto's op naar Ziris ter beoordeling. Hierbij wordt gelet op inhoudelijke en formele aspecten van de foto's. Daarna volgt een gezamelijke werkbespreking waarbij alle ingestuurde foto's getoond worden.
 
 Afhankelijk van de wensen van de organisatie kan een eindproduct bedacht worden. Te denken valt aan een bundeling van de foto's in de vorm van een boek of een album of wellicht kunnen foto's in het bedrijf worden opgehangen.
