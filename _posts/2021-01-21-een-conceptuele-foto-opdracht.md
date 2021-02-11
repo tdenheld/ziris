@@ -17,7 +17,7 @@ location: online of op locatie
 price: € 35,- per persoon
 inc: werkbespreking
 ---
-Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben weer te geven. De docent zal in een online- presentatie vooraf een toelichting geven met onder andere fotografische voorbeelden uit de kunstgeschiedenis.
+Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben weer te geven. De docent zal in een online- presentatie vooraf een toelichting geven waarin praktische handvatten en technische tips worden gegeven. 
 
 Nadat de opdrachten gemaakt zijn sturen de deelnemers twee geslecteerde foto's op naar Ziris ter beoordeling. Hierbij wordt gelet op inhoudelijke en formele aspecten van de foto's. Daarna volgt een gezamelijke werkbespreking waarbij alle ingestuurde foto's getoond worden.
 
