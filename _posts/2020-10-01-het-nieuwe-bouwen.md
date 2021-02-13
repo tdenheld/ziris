@@ -1,7 +1,7 @@
 ---
 title: Rijksmonument Zonnestraal
 date: 2020-10-01T06:58:55.753Z
-visible: true
+visible: false
 category: volwassenen
 type: excursie
 description: Ontdek het markante gebouw Zonnestraal in Hilversum en de prachtige
