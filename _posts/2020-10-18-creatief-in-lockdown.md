@@ -6,6 +6,7 @@ category: volwassenen
 type: online
 description: Elke week, gedurende een maand, een fotografische opdracht die je
   vanaf je bank in je eigen huiskamer gaat maken.
+thumb: /assets/img/lockdown-bank-thumb.jpg
 img: /assets/img/lockdown-bank-groot.jpg
 caption: ziris kunst & fotografie
 amount: 4 opdrachten
