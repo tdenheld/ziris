@@ -19,7 +19,7 @@ inc: werkbespreking
 ---
 **Opzet van ‘organisatie in beeld'**
 
-* Deelnemers krijgen een online presentatie van de docent met technische tips en praktische handvatten.
+* Deelnemers krijgen online door de docent technische tips en praktische handvatten.
 * Individueel maken de deelnemers de foto-opdracht. Je hebt hier 1 week de tijd voor.
 * De foto’s worden opgestuurd naar Ziris ter beoordeling.
 * De deelnemers krijgen in een gezamenlijke sessie feedback op de gemaakte opdracht.
