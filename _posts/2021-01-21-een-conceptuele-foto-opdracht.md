@@ -17,9 +17,9 @@ location: online of op locatie
 price: € 35,- per persoon
 inc: werkbespreking
 ---
-## **opzet**  
+## **opzet**
 
-1. Deelnemers krijgen online door de docent technische tips en praktische handvatten.
+1. Deelnemers krijgen online van de docent technische tips en praktische handvatten.
 2. Individueel maken de deelnemers de foto-opdracht. Je hebt hier 1 week de tijd voor.
 3. De foto’s worden opgestuurd naar Ziris ter beoordeling.
 4. De deelnemers krijgen in een gezamenlijke sessie feedback op de gemaakte opdracht.
