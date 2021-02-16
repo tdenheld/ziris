@@ -17,8 +17,9 @@ location: online of op locatie
 price: € 35,- per persoon
 inc: werkbespreking
 ---
-Deelnemers worden uitgenodigd om het beeld dat ze van hun organisatie of bedrijf hebben weer te geven. De docent zal vooraf in een online- presentatie een toelichting geven waarin praktische handvatten en technische tips worden gegeven. 
+**Opzet van ‘organisatie in beeld'**
 
-Nadat de opdrachten gemaakt zijn sturen de deelnemers twee geslecteerde foto's op naar Ziris ter beoordeling. Hierbij wordt gelet op inhoudelijke en formele aspecten van de foto's. Daarna volgt een gezamelijke werkbespreking waarbij alle ingestuurde foto's getoond worden.
-
-Afhankelijk van de wensen van de organisatie kan een eindproduct bedacht worden. Te denken valt aan een bundeling van de foto's in de vorm van een boek of een album of wellicht kunnen foto's in het bedrijf worden opgehangen.
+* Deelnemers krijgen een online presentatie van de docent met technische tips en praktische handvatten.
+* Individueel maken de deelnemers de foto-opdracht. Je hebt hier 1 week de tijd voor.
+* De foto’s worden opgestuurd naar Ziris ter beoordeling.
+* De deelnemers krijgen in een gezamenlijke sessie feedback op de gemaakte opdracht.
