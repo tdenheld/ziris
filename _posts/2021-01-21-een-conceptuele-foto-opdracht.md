@@ -19,9 +19,9 @@ inc: werkbespreking
 ---
 ## **opzet  ‘organisatie in beeld'**
 
-* Deelnemers krijgen online door de docent technische tips en praktische handvatten.
-* Individueel maken de deelnemers de foto-opdracht. Je hebt hier 1 week de tijd voor.
-* De foto’s worden opgestuurd naar Ziris ter beoordeling.
-* De deelnemers krijgen in een gezamenlijke sessie feedback op de gemaakte opdracht.
+1. Deelnemers krijgen online door de docent technische tips en praktische handvatten.
+2. Individueel maken de deelnemers de foto-opdracht. Je hebt hier 1 week de tijd voor.
+3. De foto’s worden opgestuurd naar Ziris ter beoordeling.
+4. De deelnemers krijgen in een gezamenlijke sessie feedback op de gemaakte opdracht.
 
 Afhankelijk van de wensen van de organisatie kan een eindproduct bedacht worden. Denk bijvoorbeeld aan een bundeling van de foto's in de vorm van een boek of een album.
