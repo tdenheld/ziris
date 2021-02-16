@@ -17,7 +17,7 @@ location: online of op locatie
 price: € 35,- per persoon
 inc: werkbespreking
 ---
-## **opzet  ‘organisatie in beeld'**
+## **opzet**  
 
 1. Deelnemers krijgen online door de docent technische tips en praktische handvatten.
 2. Individueel maken de deelnemers de foto-opdracht. Je hebt hier 1 week de tijd voor.
