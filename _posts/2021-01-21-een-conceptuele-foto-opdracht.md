@@ -20,8 +20,8 @@ inc: werkbespreking
 ## **opzet**
 
 1. Deelnemers krijgen in een online sessie technische tips en praktische handvatten.
-2. Individueel maken de deelnemers de foto-opdracht. Je hebt hier 1 week de tijd voor.
+2. Individueel maken de deelnemers de foto-opdracht. Hier is 1 week tijd voor.
 3. De foto’s worden opgestuurd naar Ziris ter beoordeling.
-4. De deelnemers krijgen in een gezamenlijke sessie feedback op de gemaakte opdracht.
+4. In een gezamenlijke sessie krijgt iedereen feedback op de gemaakte opdracht.
 
 Afhankelijk van de wensen van de organisatie kan een eindproduct bedacht worden. Denk bijvoorbeeld aan een bundeling van de foto's in de vorm van een boek of een album.
