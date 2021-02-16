@@ -6,7 +6,7 @@ category: volwassenen
 type: bedrijfsactiviteit
 description: Om een bedrijf of organisatie in beeld te brengen is een idee, een
   concept noodzakelijk. Deelnemers worden begeleid in het vervaardigen van
-  conceptuele fotografische opdrachten.
+  fotografische opdrachten.
 thumb: /assets/img/tillmans-studio-still-life-c.2014-thumb.jpg
 img: /assets/img/tillmans-studio-groot.jpg
 caption: "Wolfgang Tillmann Studio Still Life, c 2014  © permission for use
