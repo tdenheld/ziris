@@ -17,7 +17,7 @@ location: online of op locatie
 price: € 35,- per persoon
 inc: werkbespreking
 ---
-![]()
+![](/assets/img/denkset-klein.jpg)
 
 ## **opzet**
 
