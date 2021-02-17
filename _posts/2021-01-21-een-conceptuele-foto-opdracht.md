@@ -17,7 +17,7 @@ location: online of op locatie
 price: € 35,- per persoon
 inc: werkbespreking
 ---
-![]()
+![](/assets/img/besnyo-alkmaar-scheeoswerf-1954.jpg "Eva Besnyö, Scheepswerf Alkmaar 1954. Collectie Maria Austria Instituut¨")
 
 ## **opzet**
 
