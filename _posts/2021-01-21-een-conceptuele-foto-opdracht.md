@@ -3,7 +3,7 @@ title: organisatie in beeld
 date: 2021-02-01T15:47:50.850Z
 visible: true
 category: volwassenen
-type: bedrijfsactiviteit
+type: personeelsactiviteit
 description: Om een bedrijf of organisatie in beeld te brengen is een idee, een
   concept noodzakelijk. Deelnemers worden begeleid in het vervaardigen van een
   fotografische opdracht.
