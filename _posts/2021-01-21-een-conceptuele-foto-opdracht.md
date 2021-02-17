@@ -4,9 +4,8 @@ date: 2021-02-01T15:47:50.850Z
 visible: true
 category: volwassenen
 type: personeelsactiviteit
-description: Om een bedrijf of organisatie in beeld te brengen is een idee, een
-  concept noodzakelijk. Deelnemers worden begeleid in het vervaardigen van een
-  fotografische opdracht.
+description: "Om een bedrijf of organisatie in beeld te brengen is een idee, een
+  concept belangrijk. "
 thumb: /assets/img/margaret-bourke-white-thumbdiversion-tunnels-fort-peck-dam-1936.jpg
 img: /assets/img/margaret-bourke-white-website-groot-fort-peck-dam-1936.jpg
 caption: Margaret Bourke-White, Fort Peck Dam Montana. 1936
@@ -18,7 +17,7 @@ inc: werkbespreking
 ---
 ![]()
 
-Om een bedrijf of organisatie in beeld te brengen is een idee, een concept noodzakelijk. Deelnemers worden begeleid in het vervaardigen van een fotografische opdracht.
+Om een bedrijf of organisatie in beeld te brengen is een idee, een concept belangrijk. Deelnemers worden begeleid in het vervaardigen van een fotografische opdracht.
 
 ## **opzet**
 
