@@ -7,17 +7,18 @@ type: bedrijfsactiviteit
 description: Om een bedrijf of organisatie in beeld te brengen is een idee, een
   concept noodzakelijk. Deelnemers worden begeleid in het vervaardigen van een
   fotografische opdracht.
-thumb: /assets/img/tillmans-studio-still-life-c.2014-thumb.jpg
-img: /assets/img/tillmans-studio-groot.jpg
-caption: "Wolfgang Tillmann Studio Still Life, c 2014  © permission for use
-  still in progress: Galerie Buchholz"
+thumb: /assets/img/margaret-bourke-white-thumbdiversion-tunnels-fort-peck-dam-1936.jpg
+img: /assets/img/margaret-bourke-white-website-groot-fort-peck-dam-1936.jpg
+caption: Margaret Bourke-White, Fort Peck Dam Montana. 1936
 amount: eenmalig
 start: in overeenstemming
 location: online of op locatie
 price: € 35,- per persoon
 inc: werkbespreking
 ---
-![](/assets/img/besnyo-alkmaar-scheeoswerf-1954.jpg "Eva Besnyö, Scheepswerf Alkmaar 1954. Collectie Maria Austria Instituut¨")
+![]()
+
+Om een bedrijf of organisatie in beeld te brengen is een idee, een concept noodzakelijk. Deelnemers worden begeleid in het vervaardigen van een fotografische opdracht.
 
 ## **opzet**
 
