@@ -17,6 +17,8 @@ location: online of op locatie
 price: € 35,- per persoon
 inc: werkbespreking
 ---
+![](/assets/img/denkset.jpg)
+
 ## **opzet**
 
 1. Deelnemers krijgen in een online sessie technische tips en praktische handvatten.
