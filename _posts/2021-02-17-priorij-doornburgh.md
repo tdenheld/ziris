@@ -7,7 +7,7 @@ type: excursie
 description: Maak  inspirerende fotografische opdrachten tijdens de excursie op
   17 april aanstaande naar de buitenplaats en voormalig klooster Doornburgh in
   Maarssen.
-thumb: /assets/img/doornburgh_thumb.jpg
+thumb: /assets/img/doornburgh-non-thumb.jpg
 img: /assets/img/doornburgh_1_halvoorkant.jpg
 caption: © Elsbeth Pilz, Priorij Doornburgh Maarssen
 amount: eenmalig
