@@ -15,8 +15,9 @@ caption: Margaret Bourke-White, Fort Peck Dam Montana. 1936
 amount: eenmalig
 start: in overeenstemming
 location: online of op locatie
-price: € 35,- per persoon
-inc: werkbespreking
+price: € 35,- per persoon tot maximaal 10 deelnemers. Bij meerdere deelnemers
+  een offerte op aanvraag.
+inc: feedback
 ---
 ![](/assets/img/open-je-ogen-6-loops.gif)
 
