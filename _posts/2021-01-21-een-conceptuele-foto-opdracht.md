@@ -15,7 +15,7 @@ location: online of op locatie
 price: € 35,- per persoon
 inc: werkbespreking
 ---
-![]()
+![](/assets/img/open-je-ogen-6-loops.gif)
 
 Om een bedrijf of organisatie in beeld te brengen is een idee, een concept belangrijk. Deelnemers worden begeleid in het vervaardigen van een fotografische opdracht.
 
