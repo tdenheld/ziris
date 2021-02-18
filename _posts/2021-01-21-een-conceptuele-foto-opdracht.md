@@ -7,9 +7,9 @@ type: personeelsactiviteit
 description: >
   Breng samen met collega's je organisatie in beeld door het maken van een
   inspirerende foto-opdracht.
-thumb: /assets/img/margaret-bourke-white-thumbdiversion-tunnels-fort-peck-dam-1936.jpg
-img: /assets/img/margaret-bourke-white-website-groot-fort-peck-dam-1936.jpg
-caption: Margaret Bourke-White, Fort Peck Dam Montana. 1936
+thumb: /assets/img/thomas-demand_thumb.jpg
+img: /assets/img/thomas-demand-_groot.jpg
+caption: © Thomas Durand, Büro. 1995. Permission to license in progress.
 amount: eenmalig
 start: in overeenstemming
 location: online of op locatie
