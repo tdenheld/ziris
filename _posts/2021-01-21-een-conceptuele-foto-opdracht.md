@@ -7,9 +7,9 @@ type: personeelsactiviteit
 description: >
   Breng samen met collega's je organisatie in beeld door het maken van een
   inspirerende foto-opdracht.
-thumb: /assets/img/thomas-demand_thumb.jpg
-img: /assets/img/thomas-demand-_groot.jpg
-caption: © Thomas Durand, Büro. 1995. Permission to license in progress.
+thumb: /assets/img/liek-bouma-pastoe_thumb.jpg
+img: /assets/img/liek-bouma_pastoe-groot.jpg
+caption: © Liek Bouma, Pastoe, 2014
 amount: eenmalig
 start: in overeenstemming
 location: online of op locatie
