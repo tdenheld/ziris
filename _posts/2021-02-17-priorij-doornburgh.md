@@ -6,9 +6,9 @@ category: volwassenen
 type: excursie
 description: "Maak  inspirerende fotografische opdrachten op buitenplaats en
   voormalig klooster Doornburgh in Maarssen. "
-thumb: /assets/img/doornburgh-non-thumb.jpg
+thumb: /assets/img/tilleman-doornburgh_thumb.jpg
 img: /assets/img/doornburgh_1_halvoorkant.jpg
-caption: © Elsbeth Pilz  ©Ronald Tilleman ©Stadsblad 2 mei 2019
+caption: "© Elsbeth Pilz  ©Ronald Tilleman "
 amount: eenmalig
 time: zaterdag 17 april 2021
 start: 13.30 - 16.00
