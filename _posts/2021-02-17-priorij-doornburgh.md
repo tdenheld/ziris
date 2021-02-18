@@ -1,7 +1,7 @@
 ---
 title: buitenplaats Doornburgh
 date: 2021-02-17T15:06:20.920Z
-visible: false
+visible: true
 category: volwassenen
 type: excursie
 description: "Maak  inspirerende fotografische opdrachten op buitenplaats en
