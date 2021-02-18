@@ -1,5 +1,5 @@
 ---
-title: organisatie in beeld
+title: bedrijfsfotografie
 date: 2021-02-01T15:47:50.850Z
 visible: true
 category: volwassenen
