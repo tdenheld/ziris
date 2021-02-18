@@ -4,18 +4,22 @@ date: 2021-02-01T15:47:50.850Z
 visible: true
 category: volwassenen
 type: personeelsactiviteit
-description: "Om een bedrijf of organisatie in beeld te brengen is een idee, een
-  concept belangrijk. "
+description: >-
+  Om een bedrijf of organisatie in beeld te brengen is een idee, een concept
+  belangrijk. 
+
+  Met een leuke en leerzame opdracht 
 thumb: /assets/img/margaret-bourke-white-thumbdiversion-tunnels-fort-peck-dam-1936.jpg
 img: /assets/img/margaret-bourke-white-website-groot-fort-peck-dam-1936.jpg
 caption: Margaret Bourke-White, Fort Peck Dam Montana. 1936
 amount: eenmalig
 start: in overeenstemming
 location: online of op locatie
-price: € 35,- per persoon
-inc: werkbespreking
+price: € 35,- per persoon tot maximaal 10 deelnemers. Bij meerdere deelnemers
+  een offerte op aanvraag.
+inc: feedback
 ---
-![]()
+![](/assets/img/open-je-ogen-6-loops.gif)
 
 Om een bedrijf of organisatie in beeld te brengen is een idee, een concept belangrijk. Deelnemers worden begeleid in het vervaardigen van een fotografische opdracht.
 
