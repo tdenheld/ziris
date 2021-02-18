@@ -1,5 +1,5 @@
 ---
-title: Buitenplaats Doornburgh
+title: buitenplaats Doornburgh
 date: 2021-02-17T15:06:20.920Z
 visible: false
 category: volwassenen
@@ -18,4 +18,6 @@ inc: lesmateriaal
 ---
 ![](/assets/img/doornburgh-beide.jpg)
 
-Gelegen in een mooi park aan de Vecht in het centrum van Maarssen ligt buitenplaats Doornburgh.
+Gelegen in een mooi park aan de Vecht in het centrum van Maarssen ligt buitenplaats Doornburgh. In het door Zocher ontworpen park in Engelse landschapsstijl staan twee markante gebouwen. Het 17e eeuwse hoofdgebouw dat heeft gediend als buitenhuis van Amsterdamse adel en het kloostergebouw in de eenvoudige stijl van de Bossche School. Momenteel is het in gebruik voor kunst en wetenschap. 
+
+Je krijgt tijdens de excursie fotografische opdrachten die betrekking hebben op de gehele buitenplaats. Een kleine wandeling zal voeren naar het centrum van het dorp alwaar een versnapering in een van de plaatselijke etablissementen zal worden genuttigd.
