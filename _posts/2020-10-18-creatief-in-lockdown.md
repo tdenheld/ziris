@@ -4,8 +4,8 @@ date: 2020-10-18T07:15:23.793Z
 visible: true
 category: volwassenen
 type: online
-description: Elke week, gedurende een maand, een fotografische opdracht die je
-  vanaf je bank in je eigen huiskamer gaat maken.
+description: Elke week, gedurende een maand, maak je een fotografische opdracht
+  vanaf je bank in je eigen huiskamer.
 thumb: /assets/img/lockdown-bank-thumb.jpg
 img: /assets/img/lockdown-bank-groot.jpg
 caption: ziris kunst & fotografie
