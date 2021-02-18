@@ -4,8 +4,9 @@ date: 2021-02-01T15:47:50.850Z
 visible: true
 category: volwassenen
 type: personeelsactiviteit
-description: |
-  Breng je organisatie in beeld met een inspirerende foto-opdracht.
+description: >
+  Breng samen met collega's je organisatie in beeld door het maken van een
+  inspirerende foto-opdracht.
 thumb: /assets/img/margaret-bourke-white-thumbdiversion-tunnels-fort-peck-dam-1936.jpg
 img: /assets/img/margaret-bourke-white-website-groot-fort-peck-dam-1936.jpg
 caption: Margaret Bourke-White, Fort Peck Dam Montana. 1936
