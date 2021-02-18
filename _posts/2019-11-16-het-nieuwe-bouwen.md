@@ -1,7 +1,7 @@
 ---
 title: Het Rietveld-Schröderhuis
 date: 2019-04-07T03:38:00.000Z
-visible: false
+visible: true
 category: volwassenen
 type: excursie
 description: "Fotograferen in Rietveldwoningen in Utrecht op twee verschillende
