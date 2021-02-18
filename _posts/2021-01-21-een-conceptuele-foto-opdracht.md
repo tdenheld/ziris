@@ -23,7 +23,7 @@ Om een bedrijf of organisatie in beeld te brengen is een idee, een concept belan
 
 ## **opzet**
 
-1. Een online sessie met tips van een deskundige fotohistoricus
+1. Een online presentatie met tips van een deskundige fotohistoricus
 2. Individueel maken de deelnemers de foto-opdracht. Hier is 1 week tijd voor.
 3. De foto’s worden opgestuurd naar Ziris ter beoordeling.
 4. In een gezamenlijke sessie krijgt iedereen feedback op de gemaakte opdracht.
