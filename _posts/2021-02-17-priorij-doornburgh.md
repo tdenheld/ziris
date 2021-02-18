@@ -8,7 +8,7 @@ description: "Maak  inspirerende fotografische opdrachten op buitenplaats en
   voormalig klooster Doornburgh in Maarssen. "
 thumb: /assets/img/tilleman-doornburgh_thumb.jpg
 img: /assets/img/tilleman-doornburgh-201920190702-0018-small.jpg
-caption: "© Elsbeth Pilz  © Ronald Tilleman "
+caption: "© Ronald Tilleman "
 amount: eenmalig
 time: zaterdag 17 april 2021
 start: 13.30 - 16.00
