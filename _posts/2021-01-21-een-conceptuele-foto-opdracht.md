@@ -7,9 +7,9 @@ type: personeelsactiviteit
 description: >
   Breng samen met collega's je organisatie in beeld door het maken van een
   inspirerende foto-opdracht.
-thumb: /assets/img/liek-bouma-pastoe_thumb.jpg
-img: /assets/img/liek-bouma_pastoe-groot.jpg
-caption: © Liek Bouma, Pastoe, 2014
+thumb: /assets/img/margaret-bourke-white-thumbdiversion-tunnels-fort-peck-dam-1936.jpg
+img: /assets/img/margaret-bourke-white-website-groot-fort-peck-dam-1936.jpg
+caption: © Margaret Bourke-White,  Fort Peck Dam 1936
 amount: eenmalig
 start: in overeenstemming
 location: online of op locatie
