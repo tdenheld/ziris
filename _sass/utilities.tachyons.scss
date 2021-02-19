@@ -806,6 +806,7 @@
 .f-brand-dark {color: $brand-dark;}
 .f-light {color: $light;}
 .f-dark {color: $dark;}
+.f-cta {color: $cta;}
 .f-grey-1 {color: $grey-1;}
 .f-grey-2 {color: $grey-2;}
 .f-grey-3 {color: $grey-3;}
@@ -931,6 +932,7 @@
 // radius
 // --------------------------------------------
 .br-none {border-radius: none;}
+.br-edge {border-radius: 2px;}
 .br-4    {border-radius: 4px;}
 .br-8    {border-radius: 8px;}
 .br-12   {border-radius: 12px;}

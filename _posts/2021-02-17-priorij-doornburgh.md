@@ -10,9 +10,9 @@ thumb: /assets/img/tilleman-doornburgh_thumb.jpg
 img: /assets/img/tilleman-doornburgh-201920190702-0018-small.jpg
 caption: "© Ronald Tilleman "
 amount: eenmalig
-time: zaterdag 17 april 2021
-start: 13.30 - 16.00
-location: Buitenplaats Doornburgh, Diependaalsedijk 17 Maarssen
+time: 13:30 - 16:00
+start: zaterdag 17 april 2021
+location: Diependaalsedijk 17, Maarssen
 price: € 39,50
 inc: lesmateriaal
 ---

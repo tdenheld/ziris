@@ -10,7 +10,7 @@ img: /assets/img/rietveld-groot.jpg
 caption: Blitz en Zn, Zicht op Rietveld-Schröderhuis. 1925. Catalogusnummer
   58133 Het Utrechts Archief
 amount: eenmalig
-time: 13.30 - 16.30
+time: 13:30 - 16:30
 start: zaterdag 19 juni 2021
 location: Erasmuslaan, Prins Hendriklaan, Utrecht
 price: 50.-

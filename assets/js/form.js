@@ -18,9 +18,20 @@ const getData = () => {
 
     ß(obj).map((el) => {
         const data = checkSessionStorage(el.id);
-        if (!data) return;
-        (el.nodeName === 'INPUT') ? el.value = data: el.textContent = data;
+
+        if (data) {
+            el.nodeName === 'INPUT' ? el.value = data: el.textContent = data;
+        } else {
+            el.textContent = 'n.v.t.';
+        }
     });
+}
+
+const clearSessionMeta = () => {
+    const obj = '.js-meta';
+    if (!exists(obj)) return;
+
+    sessionStorage.clear();
 }
 
 
@@ -134,6 +145,7 @@ const form = () => {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    clearSessionMeta();
     setData();
     getData();
     form();
