@@ -1,7 +1,7 @@
 ---
 title: creatief in lockdown
 date: 2016-11-06T08:15:00.000Z
-visible: true
+visible: false
 category: volwassenen
 type: online
 description: Elke week, gedurende een maand, maak je een fotografische opdracht
