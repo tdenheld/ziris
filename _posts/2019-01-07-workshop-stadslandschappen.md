@@ -15,7 +15,6 @@ location: 'buurthuis De Boog, Gambiadreef 60 Utrecht'
 price: 35.-
 inc: lesmateriaal
 ---
-
 In deze workshop leer je door verschillende technische toepassingen, de stad op verschillende manieren te fotograferen. Het doel is om je mogelijkheden te vergroten.
 
 Hoe fotografeer je architectuur als een stedelijk landschap? 

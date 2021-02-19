@@ -15,7 +15,6 @@ location: buurthuis De Boog, Gambiadreef 60 Utrecht
 price: 275,-
 inc: lesmateriaal
 ---
-
 ## In de cursus fotografie en beeldende kunst wordt de wisselwerking tussen beide disciplines behandeld.
 
 Fotografie heeft een grote bijdrage geleverd aan de ontwikkeling van de moderne schilderkunst. Een directe relatie is te leggen met kunststromingen als het impressionisme, futurisme, surrealisme, pop-art, conceptuele kunst en het postmodernisme.

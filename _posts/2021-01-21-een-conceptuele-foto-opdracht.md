@@ -17,8 +17,6 @@ price: € 35,- per persoon tot maximaal 10 deelnemers. Bij meerdere deelnemers
   een offerte op aanvraag.
 inc: feedback
 ---
-![]()
-
 Om een bedrijf of organisatie in beeld te brengen is een idee, een concept belangrijk. Deelnemers worden begeleid in het vervaardigen van een fotografische opdracht.
 
 ## **opzet**

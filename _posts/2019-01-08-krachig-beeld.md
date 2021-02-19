@@ -16,7 +16,6 @@ location: buurthuis De Boog, Gambiadreef 60 Utrecht
 price: 195.-
 inc: lesmateriaal
 ---
-
 Je leert in deze cursus over de betekenis van een foto, hoe je met een foto een boodschap kunt overdragen. In de cursus behandelen we verschillende fotografische disciplines zoals:
 
 * reclamefotografie
