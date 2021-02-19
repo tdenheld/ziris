@@ -14,7 +14,7 @@ amount: 5 lessen van 1,5 uur
 time: maandag om de week 19:30 - 21:00
 start: 10 mei 2021
 location: buurthuis De Boog, Gambiadreef 60 Utrecht
-price: 195.-
+price: € 215,-
 inc: lesmateriaal
 ---
 Wij kijken met westerse ogen naar beeld, ook naar fotografie die niet-westers is. In deze cursus wordt  fotografie van andere continenten nader bestudeerd. Aan de hand van vele voorbeelden worden de verschillen die opvallen besproken. <br>De cursisten krijgen na elke les een fotografische opdracht.
