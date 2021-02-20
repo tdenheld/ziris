@@ -12,7 +12,7 @@ amount: 6 lessen van 2 uur
 time: donderdag 19:30 - 21:30
 start: 6 mei 2021
 location: buurthuis De Boog, Gambiadreef 60 Utrecht
-price: 275,-
+price: 285,-
 inc: lesmateriaal
 ---
 ## In de cursus fotografie en beeldende kunst wordt de wisselwerking tussen beide disciplines behandeld.
