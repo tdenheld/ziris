@@ -7,9 +7,9 @@ type: personeelsactiviteit
 description: >
   Breng samen met collega's je organisatie in beeld door het maken van een
   inspirerende foto-opdracht.
-thumb: /assets/img/frikandellen_thumb.jpg
-img: /assets/img/frikandellen_groot.jpg
-caption: © Sas Schilten, Frikandellenwedstrijd, 9 juni 2019.
+thumb: /assets/img/moeilijke-dingen_thumb.jpg
+img: /assets/img/schilten-moelijke-dingen_groot.jpg
+caption: © Sas Schilten, BALTAN Laboratories Moeilijke dingen 2018.
 amount: eenmalig
 start: in overeenstemming
 location: online of op locatie
