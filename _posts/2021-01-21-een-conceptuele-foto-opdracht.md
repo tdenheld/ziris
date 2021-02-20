@@ -17,13 +17,14 @@ price: € 35,- per persoon tot maximaal 10 deelnemers. Bij meerdere deelnemers
   een offerte op aanvraag.
 inc: feedback
 ---
-Om een bedrijf of organisatie in beeld te brengen is een idee, een concept belangrijk. Deelnemers worden begeleid in het vervaardigen van een fotografische opdracht.
+Om een bedrijf of organisatie in beeld te brengen is een idee, een concept belangrijk. 
 
 ## **opzet**
 
-1. Een online presentatie met tips van een deskundige fotohistoricus
-2. Individueel maken van de foto-opdracht. Hier is 1 week tijd voor.
-3. De foto’s worden opgestuurd naar Ziris ter beoordeling.
-4. In een gezamenlijke sessie krijgt iedereen feedback op de gemaakte opdracht.
+* Allereerst krijgen de deelnemende collega’s een korte inleiding op beeldanalysedoor middel van een presentatie. Zo krijg je bijvoorbeeld te zien dat het probleem van fotograferen vooral ligt aan het omzetten van een ruimtelijk beeld naar een plat vlak. Met behulp van voorbeelden krijg je te zien dat het menselijk oog anders werkt dan het oog van de camera. Als je hiermee kan spelen vergroot je je fotografische mogelijkheden enorm.
+* Vervolgens gaan de deelnemers zelf aan de slag met een door Ziris geleverde fotografische opdracht. De opdracht is conceptueel. Dat wil zeggen: je bedenkt vooraf wat je wilt vastleggen. In tegenstelling tot documentaire- en snapshotfotografie waar je gebruik maakt van het ‘beslissende moment’ creëer je zelf een beeld.
+* De gemaakte opdracht stuur je op naar Ziris ter beoordeling.
+* In een gezamenlijke sessie krijgt iedereen die heeft meegedaan feedback op de inzending.
 
-Afhankelijk van de wensen van de organisatie kan een eindproduct bedacht worden. Denk bijvoorbeeld aan een bundeling van de foto's in de vorm van een boek of een album.
+\
+Afhankelijk van de wensen van de organisatie kan een eindproduct bedacht worden. Denk bijvoorbeeld aan een bundeling van de foto’s in de vorm van een boek of een album., of aan een expositie.
