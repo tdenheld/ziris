@@ -7,8 +7,8 @@ type: personeelsactiviteit
 description: >
   Breng samen met collega's je organisatie in beeld door het maken van een
   inspirerende foto-opdracht.
-thumb: /assets/img/sasa-schilten-frikandellenwedstrijd_thumb.jpg
-img: /assets/img/sas-schilten-frikandellenwedstrijd-2019-groot.jpg
+thumb: /assets/img/frikandellen_thumb.jpg
+img: /assets/img/frikandellen_groot.jpg
 caption: © Sas Schilten, Frikandellenwedstrijd, 9 juni 2019.
 amount: eenmalig
 start: in overeenstemming
