@@ -7,8 +7,8 @@ type: excursie
 description: "Maak inspirerende fotografische opdrachten op buitenplaats en
   voormalig klooster Doornburgh in Maarssen. "
 thumb: /assets/img/tilleman-doornburgh_thumb.jpg
-img: /assets/img/tilleman-doornburgh-201920190702-0018-small.jpg
-caption: "© Ronald Tilleman "
+img: /assets/img/doornburgh-groot.jpg
+caption: © Ronald Tilleman ©  André Russcher
 amount: eenmalig
 time: 13:30 - 16:00
 start: zaterdag 17 april 2021
