@@ -7,9 +7,9 @@ type: personeelsactiviteit
 description: >
   Breng samen met collega's je organisatie in beeld door het maken van een
   inspirerende foto-opdracht.
-thumb: /assets/img/margaret-bourke-white-thumbdiversion-tunnels-fort-peck-dam-1936.jpg
-img: /assets/img/margaret-bourke-white-website-groot-fort-peck-dam-1936.jpg
-caption: © Margaret Bourke-White,  Fort Peck Dam 1936
+thumb: /assets/img/sasa-schilten-frikandellenwedstrijd_thumb.jpg
+img: /assets/img/sas-schilten-frikandellenwedstrijd-2019-groot.jpg
+caption: © Sas Schilten, Frikandellenwedstrijd, 9 juni 2019.
 amount: eenmalig
 start: in overeenstemming
 location: online of op locatie
