@@ -12,10 +12,10 @@ img: /assets/img/schilten-moelijke-dingen_groot.jpg
 caption: © Sas Schilten, Moeilijke dingen 2018.
 amount: eenmalig
 time: in overleg
-start: in overeenstemming
+start: in overleg
 location: online of op locatie
 price: € 35,- per persoon tot maximaal 10 deelnemers. Bij meerdere deelnemers
-  een offerte op aanvraag.
+  graag offerte aanvragen.
 inc: feedback
 ---
 Om een bedrijf of organisatie in beeld te brengen is een idee, een concept belangrijk. 
