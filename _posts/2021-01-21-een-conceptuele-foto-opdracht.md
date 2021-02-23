@@ -9,8 +9,9 @@ description: >
   inspirerende foto-opdracht.
 thumb: /assets/img/moeilijke-dingen_thumb.jpg
 img: /assets/img/schilten-moelijke-dingen_groot.jpg
-caption: © Sas Schilten, BALTAN Laboratories Moeilijke dingen 2018.
+caption: © Sas Schilten, Moeilijke dingen 2018.
 amount: eenmalig
+time: in overleg
 start: in overeenstemming
 location: online of op locatie
 price: € 35,- per persoon tot maximaal 10 deelnemers. Bij meerdere deelnemers
