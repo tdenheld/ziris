@@ -22,7 +22,7 @@ Om een bedrijf of organisatie in beeld te brengen is een idee, een concept belan
 
 ## **opzet**
 
-* Allereerst krijgen de deelnemende collega’s een korte inleiding op beeldanalyse door middel van een presentatie. Zo krijg je bijvoorbeeld te zien dat het probleem van fotograferen vooral ligt aan het omzetten van een ruimtelijk beeld naar een plat vlak. Met behulp van voorbeelden krijg je te zien dat het menselijk oog anders werkt dan het oog van de camera. Als je hiermee kan spelen vergroot je je fotografische mogelijkheden enorm.
+* Allereerst krijgen de deelnemende collega’s een korte inleiding op beeldanalyse door middel van een presentatie. Je krijgt te zien dat een belangrijk kenmerk van fotografie, het omzetten van een ruimtelijk beeld naar een plat vlak, op verschillende manieren aangepakt kan worden. Met behulp van voorbeelden krijg je te zien dat het menselijk oog anders werkt dan het oog van de camera. Als je hiermee kan spelen vergroot je je fotografische mogelijkheden enorm.
 * Vervolgens gaan de deelnemers zelf aan de slag met een door Ziris geleverde fotografische opdracht. De opdracht is conceptueel. Dat wil zeggen: je bedenkt vooraf wat je wilt vastleggen. In tegenstelling tot documentaire- en snapshotfotografie waar je gebruik maakt van het ‘beslissende moment’ creëer je zelf een beeld.
 * De gemaakte opdracht stuur je op naar Ziris ter beoordeling.
 * In een gezamenlijke sessie krijgt iedereen die heeft meegedaan feedback op de inzending.
