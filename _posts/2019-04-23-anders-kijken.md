@@ -10,8 +10,8 @@ description: Je leert in deze cursus aangeleerde kijkpatronen te herkennen en je
 img: /assets/img/pierson-countes-castiglione.jpg
 caption: Louis Pierson, Countess Castiglione. c. 1860 detail
 amount: 5 lessen van 1,5 uur
-time: woensdag om de week 19:30 - 21:00
-start: 12 mei 2021
+time: woensdag 19:30 - 21:00
+start: 19 mei 2021
 location: Buurthuis De Boog,  Gambiadreef 60 Utrecht
 price: € 215,-
 inc: lesmateriaal
