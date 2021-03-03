@@ -60,10 +60,8 @@ const form = () => {
 
         // messages for different usecases
         if (input.validity.valueMissing) {
-            if (input.name === 'firstname') {
-                error.textContent = 'We hebben echt je voornaam nodig.';
-            } else if (input.name === 'lastname') {
-                error.textContent = 'We hebben echt je achternaam nodig.';
+            if (input.name === 'name') {
+                error.textContent = 'We hebben echt je naam nodig.';
             } else if (input.name === 'phone') {
                 error.textContent = 'We hebben echt je telefoonnummer nodig.';
             } else if (input.name === 'email') {
@@ -110,8 +108,13 @@ const form = () => {
 
         // show hide and style label
         // ------------------------------------------
-        input.addEventListener('input', () => {
+        const toggleLabel = () => {
             input.value ? label.classList.add('is-active') : label.classList.remove('is-active');
+        }
+        toggleLabel();
+        
+        input.addEventListener('input', () => {
+            toggleLabel();
         });
 
         input.addEventListener('focusin', () => label.classList.add('is-focussed'));
