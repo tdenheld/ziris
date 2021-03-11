@@ -16,7 +16,7 @@ location: De Boog Gambiadreef 60 Utrecht
 price: € 215,-
 inc: lesmateriaal
 ---
-Welke betekenis heeft een foto en welke boodschap wil het overdragen? Kleine wijzigingen in een beeld kunnen grote effecten in de betekenis ervan. Afbeeldingen uit de kunstgeschiedenis en fotografie, zowel de toegepaste vormen als de autonome vormen, dienen als voorbeeld en zullen tijdens de lessen getoond worden. Aan de hand van visuele analyses word je werk, samen met de andere deelnemers, bekeken en besproken. 
+Welke betekenis heeft een foto en welke boodschap wil het overdragen? Kleine wijzigingen in een beeld kunnen grote effecten hebben in de betekenis ervan. Afbeeldingen uit de kunstgeschiedenis en fotografie, zowel de toegepaste vormen als de autonome vormen, dienen als voorbeeld en zullen tijdens de lessen getoond worden. Aan de hand van visuele analyses word je werk, samen met de andere deelnemers, bekeken en besproken. 
 
 ## De cursus is opgebouwd uit 5 lessen:
 
