@@ -1,11 +1,11 @@
 ---
-title: creatief in lockdown
-date: 2016-11-06T08:15:00.000Z
+title: "De illusie van kleur "
+date: 2020-12-17T08:15:00.000Z
 visible: true
 category: volwassenen
 type: online
 description: "Het voorjaar verbeelden in zwartwit. Elke week gedurende een maand
-  een andere opdracht. "
+  een nieuwe opdracht. "
 thumb: /assets/img/voorjaar_zw-w-thumb.jpg
 img: /assets/img/voorjaar_zw-w-groot.jpg
 caption: ziris kunst & fotografie
