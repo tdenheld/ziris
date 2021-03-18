@@ -1,6 +1,6 @@
 ---
 title: Buitenplaats Doornburgh
-date: 2019-12-17T15:06:00.000Z
+date: 2018-12-17T15:06:00.000Z
 visible: true
 category: volwassenen
 type: excursie
