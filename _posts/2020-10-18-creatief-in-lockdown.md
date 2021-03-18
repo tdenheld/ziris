@@ -4,8 +4,8 @@ date: 2020-12-17T08:15:00.000Z
 visible: true
 category: volwassenen
 type: online
-description: "Het voorjaar verbeelden in zwartwit. Elke week gedurende een maand
-  een nieuwe opdracht. "
+description: De lente in zwartwit. Elke week gedurende een maand een nieuwe
+  opdracht om de illusie van kleur te verbeelden.
 thumb: /assets/img/website-voorjaar-thumb.jpg
 img: /assets/img/website-voorjaar-groot.jpg
 caption: ziris kunst & fotografie
