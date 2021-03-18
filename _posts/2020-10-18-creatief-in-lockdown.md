@@ -16,9 +16,9 @@ location: ""
 price: 25 euro
 inc: werkbespreking
 ---
-* elke week gedurende een maand
-* verschillende fotografische opdrachten
-* in zwart wit 
-* thema: de lente
+Het voorjaar is een kleurrijk seizoen. Probeer kleur weer te geven in zwartwit!
 
-Als je alle opdrachten hebt gemaakt, stuur je je werk op naar Ziris om ze online te bespreken.
+Je krijgt:
+
+* elke week een nieuwe opdracht
+* een online werkbespreking
