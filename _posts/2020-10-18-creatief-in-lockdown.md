@@ -16,8 +16,12 @@ location: ""
 price: 25 euro
 inc: werkbespreking
 ---
-Tijdens deze online activiteit krijg je elke week, gedurende een maand, een fotografische opdracht.
+• elke week gedurende een maand
 
-Het thema is het fotograferen van het voorjaar in zwartwit. De uitdaging is om het kleurrijke van de lente in sfeer uitte beelden in zwartwit fotografie.
+• verschillende fotografische opdrachten
+
+• in zwart wit 
+
+• thema: de lente
 
 Als je alle opdrachten hebt gemaakt, stuur je je werk op naar Ziris om ze online te bespreken.
