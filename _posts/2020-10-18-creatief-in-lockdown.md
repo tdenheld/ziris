@@ -16,7 +16,7 @@ location: ""
 price: 25 euro
 inc: werkbespreking
 ---
-Het voorjaar is een kleurrijk seizoen. Probeer kleur weer te geven in zwartwit!
+## Het voorjaar is een kleurrijk seizoen. Probeer kleur weer te geven in zwartwit!
 
 Je krijgt:
 
