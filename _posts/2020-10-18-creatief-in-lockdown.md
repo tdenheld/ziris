@@ -16,12 +16,9 @@ location: ""
 price: 25 euro
 inc: werkbespreking
 ---
-• elke week gedurende een maand
-
-• verschillende fotografische opdrachten
-
-• in zwart wit 
-
-• thema: de lente
+* elke week gedurende een maand
+* verschillende fotografische opdrachten
+* in zwart wit 
+* thema: de lente
 
 Als je alle opdrachten hebt gemaakt, stuur je je werk op naar Ziris om ze online te bespreken.
