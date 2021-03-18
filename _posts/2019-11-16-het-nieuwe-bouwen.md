@@ -1,6 +1,6 @@
 ---
 title: Het Rietveld Schröderhuis
-date: 2019-04-07T03:38:00.000Z
+date: 2019-08-25T03:38:00.000Z
 visible: true
 category: volwassenen
 type: excursie
