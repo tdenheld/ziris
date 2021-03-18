@@ -6,8 +6,8 @@ category: volwassenen
 type: online
 description: "Het voorjaar verbeelden in zwartwit. Elke week gedurende een maand
   een nieuwe opdracht. "
-thumb: /assets/img/voorjaar_zw-w-thumb.jpg
-img: /assets/img/voorjaar_zw-w-groot.jpg
+thumb: /assets/img/website-voorjaar-thumb.jpg
+img: /assets/img/website-voorjaar-groot.jpg
 caption: ziris kunst & fotografie
 amount: 4 opdrachten
 time: april en mei 2021
