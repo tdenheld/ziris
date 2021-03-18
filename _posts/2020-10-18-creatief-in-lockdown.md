@@ -1,5 +1,5 @@
 ---
-title: "De illusie van kleur "
+title: Voorjaar en de illusie van kleur
 date: 2020-12-17T08:15:00.000Z
 visible: true
 category: volwassenen
