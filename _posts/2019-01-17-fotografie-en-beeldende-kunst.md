@@ -6,7 +6,8 @@ category: volwassenen
 type: cursus
 description: Probeer meer te begrijpen van de eigentijdse digitale vormen van
   beeldvervaardiging door foto's te bekijken in een historisch perspectief.
-img: /assets/img/magnolia.jpg
+thumb: /assets/img/breitner.jpg
+img: /assets/img/breitner.jpg
 caption: Anoniem, Tak met vier magnolia's 1910-1925. Röntgenstraling. Rijksmuseum
 amount: 6 lessen van 2 uur
 time: donderdag 19:30 - 21:30
