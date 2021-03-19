@@ -6,8 +6,8 @@ category: volwassenen
 type: online
 description: De lente in zwartwit. Elke week gedurende een maand een nieuwe
   opdracht om de illusie van kleur te verbeelden.
-thumb: /assets/img/magnolia.jpg
-img: /assets/img/magnolia.jpg
+thumb: /assets/img/bloemballen_site_thumb.jpg
+img: /assets/img/bloemballen_site_groot.jpg
 caption: ziris kunst & fotografie
 amount: 4 opdrachten
 time: april en mei 2021
