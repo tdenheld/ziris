@@ -4,8 +4,7 @@ date: 2019-07-22T13:57:00.000Z
 visible: false
 category: volwassenen
 type: cursus
-description: Herkennen en doorbreken van aangeleerde kijkpatronen. Om op een
-  meer creatieve en bewuste manier te fotograferen.
+description: Om op een meer creatieve en bewuste manier te fotograferen.
 img: /assets/img/pierson-countes-castiglione.jpg
 caption: Louis Pierson, Countess Castiglione. c. 1860 detail
 amount: 5 lessen van 1,5 uur
