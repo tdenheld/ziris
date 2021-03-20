@@ -12,7 +12,7 @@ caption: Louis Pierson, Countess Castiglione. c. 1860 detail
 amount: 5 lessen van 1,5 uur
 time: woensdag van 19.30 tot 21.00
 start: 19 mei 2021. Indien de C-maatregelen nog van kracht zijn wordt de cursus
-  in overleg verplaatst.
+  verplaatst.
 location: De Boog Gambiadreef 60 Utrecht
 price: € 215,-
 inc: lesmateriaal
