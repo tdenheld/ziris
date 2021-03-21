@@ -17,11 +17,9 @@ location: De Boog Gambiadreef 60 Utrecht
 price: € 215,-
 inc: lesmateriaal
 ---
-
-
 ## leer over de interactie tussen inhoud en vorm
 
-Kleine wijzigingen in een beeld kunnen grote effecten hebben op inhoud ervan. In deze cursus leer je hoe een beeld is opgebouwd aan de hand van veel voorbeelden. Ook krijg je elke week een specifieke foto-opdracht die past bij het onderwerp van de les. Je foto's worden vervolgens in de groep besproken. 
+Kleine wijzigingen in een beeld kunnen grote effecten hebben op de inhoud ervan. In deze cursus leer je hoe een beeld is opgebouwd aan de hand van veel voorbeelden. Ook krijg je elke week een specifieke foto-opdracht die past bij het onderwerp van de les. Je foto's worden vervolgens in de groep besproken. 
 
 ### de cursus is opgebouwd uit 5 lessen:
 
