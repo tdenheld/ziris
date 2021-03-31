@@ -11,7 +11,7 @@ img: /assets/img/doornburgh-groot.jpg
 caption: © Ronald Tilleman ©  André Russcher
 amount: eenmalig
 time: 13:30 - 16:00
-start: zaterdag 4 september 2021
+start: zaterdag 21 augustus 2021
 location: Diependaalsedijk 17, Maarssen
 price: € 39,50
 inc: lesmateriaal
