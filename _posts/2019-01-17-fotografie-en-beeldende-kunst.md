@@ -11,7 +11,7 @@ img: /assets/img/breitner.jpg
 caption: Anoniem, Tak met vier magnolia's 1910-1925. Röntgenstraling. Rijksmuseum
 amount: 6 lessen van 2 uur
 time: donderdag 19:30 - 21:30
-start: 6 mei 2021
+start: 30 september 2021
 location: buurthuis De Boog, Gambiadreef 60 Utrecht
 price: 285,-
 inc: lesmateriaal
