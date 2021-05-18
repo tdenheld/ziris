@@ -11,7 +11,8 @@ caption: Blitz en Zn, Zicht op Rietveld-Schröderhuis. 1925. Catalogusnummer
   58133 Het Utrechts Archief
 amount: eenmalig
 time: 13:30 - 16:30
-start: zaterdag 19 juni 2021
+start: Vanwege beperkte toegang ivm corona is de excursie verplaatst naar 6
+  november 2021.
 location: Erasmuslaan, Prins Hendriklaan, Utrecht
 price: 50.-
 inc: rondleiding en opdrachten, exclusief entrée, museumjaarkaart is geldig
