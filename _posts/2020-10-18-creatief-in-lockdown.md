@@ -1,7 +1,7 @@
 ---
 title: de illusie van kleur
 date: 2020-12-17T08:15:00.000Z
-visible: true
+visible: false
 category: volwassenen
 type: online
 description: De lente in zwartwit. Elke week gedurende een maand een nieuwe
