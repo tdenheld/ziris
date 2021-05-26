@@ -5,7 +5,8 @@ visible: true
 category: volwassenen
 type: online
 description: Illustreer het bekende gedicht Herinnering aan Holland van H.
-  Marsman. Van alle deelnemers worden de foto's verzameld en gebundeld.
+  Marsman. Van alle deelnemers worden de foto's verzameld en eventueel
+  gebundeld.
 thumb: /assets/img/marsman-thumb.jpg
 img: /assets/img/marsman-groot.jpg
 caption: H. Marsman, Herinnering aan Holland. 1936 Literatuurmuseum
