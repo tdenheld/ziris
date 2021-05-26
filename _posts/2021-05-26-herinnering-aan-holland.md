@@ -16,7 +16,7 @@ start: op eigen verzoek
 price: € 10,-
 inc: werkbespreking
 ---
-##### Illustreer het bekende gedicht Herinnering aan Holland van H. Marsman. 
+### Illustreer het bekende gedicht Herinnering aan Holland van H. Marsman. 
 
 Bij aanmelding ontvang je het gedicht met een speciefieke fotografische opdracht.
 
