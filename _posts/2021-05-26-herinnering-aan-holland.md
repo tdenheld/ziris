@@ -4,9 +4,12 @@ date: 2021-05-25T09:16:04.959Z
 visible: true
 category: volwassenen
 type: online
-description: "Het gedicht van Marsman, Herinnering aan Holland  is wellicht het
-  meest geciteerde vers van Nederland. De online opdracht is om een
-  fotografische illustratie te maken bij het bekende gedicht. "
+description: >-
+  Het gedicht van Marsman, Herinnering aan Holland  is wellicht het meest
+  geciteerde vers van Nederland. De opdracht is om een fotografische illustratie
+  te maken bij het bekende gedicht. 
+
+  Van alle deelnemers worden de foto's verzameld en gebundeld.
 thumb: /assets/img/marsman-thumb.jpg
 img: /assets/img/marsman-groot.jpg
 caption: H. Marsman, Herinnering aan Holland. 1936 Literatuurmuseum
