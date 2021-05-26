@@ -42,3 +42,5 @@ wordt de stem van het water met zijn eeuwige rampen
 gevreesd en gehoord.*
 
 Bij aanmelding ontvang je het gedicht met een speciefieke fotografische opdracht.
+
+Van alle deelnemers zullen de foto's in een online-sessie besproken worden. Bij voldoende belangstelling is het wellicht mogelijk een album van alle foto's samen te stellen.
