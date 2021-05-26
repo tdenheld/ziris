@@ -16,11 +16,13 @@ start: op eigen verzoek
 price: € 10,-
 inc: werkbespreking
 ---
-### Illustreer het bekende gedicht Herinnering aan Holland van H. Marsman. 
+### Illustreer het bekende gedicht Herinnering aan Holland van H. Marsman.
 
 Bij aanmelding ontvang je het gedicht met een speciefieke fotografische opdracht.
 
 Van alle deelnemers zullen de foto's in een online-sessie besproken worden. Bij voldoende belangstelling is het wellicht mogelijk een album van alle foto's samen te stellen.
+
+
 
 Op Gedichtendag 2000 werd ‘Herinnering aan Holland’ (1936) van Hendrik Marsman uitgeroepen tot het Nederlandstalige gedicht van de eeuw.
 
