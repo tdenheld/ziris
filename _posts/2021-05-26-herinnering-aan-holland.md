@@ -4,9 +4,8 @@ date: 2021-05-25T09:16:04.959Z
 visible: true
 category: volwassenen
 type: online
-description: De opdracht is om een fotografische illustratie te maken bij het
-  bekende gedicht Herinnering aan Holland. Van alle deelnemers worden de foto's
-  verzameld en gebundeld.
+description: Illustreer het bekende gedicht Herinnering aan Holland van H.
+  Marsman. Van alle deelnemers worden de foto's verzameld en gebundeld.
 thumb: /assets/img/marsman-thumb.jpg
 img: /assets/img/marsman-groot.jpg
 caption: H. Marsman, Herinnering aan Holland. 1936 Literatuurmuseum
@@ -38,5 +37,5 @@ de lucht hangt er laag
 en de zon wordt er langzaam
 in grijze veelkleurige dampen gesmoord,
 en in alle gewesten
-wordt de stem van het watermet zijn eeuwige rampen
+wordt de stem van het water met zijn eeuwige rampen
 gevreesd en gehoord.
