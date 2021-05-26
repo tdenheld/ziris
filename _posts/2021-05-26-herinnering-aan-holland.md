@@ -9,7 +9,7 @@ description: Illustreer het bekende gedicht Herinnering aan Holland van H.
   gebundeld.
 thumb: /assets/img/marsman-thumb.jpg
 img: /assets/img/marsman-groot.jpg
-caption: H. Marsman, Herinnering aan Holland. 1936 Literatuurmuseum
+caption: Hendrik Marsman, Herinnering aan Holland. 1936 Literatuurmuseum
 amount: 1 opdracht
 time: juni en juli 2021
 start: op eigen verzoek
