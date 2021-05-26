@@ -11,7 +11,7 @@ thumb: /assets/img/marsman-thumb.jpg
 img: /assets/img/marsman-groot.jpg
 caption: Hendrik Marsman, Herinnering aan Holland. 1936 Literatuurmuseum
 amount: 1 opdracht
-time: juni en juli 2021
+time: juni 2021
 start: op eigen verzoek
 price: € 10,-
 inc: werkbespreking
