@@ -11,7 +11,7 @@ img: /assets/img/pierson-countes-castiglione.jpg
 caption: Louis Pierson, Countess Castiglione. c. 1860 detail
 amount: 5 lessen van 1,5 uur
 time: woensdag van 19.30 tot 21.00
-start: 6 oktober 2021
+start: 6 oktober 2021 (geen les op 20 oktober)
 location: De Boog Gambiadreef 60 Utrecht
 price: € 215,-
 inc: lesmateriaal
