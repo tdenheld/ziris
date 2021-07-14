@@ -101,7 +101,7 @@ const form = () => {
 
     // activate all formfields
     // ------------------------------------------------------------------
-    ß('.js-formfield').reverse().map(el => { // reversed to focus on first invalid field
+    ß(formField).reverse().map(el => { // reversed to focus on first invalid field
         const input = el.querySelector('input');
         const label = el.querySelector('label');
 
@@ -130,6 +130,7 @@ const form = () => {
         error.classList.add('signup__error');
         error.setAttribute('aria-live', 'polite');
 
+        // remove error when typing again
         input.addEventListener('input', () => {
             removeError(error);
         });
